@@ -286,11 +286,13 @@ def clean_extract(text: str) -> str:
 
 
 def fallback_article(title: str, lead: str, body: str, year, event_text: str) -> str:
-    """Anthropic API anahtarı yoksa kullanılan kural-tabanlı profesyonel format."""
+    """Anthropic API anahtarı olmadan (ücretsiz) çalışan kural tabanlı format.
+    Wikipedia'dan çekilen TÜM temizlenmiş metni, hiçbir kesme/özetleme
+    yapmadan olduğu gibi HTML paragraflarına döker."""
     paragraphs = [p for p in body.split("\n\n") if len(p) > 40]
-    intro = f"<p>{html.escape(event_text)}</p>"
-    body_html = "\n".join(f"<p>{html.escape(p)}</p>" for p in paragraphs[:12])
-    return intro + "\n" + body_html
+    intro = f"<p>{html.escape(event_text)}</p>" if event_text else ""
+    body_html = "\n".join(f"<p>{html.escape(p)}</p>" for p in paragraphs)
+    return (intro + "\n" + body_html).strip() if intro else body_html
 
 
 def ai_rewrite_article(title: str, event_text: str, raw_body: str, year) -> str:
