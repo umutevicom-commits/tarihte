@@ -46,7 +46,7 @@ import requests
 # AYARLAR
 # --------------------------------------------------------------------------
 
-SITE_URL = os.environ.get("SITE_URL", "https://KULLANICI_ADIN.github.io/REPO_ADIN")
+SITE_URL = os.environ.get("SITE_URL", "https://umutevicom-commits.github.io/tarihte")
 SITE_NAME = "Tarihte Bugün"
 SITE_DESCRIPTION = "Türkçe Wikipedia kaynaklı, her gün otomatik güncellenen 'Tarihte Bugün' arşivi."
 LANG = "tr"
@@ -57,7 +57,7 @@ MIN_ITEMS_TARGET = 100  # günlük hedef minimum içerik sayısı
 
 WIKI_API = "https://tr.wikipedia.org/w/api.php"
 ONTHISDAY_API = "https://api.wikimedia.org/feed/v1/wikipedia/{lang}/onthisday/all/{mm}/{dd}"
-USER_AGENT = "TarihteBugunRSSBot/1.0 (https://github.com/; contact: set-your-email@example.com)"
+USER_AGENT = "TarihteBugunRSSBot/1.0 (https://github.com/; contact: info@immaculate.tr)"
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
 
