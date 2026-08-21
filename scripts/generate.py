@@ -488,18 +488,21 @@ def build_rss(items: list, published_iso: str) -> str:
     rss_items = []
     for item in items:
         canonical_url = f"{SITE_URL}/articles/{item['slug']}.html"
-        enclosure = ""
-        media_content = ""
-        if item["images"]:
-            enclosure = f'<enclosure url="{xml_escape(item["images"][0])}" type="image/jpeg" />'
-            media_content = "".join(
-                f'<media:content url="{xml_escape(u)}" medium="image" />' for u in item["images"]
-            )
-        media_video = ""
-        if item.get("video_url"):
-            media_video = f'<media:content url="{xml_escape(item["video_url"])}" medium="video" />'
 
-        content_encoded = f"<![CDATA[{item['content_html']}]]>"
+        # Not: <enclosure> ve <media:content> etiketleri bazı RSS
+        # okuyucularda (Feedly, Inoreader, NetNewsWire vb.) çıplak
+        # "upload.wikimedia.org/..." URL'sini görünür bir ek/link olarak
+        # gösteriyor. Bunun yerine görselleri doğrudan içerik HTML'inin
+        # içine <img> olarak gömüyoruz; böylece okuyucuda görsel olarak
+        # görünür, ham bağlantı metni olarak değil.
+        images_html = ""
+        if item["images"]:
+            images_html = "".join(
+                f'<p><img src="{xml_escape(u)}" alt="{xml_escape(item["title"])}" loading="lazy"></p>'
+                for u in item["images"]
+            )
+
+        content_encoded = f"<![CDATA[{images_html}{item['content_html']}]]>"
 
         rss_items.append(f"""  <item>
     <title>{xml_escape(item['seo_title'])}</title>
@@ -508,9 +511,6 @@ def build_rss(items: list, published_iso: str) -> str:
     <pubDate>{item['pub_date_rfc822']}</pubDate>
     <description>{xml_escape(item['meta_description'])}</description>
     <content:encoded>{content_encoded}</content:encoded>
-    {enclosure}
-    {media_content}
-    {media_video}
   </item>""")
 
     return f"""<?xml version="1.0" encoding="UTF-8"?>
