@@ -36,6 +36,7 @@ import os
 import re
 import json
 import html
+import time
 import hashlib
 import datetime as dt
 from urllib.parse import quote
@@ -69,6 +70,42 @@ STRIP_SECTION_HEADERS = [
 
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": USER_AGENT, "Accept": "application/json"})
+
+# Wikipedia/Wikimedia API'leri kısa sürede çok fazla istek atıldığında
+# "429 Too Many Requests" ile yanıt verebiliyor. Bunu tolere etmek için
+# üstel bekleme (exponential backoff) uygulayan ortak bir istek fonksiyonu
+# kullanıyoruz; ayrıca her olay arasına küçük bir gecikme koyuyoruz.
+REQUEST_DELAY_SECONDS = float(os.environ.get("REQUEST_DELAY_SECONDS", "0.4"))
+MAX_RETRIES = 5
+
+
+def get_with_retry(url: str, params: dict = None, timeout: int = 30) -> requests.Response:
+    """SESSION.get() çağrısını 429/5xx durumlarında üstel bekleme ile
+    yeniden dener. Tüm denemeler tükenirse son yanıtı (veya son hatayı)
+    yükseltir."""
+    last_exc = None
+    for attempt in range(MAX_RETRIES):
+        try:
+            resp = SESSION.get(url, params=params, timeout=timeout)
+        except requests.exceptions.RequestException as exc:
+            last_exc = exc
+            wait = min(2 ** attempt, 30)
+            time.sleep(wait)
+            continue
+
+        if resp.status_code == 429 or resp.status_code >= 500:
+            retry_after = resp.headers.get("Retry-After")
+            wait = float(retry_after) if retry_after and retry_after.isdigit() else min(2 ** attempt, 30)
+            print(f"  [uyarı] {resp.status_code} alındı ({url}), {wait:.1f}s bekleniyor "
+                  f"(deneme {attempt + 1}/{MAX_RETRIES})")
+            time.sleep(wait)
+            continue
+
+        return resp
+
+    if last_exc:
+        raise last_exc
+    return resp
 
 
 # --------------------------------------------------------------------------
@@ -109,7 +146,7 @@ def content_hash(*parts: str) -> str:
 def fetch_onthisday(month: int, day: int) -> dict:
     """Wikimedia REST API'den o güne ait tüm kategorileri çeker."""
     url = ONTHISDAY_API.format(lang=LANG, mm=f"{month:02d}", dd=f"{day:02d}")
-    resp = SESSION.get(url, timeout=30)
+    resp = get_with_retry(url, timeout=30)
     resp.raise_for_status()
     return resp.json()
 
@@ -124,7 +161,7 @@ def fetch_full_extract(title: str) -> str:
         "redirects": 1,
         "titles": title,
     }
-    resp = SESSION.get(WIKI_API, params=params, timeout=30)
+    resp = get_with_retry(WIKI_API, params=params, timeout=30)
     resp.raise_for_status()
     pages = resp.json().get("query", {}).get("pages", {})
     for page in pages.values():
@@ -142,7 +179,7 @@ def fetch_page_images(title: str, limit: int = 6) -> list:
         "titles": title,
         "imlimit": 20,
     }
-    resp = SESSION.get(WIKI_API, params=params, timeout=30)
+    resp = get_with_retry(WIKI_API, params=params, timeout=30)
     resp.raise_for_status()
     pages = resp.json().get("query", {}).get("pages", {})
     images = []
@@ -184,7 +221,7 @@ def resolve_file_urls(file_titles: list) -> list:
             "iiprop": "url",
             "format": "json",
         }
-        resp = SESSION.get(WIKI_API, params=params, timeout=30)
+        resp = get_with_retry(WIKI_API, params=params, timeout=30)
         if resp.ok:
             pages = resp.json().get("query", {}).get("pages", {})
             for page in pages.values():
@@ -203,7 +240,7 @@ def fetch_page_video(title: str) -> str:
         "titles": title,
         "imlimit": 30,
     }
-    resp = SESSION.get(WIKI_API, params=params, timeout=30)
+    resp = get_with_retry(WIKI_API, params=params, timeout=30)
     if not resp.ok:
         return ""
     pages = resp.json().get("query", {}).get("pages", {})
@@ -576,14 +613,25 @@ def main():
         if h in history:
             continue  # daha önce yayınlanmış / mükerrer
 
-        raw_extract = fetch_full_extract(title)
-        cleaned = clean_extract(raw_extract)
-        if len(cleaned) < 80 and not event_text:
-            continue
+        try:
+            raw_extract = fetch_full_extract(title)
+            cleaned = clean_extract(raw_extract)
+            if len(cleaned) < 80 and not event_text:
+                continue
 
-        content_html = ai_rewrite_article(title, event_text, cleaned, entry_year)
-        images = fetch_page_images(title)
-        video_url = fetch_page_video(title)
+            content_html = ai_rewrite_article(title, event_text, cleaned, entry_year)
+            images = fetch_page_images(title)
+            video_url = fetch_page_video(title)
+        except requests.exceptions.RequestException as exc:
+            # Wikipedia/Wikimedia API'lerinden kalıcı bir hata (ör. tüm
+            # yeniden denemeler tükendi) alınırsa, tüm build'i düşürmek
+            # yerine sadece bu tek olayı atlıyoruz.
+            print(f"  [atlandı] '{title}' işlenemedi: {exc}")
+            continue
+        finally:
+            # Wikipedia API'lerini yormamak için olaylar arasına küçük
+            # bir gecikme koyuyoruz.
+            time.sleep(REQUEST_DELAY_SECONDS)
 
         cat_label = {
             "events": "Olay", "births": "Doğum", "deaths": "Ölüm", "holidays": "Özel Gün",
