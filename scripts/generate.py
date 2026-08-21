@@ -332,6 +332,65 @@ def ai_rewrite_article(title: str, event_text: str, raw_body: str, year) -> str:
 
 
 # --------------------------------------------------------------------------
+# SEO BAŞLIK ÜRETİMİ
+# --------------------------------------------------------------------------
+
+def _fallback_seo_title(event_text: str, title: str) -> str:
+    """AI kullanılamadığında (ya da olay metni boşsa) olay cümlesinden
+    kural tabanlı, kısa bir SEO başlığı türetir. Wikipedia madde başlığı +
+    tarih/kategori etiketi ('— 21 Ağustos'de Tarihte Bugün (Olay)') yerine,
+    olayın kendi cümlesi kısaltılarak kullanılır."""
+    base = re.sub(r"\s+", " ", (event_text or title).strip())
+    max_len = 70
+    if len(base) <= max_len:
+        return base
+    truncated = base[:max_len].rsplit(" ", 1)[0].rstrip(",;:.- ")
+    return f"{truncated}…"
+
+
+def generate_seo_title(event_text: str, title: str) -> str:
+    """Olayın (event_text) kendi cümlesinden SEO uyumlu, kısa bir başlık
+    üretir. ANTHROPIC_API_KEY tanımlıysa Claude ile daha doğal/tıklanabilir
+    bir haber başlığı üretilir; aksi halde kural tabanlı kısaltmaya
+    (_fallback_seo_title) düşülür. Üretilen başlık hiçbir zaman tarih ya da
+    'Olay/Doğum/Ölüm/Özel Gün' gibi bir kategori etiketi İÇERMEZ."""
+    fallback = _fallback_seo_title(event_text, title)
+    if not ANTHROPIC_API_KEY or not event_text:
+        return fallback
+
+    try:
+        import anthropic
+        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
+        prompt = (
+            "Aşağıdaki 'tarihte bugün' olay cümlesinden, Türkçe, SEO uyumlu, "
+            "haber tarzında KISA bir başlık üret.\n"
+            "Kurallar:\n"
+            "- En fazla 70 karakter olsun, gereksiz uzatma.\n"
+            "- Tarih, yıl, 'Tarihte Bugün', 'Olay', 'Doğum', 'Ölüm', 'Özel Gün' "
+            "gibi ifadeler EKLEME; sadece olayın kendisini anlat.\n"
+            "- Tırnak işareti veya açıklama EKLEME, sadece başlığı yaz.\n"
+            "- Vikipedi cümlesini birebir kopyalama, doğal bir haber başlığı "
+            "diline çevir.\n\n"
+            f"OLAY CÜMLESİ: {event_text}\n"
+            f"İLGİLİ VİKİPEDİ BAŞLIĞI: {title}\n"
+        )
+        resp = client.messages.create(
+            model="claude-sonnet-4-6",
+            max_tokens=100,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        text = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text").strip()
+        text = text.strip('"').strip("“”„").strip()
+        text = re.sub(r"\s+", " ", text)
+        if text and len(text) <= 100:
+            return text
+        return fallback
+    except Exception as exc:  # ağ/anahtar hatalarında sessizce fallback'e düş
+        print(f"[uyarı] SEO başlık üretimi başarısız ({title}): {exc}")
+        return fallback
+
+
+# --------------------------------------------------------------------------
 # HTML / SCHEMA.ORG ÜRETİMİ
 # --------------------------------------------------------------------------
 
@@ -635,11 +694,7 @@ def main():
             # bir gecikme koyuyoruz.
             time.sleep(REQUEST_DELAY_SECONDS)
 
-        cat_label = {
-            "events": "Olay", "births": "Doğum", "deaths": "Ölüm", "holidays": "Özel Gün",
-        }.get(entry.get("_category"), "Olay")
-
-        seo_title = f"{title} — {date_label}'de Tarihte Bugün ({cat_label})"
+        seo_title = generate_seo_title(event_text, title)
         meta_description = (event_text or cleaned[:150]).strip()[:155]
 
         item = {
