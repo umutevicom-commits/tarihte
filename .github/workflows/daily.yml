@@ -27,9 +27,6 @@ jobs:
       - name: RSS ve makaleleri üret
         env:
           SITE_URL: ${{ vars.SITE_URL }}
-          # İsteğe bağlı: Claude ile "profesyonel makale" yeniden yazımı için.
-          # Repo Settings > Secrets and variables > Actions altından ekleyin.
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/generate.py
 
       - name: Değişiklikleri commit'le ve gönder
