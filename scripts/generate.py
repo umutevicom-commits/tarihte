@@ -7,15 +7,18 @@ Wikipedia "Tarihte Bugün" -> Otomatik RSS + Statik Makale Üretici
 Türkçe Wikipedia'nın Wikimedia REST API'sini kullanarak günün tarihine ait
 tüm olayları (events / births / deaths / holidays) çeker, her biri için
 kaynak Wikipedia makalesinin TAM metnini alır, gereksiz bölümleri
-(Kaynakça, Dış bağlantılar, Ayrıca bakınız, vb.) temizler, isteğe bağlı
-olarak Anthropic (Claude) API'si ile profesyonel bir makale formatına
-dönüştürür ve şunları üretir:
+(Kaynakça, Dış bağlantılar, Ayrıca bakınız, vb.) temizler, kural tabanlı
+(harici bir yapay zekâ servisine bağlı olmayan) bir biçimlendirmeyle
+makale haline getirir ve şunları üretir:
 
   docs/rss.xml                -> Ana RSS akışı (SEO uyumlu)
-  docs/sitemap.xml            -> Sitemap
-  docs/index.html             -> Basit günlük dizin sayfası
   docs/articles/<slug>.html   -> Her olay için tam SEO/Schema.org sayfası
   data/history.json           -> Yayınlanan makalelerin kaydı (mükerrer önleme)
+
+Not: Bu script herhangi bir dış AI/LLM API'sine (ör. Anthropic) bağımlı
+DEĞİLDİR; tüm makale ve başlık üretimi doğrudan Wikipedia kaynaklı verilerden
+kural tabanlı olarak türetilir. Ayrıca sitemap.xml ve index.html ÜRETİLMEZ;
+tek çıktı RSS akışı ve tekil makale sayfalarıdır.
 
 Notlar
 ------
@@ -59,8 +62,6 @@ MIN_ITEMS_TARGET = 100  # günlük hedef minimum içerik sayısı
 WIKI_API = "https://tr.wikipedia.org/w/api.php"
 ONTHISDAY_API = "https://api.wikimedia.org/feed/v1/wikipedia/{lang}/onthisday/all/{mm}/{dd}"
 USER_AGENT = "TarihteBugunRSSBot/1.0 (https://github.com/; contact: info@immaculate.tr)"
-
-ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
 
 # Kaldırılacak Wikipedia bölüm başlıkları (kaynakça, dış bağlantılar, vb.)
 STRIP_SECTION_HEADERS = [
@@ -169,8 +170,49 @@ def fetch_full_extract(title: str) -> str:
     return ""
 
 
+# Wikipedia'da ikon/logo/arma/amblem/sembol/harita-pini niteliğindeki
+# dosyaların adlarında sıkça geçen kalıplar. Not: eski sürümdeki
+# "flag of" deseni BOŞLUKLU yazılmıştı ama Wikipedia dosya adları alt
+# çizgi kullanır (ör. "Flag_of_Turkey.svg") — bu yüzden hiç eşleşmiyor ve
+# bayrak/arma ikonları süzülmeden geçiyordu. Aşağıdaki liste hem alt
+# çizgili hem boşluklu yazımları, hem de çok daha geniş bir ikon/sembol
+# kelime kümesini kapsayacak şekilde genişletildi.
+ICON_FILENAME_BLACKLIST = re.compile(
+    r"(commons[-_ ]?logo|wiki(pedia|media|data|source|quote|news|books|voyage)?[-_ ]?logo|"
+    r"\blogo\b|\bicon\b|edit[-_ ]?icon|question|"
+    r"flag[-_ ]?of|coat[-_ ]?of[-_ ]?arms|arms[-_ ]?of|"
+    r"seal[-_ ]?of|emblem|\bcrest\b|\bsymbol\b|"
+    r"portal|disambig|folder|padlock|\block\b|"
+    r"nuvola|crystal[-_ ]?clear|gnome[-_ ]?|ambox|stub[-_ ]?icon|"
+    r"pog[-_ ]?(blue|red|green|yellow)|map[-_ ]?pin|location[-_ ]?(dot|pin|marker)|"
+    r"star[-_ ]?(full|empty|half)|pictogram|"
+    r"text[-_ ]?document|page[-_ ]?white|mergefrom|mergeto|cleanup|"
+    r"protection|unbalanced[-_ ]?scales|"
+    r"blank\.(png|svg)|spacer\.(png|gif)|1x1|transparent\.(png|gif)|"
+    r"p[-_ ]vip|question[-_ ]?book|sound[-_ ]?icon|speaker[-_ ]?icon)",
+    re.IGNORECASE,
+)
+
+# Wikipedia'daki içerik görsellerinin (sayfa içi <img>) neredeyse tamamı
+# gerçek fotoğraflardır ve JPG/PNG formatındadır. SVG ise Wikipedia'da
+# neredeyse istisnasız ikon, logo, arma, amblem, sembol, harita ya da
+# diyagram formatıdır — bu yüzden içerik görseli olarak KABUL EDİLMEZ.
+CONTENT_IMAGE_EXTENSIONS = r"\.(jpg|jpeg|png)$"
+
+# İkon/sembol niteliğindeki küçük görselleri ayıklamak için minimum
+# kabul edilebilir piksel boyutu. Wikipedia'daki gerçek editoryal/kapak
+# fotoğrafları neredeyse her zaman bunun çok üzerindedir; ikonlar ise
+# genellikle 16-64px aralığındadır.
+MIN_IMAGE_DIMENSION = 200
+
+
+def _looks_like_icon(name_or_url: str) -> bool:
+    return bool(ICON_FILENAME_BLACKLIST.search(name_or_url or ""))
+
+
 def fetch_page_images(title: str, limit: int = 6) -> list:
-    """Sayfadaki uygun (ikon/logo olmayan) görselleri döndürür."""
+    """Sayfadaki uygun (ikon/logo/arma olmayan, yeterince büyük, gerçek
+    fotoğraf niteliğindeki) görselleri döndürür."""
     params = {
         "action": "query",
         "prop": "pageimages|images",
@@ -184,16 +226,23 @@ def fetch_page_images(title: str, limit: int = 6) -> list:
     pages = resp.json().get("query", {}).get("pages", {})
     images = []
     for page in pages.values():
-        original = page.get("original", {}).get("source")
-        if original:
-            images.append(original)
+        original = page.get("original", {})
+        original_url = original.get("source")
+        original_w = original.get("width") or 0
+        original_h = original.get("height") or 0
+        if (
+            original_url
+            and re.search(CONTENT_IMAGE_EXTENSIONS, original_url, re.I)
+            and not _looks_like_icon(original_url)
+            and original_w >= MIN_IMAGE_DIMENSION
+            and original_h >= MIN_IMAGE_DIMENSION
+        ):
+            images.append(original_url)
         for img in page.get("images", []):
             fname = img.get("title", "")
-            if re.search(r"\.(jpg|jpeg|png|svg)$", fname, re.I) and not re.search(
-                r"(commons-logo|wiki|icon|edit-icon|flag of|question)", fname, re.I
-            ):
+            if re.search(CONTENT_IMAGE_EXTENSIONS, fname, re.I) and not _looks_like_icon(fname):
                 images.append("FILE:" + fname)
-    # FILE: girdilerini gerçek URL'e çevir
+    # FILE: girdilerini gerçek URL'e çevir (boyut kontrolüyle birlikte)
     resolved = []
     file_titles = [i[5:] for i in images if i.startswith("FILE:")]
     if file_titles:
@@ -202,7 +251,7 @@ def fetch_page_images(title: str, limit: int = 6) -> list:
     # tekilleştir, sınırla
     seen, out = set(), []
     for u in resolved:
-        if u and u not in seen:
+        if u and u not in seen and not _looks_like_icon(u):
             seen.add(u)
             out.append(u)
         if len(out) >= limit:
@@ -210,7 +259,12 @@ def fetch_page_images(title: str, limit: int = 6) -> list:
     return out
 
 
-def resolve_file_urls(file_titles: list) -> list:
+def resolve_file_urls(file_titles: list, apply_size_filter: bool = True) -> list:
+    """Dosya başlıklarını gerçek URL'lere çevirir. apply_size_filter=True
+    ise (varsayılan; görseller için) ikon boyutundaki (MIN_IMAGE_DIMENSION
+    altı) dosyaları eler. Video dosyaları için apply_size_filter=False
+    kullanılmalı — video'ların genişlik/yükseklik meta verisi görsel
+    ikonlarla aynı anlama gelmez ve bazı formatlarda hiç raporlanmayabilir."""
     urls = []
     for chunk_start in range(0, len(file_titles), 50):
         chunk = file_titles[chunk_start:chunk_start + 50]
@@ -218,7 +272,7 @@ def resolve_file_urls(file_titles: list) -> list:
             "action": "query",
             "titles": "|".join(f"Dosya:{t}" if not t.lower().startswith("dosya:") else t for t in chunk),
             "prop": "imageinfo",
-            "iiprop": "url",
+            "iiprop": "url|size",
             "format": "json",
         }
         resp = get_with_retry(WIKI_API, params=params, timeout=30)
@@ -226,8 +280,15 @@ def resolve_file_urls(file_titles: list) -> list:
             pages = resp.json().get("query", {}).get("pages", {})
             for page in pages.values():
                 for ii in page.get("imageinfo", []):
-                    if ii.get("url"):
-                        urls.append(ii["url"])
+                    url = ii.get("url")
+                    if not url:
+                        continue
+                    if apply_size_filter:
+                        width = ii.get("width") or 0
+                        height = ii.get("height") or 0
+                        if width < MIN_IMAGE_DIMENSION or height < MIN_IMAGE_DIMENSION:
+                            continue
+                    urls.append(url)
     return urls
 
 
@@ -250,7 +311,7 @@ def fetch_page_video(title: str) -> str:
             if re.search(r"\.(ogv|webm|mp4)$", img.get("title", ""), re.I):
                 video_titles.append(img["title"])
     if video_titles:
-        urls = resolve_file_urls(video_titles)
+        urls = resolve_file_urls(video_titles, apply_size_filter=False)
         return urls[0] if urls else ""
     return ""
 
@@ -286,108 +347,96 @@ def clean_extract(text: str) -> str:
 
 
 def fallback_article(title: str, lead: str, body: str, year, event_text: str) -> str:
-    """Anthropic API anahtarı olmadan (ücretsiz) çalışan kural tabanlı format.
-    Wikipedia'dan çekilen TÜM temizlenmiş metni, hiçbir kesme/özetleme
-    yapmadan olduğu gibi HTML paragraflarına döker."""
-    paragraphs = [p for p in body.split("\n\n") if len(p) > 40]
-    intro = f"<p>{html.escape(event_text)}</p>" if event_text else ""
+    """Dış bir AI/LLM servisine bağlı olmadan çalışan, kural tabanlı makale
+    biçimlendiricisi. Wikipedia'dan çekilen temizlenmiş metni HTML
+    paragraflarına döker; ardışık tekrar eden veya anlamlı bilgi taşımayan
+    (çok kısa / yalnızca liste kalıntısı gibi görünen) paragrafları eler."""
+    raw_paragraphs = [p.strip() for p in body.split("\n\n") if len(p.strip()) > 40]
+
+    paragraphs = []
+    seen_normalized = set()
+    for p in raw_paragraphs:
+        normalized = re.sub(r"\s+", " ", p).strip().lower()
+        if normalized in seen_normalized:
+            continue  # birebir veya neredeyse birebir tekrar eden paragrafı atla
+        seen_normalized.add(normalized)
+        paragraphs.append(p)
+
+    # Olay cümlesi (event_text) çok kısa/anlamsızsa ("x", "ok" gibi) giriş
+    # paragrafı olarak kullanılmaz; bu, içerik gövdesine anlamsız tek
+    # kelimelik/harfli bir paragraf sızmasını engeller.
+    MIN_INTRO_LEN = 15
+    clean_event = re.sub(r"\s+", " ", (event_text or "")).strip()
+    intro = f"<p>{html.escape(clean_event)}</p>" if len(clean_event) >= MIN_INTRO_LEN else ""
     body_html = "\n".join(f"<p>{html.escape(p)}</p>" for p in paragraphs)
     return (intro + "\n" + body_html).strip() if intro else body_html
 
 
-def ai_rewrite_article(title: str, event_text: str, raw_body: str, year) -> str:
-    """Anthropic API ile profesyonel makale formatına dönüştürür.
-    ANTHROPIC_API_KEY tanımlı değilse kural tabanlı fallback'e döner."""
-    if not ANTHROPIC_API_KEY:
-        return fallback_article(title, event_text, raw_body, year, event_text)
-
-    try:
-        import anthropic
-        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-        prompt = (
-            "Aşağıdaki Wikipedia kaynaklı ham bilgiyi, Türkçe, SEO uyumlu, "
-            "profesyonel bir haber/ansiklopedi makalesi formatına dönüştür.\n"
-            "Kurallar:\n"
-            "- Sadece geçerli, semantik HTML üret (<p>, <h2>, <h3>, <ul> vb.), "
-            "  <html>/<body> etiketi KOYMA.\n"
-            "- Yorum, dış bağlantı, kaynakça, editör notu EKLEME.\n"
-            "- İçeriği özetleme; mevcut bilgiyi genişletilmiş, akıcı, "
-            "  tam cümlelerle anlat.\n"
-            "- Wikipedia metnini birebir kopyalama, kendi cümlelerinle yeniden yaz.\n"
-            "- En az 3 paragraf üret.\n\n"
-            f"BAŞLIK: {title}\n"
-            f"OLAY ÖZETİ (Tarihte Bugün): {event_text} ({year})\n"
-            f"HAM KAYNAK METİN:\n{raw_body[:6000]}\n"
-        )
-        resp = client.messages.create(
-            model="claude-sonnet-4-6",
-            max_tokens=2000,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        text = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text")
-        return text.strip() or fallback_article(title, event_text, raw_body, year, event_text)
-    except Exception as exc:  # ağ/anahtar hatalarında sessizce fallback'e düş
-        print(f"[uyarı] AI yeniden yazım başarısız ({title}): {exc}")
-        return fallback_article(title, event_text, raw_body, year, event_text)
+def build_article_content(title: str, event_text: str, raw_body: str, year) -> str:
+    """Makale gövdesini kural tabanlı olarak üretir (bkz. fallback_article)."""
+    return fallback_article(title, event_text, raw_body, year, event_text)
 
 
 # --------------------------------------------------------------------------
 # SEO BAŞLIK ÜRETİMİ
 # --------------------------------------------------------------------------
 
-def _fallback_seo_title(event_text: str, title: str) -> str:
-    """AI kullanılamadığında (ya da olay metni boşsa) olay cümlesinden
-    kural tabanlı, kısa bir SEO başlığı türetir. Wikipedia madde başlığı +
-    tarih/kategori etiketi ('— 21 Ağustos'de Tarihte Bugün (Olay)') yerine,
-    olayın kendi cümlesi kısaltılarak kullanılır."""
-    base = re.sub(r"\s+", " ", (event_text or title).strip())
-    max_len = 70
-    if len(base) <= max_len:
-        return base
-    truncated = base[:max_len].rsplit(" ", 1)[0].rstrip(",;:.- ")
-    return f"{truncated}…"
+MIN_SEO_TITLE_LEN = 12  # bundan kısa/anlamsız (tek harfli vb.) başlıklar asla kullanılmaz
+MAX_SEO_TITLE_LEN = 90
+
+
+def _clean_title_text(text: str) -> str:
+    text = re.sub(r"\s+", " ", (text or "")).strip()
+    text = text.strip('"').strip("“”„").strip()
+    # başta/sonda kalabilecek noktalama artıklarını temizle
+    text = text.strip(" -–—:;,")
+    return text
 
 
 def generate_seo_title(event_text: str, title: str) -> str:
-    """Olayın (event_text) kendi cümlesinden SEO uyumlu, kısa bir başlık
-    üretir. ANTHROPIC_API_KEY tanımlıysa Claude ile daha doğal/tıklanabilir
-    bir haber başlığı üretilir; aksi halde kural tabanlı kısaltmaya
-    (_fallback_seo_title) düşülür. Üretilen başlık hiçbir zaman tarih ya da
-    'Olay/Doğum/Ölüm/Özel Gün' gibi bir kategori etiketi İÇERMEZ."""
-    fallback = _fallback_seo_title(event_text, title)
-    if not ANTHROPIC_API_KEY or not event_text:
-        return fallback
+    """Olayın (event_text) kendi cümlesinden, hiçbir dış AI servisine bağlı
+    olmadan, kural tabanlı, doğal ve SEO uyumlu bir başlık üretir.
 
-    try:
-        import anthropic
-        client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
-        prompt = (
-            "Aşağıdaki 'tarihte bugün' olay cümlesinden, Türkçe, SEO uyumlu, "
-            "haber tarzında KISA bir başlık üret.\n"
-            "Kurallar:\n"
-            "- En fazla 70 karakter olsun, gereksiz uzatma.\n"
-            "- Tarih, yıl, 'Tarihte Bugün', 'Olay', 'Doğum', 'Ölüm', 'Özel Gün' "
-            "gibi ifadeler EKLEME; sadece olayın kendisini anlat.\n"
-            "- Tırnak işareti veya açıklama EKLEME, sadece başlığı yaz.\n"
-            "- Vikipedi cümlesini birebir kopyalama, doğal bir haber başlığı "
-            "diline çevir.\n\n"
-            f"OLAY CÜMLESİ: {event_text}\n"
-            f"İLGİLİ VİKİPEDİ BAŞLIĞI: {title}\n"
-        )
-        resp = client.messages.create(
-            model="claude-sonnet-4-6",
-            max_tokens=100,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        text = "".join(b.text for b in resp.content if getattr(b, "type", "") == "text").strip()
-        text = text.strip('"').strip("“”„").strip()
-        text = re.sub(r"\s+", " ", text)
-        if text and len(text) <= 100:
-            return text
-        return fallback
-    except Exception as exc:  # ağ/anahtar hatalarında sessizce fallback'e düş
-        print(f"[uyarı] SEO başlık üretimi başarısız ({title}): {exc}")
-        return fallback
+    Güvenceler:
+    - Üretilen başlık ASLA MIN_SEO_TITLE_LEN karakterden kısa olmaz; bu,
+      tek harfli / anlamsız / bozuk başlık üretimini engeller.
+    - Olay cümlesi çok kısaysa Vikipedi madde başlığıyla birleştirilir.
+    - Başlık hiçbir zaman tarih ya da 'Olay/Doğum/Ölüm/Özel Gün' gibi bir
+      kategori etiketi İÇERMEZ; olayın kendisini anlatır.
+    - Aşırı uzun başlıklar kelime sınırında, anlamı bozmadan kısaltılır.
+    """
+    event = _clean_title_text(event_text)
+    wiki_title = _clean_title_text(title)
+
+    candidate = event if len(event) >= MIN_SEO_TITLE_LEN else ""
+
+    if not candidate:
+        # Olay cümlesi çok kısa/boşsa, önce olay + madde başlığını birleştirmeyi dene
+        if event and wiki_title and wiki_title.lower() not in event.lower():
+            candidate = _clean_title_text(f"{event} ({wiki_title})")
+        elif wiki_title:
+            candidate = wiki_title
+        else:
+            candidate = event
+
+    # Son çare: hâlâ minimum uzunluğun altındaysa (çok nadir; hem olay
+    # cümlesi hem madde başlığı aşırı kısa), elimizdeki en bilgilendirici
+    # metni kullan — asla boş ya da tek kelimelik bir başlık üretme.
+    if (
+        len(candidate) < MIN_SEO_TITLE_LEN
+        and wiki_title
+        and wiki_title.lower() not in candidate.lower()
+    ):
+        candidate = _clean_title_text(f"{candidate} — {wiki_title}") if candidate else wiki_title
+
+    if not candidate:
+        return ""  # bu öğe main() içinde geçersiz sayılıp RSS'e yazılmayacak
+
+    if len(candidate) > MAX_SEO_TITLE_LEN:
+        truncated = candidate[:MAX_SEO_TITLE_LEN].rsplit(" ", 1)[0].rstrip(",;:.- ")
+        candidate = f"{truncated}…" if truncated else candidate[:MAX_SEO_TITLE_LEN]
+
+    return candidate
 
 
 # --------------------------------------------------------------------------
@@ -433,7 +482,7 @@ ARTICLE_TEMPLATE = """<!DOCTYPE html>
 <header>
   <nav aria-label="breadcrumb">
     <a href="{site_url}/">{site_name}</a> &rsaquo;
-    <a href="{site_url}/index.html#{date_slug}">{date_label}</a> &rsaquo;
+    <span>{date_label}</span> &rsaquo;
     <span>{title}</span>
   </nav>
 </header>
@@ -478,19 +527,22 @@ def build_schema_newsarticle(title, meta_description, canonical_url, images, pub
     }, ensure_ascii=False, indent=2)
 
 
-def build_schema_breadcrumb(title, canonical_url, date_label, date_url):
+def build_schema_breadcrumb(title, canonical_url):
+    """2 seviyeli breadcrumb: Site > Makale. Artık index.html üretilmediği
+    için var olmayan bir 'gün dizini' sayfasına ("Tarihte Bugün — X" gibi)
+    referans veren bir ara seviye eklenmez; böylece breadcrumb'daki her
+    öğe gerçekten var olan, çözümlenebilir bir URL'ye işaret eder."""
     return json.dumps({
         "@context": "https://schema.org",
         "@type": "BreadcrumbList",
         "itemListElement": [
             {"@type": "ListItem", "position": 1, "name": SITE_NAME, "item": SITE_URL + "/"},
-            {"@type": "ListItem", "position": 2, "name": date_label, "item": date_url},
-            {"@type": "ListItem", "position": 3, "name": title, "item": canonical_url},
+            {"@type": "ListItem", "position": 2, "name": title, "item": canonical_url},
         ],
     }, ensure_ascii=False, indent=2)
 
 
-def build_article_html(item: dict, published_iso: str, date_label: str, date_slug: str) -> str:
+def build_article_html(item: dict, published_iso: str, date_label: str) -> str:
     canonical_url = f"{SITE_URL}/articles/{item['slug']}.html"
     images = item["images"]
     og_image = images[0] if images else f"{SITE_URL}/assets/default-og.jpg"
@@ -519,7 +571,6 @@ def build_article_html(item: dict, published_iso: str, date_label: str, date_slu
         site_name=SITE_NAME,
         published_iso=published_iso,
         site_url=SITE_URL,
-        date_slug=date_slug,
         date_label=date_label,
         title=html.escape(item["title"]),
         wiki_url=item["wiki_url"],
@@ -529,14 +580,12 @@ def build_article_html(item: dict, published_iso: str, date_label: str, date_slu
         schema_newsarticle=build_schema_newsarticle(
             item["title"], item["meta_description"], canonical_url, images, published_iso
         ),
-        schema_breadcrumb=build_schema_breadcrumb(
-            item["title"], canonical_url, date_label, f"{SITE_URL}/index.html#{date_slug}"
-        ),
+        schema_breadcrumb=build_schema_breadcrumb(item["title"], canonical_url),
     )
 
 
 # --------------------------------------------------------------------------
-# RSS + SITEMAP
+# RSS ÜRETİMİ
 # --------------------------------------------------------------------------
 
 def xml_escape(text: str) -> str:
@@ -587,43 +636,6 @@ def build_rss(items: list, published_iso: str) -> str:
 {chr(10).join(rss_items)}
 </channel>
 </rss>
-"""
-
-
-def build_sitemap(items: list, extra_urls: list) -> str:
-    urls = extra_urls + [f"{SITE_URL}/articles/{i['slug']}.html" for i in items]
-    entries = "\n".join(
-        f"  <url><loc>{xml_escape(u)}</loc><changefreq>daily</changefreq></url>" for u in urls
-    )
-    return f"""<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{entries}
-</urlset>
-"""
-
-
-def build_index_html(items: list, date_label: str, date_slug: str) -> str:
-    cards = "\n".join(
-        f'<li><a href="articles/{i["slug"]}.html">{html.escape(i["title"])}</a></li>' for i in items
-    )
-    return f"""<!DOCTYPE html>
-<html lang="tr">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>{SITE_NAME} — {date_label}</title>
-<meta name="description" content="{SITE_DESCRIPTION}">
-<link rel="canonical" href="{SITE_URL}/index.html">
-<link rel="alternate" type="application/rss+xml" title="{SITE_NAME} RSS" href="{SITE_URL}/rss.xml">
-</head>
-<body>
-<h1 id="{date_slug}">{SITE_NAME} — {date_label}</h1>
-<p>{len(items)} olay listelendi.</p>
-<ul>
-{cards}
-</ul>
-</body>
-</html>
 """
 
 
@@ -680,7 +692,7 @@ def main():
             if len(cleaned) < 80 and not event_text:
                 continue
 
-            content_html = ai_rewrite_article(title, event_text, cleaned, entry_year)
+            content_html = build_article_content(title, event_text, cleaned, entry_year)
             images = fetch_page_images(title)
             video_url = fetch_page_video(title)
         except requests.exceptions.RequestException as exc:
@@ -695,7 +707,25 @@ def main():
             time.sleep(REQUEST_DELAY_SECONDS)
 
         seo_title = generate_seo_title(event_text, title)
-        meta_description = (event_text or cleaned[:150]).strip()[:155]
+
+        # Kalite kapısı: anlamsız/tek harfli/bozuk başlık ya da boş/aşırı
+        # kısa içerik üreten hiçbir öğe RSS'e ya da makale sayfalarına
+        # yazılmaz. Bu, hatalı veya konu dışı çıktıların yayınlanmasını
+        # engelleyen son kontroldür.
+        content_text_len = len(re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", content_html or "")).strip())
+        if not seo_title or len(seo_title) < MIN_SEO_TITLE_LEN:
+            print(f"  [atlandı] '{title}' için geçerli bir başlık üretilemedi.")
+            continue
+        if content_text_len < 60:
+            print(f"  [atlandı] '{title}' için yeterli/anlamlı içerik üretilemedi.")
+            continue
+
+        # Olay cümlesi (event_text) anlamlı bir açıklama oluşturacak kadar
+        # uzun değilse ("x" gibi), temizlenmiş kaynak metinden türetilen
+        # bir açıklamaya düşülür; böylece RSS <description> alanı asla
+        # anlamsız/aşırı kısa bir metin içermez.
+        meta_source = event_text if len(event_text.strip()) >= 20 else cleaned
+        meta_description = re.sub(r"\s+", " ", meta_source).strip()[:155]
 
         item = {
             "slug": slugify(f"{title}-{date_slug}-{entry.get('_category')}"),
@@ -711,7 +741,7 @@ def main():
         }
         items.append(item)
 
-        html_out = build_article_html(item, published_iso, date_label, date_slug)
+        html_out = build_article_html(item, published_iso, date_label)
         with open(os.path.join(ARTICLES_DIR, f"{item['slug']}.html"), "w", encoding="utf-8") as f:
             f.write(html_out)
 
@@ -722,14 +752,6 @@ def main():
     rss_xml = build_rss(items, published_iso)
     with open(os.path.join(OUTPUT_DIR, "rss.xml"), "w", encoding="utf-8") as f:
         f.write(rss_xml)
-
-    index_html = build_index_html(items, date_label, date_slug)
-    with open(os.path.join(OUTPUT_DIR, "index.html"), "w", encoding="utf-8") as f:
-        f.write(index_html)
-
-    sitemap_xml = build_sitemap(items, [f"{SITE_URL}/", f"{SITE_URL}/rss.xml"])
-    with open(os.path.join(OUTPUT_DIR, "sitemap.xml"), "w", encoding="utf-8") as f:
-        f.write(sitemap_xml)
 
     save_history(history)
     print("Tamamlandı.")
