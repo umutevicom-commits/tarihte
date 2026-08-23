@@ -6,15 +6,18 @@ Wikipedia "Tarihte Bugün" -> Otomatik RSS + Statik Makale Üretici
 
 Türkçe Wikipedia'nın Wikimedia REST API'sini kullanarak günün tarihine ait
 tüm olayları (events / births / deaths / holidays) çeker; bunlardan YALNIZCA
-teknoloji, icat ve bilimsel/teknik buluş konulu olanları seçer (bkz.
+"Mucitler, İcatlar, Keşifler" konu havuzuna giren olayları seçer (bkz.
 TECHNOLOGY_TOPIC_RE ve is_technology_topic() — dinî, siyasi, askerî,
-kültürel vb. HER TÜRLÜ diğer konu otomatik olarak elenir), seçilen her
-olay için kaynak Wikipedia makalesinin TAM metnini alır, gereksiz
-bölümleri (Kaynakça, Dış bağlantılar, Ayrıca bakınız, vb.) temizler,
-kural tabanlı (harici bir yapay zekâ servisine bağlı olmayan) bir
-biçimlendirmeyle makale haline getirir ve şunları üretir:
+kültürel, spor, sanat, ekonomi/piyasa, genel gündelik teknoloji kullanımı
+vb. HER TÜRLÜ diğer konu otomatik olarak elenir; bir olay yalnızca somut
+bir İCAT, KEŞİF/BULUŞ ya da tanınmış bir MUCİT/bilim insanının doğum-ölüm
+kaydıysa kabul edilir), seçilen her olay için kaynak Wikipedia makalesinin
+TAM metnini alır (hiçbir özetleme yapılmaz), gereksiz bölümleri (Kaynakça,
+Dış bağlantılar, Ayrıca bakınız, vb.) temizler, kural tabanlı (harici bir
+yapay zekâ servisine bağlı olmayan) bir biçimlendirmeyle makale haline
+getirir ve şunları üretir:
 
-  docs/rss.xml                -> Ana RSS akışı (SEO uyumlu, SADECE teknoloji/icat/buluş)
+  docs/rss.xml                -> Ana RSS akışı (SEO uyumlu, SADECE Mucitler/İcatlar/Keşifler)
   docs/articles/<slug>.html   -> Her olay için tam SEO/Schema.org sayfası
   data/history.json           -> Yayınlanan makalelerin kaydı (mükerrer önleme)
 
@@ -55,7 +58,10 @@ import requests
 
 SITE_URL = os.environ.get("SITE_URL", "https://umutevicom-commits.github.io/tarihte")
 SITE_NAME = "Tarihte Bugün"
-SITE_DESCRIPTION = "Türkçe Wikipedia kaynaklı, her gün otomatik güncellenen 'Tarihte Bugün' arşivi."
+SITE_DESCRIPTION = (
+    "Türkçe Wikipedia kaynaklı, her gün otomatik güncellenen; SADECE Mucitler, "
+    "İcatlar ve Keşifler konulu 'Tarihte Bugün' arşivi."
+)
 LANG = "tr"
 OUTPUT_DIR = "docs"
 ARTICLES_DIR = os.path.join(OUTPUT_DIR, "articles")
@@ -346,32 +352,75 @@ def fetch_page_video(title: str) -> str:
 
 
 # --------------------------------------------------------------------------
-# İÇERİK KAPSAMI: YALNIZCA TEKNOLOJİ / İCAT / BULUŞ
+# İÇERİK KAPSAMI: YALNIZCA "MUCİTLER, İCATLAR, KEŞİFLER"
 # --------------------------------------------------------------------------
-# Bu site artık YALNIZCA teknoloji, icat ve bilimsel/teknik buluş konulu
-# "tarihte bugün" olaylarını yayınlar. Dinî, siyasi, askerî, kültürel,
-# sanatsal vb. HER TÜRLÜ diğer konu — kategorisi ne olursa olsun (events,
-# births, deaths) — otomatik olarak elenir. "holidays" kategorisi (dinî/
-# millî/kültürel özel günler) hiçbir istisna olmadan tamamen dışlanır.
+# Bu site YALNIZCA aşağıdaki üç temaya giren "tarihte bugün" olaylarını
+# yayınlar:
+#
+#   1) MUCİTLER   -> bir icadın/keşfin sahibi olan kişiler (doğum/ölüm
+#                    kayıtları dahil — bkz. KNOWN_TECH_FIGURES_RE)
+#   2) İCATLAR    -> somut bir alet/makine/sistemin ilk kez üretilmesi,
+#                    tasarlanması, patentlenmesi
+#   3) KEŞİFLER   -> bilimsel bir gerçeğin, yerin, türün, ilkenin,
+#                    gök cisminin vb. ilk kez ortaya çıkarılması
+#
+# Dinî, siyasi, askerî, kültürel, sanatsal, sportif, ekonomik/piyasa
+# (ör. "Bitcoin çöktü") ve GÜNLÜK/GENEL teknoloji KULLANIMI haberleri
+# (ör. "İnternet erişimi kesildi", "sosyal medya yasaklandı") — kategorisi
+# ne olursa olsun (events, births, deaths) — otomatik olarak elenir.
+# "holidays" kategorisi (dinî/millî/kültürel özel günler) hiçbir istisna
+# olmadan tamamen dışlanır.
 #
 # Kural tabanlı bir anahtar kelime filtresi kullanılır (dış bir AI/LLM
-# servisi olmadığından %100 anlam çözümlemesi garanti edilemez, ancak
-# aşağıdaki liste teknoloji/icat/buluş alanının büyük çoğunluğunu kapsayacak
-# şekilde geniş tutulmuştur). Bir olay şüpheli/belirsizse (anahtar kelime
-# eşleşmiyorsa) YAYINLANMAZ — yani filtre "emin değilsen atla" mantığıyla,
-# yani daha "sıkı" (permissive değil, restrictive) çalışır.
+# servisi olmadığından %100 anlam çözümlemesi garanti edilemez). Filtre
+# kasıtlı olarak İKİ katmana ayrılmıştır:
+#
+#   * TECHNOLOGY_TOPIC_RE  -> yalnızca KENDİNE ÖZGÜ, başka bağlamda
+#     (kaza/piyasa/siyaset/gündelik kullanım haberi vb.) neredeyse hiç
+#     geçmeyen, doğrudan bir İCAT/KEŞİF olayına işaret eden terimler.
+#     Bu terimler tek başına (bağlam aranmadan) KOŞULSUZ kabul edilir.
+#
+#   * AMBIGUOUS_TECH_TERMS_RE -> "internet", "bilgisayar", "telefon",
+#     "yapay zeka", "bitcoin" gibi GÜNÜMÜZDE son derece yaygın, İCAT/
+#     KEŞİF dışı bağlamlarda da (kesinti, yasak, piyasa haberi, gündelik
+#     kullanım vb.) sürekli geçen genel terimler. Bunlar TEK BAŞINA hiçbir
+#     zaman yeterli sayılmaz; yalnızca aynı metinde AYRICA açık bir icat/
+#     keşif/buluş SİNYALİ (bkz. INVENTION_SIGNAL_RE) de varsa kabul edilir
+#     (ör. "Telefonu icat eden Alexander Graham Bell..." kabul edilir, ama
+#     yalnızca "Akıllı telefon satışları arttı" reddedilir).
+#
+# Bir olay şüpheli/belirsizse (hiçbir katmanda eşleşme yoksa) YAYINLANMAZ
+# — yani filtre "emin değilsen atla" mantığıyla, permissive değil,
+# RESTRICTIVE çalışır. Bu, kelime havuzuna "Mucitler, İcatlar, Keşifler"
+# dışında hiçbir konunun (ör. genel "teknoloji şirketi haberi",
+# "teknoloji fuarı", "yönetmelik", "yatırım turu" gibi icat/keşif İÇERMEYEN
+# teknoloji haberleri) sızmamasını garanti eder.
 
 TECHNOLOGY_TOPIC_RE = re.compile(
     # --- Ana kökler: İCAT / BULUŞ / KEŞİF / PATENT / MUCİT --------------
     # Türkçe'de bu kökler ünsüz yumuşamasına uğrar (icat->icadı,
     # keşif->keşfi, mucit->mucidi). KÖK TABANLI eşleştirme (\w*) her
     # çekim ekini (buluşları, buluşundan, keşiflerin, icatlarıyla,
-    # mucitlerin vb.) otomatik kapsar.
+    # mucitlerin vb.) otomatik kapsar. Bu kökler bu sitenin TEK gerçek
+    # kapsamıdır: MUCİTLER, İCATLAR, KEŞİFLER.
     r"\bica[dt]\w*|\bbuluş\w*|\bkeşif\w*|\bkeşf\w*|\bpatent\w*|\bmucit\w*|\bmucid\w*|"
-    r"\byenilik\w*çi\w*|\binovasyon\w*|"
-    r"\bteknoloji\w*|\bmühendislik\w*|\bmühendis\b|\bbilim insan\w*|"
-    r"\bbilim (adamı|kadını|insanı)\b|\bfizikçi\b|\bkimyager\b|\bastronom\w*|\bbiyolog\b|"
+    # NOT: "ilk kez" / "ilk defa" ifadeleri BİLİNÇLİ OLARAK burada bare
+    # (tek başına) YOKTUR — Türkçe'de bu ifadeler spor ("ilk kez şampiyon
+    # oldu"), siyaset ("ilk kez başkan seçildi"), tarih vb. HER TÜRLÜ
+    # "ilk oluş" haberinde geçer ve icat/keşifle hiçbir ilgisi olmayabilir.
+    # Bu yüzden yalnızca aşağıdaki gibi açık bir icat/geliştirme FİİLİYLE
+    # BİRLİKTE geçtiğinde (ör. "ilk kez üretildi/geliştirildi/keşfedildi")
+    # kabul edilir (bkz. bu bloğun altındaki "ilk kez (üretil|geliştiril|
+    # ...)" kalıbı).
+    r"\byenilikçi\w*|\binovasyon\w*|\bprototip\w*|"
     # --- Yazı, bilgi ve matbaa -------------------------------------------
+    # NOT: aşağıdaki terimler, Türkçe Wikipedia "tarihte bugün" verisinde
+    # neredeyse İSTİSNASIZ tarihî bir İCAT/KEŞİF olayına işaret eden,
+    # kendine özgü (başka bağlamda pratikte hiç geçmeyen) sözcüklerdir; bu
+    # yüzden BAĞLAM ARANMADAN koşulsuz kabul edilir (tıpkı orijinal
+    # tasarımda olduğu gibi). Yalnızca GÜNÜMÜZ GÜNDELİK KULLANIMINDA da sık
+    # geçen (ör. "internet", "telefon", "bitcoin") terimler bilinçli olarak
+    # BURADA DEĞİL, aşağıdaki AMBIGUOUS_TECH_TERMS_RE'de tutulur.
     r"\balfabe\w*|hiyeroglif|çivi yazısı|\bpapirüs\b|\bparşömen\b|"
     r"\bmatbaa\w*|gutenberg|\bdaktilo\b|"
     # --- Tarım ve gıda teknolojisi ----------------------------------------
@@ -397,23 +446,13 @@ TECHNOLOGY_TOPIC_RE = re.compile(
     r"sıfırın keşfi|\bcebir\b|\bkalkülüs\b|trigonometri|"
     # --- Ulaşım ve havacılık ----------------------------------------------------
     r"\buçak\b|ilk uçuş|havacılık|\botomobil\b|buhar makinesi|dizel motor|"
+    r"wright kardeşler|"
     r"lokomotif|montaj hattı|seri üretim|sanayi devrimi|"
     r"\bdrone\b|\bdron\b|insansız hava aracı|otonom araç|sürücüsüz araç|\bhyperloop\b|uçan araba|"
     # --- Elektrik ve enerji -------------------------------------------------------
     r"jeneratör|transistör|mikroçip|\bişlemci\b|entegre devre|yarı iletken|"
     r"süperiletken|nanoteknoloji|biyoteknoloji|\bkuantum\b|\bgrafen\b|kompozit malzeme|"
     r"güneş paneli|fotovoltaik|rüzgar türbini|yakıt hücresi|nükleer füzyon|"
-    # --- Bilgisayar, internet, yazılım --------------------------------------------
-    r"\bbilgisayar\b|\byazılım\b|\bdonanım\b|\binternet\b|world wide web|\bweb sitesi\b|"
-    r"yapay zeka|\brobot\b|robotik|algoritma|programlama dili|işletim sistemi|"
-    r"arama motoru|sosyal medya|e-posta|elektronik posta|wi[- ]?fi\b|bluetooth|\bgps\b|"
-    r"nesnelerin interneti|\biot\b|giyilebilir teknoloji|akıllı ev|dijital ikiz|biyometrik teknoloji|"
-    r"beyin bilgisayar arayüzü|\bmetaverse\b|kuantum internet|"
-    r"sanal gerçeklik|artırılmış gerçeklik|karma gerçeklik|genişletilmiş gerçeklik|"
-    r"büyük dil modeli\w*|"
-    r"3[- ]?boyutlu yazıcı|3d yazıcı|"
-    r"şifreleme|kriptografi|\bblockchain\b|blok zinciri|\bbitcoin\b|\bethereum\b|kripto para|"
-    r"\bnft\b|akıllı sözleşme|"
     # --- İletişim ve görüntü -----------------------------------------------------
     r"mors alfabesi|"
     r"fotoğraf makinesi|\bsinema\b|gramofon|\bplak\b|"
@@ -428,6 +467,11 @@ TECHNOLOGY_TOPIC_RE = re.compile(
     # --- Genel icat/geliştirme fiilleri ve bağlamsal eşleşmeler ----------------------
     r"\bprototip\b|geliştirdi|geliştirilen|geliştirilmiş|tasarladı|icat etti|"
     r"ilk kez (üretil|geliştiril|kullanıl|çalıştırıl|test edil|keşfedil)|"
+    # --- Bilim insanı/mühendis KİMLİĞİ — YALNIZCA icat/keşif bağlamıyla birlikte ------
+    # (bare "mühendis"/"bilim insanı" kelimeleri tek başına ALAKASIZ bir
+    # kaza/atama/röportaj haberinde de geçebileceğinden koşulsuz kabul
+    # EDİLMEZ; yalnızca aynı cümlede AYRICA bir icat/keşif fiili varsa
+    # kabul edilir.)
     r"\bmühendis\b.{0,60}(icat|geliştir|tasarla|buluş|patent|keşf)|"
     r"(icat|geliştir|tasarla|buluş|patent|keşf).{0,60}\bmühendis\b|"
     r"bilim insan.{0,40}(icat|keşif|keşf|buluş|geliştir|patent)|"
@@ -441,13 +485,16 @@ TECHNOLOGY_TOPIC_RE = re.compile(
 # Wikimedia "On This Day" verisindeki doğum/ölüm (births/deaths) kayıtları
 # çoğu zaman yalnızca "Isaac Newton doğdu." gibi ÇOK KISA, anahtar kelime
 # içermeyen bir cümledir — TECHNOLOGY_TOPIC_RE'deki hiçbir kelime bu tür
-# bir cümlede geçmez, dolayısıyla tarihin en önemli mucit/bilim insanlarının
+# bir cümlede geçmez, dolayısıyla tarihin en önemli MUCİT/bilim insanlarının
 # doğum/ölüm günleri kaçırılabilir. Bunu gidermek için, madde başlığı
 # (Wikipedia sayfa adı — genelde kişinin tam adıdır) tanınmış mucit/bilim
 # insanı isimleriyle karşılaştırılır. Yalnızca TAM AD (ör. "James Watt",
 # "Alexander Graham Bell") eşleştirilir; "Watt" veya "Bell" gibi tek
 # başına çok genel/çok anlamlı kısa soyadları KASITLI OLARAK kullanılmaz
 # (aksi halde alakasız kişi/yer adlarıyla yanlış eşleşme riski doğar).
+# Bu liste yalnızca gerçekten bir İCAT ya da bir KEŞFİN sahibi olan
+# kişilerden oluşur (ör. genel bir "girişimci"/"CEO" değil, İCAT/KEŞİF
+# yapmış bir MUCİT ya da bilim insanı).
 KNOWN_TECH_FIGURES = [
     # Antik / İslam dünyası bilim insanları ve mucitler
     "Arşimet", "Öklid", "Pisagor", "Eratosthenes", "Heron", "Hipokrat", "Galen",
@@ -483,49 +530,77 @@ KNOWN_TECH_FIGURES_RE = re.compile(
 # BELİRSİZ (TEK BAŞINA YETERSİZ) TERİMLER — BAĞLAM ZORUNLU (3. KATMAN)
 # --------------------------------------------------------------------------
 # "motor", "elektrik", "pil", "telefon", "radyo", "televizyon", "telgraf",
-# "disk", "cd", "dvd", "usb" gibi kelimeler İCAT/BULUŞ bağlamında da,
-# TAMAMEN ALAKASIZ bağlamlarda da (ör. "motor kazası", "elektrik kesintisi",
-# "radyo istasyonu kapatıldı", "yeni bir disk çıkardı") geçebilir. Bu yüzden
-# TECHNOLOGY_TOPIC_RE'nin KOŞULSUZ eşleşen ana listesinden çıkarılmıştır.
-# Bu terimler yalnızca, aynı metinde AYRICA açık bir icat/buluş/keşif
-# SİNYALİ de varsa kabul edilir (bkz. is_technology_topic). Böylece
-# "İlk telefon görüşmesi Alexander Graham Bell tarafından gerçekleştirildi,
-# telefonu icat etti" gibi gerçek icat haberleri kaçırılmaz, ama "motor
-# kazasında X kişi öldü" gibi konu dışı haberler artık sızmaz.
+# "disk", "cd", "dvd", "usb", "internet", "bilgisayar", "yazılım", "yapay
+# zeka", "robot", "sosyal medya", "bitcoin" vb. kelimeler İCAT/KEŞİF
+# bağlamında da, TAMAMEN ALAKASIZ bağlamlarda da (ör. "motor kazası",
+# "elektrik kesintisi", "radyo istasyonu kapatıldı", "internet erişimi
+# kesildi", "bitcoin değer kaybetti", "sosyal medya hesabı hacklendi")
+# geçebilir. Bu yüzden TECHNOLOGY_TOPIC_RE'nin KOŞULSUZ eşleşen ana
+# listesinden BİLİNÇLİ OLARAK çıkarılmıştır. Bu terimler yalnızca, aynı
+# metinde AYRICA açık bir icat/buluş/keşif SİNYALİ de varsa kabul edilir
+# (bkz. is_technology_topic). Böylece "İlk telefon görüşmesi Alexander
+# Graham Bell tarafından gerçekleştirildi, telefonu icat etti" gibi
+# gerçek icat haberleri kaçırılmaz, ama "motor kazasında X kişi öldü" ya
+# da "Bitcoin son bir haftada %10 değer kazandı" gibi Mucitler/İcatlar/
+# Keşifler kapsamı DIŞINDAKİ haberler artık sızmaz.
 AMBIGUOUS_TECH_TERMS_RE = re.compile(
     r"\bmotor\b|\belektrik\b|\bpil\b|\btelefon\b|cep telefonu|akıllı telefon|"
-    r"\bradyo\b|\btelevizyon\b|\btelgraf\b|\bdisk\b|\bcd\b|\bdvd\b|\busb\b",
+    r"\bradyo\b|\btelevizyon\b|\btelgraf\b|\bdisk\b|\bcd\b|\bdvd\b|\busb\b|"
+    r"\binternet\b|world wide web|\bweb sitesi\b|\bbilgisayar\b|\byazılım\b|\bdonanım\b|"
+    r"yapay zeka|\brobot\b|robotik|algoritma|programlama dili|işletim sistemi|"
+    r"arama motoru|sosyal medya|e-posta|elektronik posta|wi[- ]?fi\b|bluetooth|\bgps\b|"
+    r"nesnelerin interneti|\biot\b|giyilebilir teknoloji|akıllı ev|dijital ikiz|"
+    r"biyometrik teknoloji|beyin bilgisayar arayüzü|\bmetaverse\b|kuantum internet|"
+    r"sanal gerçeklik|artırılmış gerçeklik|karma gerçeklik|genişletilmiş gerçeklik|"
+    r"büyük dil modeli\w*|3[- ]?boyutlu yazıcı|3d yazıcı|"
+    r"şifreleme|kriptografi|\bblockchain\b|blok zinciri|\bbitcoin\b|\bethereum\b|kripto para|"
+    r"\bnft\b|akıllı sözleşme|\bteknoloji\w*|\bmühendislik\w*|\bmühendis\b|"
+    r"\bbilim insan\w*|\bbilim (adamı|kadını|insanı)\b|\bfizikçi\b|\bkimyager\b|"
+    r"\bastronom\w*|\bbiyolog\b|\buydu\b|\broket\b|\bdenizaltı\w*|\bsonar\b|\bradar\b|"
+    r"\buçak\b|havacılık|\botomobil\b|jeneratör|transistör|mikroçip|\bişlemci\b|"
+    r"entegre devre|yarı iletken|süperiletken|nanoteknoloji|biyoteknoloji|\bkuantum\b|"
+    r"\bgrafen\b|kompozit malzeme|güneş paneli|fotovoltaik|rüzgar türbini|"
+    r"yakıt hücresi|nükleer füzyon|\bmikroskop\w*|x[- ]ışın|\blazer\b|"
+    r"nükleer (reaktör|enerji|santral)|higgs bozonu|periyodik tablo|"
+    r"\başı\b|antibiyotik|penisilin|\bdna\b|genom|kök hücre|kalp nakli|"
+    r"genetik mühendisl|crispr|gen (düzenleme|tedavisi)|\bfosil\w*",
     re.IGNORECASE,
 )
 
 INVENTION_SIGNAL_RE = re.compile(
     r"\bica[dt]\w*|\bbuluş\w*|\bkeşif\w*|\bkeşf\w*|\bpatent\w*|\bmucit\w*|\bmucid\w*|"
-    r"\bteknoloji\w*|\bmühendis\w*|\bprototip\b|geliştir\w*|tasarla\w*|"
+    r"\bprototip\b|geliştir\w*|tasarla\w*|"
     r"\byenilik\w*çi\w*|\binovasyon\w*|ilk kez|ilk defa",
     re.IGNORECASE,
 )
 
 
 def is_technology_topic(event_text: str, title: str, category: str) -> bool:
-    """Yalnızca teknoloji/icat/buluş konulu olaylar için True döner. Bu
-    fonksiyon site kapsamının SADECE bu temayla sınırlı kalmasını sağlayan
-    ana kapıdır — dinî, siyasi, askerî, kültürel vb. diğer tüm konular
+    """Yalnızca "Mucitler, İcatlar, Keşifler" temasına giren olaylar için
+    True döner. Bu fonksiyon site kapsamının SADECE bu temayla sınırlı
+    kalmasını sağlayan ana kapıdır — dinî, siyasi, askerî, kültürel,
+    ekonomik ve GÜNDELİK teknoloji kullanımı dahil diğer TÜM konular
     burada elenir.
 
     Üç katmanlı kontrol yapılır:
-      1) TECHNOLOGY_TOPIC_RE — geniş bir teknoloji/icat/keşif/buluş
-         anahtar kelime havuzu (olay metni + başlık üzerinde). Bu listede
-         yalnızca yeterince KENDİNE ÖZGÜ (başka bağlamda neredeyse hiç
-         geçmeyen) terimler koşulsuz kabul edilir.
-      2) KNOWN_TECH_FIGURES_RE — tanınmış mucit/bilim insanlarının tam adı
-         doğrudan başlıkta (Wikipedia madde adı) geçiyorsa, olay metninde
-         hiçbir anahtar kelime olmasa bile (ör. sade "X doğdu." gibi doğum/
-         ölüm kayıtlarında) True döner.
-      3) AMBIGUOUS_TECH_TERMS_RE + INVENTION_SIGNAL_RE — "motor", "elektrik",
-         "radyo", "disk" gibi TEK BAŞINA alakasız bağlamlarda da (kaza,
-         kesinti, siyasi haber, müzik albümü vb.) geçebilen belirsiz
+      1) TECHNOLOGY_TOPIC_RE — doğrudan bir İCAT/KEŞİF/BULUŞ olayına
+         işaret eden, KENDİNE ÖZGÜ (başka bağlamda neredeyse hiç
+         geçmeyen) terimlerden oluşan dar bir havuz. Bu terimler tek
+         başına (bağlam aranmadan) koşulsuz kabul edilir.
+      2) KNOWN_TECH_FIGURES_RE — tanınmış bir MUCİDİN/bilim insanının tam
+         adı doğrudan başlıkta (Wikipedia madde adı) geçiyorsa, olay
+         metninde hiçbir anahtar kelime olmasa bile (ör. sade "X doğdu."
+         gibi doğum/ölüm kayıtlarında) True döner.
+      3) AMBIGUOUS_TECH_TERMS_RE + INVENTION_SIGNAL_RE — "internet",
+         "telefon", "yapay zeka", "bitcoin", "disk" gibi TEK BAŞINA
+         Mucitler/İcatlar/Keşifler dışı bağlamlarda da (kaza, kesinti,
+         piyasa haberi, gündelik kullanım vb.) geçebilen genel/belirsiz
          terimler, yalnızca metinde AYRICA açık bir icat/buluş/keşif
          sinyali de varsa kabul edilir; aksi halde reddedilir.
+
+    Bu üç katmanın DIŞINDA kalan HİÇBİR olay yayınlanmaz — yani kelime
+    havuzu, tanım gereği, "Mucitler, İcatlar, Keşifler" dışında hiçbir
+    konuyu içermez.
     """
     if category == "holidays":
         return False  # dinî/millî/kültürel özel günler asla bu kapsama girmez
@@ -542,8 +617,9 @@ def is_technology_topic(event_text: str, title: str, category: str) -> bool:
 # --------------------------------------------------------------------------
 # DİNÎ HASSASİYET: PEYGAMBER İSİMLERİNE "HZ." UNVANI EKLEME
 # --------------------------------------------------------------------------
-# NOT: Site artık SADECE teknoloji/icat/buluş konularını yayınladığından
-# (bkz. yukarıdaki is_technology_topic), pratikte dinî içerikli bir olay
+# NOT: Site artık SADECE "Mucitler, İcatlar, Keşifler" konularını
+# yayınladığından (bkz. yukarıdaki is_technology_topic), pratikte dinî
+# içerikli bir olay
 # zaten seçilmeyecektir. Aşağıdaki fonksiyon yine de EK bir güvenlik katmanı
 # olarak korunmuştur — örn. bir icadın açıklaması içinde peygamberlerden biri
 # yan bir bilgi olarak (parantez içi vb.) geçerse, çıplak isimle anılmasını
@@ -1086,9 +1162,10 @@ def main():
         if not title:
             continue
 
-        # KAPSAM FİLTRESİ: yalnızca teknoloji/icat/buluş konulu olaylar
-        # işlenir. Ağ çağrısı yapılmadan (fetch_full_extract vb.) ÖNCE
-        # uygulanır ki alakasız konular için gereksiz API isteği atılmasın.
+        # KAPSAM FİLTRESİ: yalnızca "Mucitler, İcatlar, Keşifler" konulu
+        # olaylar işlenir. Ağ çağrısı yapılmadan (fetch_full_extract vb.)
+        # ÖNCE uygulanır ki alakasız konular için gereksiz API isteği
+        # atılmasın.
         if not is_technology_topic(event_text, title, entry.get("_category", "")):
             continue
 
