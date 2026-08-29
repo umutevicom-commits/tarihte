@@ -1,0 +1,51 @@
+name: Görselleri Yerelleştir (tek seferlik)
+
+# Bu iş akışı OTOMATİK ÇALIŞMAZ — sadece GitHub sitesinden/uygulamasından
+# elle "Run workflow" ile tetiklenir. Telefondan da yapılabilir:
+#   1) GitHub'da bu repoyu aç (repo -> Actions sekmesi)
+#   2) Soldaki listeden "Görselleri Yerelleştir (tek seferlik)" seç
+#   3) Sağ üstteki "Run workflow" butonuna, sonra tekrar yeşil
+#      "Run workflow" butonuna bas
+#   4) Birkaç dakika bekle, işlem bitince data/images altına görseller
+#      inmiş ve docs/rss.xml güncellenmiş olacak (otomatik commit).
+#
+# Daha önce çekilmiş tüm makalelerin görsellerini GSMArena'dan indirip
+# data/images/<slug>/ altına kaydeder ve rss.xml'deki görsel adreslerini
+# yayınlanan (GitHub Pages) adresle değiştirir. Görseli zaten
+# yerelleştirilmiş makaleler otomatik atlanır, bu yüzden birden fazla kez
+# çalıştırmak güvenlidir.
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  localize-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repo'yu al
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      - name: Bağımlılıkları yükle
+        run: pip install -r requirements.txt
+
+      - name: Mevcut makalelerin görsellerini indir ve yerelleştir
+        env:
+          PAGES_BASE_URL: ${{ vars.PAGES_BASE_URL }}
+        run: python scripts/localize_existing_images.py
+
+      - name: Değişiklikleri commit'le ve gönder
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs data
+          git diff --quiet --cached || git commit -m "chore: eski makale görselleri yerelleştirildi $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+          git push
