@@ -60,8 +60,8 @@ RSS_ITEM_LIMIT = 60
 # kendi arşivimizde kalıcı olarak durur. Repodaki mevcut yayın adresi
 # (docs/rss.xml şu an bu domainde canlı) varsayılan değerdir; farklı bir
 # GitHub Pages adresine taşınırsa PAGES_BASE_URL ortam değişkeniyle geçilebilir.
-PAGES_BASE_URL = os.environ.get(
-    "PAGES_BASE_URL", "https://umutevicom-commits.github.io/tarihte"
+PAGES_BASE_URL = (
+    os.environ.get("PAGES_BASE_URL") or "https://umutevicom-commits.github.io/tarihte"
 ).rstrip("/")
 IMAGES_DIR = DATA_DIR / "images"
 # İndirilecek görseller için bilinen/izin verilen uzantılar; URL'de bunlardan
