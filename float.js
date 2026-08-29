@@ -52,8 +52,8 @@
             return flags_location+'es-ar'+flag_ext;
         else if(alt_flags[lang] == 'colombia')
             return flags_location+'es-co'+flag_ext;
-        else if(alt_flags[lang] == 'quebec')
-            return flags_location+'fr-qc'+flag_ext;
+        else if(alt_flags[lang] == 'turkey')
+            return flags_location+'tr-tr'+flag_ext;
         else
             return alt_flags[lang];
     }
