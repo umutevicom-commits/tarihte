@@ -5,17 +5,18 @@ Daha önce çekilmiş makalelerin (article.json) görsellerini GSMArena'dan
 URL'lerini yayınlanan (GitHub Pages) adresle değiştirir ve ardından
 item.xml + docs/rss.xml'i bu yeni adreslerle yeniden üretir.
 
-regenerate_items.py'den FARKI: bu script ağ isteği atar (görselleri gerçekten
-indirir), regenerate_items.py atmaz. Bu yüzden bunu internet erişimi olan bir
-ortamda (kendi bilgisayarın veya bir GitHub Actions çalıştırması) çalıştırman
-gerekir.
+ONARIM MANTIĞI: Bir makalenin görselleri daha önce (ör. bozuk bir
+PAGES_BASE_URL ile) yanlış/eksik bir yerel adresle işaretlenmiş olabilir —
+bu durumda orijinal GSMArena kaynak adresi article.json'da artık mevcut
+DEĞİLDİR ve tekrar indirilemez. Bu script, image_is_fully_localized() ile
+her makaleyi kontrol eder; eksik/bozuk bulduğu makalelerin haber sayfasını
+(article.url) AĞDAN YENİDEN ÇEKİP yalnızca görsel URL'lerini tazeler (gövde
+metni, çeviri, başlık gibi diğer hiçbir alana dokunmaz) ve ardından bu taze
+adresleri indirir. Zaten tam ve doğru şekilde yerelleştirilmiş makaleler
+atlanır, bu yüzden script'i tekrar tekrar çalıştırmak güvenlidir.
 
-Ne zaman kullanılır: article_to_html() artık görsel URL'lerini olduğu gibi
-GSMArena'dan hotlink'lemek yerine yerel/yayınlanan bir adresle değiştirdiğinde
-(bu güncellemede eklendi) — daha önce zaten "ok" olarak işaretlenmiş ve
-item.xml'i önbelleğe alınmış makaleler normalde bir daha yeniden işlenmez.
-Bu script o eski kayıtları, YENİDEN ÇEKMEDEN (haber sayfasını tekrar
-indirmeden, sadece görselleri indirerek) tek seferlik günceller.
+Bu script ağ isteği atar (hem onarım için haber sayfasını hem de görselleri
+indirir). İnternet erişimi olan bir ortamda (GitHub Actions) çalıştırılmalıdır.
 
 Kullanım:
     python scripts/localize_existing_images.py
@@ -34,10 +35,15 @@ from generate import (  # noqa: E402
     Article,
     OUTPUT_DIR,
     build_item_xml,
+    fetch,
+    image_is_fully_localized,
     load_registry,
     localize_images,
+    parse_article,
     write_rss,
 )
+
+import requests  # noqa: E402
 
 
 def main() -> int:
@@ -46,21 +52,36 @@ def main() -> int:
         return 1
 
     updated = 0
+    skipped = 0
     failed = 0
     for json_path in sorted(OUTPUT_DIR.glob("*/article.json")):
         slug = json_path.parent.name
         try:
             payload = json.loads(json_path.read_text(encoding="utf-8"))
             article = Article(**payload)
-            # Görseli olmayan veya zaten yerelleştirilmiş (PAGES_BASE_URL ile
-            # başlayan) makaleleri atla — gereksiz ağ isteği yapılmasın.
-            already_local = article.images and all(
-                img.get("url", "").startswith("/") or "github.io" in img.get("url", "")
-                for img in article.images
-            )
-            if not article.images or already_local:
+            if not article.images:
+                skipped += 1
                 continue
+            if image_is_fully_localized(article):
+                skipped += 1
+                continue
+
             print(f"  [işleniyor] {slug} ({len(article.images)} görsel)")
+
+            # Görsellerden en az biri eksik/bozuk: article.json'daki kayıtlı
+            # URL artık orijinal GSMArena kaynağı OLMAYABİLİR (önceki hatalı
+            # bir çalıştırmada üzerine yazılmış olabilir). Güvenli tek yol:
+            # haber sayfasını yeniden çekip TAZE orijinal görsel URL'lerini
+            # almak. Gövde metni/çeviri/başlık gibi diğer alanlara dokunulmaz.
+            try:
+                html = fetch(article.url)
+                fresh = parse_article(article.url, html)
+                article.images = fresh.images
+            except requests.RequestException as exc:
+                print(f"    [onarım-hata] haber sayfası tekrar çekilemedi: {exc}")
+                failed += 1
+                continue
+
             article = localize_images(article)
             json_path.write_text(
                 json.dumps(asdict(article), ensure_ascii=False, indent=2),
@@ -74,7 +95,10 @@ def main() -> int:
             failed += 1
             print(f"  [uyarı] {slug} güncellenemedi: {exc}")
 
-    print(f"[tamam] {updated} makalenin görselleri yerelleştirildi, {failed} başarısız.")
+    print(
+        f"[tamam] {updated} makale onarıldı/yerelleştirildi, "
+        f"{skipped} zaten tamamdı, {failed} başarısız."
+    )
 
     registry = load_registry()
     write_rss(registry)

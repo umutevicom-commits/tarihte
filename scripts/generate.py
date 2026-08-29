@@ -607,19 +607,33 @@ def localize_images(article: Article) -> Article:
     ör: https://umutevicom-commits.github.io/tarihte/data/images/<slug>/<dosya>.
     İndirme başarısız olan tekil bir görsel varsa (ağ hatası vb.) o görsel
     için sadece orijinal GSMArena URL'i korunur; diğer görseller ve makalenin
-    geri kalanı etkilenmez."""
+    geri kalanı etkilenmez.
+
+    İDEMPOTENT: bir görsel zaten doğru yayın adresiyle işaretlenmiş VE
+    karşılık gelen dosya diskte gerçekten mevcutsa tekrar indirilmez (script
+    tekrar tekrar güvenle çalıştırılabilir). Adres "yerel" görünüyor ama
+    dosya diskte yoksa (ör. önceki hatalı bir çalıştırmadan kalan bozuk
+    kayıt) bu görsel eksik/onarılamaz kabul edilir ve olduğu gibi bırakılır
+    — çağıran taraf (localize_existing_images.py) böyle durumları makale
+    sayfasını yeniden çekip orijinal adresi kurtararak onarabilir."""
     if not article.images:
         return article
     dest_dir = IMAGES_DIR / article.slug
+    prefix = f"{PAGES_BASE_URL}/data/images/{article.slug}/"
     used_names: set[str] = set()
     localized: list[dict] = []
     for img in article.images:
         remote_url = img.get("url", "")
         if not remote_url:
             continue
+        if remote_url.startswith(prefix):
+            existing_name = remote_url[len(prefix):]
+            used_names.add(existing_name)
+            localized.append(img)  # zaten doğru adres; dosya kontrolü çağıran tarafta
+            continue
         filename = download_image(remote_url, dest_dir, used_names)
         if filename:
-            public_url = f"{PAGES_BASE_URL}/data/images/{article.slug}/{filename}"
+            public_url = f"{prefix}{filename}"
             localized.append({"url": public_url, "alt": img.get("alt", "")})
         else:
             # İndirilemedi: orijinal uzak URL'e düş, görsel yine de RSS'te yer alır
@@ -627,6 +641,24 @@ def localize_images(article: Article) -> Article:
         time.sleep(0.2)
     article.images = localized
     return article
+
+
+def image_is_fully_localized(article: Article) -> bool:
+    """Makalenin TÜM görselleri doğru yayın adresiyle işaretli VE
+    karşılık gelen dosyalar diskte gerçekten var mı? Değilse (adres eksik/
+    bozuk ya da dosya hiç indirilmemiş) False döner ve makalenin
+    yeniden onarılması gerekir."""
+    if not article.images:
+        return True
+    prefix = f"{PAGES_BASE_URL}/data/images/{article.slug}/"
+    for img in article.images:
+        url = img.get("url", "")
+        if not url.startswith(prefix):
+            return False
+        filename = url[len(prefix):]
+        if not (IMAGES_DIR / article.slug / filename).exists():
+            return False
+    return True
 
 
 def parse_article_links(html: str) -> list[str]:
