@@ -852,7 +852,22 @@ def article_to_html(article: Article) -> str:
     haberler/reklam/dış link gibi hiçbir şey gövdeye DAHIL EDİLMEZ — yalnızca
     başlık (RSS <title>), gövde metni, görseller ve videolar bulunur. Gövde
     paragrafları düz metin olarak yazıldığından (etiketler değil) çıktıda
-    zaten hiçbir <a> linki oluşmaz."""
+    zaten hiçbir <a> linki oluşmaz.
+
+    ÖNEMLİ (bozulma/metin-kayması düzeltmesi): <img>/<video>/<iframe>
+    etiketlerinin TARAYICI VARSAYILAN CSS'i "inline"dır. Kendi sitemizde
+    sorun çıkarmasa da RSS okuyucu uygulamaları (RSS.app vb.) genelde kendi
+    stil sayfalarını uygular ve <p> sarmalayıcıyı yok sayıp bu elemanları
+    paragraf metniyle AYNI SATIR AKIŞINA sokabilir; bu da ekran görüntüsünde
+    görülen "metin videonun soluna dar bir sütun halinde kayıyor" bozulmasına
+    yol açar. Bunu okuyucu uygulamasından bağımsız, kalıcı olarak önlemek
+    için her görsel/video/iframe'e display:block + width:100% + clear:both
+    satır-içi (inline) stil EKLENİR — böylece hangi istemcide açılırsa
+    açılsın eleman kendi satırında, tam genişlikte durur ve yanına metin
+    kayamaz. iframe video gömmeleri ayrıca sabit en-boy oranlı (16:9) bir
+    sarmalayıcı içine alınır; boyutsuz bir iframe bazı okuyucularda 0
+    yükseklikte/varsayılan küçük kutuda render olup video alanının "kopuk"
+    görünmesine neden olur."""
     paragraphs = article.body_paragraphs_tr or article.body_paragraphs
     parts: list[str] = []
     for para in paragraphs:
@@ -862,7 +877,12 @@ def article_to_html(article: Article) -> str:
         if not src:
             continue
         alt = _xml_escape(img.get("alt") or "Görsel")
-        parts.append(f'<p><img src="{_xml_escape(src)}" alt="{alt}" loading="lazy" /></p>')
+        parts.append(
+            f'<p style="clear:both;margin:16px 0;">'
+            f'<img src="{_xml_escape(src)}" alt="{alt}" loading="lazy" '
+            f'style="display:block;width:100%;height:auto;max-width:100%;'
+            f'margin:0;float:none;clear:both;" /></p>'
+        )
     for vid in article.videos:
         src = vid.get("url", "")
         if not src:
@@ -871,13 +891,23 @@ def article_to_html(article: Article) -> str:
         low = src.lower()
         if low.endswith((".mp4", ".webm", ".ogg", ".ogv")):
             parts.append(
-                f'<p><video controls preload="metadata" title="{title}">'
+                f'<p style="clear:both;margin:16px 0;">'
+                f'<video controls preload="metadata" title="{title}" '
+                f'style="display:block;width:100%;height:auto;max-width:100%;'
+                f'margin:0;float:none;clear:both;background:#000;">'
                 f'<source src="{_xml_escape(src)}" /></video></p>'
             )
         else:
+            # Sabit en-boy oranlı (16:9) sarmalayıcı: iframe'e genişlik/
+            # yükseklik atanmamış olsa bile video alanı her zaman doğru
+            # oranda, tam genişlikte ve kendi satırında render olur.
             parts.append(
-                f'<p><iframe src="{_xml_escape(src)}" title="{title}" '
-                f'loading="lazy" allowfullscreen frameborder="0"></iframe></p>'
+                '<div style="clear:both;margin:16px 0;position:relative;'
+                'width:100%;padding-top:56.25%;overflow:hidden;background:#000;">'
+                f'<iframe src="{_xml_escape(src)}" title="{title}" '
+                'loading="lazy" allowfullscreen frameborder="0" '
+                'style="position:absolute;top:0;left:0;width:100%;height:100%;'
+                'display:block;border:0;float:none;"></iframe></div>'
             )
     return "\n".join(parts)
 
