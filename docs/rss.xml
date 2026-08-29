@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>GSMArena Türkçe</title>
+    <title></title>
     <link>https://www.gsmarena.com</link>
     <atom:link href="https://www.gsmarena.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>GSMArena haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 20:58:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:44:54 +0000</lastBuildDate>
+    <item>
+      <title>Motorola'nın Razr Fold'u nihayet Verizon'a geliyor</title>
+      <link>https://www.gsmarena.com/motorolas_razr_fold_is_finally_on_its_way_to_verizon-news-74402.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/motorolas_razr_fold_is_finally_on_its_way_to_verizon-news-74402.php</guid>
+      <pubDate>Sat, 29 Aug 2026 00:00:00 +0000</pubDate>
+      <author>Vlad</author>
+      <category>Öne Çıkanlar</category><category>Motorola</category><category>Android</category><category>Verizon</category>
+      <description>Motorola, Razr Fold'u, şirketin T - Mobile ve Verizon'dan satın alınabileceğini duyurduğu Mayıs ayı sonlarında ABD'de piyasaya sürdü. T - Mobile hemen orada ve sonra aldı, ancak Verizon hala telefonu serbest bırakmadı.</description>
+      <content:encoded><![CDATA[<p>Motorola, Razr Fold'u, şirketin T - Mobile ve Verizon'dan satın alınabileceğini duyurduğu Mayıs ayı sonlarında ABD'de piyasaya sürdü. T - Mobile hemen orada ve sonra aldı, ancak Verizon hala telefonu serbest bırakmadı.</p>
+<p>Artık nedenini biliyoruz. FCC, mmWave 5G desteğiyle birlikte gelen Razr Fold'un yalnızca bir sürümünü onayladı ve Verizon, ABD'deki en kapsamlı mmWave 5G kapsama alanına sahip, böylece bunun nereye gittiğini görebilirsiniz.</p>
+<p>Artık bu model nihayet onaylandığına göre, önümüzdeki birkaç hafta içinde piyasaya sürülebilir. Ne yazık ki, Verizon henüz tam lansman ayrıntılarını açıklamadı, ancak duyurulduğunda size bildireceğiz. Bu aynı zamanda size taşıyıcıda ne kadara mal olacağını da söyleyebileceğimiz zamandır.</p>
+<p>Bu arada, Razr Fold ile ilgileniyorsanız, buradaki derinlemesine incelememize göz atabilirsiniz.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/motorolas_razr_fold_is_finally_on_its_way_to_verizon-news-74402/gsmarena_001.jpg" alt="Motorola's Razr Fold is finally on its way to Verizon" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Yeni söylentiye göre Oppo Reno17 serisi telekonvertör desteği alabilir</title>
       <link>https://www.gsmarena.com/oppo_reno17_series_could_get_teleconverter_support_new_rumor_claims-news-74396.php</link>
