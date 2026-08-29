@@ -1,0 +1,13 @@
+# İşte iPhone 18 Pro ve iPhone 18 Pro Max'in ön siparişe çıkacağı söylentileri
+
+Apple, 9 Eylül'de iPhone Ultra ile birlikte iPhone 18 Pro ve iPhone 18 Pro Max'i tanıtıyor. Bu bir çarşamba. Apple'ı tanıyorsanız, şirketin duyuruldukları haftanın Cuma günü yeni iPhone'lar için ön siparişlere başlamayı sevdiğini biliyorsunuzdur.
+
+Ancak, bu yıl bir kırışıklık var. Etkinlikten sonraki Cuma günü 11 Eylül ve ABD merkezli bir şirket olduğu göz önüne alındığında, bariz tarihsel nedenlerden dolayı, Apple'ın planlarını değiştireceği ve 12 Eylül Cumartesi günü yeni iPhone'lar için ön sipariş almaya başlayacağı söyleniyor. Ön siparişin başlama zamanının da normalde 05:00 PT'den gece yarısı PT'ye değişeceği söyleniyor.
+
+Bu zaman çizelgesi, Apple Watch Series 12 ve Apple'ın 9 Eylül'de duyurmaya karar verdiği diğer her şey için de geçerli olmalı. Bununla birlikte, daha önceki birçok rapor, iPhone Ultra'nın aynı anda piyasaya sürülebilmesine rağmen Pro ve Pro Max modellerinden daha geç geleceğini öne sürdü. Yani ön siparişleri daha sonraki bir tarihte başlayabilir.
+
+---
+
+## Görseller
+
+![Here's when the iPhone 18 Pro and iPhone 18 Pro Max are rumored to go on pre-order](https://umutevicom-commits.github.io/tarihte/data/images/heres_when_the_iphone_18_pro_and_iphone_18_pro_max_are_rumored_to_go_on_preorder-news-74398/gsmarena_001.jpg)
