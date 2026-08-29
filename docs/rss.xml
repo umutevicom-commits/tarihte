@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>GSMArena Türkçe</title>
+    <title></title>
     <link>https://www.gsmarena.com</link>
     <atom:link href="https://www.gsmarena.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>GSMArena haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 29 Aug 2026 20:37:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 20:43:34 +0000</lastBuildDate>
     <item>
       <title>Yeni söylentiye göre Oppo Reno17 serisi telekonvertör desteği alabilir</title>
       <link>https://www.gsmarena.com/oppo_reno17_series_could_get_teleconverter_support_new_rumor_claims-news-74396.php</link>
