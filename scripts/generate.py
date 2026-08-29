@@ -1,14 +1,31 @@
 #!/usr/bin/env python3
 """
-GSMArena makale scraper'ı.
+GSMArena makale scraper'ı — SADECE O GÜN YAYINLANAN yeni haberler için.
 
-Tüm makale sayfalarını sırayla gezer, her makalenin TAM içeriğini
-(başlık, tarih, yazar, gövde metni, görsel URL'leri, etiketler) çeker,
-içeriği Türkçeye çevirir ve hem JSON hem de Markdown formatında kaydeder.
+Tüm siteyi baştan taramaz: haber listeleme sayfasını (news.php3) en yeni
+kayıttan başlayarak okur, listeleme sayfasındaki her öğenin yanında zaten
+görünen tarihi kullanarak bugüne ait OLMAYAN veya daha önce işlenmiş
+(kayıt defterinde "ok" durumunda) bir öğeye ulaşır ulaşmaz taramayı durdurur
+(liste kronolojik olduğundan ondan sonrası zaten eski/işlenmiş demektir).
+
+Sadece bugüne ait yeni bulunan haberler için makale/haber sayfasının TAM
+içeriği çekilir (site'nin kendi RSS özet akışı asla kullanılmaz), çevrilir
+ve hem JSON hem de Markdown formatında kaydedilir.
+
+Kalıcı durum: data/registry.json — haber ID'sine (URL'deki "-news-<id>.php"
+numarası) göre anahtarlanan, her haberin durumunu (ok/failed), URL'sini,
+tarihini ve bir SHA-256 içerik özetini (hash) tutan kalıcı kayıt defteri.
+Bu defter sayesinde: (1) daha önce işlenen hiçbir haber tekrar çekilmez,
+(2) başarısız olan haberler bir sonraki çalıştırmada otomatik tekrar denenir,
+(3) RSS feed'i, her haber için BİR KEZ üretilip diskte önbelleklenen
+<item> XML parçacıkları birleştirilerek oluşturulur; eski haberlerin
+HTML/XML içeriği her çalıştırmada yeniden üretilmez, sadece yeni haberler
+için üretilir ve mevcut feed'e eklenir.
 """
 
 from __future__ import annotations
 
+import hashlib
 import json
 import os
 import re
@@ -24,7 +41,9 @@ from deep_translator import MyMemoryTranslator
 
 BASE_URL = "https://www.gsmarena.com"
 NEWS_INDEX_URL = f"{BASE_URL}/news.php3"
-OUTPUT_DIR = Path(__file__).resolve().parent.parent / "data" / "articles"
+DATA_DIR = Path(__file__).resolve().parent.parent / "data"
+OUTPUT_DIR = DATA_DIR / "articles"
+REGISTRY_PATH = DATA_DIR / "registry.json"
 DOCS_DIR = Path(__file__).resolve().parent.parent / "docs"
 RSS_PATH = DOCS_DIR / "rss.xml"
 SITE_URL = os.environ.get("SITE_URL", BASE_URL).rstrip("/")
@@ -38,11 +57,30 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9,tr;q=0.8",
 }
 REQUEST_TIMEOUT = 30
-DELAY_BETWEEN_REQUESTS = 1.5  # saniye
-MAX_PAGES = int(os.environ.get("GSMARENA_MAX_PAGES", "0")) or None
+# Artık tüm site değil, sadece bugüne ait yeni haberler işlendiğinden bir
+# çalıştırmada tipik olarak tek haneli/düşük onlu sayıda istek yapılır; nezaket
+# gecikmesi bu yüzden güvenle kısaltıldı (performans isteği).
+DELAY_BETWEEN_REQUESTS = 1.0  # saniye
+# Listeleme sayfası, taşma durumuna (bugüne ait haberlerin ilk sayfaya sığmadığı
+# yoğun günlere) karşı bir güvenlik sınırı; normal koşulda taramayı bugünün
+# haberleri bitince kendisi durdurur, bu sadece bir üst sınırdır.
+MAX_PAGES = int(os.environ.get("GSMARENA_MAX_PAGES", "5"))
 DELAY_BETWEEN_TRANSLATIONS = 0.5  # saniye
 # Çeviri yapılıp yapılmayacağı (1=evet, 0=hayır)
 ENABLE_TRANSLATION = os.environ.get("GSMARENA_TRANSLATE", "1") != "0"
+
+# Aynı sunucuya yapılan ardışık istekler için tek bir TCP/TLS bağlantısı
+# yeniden kullanılır (keep-alive); her istekte yeniden el sıkışma yapılmaz.
+SESSION = requests.Session()
+SESSION.headers.update(HEADERS)
+
+# Haber ID'si her zaman "...-news-<id>.php" kalıbındadır (URL'nin sonu).
+ARTICLE_ID_RE = re.compile(r"-news-(\d+)\.php$")
+# Listeleme sayfasında her haberin yanında yorum sayısı linki
+# "newscomm-<id>.php" kalıbındadır ve haberin ID'siyle birebir eşleşir; bu,
+# class adından bağımsız, o haberin YAYIN TARİHİNİ bulmak için kullanılan
+# sabit bir çapa noktasıdır (tarih metni bu linkin hemen yanında durur).
+LISTING_COMMENT_ID_RE = re.compile(r"newscomm-(\d+)\.php")
 
 MAX_TRANSLATION_CHUNK = 450  # MyMemoryTranslator'ın ~500 karakter limitinin altında
 
@@ -53,6 +91,16 @@ MAX_TRANSLATION_CHUNK = 450  # MyMemoryTranslator'ın ~500 karakter limitinin al
 # açar. Bir e-posta adresi (de= parametresi) gönderildiğinde günlük kota ~50.000
 # karaktere çıkar. GSMARENA_TRANSLATE_EMAIL ortam değişkeni ile ayarlanabilir.
 TRANSLATE_EMAIL = os.environ.get("GSMARENA_TRANSLATE_EMAIL") or None
+
+# NOT: https://cdn.gtranslate.net/widgets/latest/float.js bir TARAYICI widget'ıdır;
+# bir ziyaretçinin AÇTIĞI bir web sayfasında JavaScript çalıştırarak sayfayı
+# anlık çevirir. rss.xml statik bir dosyadır ve besleme okuyucuları (feed
+# reader) <script> içeriğini ne çalıştırır ne de yükler; bu widget'ı
+# <content:encoded> içine gömmek gerçek bir çeviriye yol açmaz, sadece etkisiz/
+# temizlenen bir <script> etiketi bırakır. Bu yüzden RSS'e gömülecek GERÇEK
+# Türkçe metin, mevcut haliyle (MyMemory tabanlı) sunucu taraflı çeviri
+# üzerinden üretilmeye devam eder — bu, mevcut mimariyi bozmamak ve feed'in
+# gerçekten Türkçe içerik taşımasını sağlamak için bilinçli bir tercihtir.
 
 _translator = (
     MyMemoryTranslator(source="english", target="turkish", email=TRANSLATE_EMAIL)
@@ -470,6 +518,7 @@ class Article:
     url: str
     slug: str
     title: str
+    news_id: str = ""
     date: str = ""
     author: str = ""
     tags: list[str] = field(default_factory=list)
@@ -484,7 +533,7 @@ class Article:
 
 
 def fetch(url: str) -> str:
-    resp = requests.get(url, headers=HEADERS, timeout=REQUEST_TIMEOUT)
+    resp = SESSION.get(url, timeout=REQUEST_TIMEOUT)
     resp.raise_for_status()
     return resp.text
 
@@ -502,6 +551,62 @@ def parse_article_links(html: str) -> list[str]:
                 seen.add(full)
                 links.append(full)
     return links
+
+
+def parse_listing_dates(html: str) -> dict[str, str]:
+    """Listeleme sayfasındaki her haberin yanında zaten görünen yayın tarihini
+    ('29 August 2026' gibi) haber ID'sine göre çıkarır. Class adına değil,
+    sabit "newscomm-<id>.php" yorum linkine dayanır: tarih metni bu linkin
+    bulunduğu üst elemanın metni içindedir. Bu sayede, haberin YENİ olup
+    olmadığını anlamak için makale sayfasını hiç çekmeye gerek kalmaz."""
+    soup = BeautifulSoup(html, "html.parser")
+    id_to_date: dict[str, str] = {}
+    for a in soup.find_all("a", href=LISTING_COMMENT_ID_RE):
+        match = LISTING_COMMENT_ID_RE.search(a["href"])
+        if not match or not a.parent:
+            continue
+        news_id = match.group(1)
+        if news_id in id_to_date:
+            continue
+        container_text = a.parent.get_text(" ", strip=True)
+        date_match = DATE_TEXT_RE.search(container_text)
+        if date_match:
+            id_to_date[news_id] = date_match.group(0)
+    return id_to_date
+
+
+def parse_listing_items(html: str) -> list[tuple[str, str, str]]:
+    """Listeleme sayfasındaki haberleri, sayfadaki SIRAYA (en yeniden en
+    eskiye) göre (news_id, url, date_str) üçlüleri olarak döndürür. date_str
+    bulunamazsa boş string olur (o öğe için ihtiyatlı davranılıp tarih
+    kontrolü atlanmaz; işlenmesi gerekiyorsa makale sayfası zaten tam tarihi
+    de verecektir)."""
+    id_to_date = parse_listing_dates(html)
+    items: list[tuple[str, str, str]] = []
+    seen_ids: set[str] = set()
+    for link in parse_article_links(html):
+        match = ARTICLE_ID_RE.search(link)
+        if not match:
+            continue
+        news_id = match.group(1)
+        if news_id in seen_ids:
+            continue
+        seen_ids.add(news_id)
+        items.append((news_id, link, id_to_date.get(news_id, "")))
+    return items
+
+
+def is_same_day_as_today(date_str: str) -> bool | None:
+    """date_str ('29 August 2026') bugünün tarihiyle (UTC) aynı gün mü?
+    Ayrıştırılamazsa None döner (bilinmiyor demektir; çağıran taraf bu
+    durumda temkinli davranıp o haberi yine de işlemeyi seçebilir)."""
+    if not date_str:
+        return None
+    try:
+        parsed = datetime.strptime(date_str, "%d %B %Y").date()
+    except ValueError:
+        return None
+    return parsed == datetime.now(timezone.utc).date()
 
 
 def parse_pagination(html: str) -> str | None:
@@ -622,10 +727,14 @@ def parse_article(url: str, html: str) -> Article:
                 if tag and tag != date_str:
                     tags.append(tag)
 
+    id_match = ARTICLE_ID_RE.search(url)
+    news_id = id_match.group(1) if id_match else slug
+
     return Article(
         url=url,
         slug=slug,
         title=title,
+        news_id=news_id,
         date=date_str,
         author=author,
         tags=tags,
@@ -694,6 +803,11 @@ def save_article(article: Article) -> None:
     )
     (out_dir / "article.md").write_text(
         article_to_markdown(article), encoding="utf-8"
+    )
+    # RSS <item> parçacığı BİR KEZ üretilip önbelleklenir; sonraki her
+    # çalıştırmada write_rss() bunu yeniden hesaplamadan doğrudan okur.
+    (out_dir / "item.xml").write_text(
+        build_item_xml(article), encoding="utf-8"
     )
 
 
@@ -768,47 +882,116 @@ def article_to_html(article: Article) -> str:
     return "\n".join(parts)
 
 
-def load_all_articles() -> list[Article]:
-    """data/articles altındaki tüm article.json dosyalarını okuyup Article listesine çevirir."""
-    articles: list[Article] = []
+def load_registry() -> dict:
+    """Kalıcı kayıt defterini (data/registry.json) okur. Dosya yoksa (ilk
+    çalıştırma veya eski bir sürümden geçiş), data/articles altında zaten
+    var olan makalelerden BİR KEZE mahsus bir defter oluşturur (migrate_
+    registry_from_existing_articles) — böylece daha önce çekilmiş hiçbir
+    makale "yeni" sanılıp tekrar işlenmez ve mevcut rss.xml içeriği kaybolmaz."""
+    if REGISTRY_PATH.exists():
+        try:
+            return json.loads(REGISTRY_PATH.read_text(encoding="utf-8"))
+        except json.JSONDecodeError as exc:
+            print(f"  [kayıt-uyarı] registry.json bozuk, sıfırdan oluşturuluyor: {exc}")
+    return migrate_registry_from_existing_articles()
+
+
+def save_registry(registry: dict) -> None:
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+    REGISTRY_PATH.write_text(
+        json.dumps(registry, ensure_ascii=False, indent=2, sort_keys=True),
+        encoding="utf-8",
+    )
+
+
+def migrate_registry_from_existing_articles() -> dict:
+    """Eski sürümden (registry.json henüz yokken) geçiş: data/articles
+    altındaki her mevcut article.json için bir "ok" kaydı ve gerekiyorsa bir
+    item.xml önbelleği oluşturur. Bu, script'in genel yapısını ve daha önce
+    biriktirilmiş tüm makaleleri korumak için sadece BİR KEZ çalışır."""
+    registry: dict = {}
     if not OUTPUT_DIR.exists():
-        return articles
+        return registry
     for json_path in OUTPUT_DIR.glob("*/article.json"):
         try:
             payload = json.loads(json_path.read_text(encoding="utf-8"))
-            articles.append(Article(**payload))
+            article = Article(**payload)
         except (json.JSONDecodeError, TypeError) as exc:
-            print(f"  [rss-uyarı] {json_path} okunamadı: {exc}")
-    articles.sort(key=lambda a: a.fetched_at, reverse=True)
-    return articles
-
-
-def build_rss(articles: list[Article]) -> str:
-    """Makale listesinden RSS 2.0 feed'i (XML metni) üretir. Her item, kısa bir
-    özet (<description>) yanında, eksiksiz çevrilmiş, temiz <p> tabanlı tam bir
-    blog makalesi HTML'i (<content:encoded>, CDATA içinde) taşır."""
-    items_xml: list[str] = []
-    for article in articles[:RSS_ITEM_LIMIT]:
-        title = article.title_tr or article.title
-        paragraphs = article.body_paragraphs_tr or article.body_paragraphs
-        description = paragraphs[0] if paragraphs else ""
-        tags = article.tags_tr or article.tags
-        categories = "".join(f"<category>{_xml_escape(t)}</category>" for t in tags)
-        author_xml = f"<author>{_xml_escape(article.author)}</author>" if article.author else ""
-        pub_date = _rfc822_date(article.date, article.fetched_at)
-        content_html = article_to_html(article)
-        items_xml.append(
-            "    <item>\n"
-            f"      <title>{_xml_escape(title)}</title>\n"
-            f"      <link>{_xml_escape(article.url)}</link>\n"
-            f"      <guid isPermaLink=\"true\">{_xml_escape(article.url)}</guid>\n"
-            f"      <pubDate>{pub_date}</pubDate>\n"
-            f"      {author_xml}\n"
-            f"      {categories}\n"
-            f"      <description>{_xml_escape(description)}</description>\n"
-            f"      <content:encoded>{_cdata(content_html)}</content:encoded>\n"
-            "    </item>"
+            print(f"  [geçiş-uyarı] {json_path} okunamadı: {exc}")
+            continue
+        news_id = article.news_id or (
+            ARTICLE_ID_RE.search(article.url).group(1)
+            if ARTICLE_ID_RE.search(article.url)
+            else article.slug
         )
+        item_path = json_path.parent / "item.xml"
+        if not item_path.exists():
+            item_path.write_text(build_item_xml(article), encoding="utf-8")
+        registry[news_id] = {
+            "slug": article.slug,
+            "url": article.url,
+            "date": article.date,
+            "fetched_at": article.fetched_at,
+            "status": "ok",
+            "retries": 0,
+            "last_error": "",
+            "content_hash": "",
+        }
+    if registry:
+        print(f"[geçiş] {len(registry)} mevcut makaleden registry.json oluşturuldu.")
+    return registry
+
+
+def process_new_article(link: str) -> tuple[Article | None, str, str]:
+    """Tek bir haberi baştan sona işler: tam sayfayı çeker, ayrıştırır,
+    çevirir, kaydeder. Başarısızlık DURDURMAZ: (None, "", hata_mesajı) döner
+    ki çağıran taraf registry'yi "failed" olarak işaretleyip bir sonraki
+    çalıştırmada tekrar denesin. Başarılıysa (Article, içerik_hash, "") döner."""
+    try:
+        article_html = fetch(link)
+    except requests.RequestException as exc:
+        return None, "", f"sayfa alınamadı: {exc}"
+    try:
+        content_hash = hashlib.sha256(article_html.encode("utf-8")).hexdigest()
+        article = parse_article(link, article_html)
+        article = translate_article(article)
+        save_article(article)
+    except Exception as exc:  # noqa: BLE001 — tek haberdeki beklenmeyen hata tüm koşuyu durdurmasın
+        return None, "", f"ayrıştırma/çeviri hatası: {exc}"
+    return article, content_hash, ""
+
+
+def build_item_xml(article: Article) -> str:
+    """Tek bir makale için RSS <item> XML parçacığını üretir. Bu, her makale
+    için SADECE BİR KEZ (ilk işlendiğinde) çağrılır ve sonucu diske
+    (item.xml) önbelleklenir; RSS feed'i her çalıştırmada bu parçacığı
+    yeniden üretmek yerine olduğu gibi diskten okuyup birleştirir."""
+    title = article.title_tr or article.title
+    paragraphs = article.body_paragraphs_tr or article.body_paragraphs
+    description = paragraphs[0] if paragraphs else ""
+    tags = article.tags_tr or article.tags
+    categories = "".join(f"<category>{_xml_escape(t)}</category>" for t in tags)
+    author_xml = f"<author>{_xml_escape(article.author)}</author>" if article.author else ""
+    pub_date = _rfc822_date(article.date, article.fetched_at)
+    content_html = article_to_html(article)
+    return (
+        "    <item>\n"
+        f"      <title>{_xml_escape(title)}</title>\n"
+        f"      <link>{_xml_escape(article.url)}</link>\n"
+        f"      <guid isPermaLink=\"true\">{_xml_escape(article.url)}</guid>\n"
+        f"      <pubDate>{pub_date}</pubDate>\n"
+        f"      {author_xml}\n"
+        f"      {categories}\n"
+        f"      <description>{_xml_escape(description)}</description>\n"
+        f"      <content:encoded>{_cdata(content_html)}</content:encoded>\n"
+        "    </item>"
+    )
+
+
+def build_rss_envelope(items_xml: list[str]) -> str:
+    """Önbellekten okunan/az önce üretilen <item> parçacıklarını RSS 2.0
+    kanal zarfına (channel envelope) sarar. Sadece zarf (lastBuildDate vb.)
+    her çalıştırmada tazelenir; item içerikleri buraya olduğu gibi girer."""
     build_date = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S %z")
     channel_link = SITE_URL or BASE_URL
     return (
@@ -827,105 +1010,201 @@ def build_rss(articles: list[Article]) -> str:
     )
 
 
-def write_rss(articles: list[Article]) -> None:
-    """RSS feed'ini docs/rss.xml olarak yazar."""
+def write_rss(registry: dict) -> None:
+    """RSS feed'ini docs/rss.xml olarak yazar. Her başarılı ("ok") kayıt için
+    item.xml önbelleğini diskten okur; hiçbir eski makalenin HTML/XML içeriği
+    burada yeniden HESAPLANMAZ, sadece dosyadan okunup birleştirilir. Yalnızca
+    bu çalıştırmada yeni işlenen makaleler için item.xml az önce üretilmiş
+    olur (process_new_article içinde)."""
+    ok_entries = [e for e in registry.values() if e.get("status") == "ok"]
+    ok_entries.sort(key=lambda e: e.get("fetched_at", ""), reverse=True)
+    items_xml: list[str] = []
+    for entry in ok_entries[:RSS_ITEM_LIMIT]:
+        item_path = OUTPUT_DIR / entry["slug"] / "item.xml"
+        try:
+            items_xml.append(item_path.read_text(encoding="utf-8"))
+        except FileNotFoundError:
+            # Önbellek eksikse (ör. elle silinmiş / eski format), bu tek
+            # makale için article.json'dan yeniden üretip önbelleği onar;
+            # diğer makaleler etkilenmez.
+            json_path = OUTPUT_DIR / entry["slug"] / "article.json"
+            try:
+                payload = json.loads(json_path.read_text(encoding="utf-8"))
+                article = Article(**payload)
+                xml = build_item_xml(article)
+                item_path.write_text(xml, encoding="utf-8")
+                items_xml.append(xml)
+            except (json.JSONDecodeError, TypeError, FileNotFoundError) as exc:
+                print(f"  [rss-uyarı] {entry['slug']} için item.xml onarılamadı: {exc}")
     DOCS_DIR.mkdir(parents=True, exist_ok=True)
-    RSS_PATH.write_text(build_rss(articles), encoding="utf-8")
-    print(f"[rss] {len(articles[:RSS_ITEM_LIMIT])} makale ile {RSS_PATH} güncellendi.")
+    RSS_PATH.write_text(build_rss_envelope(items_xml), encoding="utf-8")
+    print(f"[rss] {len(items_xml)} makale ile {RSS_PATH} güncellendi.")
 
 
-def crawl() -> list[Article]:
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-    all_articles: list[Article] = []
+def _record_success(registry: dict, news_id: str, article: Article, content_hash: str) -> None:
+    registry[news_id] = {
+        "slug": article.slug,
+        "url": article.url,
+        "date": article.date,
+        "fetched_at": article.fetched_at,
+        "status": "ok",
+        "retries": 0,
+        "last_error": "",
+        "content_hash": content_hash,
+    }
+
+
+def _record_failure(registry: dict, news_id: str, url: str, date_hint: str, error: str) -> None:
+    existing = registry.get(news_id, {})
+    registry[news_id] = {
+        "slug": existing.get("slug") or (url.rsplit("/", 1)[-1].removesuffix(".php")),
+        "url": url,
+        "date": existing.get("date") or date_hint,
+        "fetched_at": existing.get("fetched_at", ""),
+        "status": "failed",
+        "retries": int(existing.get("retries", 0)) + 1,
+        "last_error": error,
+        "content_hash": existing.get("content_hash", ""),
+    }
+
+
+def retry_failed(registry: dict) -> int:
+    """Önceki çalıştırmalarda başarısız olan haberleri tekrar dener. Hata
+    durumunda işlem asla tümüyle durmaz; her haber bağımsız denenir ve
+    başarısız kalanlar bir sonraki çalıştırmaya (bir sonraki 2 saatlik
+    döngüye) devredilir."""
+    failed_ids = [nid for nid, e in registry.items() if e.get("status") == "failed"]
+    if not failed_ids:
+        return 0
+    print(f"[tekrar-deneme] {len(failed_ids)} daha önce başarısız haber tekrar deneniyor.")
+    fixed = 0
+    for news_id in failed_ids:
+        entry = registry[news_id]
+        url = entry.get("url", "")
+        if not url:
+            continue
+        print(f"  [tekrar] {news_id} -> {url}")
+        article, content_hash, error = process_new_article(url)
+        if article:
+            _record_success(registry, news_id, article, content_hash)
+            fixed += 1
+            print(f"    [tamam] artık başarılı: {article.title}")
+        else:
+            _record_failure(registry, news_id, url, entry.get("date", ""), error)
+            print(f"    [hâlâ-başarısız] {error}")
+        time.sleep(DELAY_BETWEEN_REQUESTS)
+    return fixed
+
+
+def crawl_new_today() -> tuple[dict, int, int]:
+    """Sadece o gün (bugün, UTC) yayınlanan ve daha önce işlenmemiş haberleri
+    bulup işler. Tüm siteyi taramaz: listeleme sayfasını en yeniden başlayarak
+    okur ve kronolojik sırada ilk kez (a) zaten registry'de "ok" olan bir
+    habere ya da (b) bugüne ait olmayan bir tarihe rastladığı an DURUR, çünkü
+    listeleme kronolojik olduğundan ondan sonrası zaten eski/işlenmiş demektir."""
+    registry = load_registry()
+    fixed = retry_failed(registry)
+
+    new_count = 0
     page_url: str | None = NEWS_INDEX_URL
     page_num = 0
+    stop = False
 
-    while page_url:
+    while page_url and not stop:
         page_num += 1
-        if MAX_PAGES and page_num > MAX_PAGES:
-            print(f"  [limit] {MAX_PAGES} sayfa limitine ulaşıldı.")
+        if page_num > MAX_PAGES:
+            print(f"  [limit] {MAX_PAGES} sayfa güvenlik limitine ulaşıldı, durduruluyor.")
             break
 
-        print(f"[sayfa {page_num}] {page_url}")
+        print(f"[liste sayfa {page_num}] {page_url}")
         try:
             html = fetch(page_url)
         except requests.RequestException as exc:
-            print(f"  [hata] Sayfa alınamadı: {exc}")
+            print(f"  [hata] Listeleme sayfası alınamadı: {exc}")
             break
 
-        links = parse_article_links(html)
-        print(f"  {len(links)} makale linki bulundu.")
+        items = parse_listing_items(html)
+        print(f"  {len(items)} haber bulundu (bu sayfada).")
 
-        for link in links:
-            slug = link.rsplit("/", 1)[-1].removesuffix(".php")
-            json_path = OUTPUT_DIR / slug / "article.json"
-            if json_path.exists():
-                print(f"  [atla] {slug} (zaten kayıtlı)")
-                continue
+        for news_id, link, date_str in items:
+            existing = registry.get(news_id)
+            if existing and existing.get("status") == "ok":
+                print(f"  [dur] {news_id} zaten işlenmiş, liste kronolojik: tarama bitti.")
+                stop = True
+                break
 
-            print(f"  [çekiliyor] {slug}")
-            try:
-                article_html = fetch(link)
-            except requests.RequestException as exc:
-                print(f"  [hata] Makale alınamadı: {exc}")
-                continue
+            same_day = is_same_day_as_today(date_str)
+            if same_day is False:
+                print(f"  [dur] {news_id} bugüne ait değil ({date_str}): tarama bitti.")
+                stop = True
+                break
+            # same_day is None (tarih ayrıştırılamadı) ise temkinli davranılır
+            # ve haber yine de işlenir; site düzeni değişmiş olabilir, bir
+            # haberi atlamak sessiz veri kaybına yol açar.
 
-            article = parse_article(link, article_html)
-            article = translate_article(article)
-            save_article(article)
-            all_articles.append(article)
-            print(
-                f"  [tamam] {article.title} "
-                f"({len(article.body_paragraphs)} paragraf, "
-                f"{len(article.images)} görsel, {len(article.videos)} video)"
-            )
+            print(f"  [yeni] {news_id} çekiliyor: {link}")
+            article, content_hash, error = process_new_article(link)
+            if article:
+                _record_success(registry, news_id, article, content_hash)
+                new_count += 1
+                print(
+                    f"    [tamam] {article.title} "
+                    f"({len(article.body_paragraphs)} paragraf, "
+                    f"{len(article.images)} görsel, {len(article.videos)} video)"
+                )
+            else:
+                _record_failure(registry, news_id, link, date_str, error)
+                print(f"    [hata] {error} — bir sonraki döngüde tekrar denenecek.")
             time.sleep(DELAY_BETWEEN_REQUESTS)
+
+        if stop:
+            break
 
         next_page = parse_pagination(html)
         if next_page:
             page_url = next_page
             time.sleep(DELAY_BETWEEN_REQUESTS)
         else:
-            print("  [bilgi] Sonraki sayfa yok, tarama tamam.")
+            print("  [bilgi] Sonraki sayfa yok.")
             page_url = None
 
+    save_registry(registry)
+    return registry, new_count, fixed
+
+
+def write_index(registry: dict) -> None:
+    """Küçük bir insan-okunur özet indeks dosyası (data/articles/index.json)
+    yazar; registry'den üretildiği için tek tek article.json dosyalarını
+    tekrar okumaya gerek kalmaz (performans)."""
+    ok_entries = [e for e in registry.values() if e.get("status") == "ok"]
+    ok_entries.sort(key=lambda e: e.get("fetched_at", ""), reverse=True)
     index_path = OUTPUT_DIR / "index.json"
-    index_data = [
-        {
-            "slug": a.slug,
-            "title": a.title,
-            "date": a.date,
-            "author": a.author,
-            "url": a.url,
-            "paragraph_count": len(a.body_paragraphs),
-            "image_count": len(a.images),
-            "video_count": len(a.videos),
-        }
-        for a in all_articles
-    ]
+    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     index_path.write_text(
-        json.dumps(index_data, ensure_ascii=False, indent=2),
+        json.dumps(ok_entries, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
-    print(f"\n[toplam] {len(all_articles)} makale çekildi.")
     print(f"[indeks] {index_path}")
-
-    # RSS feed'i sadece bu çalıştırmada çekilenlerden değil, arşivdeki TÜM
-    # makalelerden üretilir (böylece feed her çalıştırmada dolu kalır).
-    write_rss(load_all_articles())
-
-    return all_articles
 
 
 def main() -> int:
-    print("GSMArena makale scraper'ı başlatılıyor...")
+    print("GSMArena makale scraper'ı başlatılıyor (sadece bugünün yeni haberleri)...")
     print(f"Çıktı dizini: {OUTPUT_DIR}")
+    print(f"Kayıt defteri: {REGISTRY_PATH}")
     print(f"Türkçe çeviri: {'açık' if ENABLE_TRANSLATION else 'kapalı'}")
-    articles = crawl()
-    if not articles:
-        print("[uyarı] Hiç makale çekilemedi.")
-        return 1
-    print(f"[başarılı] {len(articles)} makale tam içerikle kaydedildi.")
+
+    registry, new_count, fixed_count = crawl_new_today()
+    write_index(registry)
+    write_rss(registry)
+
+    total_ok = sum(1 for e in registry.values() if e.get("status") == "ok")
+    total_failed = sum(1 for e in registry.values() if e.get("status") == "failed")
+    print(
+        f"\n[özet] {new_count} yeni haber işlendi, {fixed_count} eski hata düzeldi, "
+        f"toplam {total_ok} başarılı / {total_failed} hâlâ başarısız kayıt var."
+    )
+    if total_failed:
+        print("[bilgi] Başarısız kayıtlar bir sonraki çalıştırmada otomatik tekrar denenecek.")
     return 0
 
 
