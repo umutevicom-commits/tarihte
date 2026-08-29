@@ -61,14 +61,27 @@ HISTORY_FILE = os.path.join("data", "history.json")
 GSMARENA_FEED_URL = "https://www.gsmarena.com/rss-news-reviews.php3"
 GSMARENA_BASE = "https://www.gsmarena.com/"
 
+# NOT: Önceki sürümde burada özel bir "bot" User-Agent'i (ör.
+# "MobilTeknolojiHaberleriTRBot/1.0 ...") kullanılıyordu. GSMArena'nın
+# CDN'i, tarayıcı imzasına uymayan User-Agent'leri "mobil" istemci olarak
+# sınıflandırıp isteği https://m.gsmarena.com/... alt alan adına
+# yönlendiriyor (redirect) — ama mobil alt alan adında bu RSS yolu
+# (rss-news-reviews.php3) YOK, bu da "404 Not Found" hatasına yol açıyordu
+# (bkz. GitHub Actions logu). Bu yüzden burada standart bir masaüstü
+# tarayıcı User-Agent'i kullanıyoruz; ayrıca aşağıdaki
+# get_with_retry() içinde, olası bir m.gsmarena.com yönlendirmesine karşı
+# ek bir güvenlik ağı da var.
 USER_AGENT = (
-    "MobilTeknolojiHaberleriTRBot/1.0 "
-    "(+https://github.com/; Turkce ceviri/atif ile haber agregatoru; "
-    "contact: info@example.com)"
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 )
 
 SESSION = requests.Session()
-SESSION.headers.update({"User-Agent": USER_AGENT, "Accept": "application/rss+xml, application/xml, text/xml"})
+SESSION.headers.update({
+    "User-Agent": USER_AGENT,
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+    "Accept-Language": "en-US,en;q=0.9",
+})
 
 REQUEST_DELAY_SECONDS = float(os.environ.get("REQUEST_DELAY_SECONDS", "0.3"))
 MAX_RETRIES = 5
@@ -80,7 +93,15 @@ MAX_RSS_ITEMS = int(os.environ.get("MAX_RSS_ITEMS", "80"))
 
 
 def get_with_retry(url: str, params: dict = None, timeout: int = 30) -> requests.Response:
-    """429/5xx durumlarında üstel bekleme ile yeniden dener."""
+    """429/5xx durumlarında üstel bekleme ile yeniden dener.
+
+    Ayrıca: istek www.gsmarena.com -> m.gsmarena.com'a yönlendirilip
+    (mobil CDN sınıflandırması) hedef sayfa mobil sürümde MEVCUT DEĞİLSE
+    (404), aynı yolu doğrudan www.gsmarena.com üzerinde bir kez daha
+    dener. Bu, redirect zincirini bozmadan (diğer sayfalar için normal
+    yönlendirme davranışı korunur) yalnızca bu spesifik başarısızlık
+    durumunu telafi eder.
+    """
     last_exc = None
     resp = None
     for attempt in range(MAX_RETRIES):
@@ -98,6 +119,18 @@ def get_with_retry(url: str, params: dict = None, timeout: int = 30) -> requests
                   f"(deneme {attempt + 1}/{MAX_RETRIES})")
             time.sleep(wait)
             continue
+
+        if resp.status_code == 404 and "m.gsmarena.com" in resp.url and "m.gsmarena.com" not in url:
+            forced_www_url = resp.url.replace("m.gsmarena.com", "www.gsmarena.com", 1)
+            print(f"  [uyarı] {resp.url} 404 döndürdü (mobil CDN yönlendirmesi); "
+                  f"doğrudan {forced_www_url} deneniyor.")
+            try:
+                forced_resp = SESSION.get(forced_www_url, params=params, timeout=timeout,
+                                           headers={"Host": "www.gsmarena.com"})
+                if forced_resp.status_code == 200:
+                    return forced_resp
+            except requests.exceptions.RequestException as exc:
+                last_exc = exc
 
         return resp
 
