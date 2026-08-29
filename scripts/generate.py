@@ -27,6 +27,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import mimetypes
 import os
 import re
 import sys
@@ -34,6 +35,7 @@ import time
 from dataclasses import asdict, dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
+from urllib.parse import urlparse
 
 import requests
 from bs4 import BeautifulSoup
@@ -49,6 +51,24 @@ RSS_PATH = DOCS_DIR / "rss.xml"
 SITE_URL = os.environ.get("SITE_URL", BASE_URL).rstrip("/")
 SITE_NAME = os.environ.get("SITE_NAME", "GSMArena Türkçe")
 RSS_ITEM_LIMIT = 60
+
+# Görseller GSMArena'nın kendi CDN'inden (fdn.gsmarena.com) doğrudan
+# hotlink'lenmek yerine indirilip data/images/<slug>/ altında SAKLANIR ve
+# RSS'e bu yayınlanan (GitHub Pages) adresle konur. Bu iki sorunu birden
+# çözer: (1) GSMArena'nın olası hotlink/referrer engeli görselin RSS
+# okuyucuda kırık çıkmasına yol açmaz, (2) görsel silinir/taşınırsa bile
+# kendi arşivimizde kalıcı olarak durur. Repodaki mevcut yayın adresi
+# (docs/rss.xml şu an bu domainde canlı) varsayılan değerdir; farklı bir
+# GitHub Pages adresine taşınırsa PAGES_BASE_URL ortam değişkeniyle geçilebilir.
+PAGES_BASE_URL = os.environ.get(
+    "PAGES_BASE_URL", "https://umutevicom-commits.github.io/tarihte"
+).rstrip("/")
+IMAGES_DIR = DATA_DIR / "images"
+# İndirilecek görseller için bilinen/izin verilen uzantılar; URL'de bunlardan
+# biri yoksa (ör. sorgu parametreli/uzantısız adresler) Content-Type
+# başlığından tahmin edilir, o da başarısız olursa .jpg varsayılır.
+IMAGE_EXT_FALLBACK = ".jpg"
+KNOWN_IMAGE_EXTS = (".jpg", ".jpeg", ".png", ".webp", ".gif", ".avif")
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -538,6 +558,77 @@ def fetch(url: str) -> str:
     return resp.text
 
 
+def _filename_from_url(url: str, content_type: str = "") -> str:
+    """URL yolundan bir dosya adı çıkarır (ör. '.../inline/-1200/gsmarena_001.jpg'
+    -> 'gsmarena_001.jpg'). Uzantı bilinen bir görsel uzantısı değilse (sorgu
+    parametreli/uzantısız adres), Content-Type başlığından tahmin edilir;
+    o da yoksa .jpg varsayılır."""
+    raw_name = Path(urlparse(url).path).name or "gorsel"
+    stem = Path(raw_name).stem or "gorsel"
+    ext = Path(raw_name).suffix.lower()
+    # Sadece harf/rakam/tire/alt çizgi bırak (URL parçası güvenilmez olabilir)
+    stem = re.sub(r"[^A-Za-z0-9_-]", "_", stem)[:80] or "gorsel"
+    if ext not in KNOWN_IMAGE_EXTS:
+        guessed = mimetypes.guess_extension(content_type.split(";")[0].strip()) if content_type else None
+        ext = guessed if guessed in KNOWN_IMAGE_EXTS else IMAGE_EXT_FALLBACK
+    return f"{stem}{ext}"
+
+
+def download_image(url: str, dest_dir: Path, used_names: set[str]) -> str | None:
+    """Bir görseli indirip dest_dir altına kaydeder. Aynı makale içinde
+    farklı görseller aynı dosya adına düşerse (ör. iki farklı boyut
+    varyantının aynı temel adı taşıması), adın sonuna kısa bir içerik
+    özeti eklenerek çakışma önlenir. Başarısız olursa None döner (çağıran
+    taraf bu durumda orijinal uzak URL'e düşer, akış hiçbir zaman durmaz)."""
+    try:
+        resp = SESSION.get(url, timeout=REQUEST_TIMEOUT)
+        resp.raise_for_status()
+        content = resp.content
+        if not content:
+            return None
+        filename = _filename_from_url(url, resp.headers.get("Content-Type", ""))
+        if filename in used_names:
+            digest = hashlib.sha256(content).hexdigest()[:8]
+            stem = Path(filename).stem
+            ext = Path(filename).suffix
+            filename = f"{stem}-{digest}{ext}"
+        dest_dir.mkdir(parents=True, exist_ok=True)
+        (dest_dir / filename).write_bytes(content)
+        used_names.add(filename)
+        return filename
+    except Exception as exc:  # noqa: BLE001 — tek görsel indirme hatası akışı durdurmasın
+        print(f"    [görsel-hata] {url} indirilemedi: {exc}")
+        return None
+
+
+def localize_images(article: Article) -> Article:
+    """Makalenin article.images listesindeki her görseli data/images/<slug>/
+    altına indirir ve URL'sini yayınlanan (GitHub Pages) adresle değiştirir,
+    ör: https://umutevicom-commits.github.io/tarihte/data/images/<slug>/<dosya>.
+    İndirme başarısız olan tekil bir görsel varsa (ağ hatası vb.) o görsel
+    için sadece orijinal GSMArena URL'i korunur; diğer görseller ve makalenin
+    geri kalanı etkilenmez."""
+    if not article.images:
+        return article
+    dest_dir = IMAGES_DIR / article.slug
+    used_names: set[str] = set()
+    localized: list[dict] = []
+    for img in article.images:
+        remote_url = img.get("url", "")
+        if not remote_url:
+            continue
+        filename = download_image(remote_url, dest_dir, used_names)
+        if filename:
+            public_url = f"{PAGES_BASE_URL}/data/images/{article.slug}/{filename}"
+            localized.append({"url": public_url, "alt": img.get("alt", "")})
+        else:
+            # İndirilemedi: orijinal uzak URL'e düş, görsel yine de RSS'te yer alır
+            localized.append(img)
+        time.sleep(0.2)
+    article.images = localized
+    return article
+
+
 def parse_article_links(html: str) -> list[str]:
     """Haber listeleme sayfasından makale URL'lerini çıkarır."""
     soup = BeautifulSoup(html, "html.parser")
@@ -890,12 +981,18 @@ def article_to_html(article: Article) -> str:
         title = _xml_escape(vid.get("title") or "Video")
         low = src.lower()
         if low.endswith((".mp4", ".webm", ".ogg", ".ogv")):
+            mime = {
+                ".mp4": "video/mp4",
+                ".webm": "video/webm",
+                ".ogg": "video/ogg",
+                ".ogv": "video/ogg",
+            }[next(ext for ext in (".mp4", ".webm", ".ogg", ".ogv") if low.endswith(ext))]
             parts.append(
                 f'<p style="clear:both;margin:16px 0;">'
                 f'<video controls preload="metadata" title="{title}" '
                 f'style="display:block;width:100%;height:auto;max-width:100%;'
-                f'margin:0;float:none;clear:both;background:#000;">'
-                f'<source src="{_xml_escape(src)}" /></video></p>'
+                f'aspect-ratio:16/9;margin:0;float:none;clear:both;background:#000;">'
+                f'<source src="{_xml_escape(src)}" type="{mime}" /></video></p>'
             )
         else:
             # Sabit en-boy oranlı (16:9) sarmalayıcı: iframe'e genişlik/
@@ -984,6 +1081,7 @@ def process_new_article(link: str) -> tuple[Article | None, str, str]:
     try:
         content_hash = hashlib.sha256(article_html.encode("utf-8")).hexdigest()
         article = parse_article(link, article_html)
+        article = localize_images(article)
         article = translate_article(article)
         save_article(article)
     except Exception as exc:  # noqa: BLE001 — tek haberdeki beklenmeyen hata tüm koşuyu durdurmasın
