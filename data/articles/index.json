@@ -1,32 +1,32 @@
 [
   {
-    "slug": "whatsapp_scam_alert_feature_android_beta_users-news-74404",
-    "url": "https://www.gsmarena.com/whatsapp_scam_alert_feature_android_beta_users-news-74404.php",
+    "content_hash": "a8c63dbf18ad2f7885edc389007ae7c44e250327dce2b0e8ca3eec678abf2016",
     "date": "30 August 2026",
     "fetched_at": "2026-08-30T10:31:17.468598+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a8c63dbf18ad2f7885edc389007ae7c44e250327dce2b0e8ca3eec678abf2016"
+    "retries": 0,
+    "slug": "whatsapp_scam_alert_feature_android_beta_users-news-74404",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_scam_alert_feature_android_beta_users-news-74404.php"
   },
   {
-    "slug": "weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375",
-    "url": "https://www.gsmarena.com/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375.php",
+    "content_hash": "2c582b83e26e599c54c450efc7f9bb856f0062ddcd0f37c8cf19ccadf0535d82",
     "date": "30 August 2026",
     "fetched_at": "2026-08-30T10:30:57.913142+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2c582b83e26e599c54c450efc7f9bb856f0062ddcd0f37c8cf19ccadf0535d82"
+    "retries": 0,
+    "slug": "weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375.php"
   },
   {
-    "slug": "weekly_poll_will_you_buy_the_samsung_galaxy_s26_fe-news-74370",
-    "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_samsung_galaxy_s26_fe-news-74370.php",
+    "content_hash": "bc0f8408ceb8ee19999d9515a49f259bb09223c9b7f9149594a370b05361d030",
     "date": "30 August 2026",
     "fetched_at": "2026-08-30T10:30:37.406950+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "bc0f8408ceb8ee19999d9515a49f259bb09223c9b7f9149594a370b05361d030"
+    "retries": 0,
+    "slug": "weekly_poll_will_you_buy_the_samsung_galaxy_s26_fe-news-74370",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_samsung_galaxy_s26_fe-news-74370.php"
   }
 ]
