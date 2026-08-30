@@ -1,13 +1,23 @@
 [
   {
-    "slug": "motorolas_razr_fold_is_finally_on_its_way_to_verizon-news-74402",
-    "url": "https://www.gsmarena.com/motorolas_razr_fold_is_finally_on_its_way_to_verizon-news-74402.php",
-    "date": "29 August 2026",
-    "fetched_at": "2026-08-29T23:44:37.696756+00:00",
+    "slug": "whatsapp_scam_alert_feature_android_beta_users-news-74404",
+    "url": "https://www.gsmarena.com/whatsapp_scam_alert_feature_android_beta_users-news-74404.php",
+    "date": "30 August 2026",
+    "fetched_at": "2026-08-30T02:38:29.923623+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "73ab21c0d9481d5754190f9655881f40efbca41edf9706a837e7d2f8d07e399b"
+    "content_hash": "c37b9b45b578c14075f37e953bd4fc40df562e791e1d140bd5487f49f4a8821c"
+  },
+  {
+    "content_hash": "73ab21c0d9481d5754190f9655881f40efbca41edf9706a837e7d2f8d07e399b",
+    "date": "29 August 2026",
+    "fetched_at": "2026-08-29T23:44:37.696756+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorolas_razr_fold_is_finally_on_its_way_to_verizon-news-74402",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorolas_razr_fold_is_finally_on_its_way_to_verizon-news-74402.php"
   },
   {
     "content_hash": "e70e6bb3299c4310ae6fe366708e558cbc956c6d403e45c795e4c131395a82b8",

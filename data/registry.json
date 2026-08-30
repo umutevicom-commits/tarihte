@@ -78,5 +78,15 @@
     "slug": "huawei_mate_xt_2_design-news-74403",
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_mate_xt_2_design-news-74403.php"
+  },
+  "74404": {
+    "content_hash": "c37b9b45b578c14075f37e953bd4fc40df562e791e1d140bd5487f49f4a8821c",
+    "date": "30 August 2026",
+    "fetched_at": "2026-08-30T02:38:29.923623+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "whatsapp_scam_alert_feature_android_beta_users-news-74404",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_scam_alert_feature_android_beta_users-news-74404.php"
   }
 }
