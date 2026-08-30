@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 """
-GSMArena makale scraper'ı — SADECE O GÜN YAYINLANAN yeni haberler için.
+GSMArena makale scraper'ı — sadece belirlenen tarama aralığında (varsayılan:
+O GÜN YAYINLANAN; GSMARENA_LOOKBACK_DAYS ile genişletilebilir, ör. 7 için
+bugün + geçmiş 7 gün / haftalık çekim) yayınlanan yeni haberler için.
 
 Tüm siteyi baştan taramaz: haber listeleme sayfasını (news.php3) en yeni
 kayıttan başlayarak okur, listeleme sayfasındaki her öğenin yanında zaten
-görünen tarihi kullanarak bugüne ait OLMAYAN veya daha önce işlenmiş
-(kayıt defterinde "ok" durumunda) bir öğeye ulaşır ulaşmaz taramayı durdurur
-(liste kronolojik olduğundan ondan sonrası zaten eski/işlenmiş demektir).
+görünen tarihi kullanarak tarama aralığının DIŞINDA kalan veya daha önce
+işlenmiş (kayıt defterinde "ok" durumunda) bir öğeye ulaşır ulaşmaz taramayı
+durdurur (liste kronolojik olduğundan ondan sonrası zaten eski/işlenmiş
+demektir).
 
-Sadece bugüne ait yeni bulunan haberler için makale/haber sayfasının TAM
-içeriği çekilir (site'nin kendi RSS özet akışı asla kullanılmaz), çevrilir
+Sadece tarama aralığındaki yeni bulunan haberler için makale/haber sayfasının
+TAM içeriği çekilir (site'nin kendi RSS özet akışı asla kullanılmaz), çevrilir
 ve hem JSON hem de Markdown formatında kaydedilir.
 
 Kalıcı durum: data/registry.json — haber ID'sine (URL'deki "-news-<id>.php"
@@ -33,7 +36,7 @@ import re
 import sys
 import time
 from dataclasses import asdict, dataclass, field
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -77,14 +80,21 @@ HEADERS = {
     "Accept-Language": "en-US,en;q=0.9,tr;q=0.8",
 }
 REQUEST_TIMEOUT = 30
-# Artık tüm site değil, sadece bugüne ait yeni haberler işlendiğinden bir
-# çalıştırmada tipik olarak tek haneli/düşük onlu sayıda istek yapılır; nezaket
-# gecikmesi bu yüzden güvenle kısaltıldı (performans isteği).
+# Artık tüm site değil, sadece belirlenen tarih aralığındaki (varsayılan:
+# bugün) yeni haberler işlendiğinden bir çalıştırmada tipik olarak tek
+# haneli/düşük onlu sayıda istek yapılır; nezaket gecikmesi bu yüzden
+# güvenle kısaltıldı (performans isteği).
 DELAY_BETWEEN_REQUESTS = 1.0  # saniye
-# Listeleme sayfası, taşma durumuna (bugüne ait haberlerin ilk sayfaya sığmadığı
-# yoğun günlere) karşı bir güvenlik sınırı; normal koşulda taramayı bugünün
-# haberleri bitince kendisi durdurur, bu sadece bir üst sınırdır.
-MAX_PAGES = int(os.environ.get("GSMARENA_MAX_PAGES", "5"))
+# Kaç günlük haberin taranacağı: 1 = sadece bugün (varsayılan, eski davranış),
+# 7 = bugün + geçmiş 7 gün (haftalık çekim). GSMARENA_LOOKBACK_DAYS ortam
+# değişkeniyle ayarlanır.
+LOOKBACK_DAYS = max(1, int(os.environ.get("GSMARENA_LOOKBACK_DAYS", "1")))
+# Listeleme sayfası, taşma durumuna (tarama aralığındaki haberlerin ilk
+# sayfalara sığmadığı yoğun dönemlere) karşı bir güvenlik sınırı; normal
+# koşulda taramayı aralıktaki haberler bitince kendisi durdurur, bu sadece
+# bir üst sınırdır. Aralık genişledikçe (haftalık çekimde) varsayılan sınır
+# da otomatik büyür; GSMARENA_MAX_PAGES açıkça verilirse o değer esas alınır.
+MAX_PAGES = int(os.environ.get("GSMARENA_MAX_PAGES", str(max(5, LOOKBACK_DAYS * 5))))
 DELAY_BETWEEN_TRANSLATIONS = 0.5  # saniye
 # Çeviri yapılıp yapılmayacağı (1=evet, 0=hayır)
 ENABLE_TRANSLATION = os.environ.get("GSMARENA_TRANSLATE", "1") != "0"
@@ -726,17 +736,22 @@ def parse_listing_items(html: str) -> list[tuple[str, str, str]]:
     return items
 
 
-def is_same_day_as_today(date_str: str) -> bool | None:
-    """date_str ('29 August 2026') bugünün tarihiyle (UTC) aynı gün mü?
-    Ayrıştırılamazsa None döner (bilinmiyor demektir; çağıran taraf bu
-    durumda temkinli davranıp o haberi yine de işlemeyi seçebilir)."""
+def is_within_lookback_window(date_str: str) -> bool | None:
+    """date_str ('29 August 2026') LOOKBACK_DAYS ile belirlenen tarama
+    aralığının içinde mi (bugün ve geriye doğru LOOKBACK_DAYS-1 gün, UTC)?
+    LOOKBACK_DAYS=1 (varsayılan) iken bu, eski "sadece bugün" davranışıyla
+    birebir aynıdır. Ayrıştırılamazsa None döner (bilinmiyor demektir;
+    çağıran taraf bu durumda temkinli davranıp o haberi yine de işlemeyi
+    seçebilir)."""
     if not date_str:
         return None
     try:
         parsed = datetime.strptime(date_str, "%d %B %Y").date()
     except ValueError:
         return None
-    return parsed == datetime.now(timezone.utc).date()
+    today = datetime.now(timezone.utc).date()
+    earliest = today - timedelta(days=LOOKBACK_DAYS - 1)
+    return earliest <= parsed <= today
 
 
 def parse_pagination(html: str) -> str | None:
@@ -1278,11 +1293,13 @@ def retry_failed(registry: dict) -> int:
 
 
 def crawl_new_today() -> tuple[dict, int, int]:
-    """Sadece o gün (bugün, UTC) yayınlanan ve daha önce işlenmemiş haberleri
-    bulup işler. Tüm siteyi taramaz: listeleme sayfasını en yeniden başlayarak
-    okur ve kronolojik sırada ilk kez (a) zaten registry'de "ok" olan bir
-    habere ya da (b) bugüne ait olmayan bir tarihe rastladığı an DURUR, çünkü
-    listeleme kronolojik olduğundan ondan sonrası zaten eski/işlenmiş demektir."""
+    """Tarama aralığında (varsayılan: sadece bugün, UTC; LOOKBACK_DAYS ile
+    genişletilebilir — ör. 7 için bugün + geçmiş 7 gün) yayınlanan ve daha
+    önce işlenmemiş haberleri bulup işler. Tüm siteyi taramaz: listeleme
+    sayfasını en yeniden başlayarak okur ve kronolojik sırada ilk kez
+    (a) zaten registry'de "ok" olan bir habere ya da (b) tarama aralığının
+    dışında bir tarihe rastladığı an DURUR, çünkü listeleme kronolojik
+    olduğundan ondan sonrası zaten eski/işlenmiş demektir."""
     registry = load_registry()
     fixed = retry_failed(registry)
 
@@ -1314,12 +1331,12 @@ def crawl_new_today() -> tuple[dict, int, int]:
                 stop = True
                 break
 
-            same_day = is_same_day_as_today(date_str)
-            if same_day is False:
-                print(f"  [dur] {news_id} bugüne ait değil ({date_str}): tarama bitti.")
+            in_window = is_within_lookback_window(date_str)
+            if in_window is False:
+                print(f"  [dur] {news_id} tarama aralığının dışında ({date_str}): tarama bitti.")
                 stop = True
                 break
-            # same_day is None (tarih ayrıştırılamadı) ise temkinli davranılır
+            # in_window is None (tarih ayrıştırılamadı) ise temkinli davranılır
             # ve haber yine de işlenir; site düzeni değişmiş olabilir, bir
             # haberi atlamak sessiz veri kaybına yol açar.
 
@@ -1369,7 +1386,8 @@ def write_index(registry: dict) -> None:
 
 
 def main() -> int:
-    print("GSMArena makale scraper'ı başlatılıyor (sadece bugünün yeni haberleri)...")
+    window_desc = "sadece bugünün" if LOOKBACK_DAYS == 1 else f"bugün + geçmiş {LOOKBACK_DAYS - 1} günün"
+    print(f"GSMArena makale scraper'ı başlatılıyor ({window_desc} yeni haberleri)...")
     print(f"Çıktı dizini: {OUTPUT_DIR}")
     print(f"Kayıt defteri: {REGISTRY_PATH}")
     print(f"Türkçe çeviri: {'açık' if ENABLE_TRANSLATION else 'kapalı'}")
