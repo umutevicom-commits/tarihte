@@ -19,6 +19,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375.php"
   },
+  "74400": {
+    "content_hash": "5c5ecd0420488931d79c284420deb017919edf8a72f3010b7dcc5e7223db2722",
+    "date": "30 August 2026",
+    "fetched_at": "2026-08-30T14:35:36.151776+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_iphone_17_lineup_discounted_galaxy_s26_and_xiaomi_17_on_sale-news-74400",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_iphone_17_lineup_discounted_galaxy_s26_and_xiaomi_17_on_sale-news-74400.php"
+  },
   "74404": {
     "content_hash": "a8c63dbf18ad2f7885edc389007ae7c44e250327dce2b0e8ca3eec678abf2016",
     "date": "30 August 2026",
@@ -28,5 +38,15 @@
     "slug": "whatsapp_scam_alert_feature_android_beta_users-news-74404",
     "status": "ok",
     "url": "https://www.gsmarena.com/whatsapp_scam_alert_feature_android_beta_users-news-74404.php"
+  },
+  "74405": {
+    "content_hash": "6a76bf28953b1ff890ccaa8e2122876cfd978a8c02adabf922dbfecfc14f21f1",
+    "date": "30 August 2026",
+    "fetched_at": "2026-08-30T14:35:20.750592+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a35_galaxy_a56_one_ui_9_beta_spotted-news-74405",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a35_galaxy_a56_one_ui_9_beta_spotted-news-74405.php"
   }
 }
