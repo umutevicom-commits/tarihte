@@ -560,14 +560,21 @@ def fetch(url: str) -> str:
 
 def _filename_from_url(url: str, content_type: str = "") -> str:
     """URL yolundan bir dosya adı çıkarır (ör. '.../inline/-1200/gsmarena_001.jpg'
-    -> 'gsmarena_001.jpg'). Uzantı bilinen bir görsel uzantısı değilse (sorgu
-    parametreli/uzantısız adres), Content-Type başlığından tahmin edilir;
-    o da yoksa .jpg varsayılır."""
+    -> 'immaculate_001.jpg'). Uzantı bilinen bir görsel uzantısı değilse
+    (sorgu parametreli/uzantısız adres), Content-Type başlığından tahmin
+    edilir; o da yoksa .jpg varsayılır.
+
+    NOT: GSMArena'nın kendi CDN dosya adları ('gsmarena_001.jpg' gibi)
+    olduğu gibi bırakılmaz — indirilip yayınlanan görsel artık bizim
+    sitemize ait olduğundan, adın içindeki 'gsmarena' kısmı 'immaculate'
+    ile değiştirilir (ör. 'gsmarena_001.jpg' -> 'immaculate_001.jpg').
+    Adın başka bir bölümüne dokunulmaz, sadece bu kelime değişir."""
     raw_name = Path(urlparse(url).path).name or "gorsel"
     stem = Path(raw_name).stem or "gorsel"
     ext = Path(raw_name).suffix.lower()
     # Sadece harf/rakam/tire/alt çizgi bırak (URL parçası güvenilmez olabilir)
     stem = re.sub(r"[^A-Za-z0-9_-]", "_", stem)[:80] or "gorsel"
+    stem = re.sub(r"(?i)gsmarena", "immaculate", stem)
     if ext not in KNOWN_IMAGE_EXTS:
         guessed = mimetypes.guess_extension(content_type.split(";")[0].strip()) if content_type else None
         ext = guessed if guessed in KNOWN_IMAGE_EXTS else IMAGE_EXT_FALLBACK
