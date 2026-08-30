@@ -1,0 +1,53 @@
+{
+  "url": "https://www.gsmarena.com/whatsapp_scam_alert_feature_android_beta_users-news-74404.php",
+  "slug": "whatsapp_scam_alert_feature_android_beta_users-news-74404",
+  "title": "WhatsApp's Scam Alert feature is now available to beta users on Android",
+  "news_id": "74404",
+  "date": "30 August 2026",
+  "author": "Sagar",
+  "tags": [
+    "Featured",
+    "WhatsApp",
+    "Android",
+    "Apps",
+    "Online services",
+    "Social networks"
+  ],
+  "body_paragraphs": [
+    "Back in June, we learned that WhatsApp was developing a Scam Alert feature, which Meta officially detailed over two weeks ago. While WhatsApp hasn't yet revealed exactly when the Scam Alert feature will roll out to everyone, the public release shouldn't be far off, as it's now available to some Android users enrolled in WhatsApp's beta program.",
+    "This revelation comes from the folks at WABetaInfo, who discovered this development on beta version 2.26.34.1 of WhatsApp for Android.",
+    "As the name suggests, Scam Alert will warn users if an incoming message from an unknown sender appears to be a scam, without the sender knowing the recipient is using Scam Alert.",
+    "When a WhatsApp user receives a Scam Alert warning, they can mark the sender as trusted or block and report them. If they mark the chat as trusted, they can also share the last five messages from that conversation with WhatsApp to help improve the feature's accuracy.",
+    "However, to work, Scam Alert must be manually enabled in WhatsApp for Android's Settings > Account menu, since the feature is optional.",
+    "In an official blog post, Meta described WhatsApp's Scam Alert as \" a new, optional feature that runs an on-device machine learning model to alert a user about potential scam messages. \"",
+    "\" No message content leaves the device for classification or is auto-reported to WhatsApp, Meta, or anyone else. The feature complements end-to-end encryption while enabling a user-controlled, optional scam alert when the model believes there’s a likely scam, \" Meta further said.",
+    "You can read the complete post here to learn more about the Scam Alert feature."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/whatsapp_scam_alert_feature_android_beta_users-news-74404/immaculate_001.jpg",
+      "alt": "WhatsApp's Scam Alert feature is now available to beta users on Android"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-08-30T10:31:17.468598+00:00",
+  "title_tr": "WhatsApp'ın Dolandırıcılık Uyarısı özelliği artık Android'deki beta kullanıcıları tarafından kullanılabilir",
+  "body_paragraphs_tr": [
+    "Haziran ayında, WhatsApp'ın iki hafta önce Meta'nın resmi olarak detaylandırdığı bir Dolandırıcılık Uyarısı özelliği geliştirdiğini öğrendik. WhatsApp, Dolandırıcılık Uyarısı özelliğinin herkese ne zaman sunulacağını henüz tam olarak açıklamamış olsa da, WhatsApp'ın beta programına kayıtlı bazı Android kullanıcıları için artık mevcut olduğu için kamuya açık sürüm çok uzakta olmamalı.",
+    "Bu açıklama, bu gelişmeyi Android için WhatsApp'ın beta sürümü 2.26.34.1 'de keşfeden WABetaInfo'daki kişilerden geliyor.",
+    "Adından da anlaşılacağı gibi, Dolandırıcılık Uyarısı, bilinmeyen bir gönderenden gelen bir mesajın dolandırıcılık gibi görünmesi durumunda, gönderenin alıcının Dolandırıcılık Uyarısı kullandığını bilmeden kullanıcıları uyaracaktır.",
+    "Bir WhatsApp kullanıcısı bir Dolandırıcılık Uyarısı aldığında, göndereni güvenilir olarak işaretleyebilir veya engelleyebilir ve bildirebilir. Sohbeti güvenilir olarak işaretlerlerse, özelliğin doğruluğunu artırmaya yardımcı olmak için bu sohbetten gelen son beş mesajı WhatsApp ile de paylaşabilirler.",
+    "Ancak, bu özellik isteğe bağlı olduğundan, Dolandırıcılık Uyarısı'nın çalışabilmesi için Android'in Ayarlar > Hesap menüsü için WhatsApp'ta manuel olarak etkinleştirilmesi gerekir.",
+    "Resmi bir blog gönderisinde Meta, WhatsApp'ın Dolandırıcılık Uyarısı'nı \" bir kullanıcıyı olası dolandırıcılık mesajları hakkında uyarmak için cihaz içi makine öğrenimi modelini çalıştıran yeni, isteğe bağlı bir özellik\" olarak nitelendirdi.",
+    "\" Hiçbir mesaj içeriği sınıflandırma için cihazdan ayrılmıyor veya WhatsApp'a, Meta'ya veya başka birine otomatik olarak bildirilmiyor. Bu özellik, model olası bir dolandırıcılık olduğuna inandığında kullanıcı kontrollü, isteğe bağlı bir dolandırıcılık uyarısı sağlarken uçtan uca şifrelemeyi tamamlıyor\" dedi.",
+    "Dolandırıcılık Uyarısı özelliği hakkında daha fazla bilgi edinmek için gönderinin tamamını buradan okuyabilirsiniz."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "WhatsApp",
+    "Android",
+    "Uygulamalar",
+    "Online Hizmetler",
+    "Sosyal ağlar"
+  ]
+}

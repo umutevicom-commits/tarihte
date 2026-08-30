@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>https://www.gsmarena.com</link>
+    <atom:link href="https://www.gsmarena.com/rss.xml" rel="self" type="application/rss+xml" />
+    <description>GSMArena haberlerinin eksiksiz Türkçe çevirisi</description>
+    <language>tr</language>
+    <lastBuildDate>Sun, 30 Aug 2026 10:31:41 +0000</lastBuildDate>
+    <item>
+      <title>WhatsApp'ın Dolandırıcılık Uyarısı özelliği artık Android'deki beta kullanıcıları tarafından kullanılabilir</title>
+      <link>https://www.gsmarena.com/whatsapp_scam_alert_feature_android_beta_users-news-74404.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/whatsapp_scam_alert_feature_android_beta_users-news-74404.php</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <author>Sagar</author>
+      <category>Öne Çıkanlar</category><category>WhatsApp</category><category>Android</category><category>Uygulamalar</category><category>Online Hizmetler</category><category>Sosyal ağlar</category>
+      <description>Haziran ayında, WhatsApp'ın iki hafta önce Meta'nın resmi olarak detaylandırdığı bir Dolandırıcılık Uyarısı özelliği geliştirdiğini öğrendik. WhatsApp, Dolandırıcılık Uyarısı özelliğinin herkese ne zaman sunulacağını henüz tam olarak açıklamamış olsa da, WhatsApp'ın beta programına kayıtlı bazı Android kullanıcıları için artık mevcut olduğu için kamuya açık sürüm çok uzakta olmamalı.</description>
+      <content:encoded><![CDATA[<p>Haziran ayında, WhatsApp'ın iki hafta önce Meta'nın resmi olarak detaylandırdığı bir Dolandırıcılık Uyarısı özelliği geliştirdiğini öğrendik. WhatsApp, Dolandırıcılık Uyarısı özelliğinin herkese ne zaman sunulacağını henüz tam olarak açıklamamış olsa da, WhatsApp'ın beta programına kayıtlı bazı Android kullanıcıları için artık mevcut olduğu için kamuya açık sürüm çok uzakta olmamalı.</p>
+<p>Bu açıklama, bu gelişmeyi Android için WhatsApp'ın beta sürümü 2.26.34.1 'de keşfeden WABetaInfo'daki kişilerden geliyor.</p>
+<p>Adından da anlaşılacağı gibi, Dolandırıcılık Uyarısı, bilinmeyen bir gönderenden gelen bir mesajın dolandırıcılık gibi görünmesi durumunda, gönderenin alıcının Dolandırıcılık Uyarısı kullandığını bilmeden kullanıcıları uyaracaktır.</p>
+<p>Bir WhatsApp kullanıcısı bir Dolandırıcılık Uyarısı aldığında, göndereni güvenilir olarak işaretleyebilir veya engelleyebilir ve bildirebilir. Sohbeti güvenilir olarak işaretlerlerse, özelliğin doğruluğunu artırmaya yardımcı olmak için bu sohbetten gelen son beş mesajı WhatsApp ile de paylaşabilirler.</p>
+<p>Ancak, bu özellik isteğe bağlı olduğundan, Dolandırıcılık Uyarısı'nın çalışabilmesi için Android'in Ayarlar &gt; Hesap menüsü için WhatsApp'ta manuel olarak etkinleştirilmesi gerekir.</p>
+<p>Resmi bir blog gönderisinde Meta, WhatsApp'ın Dolandırıcılık Uyarısı'nı &quot; bir kullanıcıyı olası dolandırıcılık mesajları hakkında uyarmak için cihaz içi makine öğrenimi modelini çalıştıran yeni, isteğe bağlı bir özellik&quot; olarak nitelendirdi.</p>
+<p>&quot; Hiçbir mesaj içeriği sınıflandırma için cihazdan ayrılmıyor veya WhatsApp'a, Meta'ya veya başka birine otomatik olarak bildirilmiyor. Bu özellik, model olası bir dolandırıcılık olduğuna inandığında kullanıcı kontrollü, isteğe bağlı bir dolandırıcılık uyarısı sağlarken uçtan uca şifrelemeyi tamamlıyor&quot; dedi.</p>
+<p>Dolandırıcılık Uyarısı özelliği hakkında daha fazla bilgi edinmek için gönderinin tamamını buradan okuyabilirsiniz.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/whatsapp_scam_alert_feature_android_beta_users-news-74404/immaculate_001.jpg" alt="WhatsApp's Scam Alert feature is now available to beta users on Android" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Haftalık anket sonuçları: Honor Robot Phone kamera yetenekleriyle kalabalıkta boy gösteriyor</title>
+      <link>https://www.gsmarena.com/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375.php</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <author>Peter</author>
+      <category>Öne Çıkanlar</category><category>Haftalık anket</category><category>Honor</category>
+      <description>Geçen haftaki anket, insanların kamera ve yapay zeka yetenekleri için Honor Robot Phone'la ilgilendiğini gösteriyor. Anketin amaçları doğrultusunda, uygunluk sorunlarını bir kenara bırakıyoruz (şimdilik telefon yalnızca Çin'de mevcut), ancak fiyat sorununu göz ardı etmek daha zor.</description>
+      <content:encoded><![CDATA[<p>Geçen haftaki anket, insanların kamera ve yapay zeka yetenekleri için Honor Robot Phone'la ilgilendiğini gösteriyor. Anketin amaçları doğrultusunda, uygunluk sorunlarını bir kenara bırakıyoruz (şimdilik telefon yalnızca Çin'de mevcut), ancak fiyat sorununu göz ardı etmek daha zor.</p>
+<p>Gerçekten de, Honor gelecekteki gelişim için bu form faktörünü takip etmeyi seçerse, varsayımsal bir gelecek modeli yeni hayranlar kazanabilir. Mevcut modele gelince, ana işini yaptı – dikkat çekti – ancak izleyicilerin çoğu buna çok fazla para harcamaya istekli değil.</p>
+<p>Robot Telefonun gimbalini iş başında onurlandırın</p>
+<p>Bir Honor Robot Telefonu satın alabilecek olanlar arasında, çoğu bunu kamera için yapardı – gimbal, tipik bir telefonun eşleşemeyeceği olasılıkları açar. İçerik oluşturucular, bu özelliğin telefonlarında yerleşik olmasını değerli bulabilir.</p>
+<p>Telefonu yapay zeka destekli bir robota dönüştürmeye çalışan yapay zeka özelliklerine bir miktar ilgi var, ancak bu noktada bu daha çok bir merak konusu.</p>
+<p>Bu kavramdaki değeri görmeyen birçok insan var. Bazıları hareketli parçaların kırılganlığından endişe duyuyor – gimbal kırılırsa, pahalı bir onarım olacak. Yine, fiyat da önemli bir konudur. Ve her zamanki YZ karşıtı duyarlılık da var.</p>
+<p>Bazı iyi haberler var – Honor, Magic9 serisinin (gelecek ay gelecek) Robot Telefon ile aynı Arri özelliklerine sahip olacağını söyledi. Bunlar arasında yerel Log - C3 video kodlaması, Lut renk derecelendirmesi ve Arri sinema kameralarının görünümünü ve hissini kopyalayan özel bir sinema modu bulunur.</p>
+<p>Magic9 telefonlarında açıkçası gimbals olmayacak, ancak DJI Osmo Mobile gibi bir şeyle bunu düzeltmek yeterince kolay.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375/immaculate_005.jpg" alt="Honor Robot Phone's gimbal in action" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375/immaculate_003.jpg" alt="Honor Robot Phone's gimbal in action" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_honor_robot_phone_draws_in_a_crowd_with_its_camera_capabilities-news-74375/immaculate_001.png" alt="Weekly poll results: the Honor Robot Phone draws in a crowd with its camera capabilities" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Haftalık anket: Samsung Galaxy S26 FE'yi satın alacak mısınız?</title>
+      <link>https://www.gsmarena.com/weekly_poll_will_you_buy_the_samsung_galaxy_s26_fe-news-74370.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/weekly_poll_will_you_buy_the_samsung_galaxy_s26_fe-news-74370.php</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <author>Peter</author>
+      <category>Öne Çıkanlar</category><category>Haftalık anket</category><category>Samsung</category>
+      <description>Samsung Galaxy S26 FE burada ve bir bakıma başından beri bizimle birlikteymiş gibi hissettiriyor. S25 FE, genel olarak S24 FE'ye göre iyi bir yükseltme oldu. İyileştirmeler listesi, Exynos 2400 yonga setinin daha iyi bir kutusunu, daha büyük bir 4.900mAh bataryayı (+200mAh) ve daha hızlı 45W kablolu şarjı (25W'tan, kablosuz her ikisinde de 15W) içeriyor. S25 FE ayrıca selfie kamerası için yeni bir 12MP sensör (10MP'den fazla) ve daha premium bir Gelişmiş Zırh Alüminyum gövdesi (S24 FE normal alüminyum kullandı) getirdi.</description>
+      <content:encoded><![CDATA[<p>Samsung Galaxy S26 FE burada ve bir bakıma başından beri bizimle birlikteymiş gibi hissettiriyor. S25 FE, genel olarak S24 FE'ye göre iyi bir yükseltme oldu. İyileştirmeler listesi, Exynos 2400 yonga setinin daha iyi bir kutusunu, daha büyük bir 4.900mAh bataryayı (+200mAh) ve daha hızlı 45W kablolu şarjı (25W'tan, kablosuz her ikisinde de 15W) içeriyor. S25 FE ayrıca selfie kamerası için yeni bir 12MP sensör (10MP'den fazla) ve daha premium bir Gelişmiş Zırh Alüminyum gövdesi (S24 FE normal alüminyum kullandı) getirdi.</p>
+<p>Tamam, bunlar sokaklarda bağırmanıza neden olacak türden yükseltmeler değil, ancak S26 FE yükseltmelerini S25 FE: Exynos 2500 üzerinden düşünün. İşte bu. Aslında, bazı indirimler de var - Samsung, S26 FE (sadece alüminyum) için Zırh Alüminyumundan bahsetmiyor ve USB - C bağlantı noktası 2.0. Spesifikasyon karşılaştırmamızı kontrol edin, bir yıllık çalışma için gösterilecek fazla bir şey yok. Ve daha kötü haberler de var.</p>
+<p>Galaxy S26 FE'nin (128 GB depolama alanı) başlangıç fiyatı 700 $ – bu, S25 FE'nin lansman fiyatından 50 $ daha fazla. S26+' nın zaman zaman 850 $ 'a düştüğünü gördük ve bu daha fazla RAM (8GB yerine 12GB) ve temel olarak 256GB depolama alanı ile. Tabii ki, S26 FE'nin fiyatı da düşecek – S26+ ve A57 arasında doğru noktayı bulmak zorunda kalacak.</p>
+<p>Kuşkusuz, 700 $ size yalnızca Apple'dan 128 GB depolama alanına sahip eski bir iPhone 16 satın alır (17 'si 800 $' dır). Pixel 11 (256GB) bile 900 $ 'dan başlıyor. Bu nedenle, Samsung'un birincil rakipleriyle karşılaştırıldığında, 700 $ rekabetçi bir fiyattır. Bununla birlikte, bu üçünün dışındaki markalara bakmaya başladığınızda, yeni FE modeli için işler daha az gülünç hale gelir.</p>
+<p>Yine de dikkate alınması gereken olağan Samsung avantajları var. Telefon 7 yıl boyunca işletim sistemi ve güvenlik güncellemeleri alacak ve yeni Android 17 ve One UI 9 ile başlayacak. Bir UI 9 son derece özelleştirilebilir ve kablolu DeX de sunar.</p>
+<p>Peki, Samsung Galaxy S26 FE hakkında ne düşünüyorsunuz – kendinizi bir tane sahibi olarak görebiliyor musunuz? Onun yerine başka bir Galaxy mi tercih edersin?</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_will_you_buy_the_samsung_galaxy_s26_fe-news-74370/immaculate_001.jpg" alt="Weekly poll: will you buy the Samsung Galaxy S26 FE?" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<div style="clear:both;margin:16px 0;position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:#000;"><iframe src="https://www.youtube.com/embed/LUizCluJivc" title="Video" loading="lazy" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;border:0;float:none;"></iframe></div>]]></content:encoded>
+    </item>
+  </channel>
+</rss>
