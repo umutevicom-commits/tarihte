@@ -755,9 +755,23 @@ def extract_domain_from_url(url: str) -> str:
 
 
 def fix_url(src: str, page_url: str) -> str:
-    """Göreceli URL'yi mutlak URL'ye çevirir."""
+    """Göreceli URL'yi mutlak URL'ye çevirir.
+
+    NOT (bozuk-iframe düzeltmesi): "//www.youtube.com/embed/xxx" gibi
+    PROTOKOL-GÖRECELİ URL'ler ("/" ile başlar ama aslında başka bir domaine
+    işaret eder) burada özel olarak ele alınmalı. Bunlar önceden normal
+    site-göreceli bir yol ("/haber.php" gibi) sanılıp mevcut sayfanın
+    domaini önüne eklendiğinden, "https://www.gsmarena.com//www.youtube.com/..."
+    gibi ASLA açılamayacak, kırık bir URL üretiliyordu (tarayıcı bunu
+    gsmarena.com'un bir alt yolu sanıp orada arıyor, orası da iframe
+    içine gömülmeye izin vermediği için "bağlanmayı reddetti" hatası
+    veriyordu). Doğrusu, "//" ile başlayan URL'lerin şemasını (https:)
+    tamamlayıp OLDUĞU GİBİ (başka bir domaine işaret ettiği için) kullanmak.
+    """
     if src.startswith("http"):
         return src
+    if src.startswith("//"):
+        return f"https:{src}"
     domain = extract_domain_from_url(page_url)
     if src.startswith("/"):
         return f"https://{domain}{src}"
