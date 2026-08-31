@@ -158,5 +158,25 @@
     "slug": "the_arc_x1_handheld_gaming_console_announces_partnership_with_qualcomm-news-74414",
     "status": "ok",
     "url": "https://www.gsmarena.com/the_arc_x1_handheld_gaming_console_announces_partnership_with_qualcomm-news-74414.php"
+  },
+  "74417": {
+    "content_hash": "f49d63d404656451be6e42a5df0c6c5a0fa6b6d13b80de46d4dc0ed40a8b24ef",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T23:30:59.663977+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_s27_ultras_new_telephoto_camera_detailed-news-74417",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_ultras_new_telephoto_camera_detailed-news-74417.php"
+  },
+  "74418": {
+    "content_hash": "ec5009535f10ca68caeeed10c4e1ca835ffb6ef38ca16d8c31a252aacc1150b4",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T23:30:42.519827+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_magic9_pro_said_to_be_the_first_android_phone_with_a_square_selfie_sensor-news-74418",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_pro_said_to_be_the_first_android_phone_with_a_square_selfie_sensor-news-74418.php"
   }
 }
