@@ -68,5 +68,25 @@
     "slug": "samsung_galaxy_a35_galaxy_a56_one_ui_9_beta_spotted-news-74405",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_a35_galaxy_a56_one_ui_9_beta_spotted-news-74405.php"
+  },
+  "74406": {
+    "content_hash": "b464b003a5445e89cd3c523af6b877b6af453d936e9eaab916c1c75c177d8cb5",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T10:17:47.035471+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_mate_xt_2_colors_and_storage_variants_revealed_preorders_now_live-news-74406",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_mate_xt_2_colors_and_storage_variants_revealed_preorders_now_live-news-74406.php"
+  },
+  "74407": {
+    "content_hash": "8bd777600e8b523eee6f35fde36f9856ad6544a99bc1fbb085f8bb35e66f38ca",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T10:17:33.640820+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_pad_9_pro_max_does_geekbench_ahead_of_launch_-news-74407",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_pad_9_pro_max_does_geekbench_ahead_of_launch_-news-74407.php"
   }
 }
