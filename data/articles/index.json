@@ -1,23 +1,93 @@
 [
   {
-    "slug": "huawei_mate_xt_2_colors_and_storage_variants_revealed_preorders_now_live-news-74406",
-    "url": "https://www.gsmarena.com/huawei_mate_xt_2_colors_and_storage_variants_revealed_preorders_now_live-news-74406.php",
+    "slug": "poco_f9_ultras_eprel_label_promises_longer_battery_life_but_warns_of_worse_drop_resistance-news-74408",
+    "url": "https://www.gsmarena.com/poco_f9_ultras_eprel_label_promises_longer_battery_life_but_warns_of_worse_drop_resistance-news-74408.php",
     "date": "31 August 2026",
-    "fetched_at": "2026-08-31T10:17:47.035471+00:00",
+    "fetched_at": "2026-08-31T18:31:27.234149+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "b464b003a5445e89cd3c523af6b877b6af453d936e9eaab916c1c75c177d8cb5"
+    "content_hash": "4e4cc5dd7ad41b009d805b693a19b9bd21bb1189e15bd7a3625fe4cea085e597"
   },
   {
-    "slug": "xiaomi_pad_9_pro_max_does_geekbench_ahead_of_launch_-news-74407",
-    "url": "https://www.gsmarena.com/xiaomi_pad_9_pro_max_does_geekbench_ahead_of_launch_-news-74407.php",
+    "slug": "alleged_vivo_x500_pro_max_photo_and_handson_video_reveal_a_massive_camera_island-news-74409",
+    "url": "https://www.gsmarena.com/alleged_vivo_x500_pro_max_photo_and_handson_video_reveal_a_massive_camera_island-news-74409.php",
     "date": "31 August 2026",
-    "fetched_at": "2026-08-31T10:17:33.640820+00:00",
+    "fetched_at": "2026-08-31T18:31:06.253142+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "8bd777600e8b523eee6f35fde36f9856ad6544a99bc1fbb085f8bb35e66f38ca"
+    "content_hash": "bdd1bb68b9400841b90956c7d0acbaa36179fc61516433b6e9e0e1a35de4f970"
+  },
+  {
+    "slug": "huawei_matepad_pro_2026_is_going_global_this_week-news-74410",
+    "url": "https://www.gsmarena.com/huawei_matepad_pro_2026_is_going_global_this_week-news-74410.php",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T18:30:53.968476+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "951718645b7f6d26dfde5ba914f37d0506ede631dcf08f9e3c06222827595dae"
+  },
+  {
+    "slug": "vivo_t5_5g_camera_specs_revealed_ahead_of_launch-news-74412",
+    "url": "https://www.gsmarena.com/vivo_t5_5g_camera_specs_revealed_ahead_of_launch-news-74412.php",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T18:30:40.180235+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "dbd302448b9e42c8f86d01027a35417c191996a2e1e0c08df9aaade73278289d"
+  },
+  {
+    "slug": "poco_reveals_more_x8_and_x8_power_specs_ahead_of_their_september_4_launch-news-74413",
+    "url": "https://www.gsmarena.com/poco_reveals_more_x8_and_x8_power_specs_ahead_of_their_september_4_launch-news-74413.php",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T18:30:24.075118+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e61f859381b2543dd4f289b42021246dba97429f653ae5fa0e07ae2827de8ab7"
+  },
+  {
+    "slug": "the_samsung_galaxy_tab_s12_ultra_surfaces_on_geekbench_7_with_the_chipset_we_expected_to_see-news-74411",
+    "url": "https://www.gsmarena.com/the_samsung_galaxy_tab_s12_ultra_surfaces_on_geekbench_7_with_the_chipset_we_expected_to_see-news-74411.php",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T18:30:02.489056+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b0e0c270a07a7503480984f5cd9a0e755e8763d29e10ddcff613985df862d011"
+  },
+  {
+    "slug": "the_arc_x1_handheld_gaming_console_announces_partnership_with_qualcomm-news-74414",
+    "url": "https://www.gsmarena.com/the_arc_x1_handheld_gaming_console_announces_partnership_with_qualcomm-news-74414.php",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T18:29:35.646739+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d5c3a4e67a7563d9f2f18501859e315730a972751002714e9963870c8dd9b417"
+  },
+  {
+    "content_hash": "b464b003a5445e89cd3c523af6b877b6af453d936e9eaab916c1c75c177d8cb5",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T10:17:47.035471+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_mate_xt_2_colors_and_storage_variants_revealed_preorders_now_live-news-74406",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_mate_xt_2_colors_and_storage_variants_revealed_preorders_now_live-news-74406.php"
+  },
+  {
+    "content_hash": "8bd777600e8b523eee6f35fde36f9856ad6544a99bc1fbb085f8bb35e66f38ca",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T10:17:33.640820+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_pad_9_pro_max_does_geekbench_ahead_of_launch_-news-74407",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_pad_9_pro_max_does_geekbench_ahead_of_launch_-news-74407.php"
   },
   {
     "content_hash": "6ab0fb5d3794faee68413c26ddddd876af345f63715d3336e6d60b2c266a8eb2",
