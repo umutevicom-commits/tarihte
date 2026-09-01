@@ -298,5 +298,35 @@
     "slug": "iqoo_16s_unique_rear_camera_module_design_leaked-news-74431",
     "status": "ok",
     "url": "https://www.gsmarena.com/iqoo_16s_unique_rear_camera_module_design_leaked-news-74431.php"
+  },
+  "74432": {
+    "content_hash": "fc39d1ab4a1213c9b6cafd3094fb03c7b4cc77fbc0f198ddc394dc29347e44ec",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:02:22.751019+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432.php"
+  },
+  "74433": {
+    "content_hash": "e66371242f64b9344a4fd3ee7f8a0a7150fe236765ff7f01b9f268ab183f4328",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:02:47.446839+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433.php"
+  },
+  "74434": {
+    "content_hash": "df4ce4719abf268e4094a5fcf4dd939205f6429adb1bfc4adee5747a030b602b",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:02:58.468070+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "poco_x8_is_official_with_an_8340_mah_battery_and_the_snapdragon_6s_gen_4_soc-news-74434",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/poco_x8_is_official_with_an_8340_mah_battery_and_the_snapdragon_6s_gen_4_soc-news-74434.php"
   }
 }

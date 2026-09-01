@@ -1,0 +1,39 @@
+{
+  "url": "https://www.gsmarena.com/xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433.php",
+  "slug": "xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433",
+  "title": "Xiaomi 18 Fold surfaces in benchmark, confirming its chipset and RAM amount",
+  "news_id": "74433",
+  "date": "01 September 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "Xiaomi",
+    "Android"
+  ],
+  "body_paragraphs": [
+    "Xiaomi has already officially confirmed that it's launching the 18 Fold this month, and that the device will be powered by the self-developed Xring O3 chipset, which seems quite impressive.",
+    "Now the upcoming foldable smartphone has been spotted in the Geekbench AI online database, as a prototype ran the benchmark. The device is powered by the Xring O3 SoC as expected, paired with 16GB of RAM - at least that's how much the prototype in question had. Xiaomi may offer other options too.",
+    "The Xiaomi 18 Fold will run Android 17 when it arrives, which is good to see because Google released that version a few months ago. As you can see in the screenshot above, the Xiaomi 18 Fold managed a 629 single precision score, a 799 half precision score, and a 634 quantized score in Geekbench AI for Android version 1.7.0.",
+    "The Xring O3's CPU was registered by the benchmark as having two cores clocked at up to 4.36GHz, four cores clocked at up to 3.69GHz, and four cores clocked at up to 3.15GHz. It's using the Mali-G2-Ultra-NX MC16 GPU."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433/immaculate_001.jpg",
+      "alt": "Xiaomi 18 Fold surfaces in benchmark, confirming its chipset and RAM amount"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-01T19:02:47.446839+00:00",
+  "title_tr": "Xiaomi 18 Fold, yonga setini ve RAM miktarını doğrulayarak kıyaslamalı olarak yüzeyler",
+  "body_paragraphs_tr": [
+    "Xiaomi, bu ay 18 Fold'u piyasaya sürdüğünü ve cihazın oldukça etkileyici görünen kendi geliştirdiği Xring O3 yonga seti tarafından destekleneceğini resmi olarak doğruladı.",
+    "Şimdi yaklaşmakta olan katlanabilir akıllı telefon, Geekbench AI çevrimiçi veritabanında bir prototip olarak tespit edildi. Cihaz, beklendiği gibi Xring O3 SoC tarafından desteklenmektedir ve 16 GB RAM ile eşleştirilmiştir - en azından söz konusu prototipin sahip olduğu miktar budur. Xiaomi başka seçenekler de sunabilir.",
+    "Xiaomi 18 Fold geldiğinde Android 17 'yi çalıştıracak, bu da Google'ın bu sürümü birkaç ay önce piyasaya sürmesi nedeniyle görmek güzel. Yukarıdaki ekran görüntüsünde görebileceğiniz gibi, Xiaomi 18 Fold, Android sürüm 1.7.0 için Geekbench AI'da 629 tek hassasiyet skoru, 799 yarı hassasiyet skoru ve 634 nicel skoru yönetti.",
+    "Xring O3 'ün CPU'su, kıyaslama tarafından 4.36GHz'e kadar iki çekirdeğe, 3.69 GHz'e kadar dört çekirdeğe ve 3.15GHz'e kadar dört çekirdeğe sahip olarak kaydedildi. Mali - G2 - Ultra - NX MC16 GPU kullanıyor."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Xiaomi",
+    "Android"
+  ]
+}

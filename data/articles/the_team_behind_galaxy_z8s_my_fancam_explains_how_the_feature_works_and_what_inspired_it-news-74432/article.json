@@ -1,0 +1,62 @@
+{
+  "url": "https://www.gsmarena.com/the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432.php",
+  "slug": "the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432",
+  "title": "The team behind Galaxy Z8's My FanCam explains how the feature works and what inspired it",
+  "news_id": "74432",
+  "date": "01 September 2026",
+  "author": "Peter",
+  "tags": [
+    "Featured",
+    "Samsung",
+    "Android"
+  ],
+  "body_paragraphs": [
+    "The Samsung Galaxy Z Fold8, Z Fold8 Ultra and Z Flip8 introduced a feature called My FanCam, which is also featured on the Galaxy S26 FE. The team that developed it shared their inspirations, thoughts and goals for this feature.",
+    "Sharing fan videos of K-pop performances has become a popular activity among music fans – but until now they had to manually edit the video. My FanCam allows them to create a cut of the video that tracks one person as they move across the stage – all it takes is a single tap.",
+    "Object tracking isn’t new, but old methods had their pitfalls – if the object being tracked gets obscured (by, say, other people on the stage), the algorithm can get confused. Samsung used an AI model that recognizes individuals and locates them in the frame – that allows My FanCam to reframe the video to keep them in the center.",
+    "“We focused on reducing wait times while editing. Users may want to switch between people in group videos, but reanalyzing the video each time would mean waiting again. We designed My FanCam to analyze multiple people at once, letting users switch between subjects and instantly see the results once the initial analysis is complete,” said Sunghwan Kim of the Multimedia Development Group at Samsung MX.",
+    "The app allows the user to choose different aspect ratios for the final video – standard 16:9, vertical 9:16 and even 1:1, which are suitable for sharing across different social media networks.",
+    "“Testing a large range of scenarios is important before rolling out new features. To help the development team test with a wide range of scenarios, multiple team members helped with the process. Some brought in old videos from the college days, such as dance club videos. Others would bring a phone and film new footage, such as climbing hobbies,” said Sherry Hong, also of the Multimedia Development Group.",
+    "“The key challenge was processing AI workloads entirely on-device without a separate server. Longer videos require more computation, so we had to consider processing speed, power consumption, and heat generation. Samsung Research optimized the AI model to achieve the required results with less computation, while the MX Business streamlined the entire process — from video decoding to data transfer and analysis — reducing computational load with minimal impact on performance,” added Kim.",
+    "The team also offers some tips to help you get the best results out of My FanCam. You should choose a high resolution video mode since the app will be cropping in to frame the chosen subject. For the same reason, you should frame your shot slightly wider than you would normally.",
+    "When picking a subject to track, it’s best to do it in a frame where they aren’t overlapped by others and their face is visible. You can use a tripod to get a stable image – but that’s for new videos. You can also try My FanCam with videos you recorded years ago, just like the team did."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432/immaculate_002.jpg",
+      "alt": "(From left) Sherry Hong, Sunghwan Kim and Hwangpil Park"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432/immaculate_001.jpg",
+      "alt": "How My FanCam works"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432/immaculate_003.jpg",
+      "alt": "The team behind Galaxy Z8's My FanCam explains how the feature works and what inspired it"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://fdn.gsmarena.com/imgroot/news/26/09/samsung-my-fancam-details/gsmarena_001.mp4",
+      "title": ""
+    }
+  ],
+  "fetched_at": "2026-09-01T19:02:22.751019+00:00",
+  "title_tr": "Galaxy Z8 'in My FanCam'inin arkasındaki ekip, bu özelliğin nasıl çalıştığını ve ona neyin ilham verdiğini açıklıyor",
+  "body_paragraphs_tr": [
+    "Samsung Galaxy Z Fold8, Z Fold8 Ultra ve Z Flip8, Galaxy S26 FE'de de yer alan My FanCam adlı bir özelliği tanıttı. Geliştiren ekip bu özelliğe yönelik ilhamlarını, düşüncelerini ve hedeflerini paylaştı.",
+    "K - pop performanslarının hayran videolarını paylaşmak müzik hayranları arasında popüler bir etkinlik haline geldi ama şimdiye kadar videoyu manuel olarak düzenlemek zorunda kaldılar. FanCam'im, sahnede hareket ederken bir kişiyi izleyen videonun bir kesimini oluşturmalarına izin veriyor – tek gereken tek bir dokunuş.",
+    "Nesne takibi yeni değildir, ancak eski yöntemlerin tuzakları vardır – izlenen nesne (örneğin sahnedeki diğer insanlar tarafından) gizlenirse, algoritmanın kafası karışabilir. Samsung, bireyleri tanıyan ve onları çerçeveye yerleştiren bir yapay zeka modeli kullandı – bu da My FanCam'in videoyu merkezde tutmak için videoyu yeniden çerçevelemesini sağlıyor.",
+    "\"Düzenleme yaparken bekleme sürelerini azaltmaya odaklandık. Kullanıcılar grup videolarındaki kişiler arasında geçiş yapmak isteyebilir, ancak videoyu her seferinde yeniden analiz etmek tekrar beklemek anlamına gelir. My FanCam'i aynı anda birden fazla kişiyi analiz edecek şekilde tasarladık, kullanıcıların konular arasında geçiş yapmasına ve ilk analiz tamamlandıktan sonra sonuçları anında görmesine izin verdik” diyor Samsung MX Multimedya Geliştirme Grubu'ndan Sunghwan Kim.",
+    "Uygulama, kullanıcının farklı sosyal medya ağlarında paylaşıma uygun standart 16:9, dikey 9:16 ve hatta 1:1 olmak üzere son video için farklı en boy oranları seçmesine olanak tanır.",
+    "\"Yeni özellikler sunmadan önce çok çeşitli senaryoları test etmek önemlidir. Geliştirme ekibinin çok çeşitli senaryolarla test etmesine yardımcı olmak için birden fazla ekip üyesi sürece yardımcı oldu. Bazıları üniversite günlerinden dans kulübü videoları gibi eski videolar getirdi. Yine Multimedya Geliştirme Grubu'ndan Sherry Hong,\" Diğerleri bir telefon getirecek ve tırmanma hobileri gibi yeni görüntüler çekecek \"dedi.",
+    "\"En büyük zorluk, yapay zeka iş yüklerini ayrı bir sunucu olmadan tamamen cihazda işlemekti. Daha uzun videolar daha fazla hesaplama gerektirir, bu nedenle işlem hızını, güç tüketimini ve ısı üretimini göz önünde bulundurmamız gerekiyordu. Samsung Research, daha az hesaplama ile gerekli sonuçları elde etmek için yapay zeka modelini optimize ederken, MX Business, video kod çözümünden veri aktarımına ve analizine kadar tüm süreci kolaylaştırdı ve performans üzerinde minimum etki ile hesaplama yükünü azalttı ”diye ekledi.",
+    "Ekip ayrıca My FanCam'den en iyi sonuçları almanıza yardımcı olacak bazı ipuçları da sunuyor. Uygulama seçilen konuyu çerçevelemek için kırpılacağından yüksek çözünürlüklü bir video modu seçmelisiniz. Aynı nedenle, çekiminizi normalden biraz daha geniş çerçevelemelisiniz.",
+    "İzlenecek bir konu seçerken, bunu başkalarının üst üste binmediği ve yüzlerinin göründüğü bir çerçevede yapmak en iyisidir. Sabit bir görüntü elde etmek için bir tripod kullanabilirsiniz, ancak bu yeni videolar içindir. Ekibin yaptığı gibi, yıllar önce kaydettiğiniz videolarla My FanCam'i de deneyebilirsiniz."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Samsung",
+    "Android"
+  ]
+}

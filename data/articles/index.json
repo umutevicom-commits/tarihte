@@ -1,63 +1,93 @@
 [
   {
-    "slug": "tim_cook_steps_down_as_ceo_of_apple_john_ternus_takes_over-news-74424",
-    "url": "https://www.gsmarena.com/tim_cook_steps_down_as_ceo_of_apple_john_ternus_takes_over-news-74424.php",
+    "slug": "poco_x8_is_official_with_an_8340_mah_battery_and_the_snapdragon_6s_gen_4_soc-news-74434",
+    "url": "https://www.gsmarena.com/poco_x8_is_official_with_an_8340_mah_battery_and_the_snapdragon_6s_gen_4_soc-news-74434.php",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:02:58.468070+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "df4ce4719abf268e4094a5fcf4dd939205f6429adb1bfc4adee5747a030b602b"
+  },
+  {
+    "slug": "xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433",
+    "url": "https://www.gsmarena.com/xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433.php",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:02:47.446839+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e66371242f64b9344a4fd3ee7f8a0a7150fe236765ff7f01b9f268ab183f4328"
+  },
+  {
+    "slug": "the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432",
+    "url": "https://www.gsmarena.com/the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432.php",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T19:02:22.751019+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "fc39d1ab4a1213c9b6cafd3094fb03c7b4cc77fbc0f198ddc394dc29347e44ec"
+  },
+  {
+    "content_hash": "3f40d50040146ba0451cf4e22c1caee923a329bc0e0a01b98690ed71b123dbde",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T14:27:13.218490+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3f40d50040146ba0451cf4e22c1caee923a329bc0e0a01b98690ed71b123dbde"
+    "retries": 0,
+    "slug": "tim_cook_steps_down_as_ceo_of_apple_john_ternus_takes_over-news-74424",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tim_cook_steps_down_as_ceo_of_apple_john_ternus_takes_over-news-74424.php"
   },
   {
-    "slug": "samsung_unveils_800_galaxy_book6_with_14_display_and_intel_core_3_5_processors-news-74426",
-    "url": "https://www.gsmarena.com/samsung_unveils_800_galaxy_book6_with_14_display_and_intel_core_3_5_processors-news-74426.php",
+    "content_hash": "beed0cc5486e99ce49d2de091e97f2c0d62901981692778eb134a99e4c744fc1",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T14:26:43.904927+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "beed0cc5486e99ce49d2de091e97f2c0d62901981692778eb134a99e4c744fc1"
+    "retries": 0,
+    "slug": "samsung_unveils_800_galaxy_book6_with_14_display_and_intel_core_3_5_processors-news-74426",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_unveils_800_galaxy_book6_with_14_display_and_intel_core_3_5_processors-news-74426.php"
   },
   {
-    "slug": "tecno_brought_a_bezelless_concept_phone_to_ifa_a_laptop_with_a_360_hinge_and_more-news-74428",
-    "url": "https://www.gsmarena.com/tecno_brought_a_bezelless_concept_phone_to_ifa_a_laptop_with_a_360_hinge_and_more-news-74428.php",
+    "content_hash": "bfe8f110ffd630105fcf514a5a43fd55aefd32d64e59ee7f549ef4badeb72f27",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T14:26:11.920274+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "bfe8f110ffd630105fcf514a5a43fd55aefd32d64e59ee7f549ef4badeb72f27"
+    "retries": 0,
+    "slug": "tecno_brought_a_bezelless_concept_phone_to_ifa_a_laptop_with_a_360_hinge_and_more-news-74428",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tecno_brought_a_bezelless_concept_phone_to_ifa_a_laptop_with_a_360_hinge_and_more-news-74428.php"
   },
   {
-    "slug": "samsung_one_ui_9_beta_program_galaxy_s25_series_galaxy_z_fold7_galaxy_z_flip7-news-74427",
-    "url": "https://www.gsmarena.com/samsung_one_ui_9_beta_program_galaxy_s25_series_galaxy_z_fold7_galaxy_z_flip7-news-74427.php",
+    "content_hash": "4479c6f427d9a6892bdf1b7ca2849220ecb660d15d6e569fd0becdb7614361fd",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T14:25:58.257331+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4479c6f427d9a6892bdf1b7ca2849220ecb660d15d6e569fd0becdb7614361fd"
+    "retries": 0,
+    "slug": "samsung_one_ui_9_beta_program_galaxy_s25_series_galaxy_z_fold7_galaxy_z_flip7-news-74427",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_one_ui_9_beta_program_galaxy_s25_series_galaxy_z_fold7_galaxy_z_flip7-news-74427.php"
   },
   {
-    "slug": "poco_f9_pro_and_f9_ultra_announced_-news-74425",
-    "url": "https://www.gsmarena.com/poco_f9_pro_and_f9_ultra_announced_-news-74425.php",
+    "content_hash": "40c946f85522d1665aea37c42ec53b4849d9ecf0a06703790f57f2d30a3674cb",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T14:25:34.288999+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "40c946f85522d1665aea37c42ec53b4849d9ecf0a06703790f57f2d30a3674cb"
+    "retries": 0,
+    "slug": "poco_f9_pro_and_f9_ultra_announced_-news-74425",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/poco_f9_pro_and_f9_ultra_announced_-news-74425.php"
   },
   {
-    "slug": "iqoo_16s_unique_rear_camera_module_design_leaked-news-74431",
-    "url": "https://www.gsmarena.com/iqoo_16s_unique_rear_camera_module_design_leaked-news-74431.php",
+    "content_hash": "87a5abae8420660dc1ffd9f126c57e1156b4608fd1fd59d1fe013976f9564be3",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T14:25:12.027503+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "87a5abae8420660dc1ffd9f126c57e1156b4608fd1fd59d1fe013976f9564be3"
+    "retries": 0,
+    "slug": "iqoo_16s_unique_rear_camera_module_design_leaked-news-74431",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_16s_unique_rear_camera_module_design_leaked-news-74431.php"
   },
   {
     "content_hash": "147ed9c1776a39cdf7d9760643dbbe4115f25ce5e41fe772384a6801baabdfa1",
