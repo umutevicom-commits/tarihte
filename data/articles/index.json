@@ -1,23 +1,43 @@
 [
   {
-    "slug": "samsung_galaxy_s27_ultras_new_telephoto_camera_detailed-news-74417",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s27_ultras_new_telephoto_camera_detailed-news-74417.php",
-    "date": "31 August 2026",
-    "fetched_at": "2026-08-31T23:30:59.663977+00:00",
+    "slug": "hmd_asha_305_pro_is_on_the_way_marketing_images_and_specs_leak-news-74419",
+    "url": "https://www.gsmarena.com/hmd_asha_305_pro_is_on_the_way_marketing_images_and_specs_leak-news-74419.php",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T02:47:07.702876+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "f49d63d404656451be6e42a5df0c6c5a0fa6b6d13b80de46d4dc0ed40a8b24ef"
+    "content_hash": "d2aed82ae07efa8d8c227caec1344f828d1902aa14c862e2f9fc0d90bd7aae9d"
   },
   {
-    "slug": "honor_magic9_pro_said_to_be_the_first_android_phone_with_a_square_selfie_sensor-news-74418",
-    "url": "https://www.gsmarena.com/honor_magic9_pro_said_to_be_the_first_android_phone_with_a_square_selfie_sensor-news-74418.php",
-    "date": "31 August 2026",
-    "fetched_at": "2026-08-31T23:30:42.519827+00:00",
+    "slug": "oppo_find_x10_will_have_some_impressive_specs_for_its_class_according_to_a_new_rumor-news-74421",
+    "url": "https://www.gsmarena.com/oppo_find_x10_will_have_some_impressive_specs_for_its_class_according_to_a_new_rumor-news-74421.php",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T02:46:47.581217+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "ec5009535f10ca68caeeed10c4e1ca835ffb6ef38ca16d8c31a252aacc1150b4"
+    "content_hash": "1fdf8eadd6429e72222f10ab16b6a33e56e7a5691b42bc686adb75b5c8efd3fb"
+  },
+  {
+    "content_hash": "f49d63d404656451be6e42a5df0c6c5a0fa6b6d13b80de46d4dc0ed40a8b24ef",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T23:30:59.663977+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_s27_ultras_new_telephoto_camera_detailed-news-74417",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_ultras_new_telephoto_camera_detailed-news-74417.php"
+  },
+  {
+    "content_hash": "ec5009535f10ca68caeeed10c4e1ca835ffb6ef38ca16d8c31a252aacc1150b4",
+    "date": "31 August 2026",
+    "fetched_at": "2026-08-31T23:30:42.519827+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_magic9_pro_said_to_be_the_first_android_phone_with_a_square_selfie_sensor-news-74418",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_pro_said_to_be_the_first_android_phone_with_a_square_selfie_sensor-news-74418.php"
   },
   {
     "content_hash": "4e4cc5dd7ad41b009d805b693a19b9bd21bb1189e15bd7a3625fe4cea085e597",
