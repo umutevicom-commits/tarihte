@@ -1,23 +1,63 @@
 [
   {
-    "slug": "hmd_asha_305_pro_is_on_the_way_marketing_images_and_specs_leak-news-74419",
-    "url": "https://www.gsmarena.com/hmd_asha_305_pro_is_on_the_way_marketing_images_and_specs_leak-news-74419.php",
+    "slug": "redmi_k100_is_on_the_way_its_first_specs_leak-news-74420",
+    "url": "https://www.gsmarena.com/redmi_k100_is_on_the_way_its_first_specs_leak-news-74420.php",
     "date": "01 September 2026",
-    "fetched_at": "2026-09-01T02:47:07.702876+00:00",
+    "fetched_at": "2026-09-01T09:04:00.148036+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "d2aed82ae07efa8d8c227caec1344f828d1902aa14c862e2f9fc0d90bd7aae9d"
+    "content_hash": "147ed9c1776a39cdf7d9760643dbbe4115f25ce5e41fe772384a6801baabdfa1"
   },
   {
-    "slug": "oppo_find_x10_will_have_some_impressive_specs_for_its_class_according_to_a_new_rumor-news-74421",
-    "url": "https://www.gsmarena.com/oppo_find_x10_will_have_some_impressive_specs_for_its_class_according_to_a_new_rumor-news-74421.php",
+    "slug": "watch_the_poco_f9_pro_and_poco_f9_ultra_unveiling_live_here-news-74416",
+    "url": "https://www.gsmarena.com/watch_the_poco_f9_pro_and_poco_f9_ultra_unveiling_live_here-news-74416.php",
     "date": "01 September 2026",
-    "fetched_at": "2026-09-01T02:46:47.581217+00:00",
+    "fetched_at": "2026-09-01T09:03:35.351172+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "1fdf8eadd6429e72222f10ab16b6a33e56e7a5691b42bc686adb75b5c8efd3fb"
+    "content_hash": "d54dc2a9eb9e914a8270335a10c32d25a39dee3648a206c27fa4f609e12a4f47"
+  },
+  {
+    "slug": "here_are_the_finalized_camera_specs_for_the_oneplus_16_claims_tipster-news-74422",
+    "url": "https://www.gsmarena.com/here_are_the_finalized_camera_specs_for_the_oneplus_16_claims_tipster-news-74422.php",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T09:03:02.592494+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "02adf33ef69f72dd23a769460fc6b3e932790bb22037a10c4e972abf37e1a8fb"
+  },
+  {
+    "slug": "lava_agni_4n_features_price_sale_date-news-74423",
+    "url": "https://www.gsmarena.com/lava_agni_4n_features_price_sale_date-news-74423.php",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T09:01:41.795141+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "913fa1818ca49fd6d6d642265fbab5ac558175573ff49e2e932a43ae383b91f9"
+  },
+  {
+    "content_hash": "d2aed82ae07efa8d8c227caec1344f828d1902aa14c862e2f9fc0d90bd7aae9d",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T02:47:07.702876+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "hmd_asha_305_pro_is_on_the_way_marketing_images_and_specs_leak-news-74419",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/hmd_asha_305_pro_is_on_the_way_marketing_images_and_specs_leak-news-74419.php"
+  },
+  {
+    "content_hash": "1fdf8eadd6429e72222f10ab16b6a33e56e7a5691b42bc686adb75b5c8efd3fb",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T02:46:47.581217+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_will_have_some_impressive_specs_for_its_class_according_to_a_new_rumor-news-74421",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_will_have_some_impressive_specs_for_its_class_according_to_a_new_rumor-news-74421.php"
   },
   {
     "content_hash": "f49d63d404656451be6e42a5df0c6c5a0fa6b6d13b80de46d4dc0ed40a8b24ef",
