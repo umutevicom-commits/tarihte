@@ -328,5 +328,25 @@
     "slug": "poco_x8_is_official_with_an_8340_mah_battery_and_the_snapdragon_6s_gen_4_soc-news-74434",
     "status": "ok",
     "url": "https://www.gsmarena.com/poco_x8_is_official_with_an_8340_mah_battery_and_the_snapdragon_6s_gen_4_soc-news-74434.php"
+  },
+  "74437": {
+    "content_hash": "15700d30a0f9420a306cc586510057a20f730506678b88366b215d3c653a5556",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T22:13:25.973645+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomis_mijia_is_entering_europe_at_scale_at_ifa_later_this_week-news-74437",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomis_mijia_is_entering_europe_at_scale_at_ifa_later_this_week-news-74437.php"
+  },
+  "74438": {
+    "content_hash": "c59cf25add9670838f568a28f51a359f5e4ba9d2cf479c272711d1a456f6ec47",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T22:13:05.976149+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "latest_leak_claims_the_iphone_18_pro_lineup_will_launch_in_these_new_colors-news-74438",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/latest_leak_claims_the_iphone_18_pro_lineup_will_launch_in_these_new_colors-news-74438.php"
   }
 }

@@ -1,33 +1,53 @@
 [
   {
-    "slug": "poco_x8_is_official_with_an_8340_mah_battery_and_the_snapdragon_6s_gen_4_soc-news-74434",
-    "url": "https://www.gsmarena.com/poco_x8_is_official_with_an_8340_mah_battery_and_the_snapdragon_6s_gen_4_soc-news-74434.php",
+    "slug": "xiaomis_mijia_is_entering_europe_at_scale_at_ifa_later_this_week-news-74437",
+    "url": "https://www.gsmarena.com/xiaomis_mijia_is_entering_europe_at_scale_at_ifa_later_this_week-news-74437.php",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T22:13:25.973645+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "15700d30a0f9420a306cc586510057a20f730506678b88366b215d3c653a5556"
+  },
+  {
+    "slug": "latest_leak_claims_the_iphone_18_pro_lineup_will_launch_in_these_new_colors-news-74438",
+    "url": "https://www.gsmarena.com/latest_leak_claims_the_iphone_18_pro_lineup_will_launch_in_these_new_colors-news-74438.php",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T22:13:05.976149+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c59cf25add9670838f568a28f51a359f5e4ba9d2cf479c272711d1a456f6ec47"
+  },
+  {
+    "content_hash": "df4ce4719abf268e4094a5fcf4dd939205f6429adb1bfc4adee5747a030b602b",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T19:02:58.468070+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "df4ce4719abf268e4094a5fcf4dd939205f6429adb1bfc4adee5747a030b602b"
+    "retries": 0,
+    "slug": "poco_x8_is_official_with_an_8340_mah_battery_and_the_snapdragon_6s_gen_4_soc-news-74434",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/poco_x8_is_official_with_an_8340_mah_battery_and_the_snapdragon_6s_gen_4_soc-news-74434.php"
   },
   {
-    "slug": "xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433",
-    "url": "https://www.gsmarena.com/xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433.php",
+    "content_hash": "e66371242f64b9344a4fd3ee7f8a0a7150fe236765ff7f01b9f268ab183f4328",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T19:02:47.446839+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e66371242f64b9344a4fd3ee7f8a0a7150fe236765ff7f01b9f268ab183f4328"
+    "retries": 0,
+    "slug": "xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_fold_surfaces_in_benchmark_confirming_its_chipset_and_ram_amount-news-74433.php"
   },
   {
-    "slug": "the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432",
-    "url": "https://www.gsmarena.com/the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432.php",
+    "content_hash": "fc39d1ab4a1213c9b6cafd3094fb03c7b4cc77fbc0f198ddc394dc29347e44ec",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T19:02:22.751019+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "fc39d1ab4a1213c9b6cafd3094fb03c7b4cc77fbc0f198ddc394dc29347e44ec"
+    "retries": 0,
+    "slug": "the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_team_behind_galaxy_z8s_my_fancam_explains_how_the_feature_works_and_what_inspired_it-news-74432.php"
   },
   {
     "content_hash": "3f40d50040146ba0451cf4e22c1caee923a329bc0e0a01b98690ed71b123dbde",
