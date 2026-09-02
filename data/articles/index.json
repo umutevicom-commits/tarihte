@@ -1,13 +1,43 @@
 [
   {
-    "slug": "huawei_nova_16s_pro_goes_global_with_200mp_ryyb_camera_nova_16s_joins_it-news-74452",
-    "url": "https://www.gsmarena.com/huawei_nova_16s_pro_goes_global_with_200mp_ryyb_camera_nova_16s_joins_it-news-74452.php",
+    "slug": "huawei_matepad_pro_12_2026_goes_global-news-74454",
+    "url": "https://www.gsmarena.com/huawei_matepad_pro_12_2026_goes_global-news-74454.php",
     "date": "02 September 2026",
-    "fetched_at": "2026-09-02T13:58:27.054088+00:00",
+    "fetched_at": "2026-09-02T17:39:38.620482+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "348a1aac87673d4e535d7ff0ec173fdf941e013e6808308d768fe6ab4a22f32b"
+    "content_hash": "6ceb2c79e77148256c184058c2ede7db532507d77941873d0ff7f98af1cf9a92"
+  },
+  {
+    "slug": "huawei_watch_gt_7_pro_in_for_review-news-74449",
+    "url": "https://www.gsmarena.com/huawei_watch_gt_7_pro_in_for_review-news-74449.php",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T17:39:17.051527+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0eec45553c2f9c1305ba07e9a199f0945adca568bff7e01a492afdcc52d0a4b2"
+  },
+  {
+    "slug": "heres_what_the_oppo_find_x10_pro_max_could_look_like-news-74451",
+    "url": "https://www.gsmarena.com/heres_what_the_oppo_find_x10_pro_max_could_look_like-news-74451.php",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T17:38:56.119968+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "857b48a2df2800e2a2ac9ffab9cc20f4d908d4db7057b59fa6d2d94bba7816d2"
+  },
+  {
+    "content_hash": "348a1aac87673d4e535d7ff0ec173fdf941e013e6808308d768fe6ab4a22f32b",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T13:58:27.054088+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_nova_16s_pro_goes_global_with_200mp_ryyb_camera_nova_16s_joins_it-news-74452",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_nova_16s_pro_goes_global_with_200mp_ryyb_camera_nova_16s_joins_it-news-74452.php"
   },
   {
     "content_hash": "5aa05b3fadcb38c6ec421340a57cd7473c34c6433806bd55bfc83b26d1e131d5",
