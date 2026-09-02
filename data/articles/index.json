@@ -1,23 +1,33 @@
 [
   {
-    "slug": "xiaomis_mijia_is_entering_europe_at_scale_at_ifa_later_this_week-news-74437",
-    "url": "https://www.gsmarena.com/xiaomis_mijia_is_entering_europe_at_scale_at_ifa_later_this_week-news-74437.php",
-    "date": "01 September 2026",
-    "fetched_at": "2026-09-01T22:13:25.973645+00:00",
+    "slug": "vivo_x500_pro_series_video_capabilities_teased_ahead_of_launch-news-74435",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_series_video_capabilities_teased_ahead_of_launch-news-74435.php",
+    "date": "02 September 2026",
+    "fetched_at": "2026-09-02T02:07:27.367711+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "15700d30a0f9420a306cc586510057a20f730506678b88366b215d3c653a5556"
+    "content_hash": "b05fbc71ef7cb374c9e61e78dcb2e63ee4bbb91d1b701476a1a403ecbb627d71"
   },
   {
-    "slug": "latest_leak_claims_the_iphone_18_pro_lineup_will_launch_in_these_new_colors-news-74438",
-    "url": "https://www.gsmarena.com/latest_leak_claims_the_iphone_18_pro_lineup_will_launch_in_these_new_colors-news-74438.php",
+    "content_hash": "15700d30a0f9420a306cc586510057a20f730506678b88366b215d3c653a5556",
+    "date": "01 September 2026",
+    "fetched_at": "2026-09-01T22:13:25.973645+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomis_mijia_is_entering_europe_at_scale_at_ifa_later_this_week-news-74437",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomis_mijia_is_entering_europe_at_scale_at_ifa_later_this_week-news-74437.php"
+  },
+  {
+    "content_hash": "c59cf25add9670838f568a28f51a359f5e4ba9d2cf479c272711d1a456f6ec47",
     "date": "01 September 2026",
     "fetched_at": "2026-09-01T22:13:05.976149+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c59cf25add9670838f568a28f51a359f5e4ba9d2cf479c272711d1a456f6ec47"
+    "retries": 0,
+    "slug": "latest_leak_claims_the_iphone_18_pro_lineup_will_launch_in_these_new_colors-news-74438",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/latest_leak_claims_the_iphone_18_pro_lineup_will_launch_in_these_new_colors-news-74438.php"
   },
   {
     "content_hash": "df4ce4719abf268e4094a5fcf4dd939205f6429adb1bfc4adee5747a030b602b",
