@@ -548,5 +548,35 @@
     "slug": "vivo_v80_lite_arrives_with_10000mah_battery_-news-74464",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_v80_lite_arrives_with_10000mah_battery_-news-74464.php"
+  },
+  "74466": {
+    "content_hash": "235c54538c6ff43ded657623c101365fb44277e3522bc18d3102534a44606971",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T19:01:06.740727+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "this_ios_27_feature_will_let_you_use_one_phone_number_on_two_iphones-news-74466",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/this_ios_27_feature_will_let_you_use_one_phone_number_on_two_iphones-news-74466.php"
+  },
+  "74467": {
+    "content_hash": "3b0630b08e6b9636545510507bdb9ae5464d765d5b15f783d692516239e35937",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T19:00:22.680685+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorola_unveils_edge_70_plus_watch_ultra_swarovski_razr_70_at_ifa_2026-news-74467",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_unveils_edge_70_plus_watch_ultra_swarovski_razr_70_at_ifa_2026-news-74467.php"
+  },
+  "74468": {
+    "content_hash": "2dd78ceddfb66cf66fbc821b5b704f3e7aee39efa317a81c5cb9dff9c266eee0",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T18:59:10.308558+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorola_edge_70_plus_razr_70_with_crystals_watch_ultra_handson-news-74468",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_edge_70_plus_razr_70_with_crystals_watch_ultra_handson-news-74468.php"
   }
 }

@@ -1,0 +1,53 @@
+{
+  "url": "https://www.gsmarena.com/this_ios_27_feature_will_let_you_use_one_phone_number_on_two_iphones-news-74466.php",
+  "slug": "this_ios_27_feature_will_let_you_use_one_phone_number_on_two_iphones-news-74466",
+  "title": "This iOS 27 feature will let you use one phone number on two iPhones",
+  "news_id": "74466",
+  "date": "03 September 2026",
+  "author": "Siddharth",
+  "tags": [
+    "Featured",
+    "Apple",
+    "iOS"
+  ],
+  "body_paragraphs": [
+    "Apple is expected to release iOS 27 to the public shortly after its iPhone event next week. Ahead of the official rollout, we’ve got a first look at a new feature that will let users use the same phone number on two iPhones.",
+    "iOS 27 will introduce a new feature called iPhone Handoff, which was only mentioned on a slide during Apple’s WWDC announcements in June. Now, a MacRumors forum member has shared additional details about the feature and how it will work.",
+    "The user simulated two iPhones using Device Hub in Xcode 27 and set up the iPhone Handoff feature. According to their findings, one iPhone will need to be designated as the main device, while the other will serve as a companion device.",
+    "The main eSIM will remain on the primary iPhone, while a companion eSIM will be created on the second device. This will allow users to switch between the two iPhones while retaining the same phone number.",
+    "According to the user, the phone number will automatically switch between the two iPhones based on which device is unlocked and actively being used. A notification will also appear in the Dynamic Island whenever the number switches between devices.",
+    "The user also notes that cellular settings will only be accessible on the main iPhone, and the feature will require carrier support. T-Mobile in the US and Deutsche Telekom in Germany could reportedly be among the first carriers to support iPhone Handoff.",
+    "We expect Apple to share more details about the feature once iOS 27 is available to the public."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/this_ios_27_feature_will_let_you_use_one_phone_number_on_two_iphones-news-74466/immaculate_001.jpg",
+      "alt": "This iOS 27 feature will let you use one phone number on two iPhones"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/this_ios_27_feature_will_let_you_use_one_phone_number_on_two_iphones-news-74466/immaculate_002.jpg",
+      "alt": "This iOS 27 feature will let you use one phone number on two iPhones"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/this_ios_27_feature_will_let_you_use_one_phone_number_on_two_iphones-news-74466/immaculate_003.jpg",
+      "alt": "This iOS 27 feature will let you use one phone number on two iPhones"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-03T19:01:06.740727+00:00",
+  "title_tr": "Bu iOS 27 özelliği, iki iPhone'da bir telefon numarası kullanmanıza izin verecek",
+  "body_paragraphs_tr": [
+    "Apple'ın önümüzdeki hafta iPhone etkinliğinden kısa bir süre sonra iOS 27 'yi piyasaya sürmesi bekleniyor. Resmi lansman öncesinde, kullanıcıların iki iPhone'da aynı telefon numarasını kullanmasına izin verecek yeni bir özelliğe ilk kez göz attık.",
+    "iOS 27, Haziran ayında Apple'ın WWDC duyuruları sırasında yalnızca bir slaytta bahsedilen iPhone Handoff adlı yeni bir özelliği tanıtacak. Şimdi, bir MacRumors forum üyesi, özellik ve nasıl çalışacağı hakkında ek ayrıntılar paylaştı.",
+    "Kullanıcı, Xcode 27 'deki Device Hub'ı kullanarak iki iPhone'u simüle etti ve iPhone Handoff özelliğini kurdu. Bulgularına göre, bir iPhone'un ana cihaz olarak, diğerinin ise yardımcı cihaz olarak kullanılması gerekecek.",
+    "Ana eSIM birincil iPhone'da kalırken, ikinci cihazda tamamlayıcı bir eSIM oluşturulacaktır. Bu, kullanıcıların aynı telefon numarasını korurken iki iPhone arasında geçiş yapmalarını sağlayacak.",
+    "Kullanıcıya göre, telefon numarası hangi cihazın kilidinin açıldığına ve aktif olarak kullanıldığına bağlı olarak iki iPhone arasında otomatik olarak geçiş yapacak. Numara cihazlar arasında geçiş yaptığında Dinamik Ada'da da bir bildirim görünecektir.",
+    "Kullanıcı ayrıca hücresel ayarlara yalnızca ana iPhone'dan erişilebileceğini ve bu özelliğin operatör desteği gerektireceğini de belirtiyor. ABD'de T - Mobile ve Almanya'da Deutsche Telekom'un iPhone Handoff'u destekleyen ilk taşıyıcılar arasında yer alabileceği bildiriliyor.",
+    "IOS 27 herkese açık olduğunda Apple'ın bu özellik hakkında daha fazla ayrıntı paylaşmasını bekliyoruz."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "iOS"
+  ]
+}
