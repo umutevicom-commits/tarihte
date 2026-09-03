@@ -1,5 +1,25 @@
 [
   {
+    "slug": "mivi_one_5g_launch_timeframe-news-74455",
+    "url": "https://www.gsmarena.com/mivi_one_5g_launch_timeframe-news-74455.php",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T08:24:59.194211+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "038237d6c64a853140f0dba8e69901ba058d98aba8d797900cb40509dee6f34c"
+  },
+  {
+    "slug": "vivo_x500s_camera_specifications_officially_revealed-news-74456",
+    "url": "https://www.gsmarena.com/vivo_x500s_camera_specifications_officially_revealed-news-74456.php",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T08:24:41.094585+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "415b1f6afdfd6141f7c04a0ddf768ead7a8e48a12a8ba66f39b86c0e183a0812"
+  },
+  {
     "content_hash": "6ceb2c79e77148256c184058c2ede7db532507d77941873d0ff7f98af1cf9a92",
     "date": "02 September 2026",
     "fetched_at": "2026-09-02T17:39:38.620482+00:00",

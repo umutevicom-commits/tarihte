@@ -458,5 +458,25 @@
     "slug": "huawei_matepad_pro_12_2026_goes_global-news-74454",
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_matepad_pro_12_2026_goes_global-news-74454.php"
+  },
+  "74455": {
+    "content_hash": "038237d6c64a853140f0dba8e69901ba058d98aba8d797900cb40509dee6f34c",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T08:24:59.194211+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "mivi_one_5g_launch_timeframe-news-74455",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/mivi_one_5g_launch_timeframe-news-74455.php"
+  },
+  "74456": {
+    "content_hash": "415b1f6afdfd6141f7c04a0ddf768ead7a8e48a12a8ba66f39b86c0e183a0812",
+    "date": "03 September 2026",
+    "fetched_at": "2026-09-03T08:24:41.094585+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500s_camera_specifications_officially_revealed-news-74456",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500s_camera_specifications_officially_revealed-news-74456.php"
   }
 }
