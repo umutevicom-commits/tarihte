@@ -1,13 +1,23 @@
 [
   {
-    "slug": "samsung_galaxy_watch7_galaxy_watch_ultra_one_ui_9_watch_beta_update-news-74482",
-    "url": "https://www.gsmarena.com/samsung_galaxy_watch7_galaxy_watch_ultra_one_ui_9_watch_beta_update-news-74482.php",
+    "slug": "tecno_bezelless_concept_phone_handson-news-74476",
+    "url": "https://www.gsmarena.com/tecno_bezelless_concept_phone_handson-news-74476.php",
     "date": "04 September 2026",
-    "fetched_at": "2026-09-04T20:04:33.432226+00:00",
+    "fetched_at": "2026-09-04T23:34:56.928393+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "bb5fef73b099210df735bcf94e259f926e32667f2ebd10c2575978de9dea243f"
+    "content_hash": "06a3c816a32b55747696130c2435ce0bb8085df863599e0b6aa9fc3275952cf1"
+  },
+  {
+    "content_hash": "bb5fef73b099210df735bcf94e259f926e32667f2ebd10c2575978de9dea243f",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T20:04:33.432226+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_watch7_galaxy_watch_ultra_one_ui_9_watch_beta_update-news-74482",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_watch7_galaxy_watch_ultra_one_ui_9_watch_beta_update-news-74482.php"
   },
   {
     "content_hash": "e43e43332f8568fffadc72f1a47ccec5e81e6b231dbe8ad78b06f87e4d103840",
