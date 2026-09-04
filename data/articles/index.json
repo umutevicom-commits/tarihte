@@ -1,23 +1,33 @@
 [
   {
-    "slug": "new_leak_details_apple_a20_pro_chip-news-74471",
-    "url": "https://www.gsmarena.com/new_leak_details_apple_a20_pro_chip-news-74471.php",
+    "slug": "samsung_galaxy_watch7_galaxy_watch_ultra_one_ui_9_watch_beta_update-news-74482",
+    "url": "https://www.gsmarena.com/samsung_galaxy_watch7_galaxy_watch_ultra_one_ui_9_watch_beta_update-news-74482.php",
     "date": "04 September 2026",
-    "fetched_at": "2026-09-04T17:18:03.000265+00:00",
+    "fetched_at": "2026-09-04T20:04:33.432226+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "e43e43332f8568fffadc72f1a47ccec5e81e6b231dbe8ad78b06f87e4d103840"
+    "content_hash": "bb5fef73b099210df735bcf94e259f926e32667f2ebd10c2575978de9dea243f"
   },
   {
-    "slug": "our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481",
-    "url": "https://www.gsmarena.com/our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481.php",
+    "content_hash": "e43e43332f8568fffadc72f1a47ccec5e81e6b231dbe8ad78b06f87e4d103840",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T17:18:03.000265+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "new_leak_details_apple_a20_pro_chip-news-74471",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/new_leak_details_apple_a20_pro_chip-news-74471.php"
+  },
+  {
+    "content_hash": "9a36d0ed26c5fe530861d97578acd0692e5562b7bf7057210321a24c3f77687a",
     "date": "04 September 2026",
     "fetched_at": "2026-09-04T17:17:14.675666+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9a36d0ed26c5fe530861d97578acd0692e5562b7bf7057210321a24c3f77687a"
+    "retries": 0,
+    "slug": "our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481.php"
   },
   {
     "content_hash": "67c455f6ee43068263966c3e9637c36552a41f68cd9f4cd0ea33ed1b4c50c112",
