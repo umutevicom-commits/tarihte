@@ -1,43 +1,63 @@
 [
   {
-    "slug": "tecno_pova_8_pro_tonino_lamborghini_edition_goes_official-news-74473",
-    "url": "https://www.gsmarena.com/tecno_pova_8_pro_tonino_lamborghini_edition_goes_official-news-74473.php",
+    "slug": "new_leak_details_apple_a20_pro_chip-news-74471",
+    "url": "https://www.gsmarena.com/new_leak_details_apple_a20_pro_chip-news-74471.php",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T17:18:03.000265+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e43e43332f8568fffadc72f1a47ccec5e81e6b231dbe8ad78b06f87e4d103840"
+  },
+  {
+    "slug": "our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481",
+    "url": "https://www.gsmarena.com/our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481.php",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T17:17:14.675666+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9a36d0ed26c5fe530861d97578acd0692e5562b7bf7057210321a24c3f77687a"
+  },
+  {
+    "content_hash": "67c455f6ee43068263966c3e9637c36552a41f68cd9f4cd0ea33ed1b4c50c112",
     "date": "04 September 2026",
     "fetched_at": "2026-09-04T13:55:00.652464+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "67c455f6ee43068263966c3e9637c36552a41f68cd9f4cd0ea33ed1b4c50c112"
+    "retries": 0,
+    "slug": "tecno_pova_8_pro_tonino_lamborghini_edition_goes_official-news-74473",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tecno_pova_8_pro_tonino_lamborghini_edition_goes_official-news-74473.php"
   },
   {
-    "slug": "the_samsung_galaxy_s26_fe_officially_goes_on_sale_today-news-74475",
-    "url": "https://www.gsmarena.com/the_samsung_galaxy_s26_fe_officially_goes_on_sale_today-news-74475.php",
+    "content_hash": "17fdbe562fbe7e447ecc433726c6767374ce00c8d454be41b9c4310ce9075f1e",
     "date": "04 September 2026",
     "fetched_at": "2026-09-04T13:54:36.838933+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "17fdbe562fbe7e447ecc433726c6767374ce00c8d454be41b9c4310ce9075f1e"
+    "retries": 0,
+    "slug": "the_samsung_galaxy_s26_fe_officially_goes_on_sale_today-news-74475",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_samsung_galaxy_s26_fe_officially_goes_on_sale_today-news-74475.php"
   },
   {
-    "slug": "the_rugone_xsnap_7_pro_smartphone_features_a_detachable_camera-news-74478",
-    "url": "https://www.gsmarena.com/the_rugone_xsnap_7_pro_smartphone_features_a_detachable_camera-news-74478.php",
+    "content_hash": "3353673b330e09894a70b524a40f1fa3d545b17ed82b98b4f178bd0145393d9a",
     "date": "04 September 2026",
     "fetched_at": "2026-09-04T13:53:55.194016+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3353673b330e09894a70b524a40f1fa3d545b17ed82b98b4f178bd0145393d9a"
+    "retries": 0,
+    "slug": "the_rugone_xsnap_7_pro_smartphone_features_a_detachable_camera-news-74478",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_rugone_xsnap_7_pro_smartphone_features_a_detachable_camera-news-74478.php"
   },
   {
-    "slug": "google_pixel_watch_5_stephen_curry_special_edition_price_sale_date-news-74477",
-    "url": "https://www.gsmarena.com/google_pixel_watch_5_stephen_curry_special_edition_price_sale_date-news-74477.php",
+    "content_hash": "915a40d85336b1b5c0129b0bf4612d4354e3c2ea386251177ce4ce627c3cdc06",
     "date": "04 September 2026",
     "fetched_at": "2026-09-04T13:53:35.662988+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "915a40d85336b1b5c0129b0bf4612d4354e3c2ea386251177ce4ce627c3cdc06"
+    "retries": 0,
+    "slug": "google_pixel_watch_5_stephen_curry_special_edition_price_sale_date-news-74477",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/google_pixel_watch_5_stephen_curry_special_edition_price_sale_date-news-74477.php"
   },
   {
     "content_hash": "6a2644bd243c2b70caec2820fbbf76fa3ecbd532b07b6c2b28657534ce2d36af",

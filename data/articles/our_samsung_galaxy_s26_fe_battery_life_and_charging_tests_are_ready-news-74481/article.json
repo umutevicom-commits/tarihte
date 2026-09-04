@@ -1,0 +1,97 @@
+{
+  "url": "https://www.gsmarena.com/our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481.php",
+  "slug": "our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481",
+  "title": "Our Samsung Galaxy S26 FE battery life and charging tests are ready",
+  "news_id": "74481",
+  "date": "04 September 2026",
+  "author": "Peter",
+  "tags": [
+    "Featured",
+    "Samsung",
+    "Android",
+    "Battery test"
+  ],
+  "body_paragraphs": [
+    "The Samsung Galaxy S26 FE went on sale in multiple markets around the world today – the $700 / £700 / €800 phone has a lot to prove given its price tag. However, Samsung equipped it with a previous-generation 3nm Exynos 2500 chipset and kept the battery capacity at 4,900mAh, the same as last year’s S25 FE. The 45W wired and 15W wireless charging specs are the same too. That didn't give us much hope for seeing an improvement, but the results are better than expected.",
+    "We have a review unit at the office, and we are ready to share some of our findings about the battery life and charging speed of the new FE.",
+    "The new Galaxy S26 FE shares the same key components with last year's S25 FE – the battery capacity on both is 4,900mAh, and they both use a 6.7” 1080p+ OLED screen. The old model, however, ran on the Exynos 2400, whereas here we get the Exynos 2500 (like in the Z Flip7).",
+    "Samsung has clearly done a lot of work to optimize the energy consumption of the Exynos 2500, and the Galaxy S26 FE beats its predecessor by nearly 3 hours in our Active Use Score ranking. Web browsing and video playback show great improvements with smaller but still solid uplifts in talk time and gaming endurance.",
+    "Things don’t look quite as good when compared with the Galaxy S26+ – note that our results come from the Exynos 2600 model. The S26+ may have the same battery capacity and the same screen size, but it’s a different panel with a higher resolution (1440p+ vs. 1080p+). The higher pixel count is offset by the ability to reach lower refresh rates since the Plus has an LTPO panel – this is felt in the video playback and gaming tests, which are a better fit for LTPO displays.",
+    "The Galaxy A57 has a comparable 5,000mAh battery and a 6.7” 1080p+ OLED display (non-LTPO). However, its Exynos 1680 is a 4nm part from the same generation as the Exynos 2400. The A-phone did well for itself, surpassing the old S25 FE, but the new FE got slightly better results.",
+    "Phones from other brands last longer as they don’t share Samsung’s reluctance to adopt high-capacity batteries. But even the Nothing Phone (4a) Pro with a marginally bigger 5,080mAh battery and 6.83” OLED display (1260p+, non-LTPO) edged out the S26 FE, despite having a mid-range Snapdragon 7 Gen 4 chipset (4nm).",
+    "Charging speed",
+    "Moving on to charging, Samsung introduced a 60W system this year, but you can only find it on the S26 Ultra – the S26 FE has to slum it with most other Galaxy models with 45W wired charging.",
+    "But as it turns out, this power pairs well with the 4,900mAh capacity – the Galaxy S26 FE achieved a solid 40% charge in 15 minutes and got to 69% in 30 minutes. This is slightly better than the official spec, which claims 65% charge in 30 minutes.",
+    "The only problem is that charge speed tapers off – despite its early lead, the Galaxy S26 FE still needed about an hour and 10 minutes for a full charge, which is the same as the A57 and S25 FE. The Galaxy S26+ finished charging 7 minutes faster than the S26 FE, despite being neck-and-neck with it at the 15- and 30-minute checkpoints.",
+    "in 15 min",
+    "in 30 min",
+    "Time to full charge (from 0%)",
+    "In summary, the Samsung Galaxy S26 FE offers a tangible improvement in battery life (14:49h) over the S25 FE (11:56h) and the older S24 FE (11:47h). If you have an older FE, which is struggling to last you a full day of use, you should consider upgrading to the S26 FE.",
+    "However, charging speed hasn’t budged in two generations – the S24 FE had a slightly smaller 4,700mAh battery, but it was only officially rated for 25W wired charging. And yet it could do a full 100% charge in an hour and 10 minutes – the same as the two models that followed it, both of which boast 45W charge speed. It’s clear that Samsung is using a conservative charge curve, likely to extend the battery’s longevity."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481/immaculate_001.jpg",
+      "alt": "Samsung bundles the Galaxy S26 FE only with a USB C-to-C cable, bring your own charger"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481/immaculate_002.jpg",
+      "alt": "The Galaxy S26 FE has a 6.7” 1080p+ OLED display and a 4,900mAh battery"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/samsung-samsung-galaxy-s26-fe.jpg",
+      "alt": "Galaxy S26 FE"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/motorola-edge-70-pro-.jpg",
+      "alt": "Motorola Edge 70 Pro"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/nothing-phone-4a-pro.jpg",
+      "alt": "Nothing Phone (4a) Pro"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/samsung-galaxy-s26-plus.jpg",
+      "alt": "Galaxy S26+"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/realme-16-pro-plus.jpg",
+      "alt": "Realme 16 Pro+"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/samsung-galaxy-s25-fe.jpg",
+      "alt": "Galaxy S25 FE"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/samsung-galaxy-a57.jpg",
+      "alt": "Galaxy A57"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-04T17:17:14.675666+00:00",
+  "title_tr": "Samsung Galaxy S26 FE pil ömrü ve şarj testlerimiz hazır",
+  "body_paragraphs_tr": [
+    "Samsung Galaxy S26 FE bugün dünyanın dört bir yanındaki birden fazla pazarda satışa çıktı – 700 $/700 £/800 € 'luk telefonun fiyat etiketi göz önüne alındığında kanıtlaması gereken çok şey var. Ancak Samsung, önceki nesil 3nm Exynos 2500 yonga seti ile donattı ve pil kapasitesini geçen yılki S25 FE ile aynı olan 4.900mAh'de tuttu. 45W kablolu ve 15W kablosuz şarj özellikleri de aynıdır. Bu bize bir iyileşme görmek için fazla umut vermedi, ancak sonuçlar beklenenden daha iyi.",
+    "Ofiste bir inceleme birimimiz var ve yeni FE'nin pil ömrü ve şarj hızıyla ilgili bazı bulgularımızı paylaşmaya hazırız.",
+    "Yeni Galaxy S26 FE, geçen yılki S25 FE ile aynı temel bileşenleri paylaşıyor – her ikisinde de pil kapasitesi 4.900mAh ve her ikisi de 6.7” 1080p+ OLED ekran kullanıyor. Bununla birlikte, eski model Exynos 2400 'de çalışıyordu, oysa burada Exynos 2500' ü alıyoruz (Z Flip7 'de olduğu gibi).",
+    "Samsung, Exynos 2500 'ün enerji tüketimini optimize etmek için çok fazla çalışma yaptı ve Galaxy S26 FE, Aktif Kullanım Puanı sıralamamızda selefini yaklaşık 3 saat geride bıraktı. Web'de gezinme ve video oynatma, konuşma süresi ve oyun dayanıklılığında daha küçük ama yine de sağlam iyileştirmelerle büyük gelişmeler göstermektedir.",
+    "Galaxy S26+ ile karşılaştırıldığında işler pek iyi görünmüyor – sonuçlarımızın Exynos 2600 modelinden geldiğini unutmayın. S26+ aynı pil kapasitesine ve aynı ekran boyutuna sahip olabilir, ancak daha yüksek çözünürlüğe sahip farklı bir paneldir (1440p+ ve 1080p+). Daha yüksek piksel sayısı, Plus bir LTPO paneline sahip olduğundan daha düşük yenileme hızlarına ulaşma yeteneği ile dengelenir – bu, LTPO ekranları için daha uygun olan video oynatma ve oyun testlerinde hissedilir.",
+    "Galaxy A57, benzer bir 5.000mAh bataryaya ve 6,7” 1080p+ OLED ekrana (LTPO olmayan) sahiptir. Bununla birlikte, Exynos 1680, Exynos 2400 ile aynı nesilden 4nm'lik bir parçadır. A - phone, eski S25 FE'yi aşarak kendisi için iyi bir performans gösterdi, ancak yeni FE biraz daha iyi sonuçlar aldı.",
+    "Samsung'un yüksek kapasiteli pilleri benimseme konusundaki isteksizliğini paylaşmadıkları için diğer markaların telefonları daha uzun süre dayanıyor. Ancak, marjinal olarak daha büyük 5.080mAh pil ve 6.83” OLED ekrana (1260p +, LTPO olmayan) sahip Nothing Phone (4a) Pro bile, orta menzilli bir Snapdragon 7 Gen 4 yonga setine (4nm) sahip olmasına rağmen S26 FE'yi geride bıraktı.",
+    "Şarj hızı",
+    "Şarj işlemine geçen Samsung, bu yıl 60W'lık bir sistem tanıttı, ancak bunu yalnızca S26 Ultra'da bulabilirsiniz – S26 FE, 45W kablolu şarjlı diğer Galaxy modellerinin çoğunda gecekondu yapmak zorunda.",
+    "Ancak ortaya çıktığı gibi, bu güç 4.900mAh kapasiteyle iyi bir şekilde eşleşiyor – Galaxy S26 FE, 15 dakika içinde % 40 'lık sağlam bir şarj elde etti ve 30 dakika içinde % 69' a ulaştı. Bu, 30 dakikada % 65 şarj olduğunu iddia eden resmi spesifikasyondan biraz daha iyidir.",
+    "Tek sorun, şarj hızının azalmasıdır – ilk öncülüğüne rağmen, Galaxy S26 FE'nin hala A57 ve S25 FE ile aynı olan tam şarj için yaklaşık bir saat 10 dakikaya ihtiyacı vardı. Galaxy S26+, 15 ve 30 dakikalık kontrol noktalarında başa baş olmasına rağmen S26 FE'den 7 dakika daha hızlı şarj etti.",
+    "15 dakika içinde",
+    "30 dakika içinde",
+    "Tam şarj olma süresi (% 0 'dan itibaren)",
+    "Özetle, Samsung Galaxy S26 FE, S25 FE (11:56 h) ve eski S24 FE (11:47 h) modellerine kıyasla pil ömründe (14:49 h) somut bir iyileşme sunuyor. Size tam bir günlük kullanım sağlamakta zorlanan daha eski bir FE'niz varsa, S26 FE'ye yükseltmeyi düşünmelisiniz.",
+    "Bununla birlikte, şarj hızı iki nesildir değişmedi – S24 FE biraz daha küçük 4.700mAh bataryaya sahipti, ancak sadece resmi olarak 25W kablolu şarj için derecelendirildi. Ve yine de bir saat ve 10 dakika içinde tam % 100 şarj yapabilir – her ikisi de 45W şarj hızına sahip olan onu takip eden iki modelle aynı. Samsung'un bataryanın ömrünü uzatacak muhafazakar bir şarj eğrisi kullandığı açık."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Samsung",
+    "Android",
+    "Pil Testi"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://www.gsmarena.com/new_leak_details_apple_a20_pro_chip-news-74471.php",
+  "slug": "new_leak_details_apple_a20_pro_chip-news-74471",
+  "title": "New leak details Apple A20 Pro chip",
+  "news_id": "74471",
+  "date": "04 September 2026",
+  "author": "Michail",
+  "tags": [
+    "Featured",
+    "Apple",
+    "Mobile hardware",
+    "Rumors"
+  ],
+  "body_paragraphs": [
+    "A new leak coming out of China claims to have figured out some key details about the upcoming Apple A20 Pro chip, which should be at the helm of the iPhone 18 Pro series and iPhone Ultra. Thanks to some clever reverse-engineering of solder diagrams, the leaker says he managed to figure out the chip’s design.",
+    "The 20 Pro will reportedly stick to a 2+4 CPU structure but upgrade to a 7-core GPU. The “small” power-efficiency CPU cores will reportedly feature 8MB of L2 cache compared to 6MB on the A19 Pro. The “big” performance cores will remain with 16MB of L2 cache. It remains to be seen how much system cache we’ll see with the A20 Pro.",
+    "Apple will announce the iPhone 18 Pro and Ultra models on September 9, where we'll hopefully get a detailed breakdown of the new flagship iPhone chip."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/new_leak_details_apple_a20_pro_chip-news-74471/immaculate_001.jpg",
+      "alt": "Leaked Apple A20 Pro diagram (Weibo)"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-04T17:18:03.000265+00:00",
+  "title_tr": "Yeni sızıntı detayları Apple A20 Pro çip",
+  "body_paragraphs_tr": [
+    "Çin'den gelen yeni bir sızıntı, iPhone 18 Pro serisinin ve iPhone Ultra'nın başında olması gereken yaklaşan Apple A20 Pro çipiyle ilgili bazı önemli ayrıntıları çözdüğünü iddia ediyor. Sızıntı yapan kişi, lehim diyagramlarının akıllı bir şekilde tersine mühendisliği sayesinde çipin tasarımını çözmeyi başardığını söylüyor.",
+    "20 Pro'nun 2+4 CPU yapısına bağlı kalacağı, ancak 7 çekirdekli bir GPU'ya yükseltileceği bildiriliyor. \"Küçük\" güç verimli CPU çekirdeklerinin, A19 Pro'daki 6 MB'a kıyasla 8 MB L2 önbelleğe sahip olacağı bildiriliyor. \"Büyük\" performans çekirdekleri 16 MB L2 önbellekte kalacaktır. A20 Pro ile ne kadar sistem önbelleği göreceğimiz henüz belli değil.",
+    "Apple, 9 Eylül'de iPhone 18 Pro ve Ultra modellerini duyuracak ve umarım yeni amiral gemisi iPhone çipinin ayrıntılı bir dökümünü alacağız."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "Mobil donanım",
+    "Söylentiler"
+  ]
+}

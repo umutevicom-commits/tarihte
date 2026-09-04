@@ -599,6 +599,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/oppo_a7_pro_with_an_8000mah_battery_is_launching_next_week-news-74470.php"
   },
+  "74471": {
+    "content_hash": "e43e43332f8568fffadc72f1a47ccec5e81e6b231dbe8ad78b06f87e4d103840",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T17:18:03.000265+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "new_leak_details_apple_a20_pro_chip-news-74471",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/new_leak_details_apple_a20_pro_chip-news-74471.php"
+  },
   "74472": {
     "content_hash": "72fa589a0be140e20f23816e5d43b8cacb7c0458010a5d92125bf01a529f784e",
     "date": "04 September 2026",
@@ -648,5 +658,15 @@
     "slug": "the_rugone_xsnap_7_pro_smartphone_features_a_detachable_camera-news-74478",
     "status": "ok",
     "url": "https://www.gsmarena.com/the_rugone_xsnap_7_pro_smartphone_features_a_detachable_camera-news-74478.php"
+  },
+  "74481": {
+    "content_hash": "9a36d0ed26c5fe530861d97578acd0692e5562b7bf7057210321a24c3f77687a",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T17:17:14.675666+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/our_samsung_galaxy_s26_fe_battery_life_and_charging_tests_are_ready-news-74481.php"
   }
 }
