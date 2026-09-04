@@ -1,23 +1,63 @@
 [
   {
-    "slug": "oppo_a7_pro_with_an_8000mah_battery_is_launching_next_week-news-74470",
-    "url": "https://www.gsmarena.com/oppo_a7_pro_with_an_8000mah_battery_is_launching_next_week-news-74470.php",
+    "slug": "tecno_pova_8_pro_tonino_lamborghini_edition_goes_official-news-74473",
+    "url": "https://www.gsmarena.com/tecno_pova_8_pro_tonino_lamborghini_edition_goes_official-news-74473.php",
     "date": "04 September 2026",
-    "fetched_at": "2026-09-04T08:20:55.718265+00:00",
+    "fetched_at": "2026-09-04T13:55:00.652464+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "6a2644bd243c2b70caec2820fbbf76fa3ecbd532b07b6c2b28657534ce2d36af"
+    "content_hash": "67c455f6ee43068263966c3e9637c36552a41f68cd9f4cd0ea33ed1b4c50c112"
   },
   {
-    "slug": "infinix_hot_70_pro_india_price_sale_date-news-74472",
-    "url": "https://www.gsmarena.com/infinix_hot_70_pro_india_price_sale_date-news-74472.php",
+    "slug": "the_samsung_galaxy_s26_fe_officially_goes_on_sale_today-news-74475",
+    "url": "https://www.gsmarena.com/the_samsung_galaxy_s26_fe_officially_goes_on_sale_today-news-74475.php",
     "date": "04 September 2026",
-    "fetched_at": "2026-09-04T08:20:30.655206+00:00",
+    "fetched_at": "2026-09-04T13:54:36.838933+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "72fa589a0be140e20f23816e5d43b8cacb7c0458010a5d92125bf01a529f784e"
+    "content_hash": "17fdbe562fbe7e447ecc433726c6767374ce00c8d454be41b9c4310ce9075f1e"
+  },
+  {
+    "slug": "the_rugone_xsnap_7_pro_smartphone_features_a_detachable_camera-news-74478",
+    "url": "https://www.gsmarena.com/the_rugone_xsnap_7_pro_smartphone_features_a_detachable_camera-news-74478.php",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T13:53:55.194016+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3353673b330e09894a70b524a40f1fa3d545b17ed82b98b4f178bd0145393d9a"
+  },
+  {
+    "slug": "google_pixel_watch_5_stephen_curry_special_edition_price_sale_date-news-74477",
+    "url": "https://www.gsmarena.com/google_pixel_watch_5_stephen_curry_special_edition_price_sale_date-news-74477.php",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T13:53:35.662988+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "915a40d85336b1b5c0129b0bf4612d4354e3c2ea386251177ce4ce627c3cdc06"
+  },
+  {
+    "content_hash": "6a2644bd243c2b70caec2820fbbf76fa3ecbd532b07b6c2b28657534ce2d36af",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T08:20:55.718265+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_a7_pro_with_an_8000mah_battery_is_launching_next_week-news-74470",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_a7_pro_with_an_8000mah_battery_is_launching_next_week-news-74470.php"
+  },
+  {
+    "content_hash": "72fa589a0be140e20f23816e5d43b8cacb7c0458010a5d92125bf01a529f784e",
+    "date": "04 September 2026",
+    "fetched_at": "2026-09-04T08:20:30.655206+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "infinix_hot_70_pro_india_price_sale_date-news-74472",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/infinix_hot_70_pro_india_price_sale_date-news-74472.php"
   },
   {
     "content_hash": "1bec85517d7f9572ced48a7d6d865b60f30649b68d69e00020e6a3b0a0eaf740",
