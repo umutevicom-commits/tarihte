@@ -688,5 +688,15 @@
     "slug": "samsung_galaxy_watch7_galaxy_watch_ultra_one_ui_9_watch_beta_update-news-74482",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_watch7_galaxy_watch_ultra_one_ui_9_watch_beta_update-news-74482.php"
+  },
+  "74485": {
+    "content_hash": "2ba626f510e688b23196e85d06dc3655da3601ac6c13290f42ea1d02d7ddbd4c",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T11:33:06.795701+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_galaxy_s26_fe_now_on_sale_latest_galaxy_z_foldables_get_price_cuts-news-74485",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_galaxy_s26_fe_now_on_sale_latest_galaxy_z_foldables_get_price_cuts-news-74485.php"
   }
 }

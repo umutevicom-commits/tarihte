@@ -1,0 +1,25 @@
+# Fırsatlar: Galaxy S26 FE şimdi satışta, en yeni Galaxy Z katlanabilirleri fiyat indirimi alıyor
+
+Samsung kısa süre önce en son FE serisi telefonu Galaxy S26 FE'yi duyurdu ve Amazon İngiltere'de küçük bir fiyat indirimi ile zaten mevcut. Bunun yanı sıra, şirketin en yeni Galaxy Z katlanabilirleri de iyi indirimler aldı.
+
+Galaxy S26 FE, ödeme sırasında etkinleştirilen 50 £ indirimle sunulmaktadır.
+
+6,7 inç AMOLED 2x ekrana sahip ve Exynos 2500 yonga seti ile güçlendirilmiş. Telefon ayrıca 50MP ana kameralı üçlü arka kamera kurulumuna ve 4.900mAh bataryaya sahiptir.
+
+Samsung Galaxy Z Fold8, Z Fold8 Ultra ve Galaxy Z Flip8 şu anda 200 £ 'a kadar fiyat indirimi ile mevcut.
+
+Her üç katlanabilir cihaz da Galaxy yonga seti için Snapdragon 8 Elite Gen 5 ile donatılmıştır. Galaxy Z Fold8 Ultra, Galaxy Z Fold7 'nin doğrudan halefidir, oysa Galaxy Z Fold8, Samsung'un geniş ekranlı katlanabilir bir modeldir.
+
+Bu hafta en son Google Pixel 11 serisinde anlaşma olmamasına rağmen, eski Pixel 10 telefonlarından bazıları fiyat indirimi aldı. Bu arada, Pixel 10A indirimli olmaya devam ediyor. Pixel 10 ve 10 Pro'da 350 £ 'a varan indirim var.
+
+Öte yandan, Pixel 10A 120 £ 'a kadar indirimle sunuluyor.
+
+6.3 inç OLED ekran, Google Tensor G4 yonga seti, çift arka kamera kurulumu ve 5.100 mAh batarya sunuyor.
+
+Geçen hafta olduğu gibi, Xiaomi 17T ve 17T Pro indirimli olarak sunulmaya devam ediyor, ancak fiyat indirimleri bu hafta sadece 100 £ 'dır.
+
+Xiaomi 17T, 6.59inç AMOLED ekran, Dimensity 8500 Ultra yonga seti, üçlü arka kameralar ve 6.500 mAh batarya ile birlikte geliyor. Bu arada, Pro modeli daha büyük bir 6.83inç panel, Dimensity 9500 SoC ve 7.000mAh pil sunuyor. Standart modelle aynı üçlü arka kamera kurulumuna sahiptir.
+
+Son olarak, Xiaomi'nin Poco F9 Pro ve Poco F9 Ultra'sı 230 £ 'a kadar indirimle sunuluyor.
+
+Ultra, Snapdragon 8 Elite Gen 5 yonga seti tarafından desteklenirken, F9 Pro 8 Elite Gen 5 V serisi SoC kullanıyor. Her iki cihaz da 200MP ana arka kameraya sahiptir.
