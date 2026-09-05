@@ -1,0 +1,47 @@
+{
+  "url": "https://www.gsmarena.com/apple_apparently_has_two_game_controllers_in_the_works-news-74487.php",
+  "slug": "apple_apparently_has_two_game_controllers_in_the_works-news-74487",
+  "title": "Apple apparently has two game controllers in the works",
+  "news_id": "74487",
+  "date": "05 September 2026",
+  "author": "Victor",
+  "tags": [
+    "Featured",
+    "Apple",
+    "Gaming",
+    "Rumors"
+  ],
+  "body_paragraphs": [
+    "Practically anything Apple releases tends to enjoy at least some popularity. Unfortunately, like with most of the industry, the days of outright silly products like the iPod Socks (yes, we are not making this up) seem to be gone now. But that doesn’t mean there isn’t still room for somewhat stranger products. Apparently, Cupertino is working on two different game controllers, or at least that’s what code found inside macOS 26.7 suggests.",
+    "The macOS Tahoe 26.7 release candidate code actually seems to contain a bunch of references to unannounced devices, including camera-equipped AirPods and potentially some new-generation HomePod mini devices, perhaps a security camera as well. But the most “out-there” references are arguably for the T6502 and T1057 – both identified as game controllers.",
+    "Apple doesn’t really have game controllers in its roster, although, technically, if you could count the Pippin, it has offered at least one controller in the past. A wireless one at that. In fact, Apple spent quite a bit of resources to make the most popular third-party controllers out there compatible with its platforms. Units from PlayStation, Xbox, Nintendo, and countless third parties.",
+    "We do know some little details on the upcoming controllers. Both models feature an ABXY button layout, two clickable thumbsticks, shoulder buttons, analog triggers and Home and Menu buttons – pretty much the gold standard for a modern controller.",
+    "The T6502 is the more basic of the two, only reporting USB connectivity, with no motion sensors and nothing else fancy like a touchpad, microphone or speaker. The T6502 does have an Options button and reports four separate haptic channels – two for a left haptic motor and another two for a right one. Apparently, half the channels are “software”, so essentially, two channels per motor, which should allow for pretty advanced haptics.",
+    "The T1507 appears to be a higher-end offering, since it can connect through USB as well as Bluetooth. It has an accelerometer and gyroscope, presumably to be used as alternative input. Interestingly, no Options key on this one, and it has just a single haptic motor.",
+    "Anyway, these controller references were initially public in macOS 26.7 but were pulled in the second release. We can’t say if they were removed or just hidden. Either way, if the controllers do become reality, we do have to wonder why Apple decided to spend resources on this particular niche. Could there be some gaming-related announcements on the horizon as well?"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/apple_apparently_has_two_game_controllers_in_the_works-news-74487/immaculate_002.jpg",
+      "alt": "Apple apparently has two game controllers in the works"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-05T23:28:17.399456+00:00",
+  "title_tr": "Görünüşe göre Apple'ın üzerinde çalıştığı iki oyun kumandası var",
+  "body_paragraphs_tr": [
+    "Pratik olarak, Apple'ın piyasaya sürdüğü her şey en azından bir miktar popülerlikten yararlanma eğilimindedir. Ne yazık ki, endüstrinin çoğunda olduğu gibi, iPod Socks (evet, bunu uydurmuyoruz) gibi düpedüz aptalca ürünlerin olduğu günler artık geride kalmış gibi görünüyor. Ancak bu, biraz daha garip ürünler için hala yer olmadığı anlamına gelmez. Görünüşe göre, Cupertino iki farklı oyun denetleyicisi üzerinde çalışıyor ya da en azından macOS 26.7 'de bulunan kodun önerdiği şey bu.",
+    "MacOS Tahoe 26.7 sürüm aday kodu aslında kamera donanımlı AirPod'lar ve potansiyel olarak bazı yeni nesil HomePod mini cihazlar, belki bir güvenlik kamerası da dahil olmak üzere habersiz cihazlara bir sürü referans içeriyor gibi görünüyor. Ancak her ikisi de oyun kumandası olarak tanımlanan T6502 ve T1057 için en \"dışarıda\" referanslar tartışmalıdır.",
+    "Apple'ın kadrosunda gerçekten oyun denetleyicileri yok, ancak teknik olarak Pippin'i sayabilirseniz, geçmişte en az bir denetleyici sundu. Hem de kablosuz. Aslında Apple, en popüler üçüncü taraf denetleyicileri platformlarıyla uyumlu hale getirmek için oldukça fazla kaynak harcadı. PlayStation, Xbox, Nintendo ve sayısız üçüncü taraftan birimler.",
+    "Yaklaşan kontrolörler hakkında bazı küçük ayrıntılar biliyoruz. Her iki model de bir ABXY düğme düzenine, iki tıklanabilir parmak çubuğuna, omuz düğmelerine, analog tetikleyicilere ve Ana Sayfa ve Menü düğmelerine sahiptir – modern bir kumanda için neredeyse altın standarttır.",
+    "T6502, hareket sensörleri olmadan ve dokunmatik yüzey, mikrofon veya hoparlör gibi başka bir şey olmadan yalnızca USB bağlantısını bildiren ikisinin daha temelidir. T6502 'nin bir Seçenek düğmesi vardır ve dört ayrı dokunsal kanal rapor eder – ikisi sol dokunsal motor, diğeri sağ dokunsal motor için. Görünüşe göre, kanalların yarısı \"yazılım\" dır, yani esasen, motor başına iki kanaldır, bu da oldukça gelişmiş haptiklere izin vermelidir.",
+    "T1507, USB ve Bluetooth üzerinden bağlanabildiği için üst düzey bir teklif gibi görünüyor. Muhtemelen alternatif girdi olarak kullanılacak bir ivmeölçer ve jiroskopa sahiptir. İlginç bir şekilde, bunda Seçenek tuşu yok ve sadece tek bir dokunsal motoru var.",
+    "Her neyse, bu denetleyici referansları başlangıçta macOS 26.7 'de herkese açıktı, ancak ikinci sürümde geri çekildi. Kaldırılıp kaldırılmadıklarını veya gizlenip gizlenmediklerini söyleyemeyiz. Her iki durumda da, kontrolörler gerçeğe dönüşürse, Apple'ın neden bu özel niş için kaynak harcamaya karar verdiğini merak etmemiz gerekiyor. Ufukta oyunla ilgili bazı duyurular da olabilir mi?"
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "Oyun",
+    "Söylentiler"
+  ]
+}
