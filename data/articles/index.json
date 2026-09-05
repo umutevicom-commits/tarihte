@@ -1,13 +1,33 @@
 [
   {
-    "slug": "motorola_wide_foldable_design_sketches-news-74488",
-    "url": "https://www.gsmarena.com/motorola_wide_foldable_design_sketches-news-74488.php",
+    "slug": "samsung_galaxy_a18_4g_leaks_in_full_renders_specs_and_price-news-74490",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a18_4g_leaks_in_full_renders_specs_and_price-news-74490.php",
     "date": "05 September 2026",
-    "fetched_at": "2026-09-05T14:17:40.198138+00:00",
+    "fetched_at": "2026-09-05T17:49:48.646796+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "a758c9834c084ea784c462014f03e1cfa5d6b2c29091f6cda9f8eccfaa4b8312"
+    "content_hash": "833d2728a52e2825aa92907643df7c155ad97cef1ff79d600dd42e41ced4d464"
+  },
+  {
+    "slug": "xiaomi_unveils_the_smart_band_11-news-74489",
+    "url": "https://www.gsmarena.com/xiaomi_unveils_the_smart_band_11-news-74489.php",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T17:49:23.407758+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "02d90ac0f24e79d4ff863435076c718917a115d28df83db3f8acb98310131a82"
+  },
+  {
+    "content_hash": "a758c9834c084ea784c462014f03e1cfa5d6b2c29091f6cda9f8eccfaa4b8312",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T14:17:40.198138+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorola_wide_foldable_design_sketches-news-74488",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_wide_foldable_design_sketches-news-74488.php"
   },
   {
     "content_hash": "2ba626f510e688b23196e85d06dc3655da3601ac6c13290f42ea1d02d7ddbd4c",

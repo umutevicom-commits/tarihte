@@ -708,5 +708,25 @@
     "slug": "motorola_wide_foldable_design_sketches-news-74488",
     "status": "ok",
     "url": "https://www.gsmarena.com/motorola_wide_foldable_design_sketches-news-74488.php"
+  },
+  "74489": {
+    "content_hash": "02d90ac0f24e79d4ff863435076c718917a115d28df83db3f8acb98310131a82",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T17:49:23.407758+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_unveils_the_smart_band_11-news-74489",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_unveils_the_smart_band_11-news-74489.php"
+  },
+  "74490": {
+    "content_hash": "833d2728a52e2825aa92907643df7c155ad97cef1ff79d600dd42e41ced4d464",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T17:49:48.646796+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a18_4g_leaks_in_full_renders_specs_and_price-news-74490",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a18_4g_leaks_in_full_renders_specs_and_price-news-74490.php"
   }
 }
