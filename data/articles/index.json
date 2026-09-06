@@ -1,13 +1,23 @@
 [
   {
-    "slug": "samsung_galaxy_a35_one_ui_9_beta_release_imminent-news-74491",
-    "url": "https://www.gsmarena.com/samsung_galaxy_a35_one_ui_9_beta_release_imminent-news-74491.php",
+    "slug": "huawei_watch_6_in_for_review-news-74453",
+    "url": "https://www.gsmarena.com/huawei_watch_6_in_for_review-news-74453.php",
     "date": "06 September 2026",
-    "fetched_at": "2026-09-06T02:05:03.142931+00:00",
+    "fetched_at": "2026-09-06T08:13:54.879807+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "cd002b6fac53626e1a93951f11c98ff71a82643bb25e4e7b9ec1df9fb93e3008"
+    "content_hash": "21b5d0ad2299641af3416be3d3539d88b48e5d55c368ce1230fd73386d4a4d53"
+  },
+  {
+    "content_hash": "cd002b6fac53626e1a93951f11c98ff71a82643bb25e4e7b9ec1df9fb93e3008",
+    "date": "06 September 2026",
+    "fetched_at": "2026-09-06T02:05:03.142931+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a35_one_ui_9_beta_release_imminent-news-74491",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a35_one_ui_9_beta_release_imminent-news-74491.php"
   },
   {
     "content_hash": "f0d7fd31ee7e207d564687d9824467e60f8946bd2913a3a2abfad2a92bcf726c",
