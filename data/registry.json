@@ -559,6 +559,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_v80_lite_arrives_with_10000mah_battery_-news-74464.php"
   },
+  "74465": {
+    "content_hash": "3d5ef3ee02243f3a1cc1cf9aa772404a265fe55ebdb079ee5c5d804aaeacdbd2",
+    "date": "06 September 2026",
+    "fetched_at": "2026-09-06T13:18:46.260893+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_results_fans_think_that_the_samsung_galaxy_s26_fe_needs_a_price_cut_badly-news-74465",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_fans_think_that_the_samsung_galaxy_s26_fe_needs_a_price_cut_badly-news-74465.php"
+  },
   "74466": {
     "content_hash": "235c54538c6ff43ded657623c101365fb44277e3522bc18d3102534a44606971",
     "date": "03 September 2026",
@@ -688,6 +698,16 @@
     "slug": "the_rugone_xsnap_7_pro_smartphone_features_a_detachable_camera-news-74478",
     "status": "ok",
     "url": "https://www.gsmarena.com/the_rugone_xsnap_7_pro_smartphone_features_a_detachable_camera-news-74478.php"
+  },
+  "74479": {
+    "content_hash": "dcece707d54acffc52121d00d476ef0fa73db6525a96a9f35e1b3afde6c245a2",
+    "date": "06 September 2026",
+    "fetched_at": "2026-09-06T13:19:08.770737+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_poco_f9_pro_and_f9_ultra_galaxy_s26_fe_now_available_galaxy_z_fold8_ultra_discounted-news-74479",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_poco_f9_pro_and_f9_ultra_galaxy_s26_fe_now_available_galaxy_z_fold8_ultra_discounted-news-74479.php"
   },
   "74481": {
     "content_hash": "9a36d0ed26c5fe530861d97578acd0692e5562b7bf7057210321a24c3f77687a",

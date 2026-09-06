@@ -1,13 +1,33 @@
 [
   {
-    "slug": "huawei_watch_6_in_for_review-news-74453",
-    "url": "https://www.gsmarena.com/huawei_watch_6_in_for_review-news-74453.php",
+    "slug": "deals_poco_f9_pro_and_f9_ultra_galaxy_s26_fe_now_available_galaxy_z_fold8_ultra_discounted-news-74479",
+    "url": "https://www.gsmarena.com/deals_poco_f9_pro_and_f9_ultra_galaxy_s26_fe_now_available_galaxy_z_fold8_ultra_discounted-news-74479.php",
     "date": "06 September 2026",
-    "fetched_at": "2026-09-06T08:13:54.879807+00:00",
+    "fetched_at": "2026-09-06T13:19:08.770737+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "21b5d0ad2299641af3416be3d3539d88b48e5d55c368ce1230fd73386d4a4d53"
+    "content_hash": "dcece707d54acffc52121d00d476ef0fa73db6525a96a9f35e1b3afde6c245a2"
+  },
+  {
+    "slug": "weekly_poll_results_fans_think_that_the_samsung_galaxy_s26_fe_needs_a_price_cut_badly-news-74465",
+    "url": "https://www.gsmarena.com/weekly_poll_results_fans_think_that_the_samsung_galaxy_s26_fe_needs_a_price_cut_badly-news-74465.php",
+    "date": "06 September 2026",
+    "fetched_at": "2026-09-06T13:18:46.260893+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3d5ef3ee02243f3a1cc1cf9aa772404a265fe55ebdb079ee5c5d804aaeacdbd2"
+  },
+  {
+    "content_hash": "21b5d0ad2299641af3416be3d3539d88b48e5d55c368ce1230fd73386d4a4d53",
+    "date": "06 September 2026",
+    "fetched_at": "2026-09-06T08:13:54.879807+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_watch_6_in_for_review-news-74453",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_watch_6_in_for_review-news-74453.php"
   },
   {
     "content_hash": "cd002b6fac53626e1a93951f11c98ff71a82643bb25e4e7b9ec1df9fb93e3008",
