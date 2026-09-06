@@ -1,23 +1,33 @@
 [
   {
-    "slug": "deals_poco_f9_pro_and_f9_ultra_galaxy_s26_fe_now_available_galaxy_z_fold8_ultra_discounted-news-74479",
-    "url": "https://www.gsmarena.com/deals_poco_f9_pro_and_f9_ultra_galaxy_s26_fe_now_available_galaxy_z_fold8_ultra_discounted-news-74479.php",
+    "slug": "weekly_poll_will_you_buy_the_poco_f9_pro_or_the_poco_f9_ultra-news-74463",
+    "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_poco_f9_pro_or_the_poco_f9_ultra-news-74463.php",
     "date": "06 September 2026",
-    "fetched_at": "2026-09-06T13:19:08.770737+00:00",
+    "fetched_at": "2026-09-06T16:35:42.878465+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "dcece707d54acffc52121d00d476ef0fa73db6525a96a9f35e1b3afde6c245a2"
+    "content_hash": "1ff7f2ef17c5ac011975b67667c413c6e9b03d534eef7be34d167d5823563d41"
   },
   {
-    "slug": "weekly_poll_results_fans_think_that_the_samsung_galaxy_s26_fe_needs_a_price_cut_badly-news-74465",
-    "url": "https://www.gsmarena.com/weekly_poll_results_fans_think_that_the_samsung_galaxy_s26_fe_needs_a_price_cut_badly-news-74465.php",
+    "content_hash": "dcece707d54acffc52121d00d476ef0fa73db6525a96a9f35e1b3afde6c245a2",
+    "date": "06 September 2026",
+    "fetched_at": "2026-09-06T13:19:08.770737+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_poco_f9_pro_and_f9_ultra_galaxy_s26_fe_now_available_galaxy_z_fold8_ultra_discounted-news-74479",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_poco_f9_pro_and_f9_ultra_galaxy_s26_fe_now_available_galaxy_z_fold8_ultra_discounted-news-74479.php"
+  },
+  {
+    "content_hash": "3d5ef3ee02243f3a1cc1cf9aa772404a265fe55ebdb079ee5c5d804aaeacdbd2",
     "date": "06 September 2026",
     "fetched_at": "2026-09-06T13:18:46.260893+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3d5ef3ee02243f3a1cc1cf9aa772404a265fe55ebdb079ee5c5d804aaeacdbd2"
+    "retries": 0,
+    "slug": "weekly_poll_results_fans_think_that_the_samsung_galaxy_s26_fe_needs_a_price_cut_badly-news-74465",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_fans_think_that_the_samsung_galaxy_s26_fe_needs_a_price_cut_badly-news-74465.php"
   },
   {
     "content_hash": "21b5d0ad2299641af3416be3d3539d88b48e5d55c368ce1230fd73386d4a4d53",
