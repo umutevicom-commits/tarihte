@@ -1,13 +1,23 @@
 [
   {
-    "slug": "apple_apparently_has_two_game_controllers_in_the_works-news-74487",
-    "url": "https://www.gsmarena.com/apple_apparently_has_two_game_controllers_in_the_works-news-74487.php",
-    "date": "05 September 2026",
-    "fetched_at": "2026-09-05T23:28:17.399456+00:00",
+    "slug": "samsung_galaxy_a35_one_ui_9_beta_release_imminent-news-74491",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a35_one_ui_9_beta_release_imminent-news-74491.php",
+    "date": "06 September 2026",
+    "fetched_at": "2026-09-06T02:05:03.142931+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "f0d7fd31ee7e207d564687d9824467e60f8946bd2913a3a2abfad2a92bcf726c"
+    "content_hash": "cd002b6fac53626e1a93951f11c98ff71a82643bb25e4e7b9ec1df9fb93e3008"
+  },
+  {
+    "content_hash": "f0d7fd31ee7e207d564687d9824467e60f8946bd2913a3a2abfad2a92bcf726c",
+    "date": "05 September 2026",
+    "fetched_at": "2026-09-05T23:28:17.399456+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_apparently_has_two_game_controllers_in_the_works-news-74487",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_apparently_has_two_game_controllers_in_the_works-news-74487.php"
   },
   {
     "content_hash": "52322c2ebcf95cbd6aeb2de763c0be7fa494f815d5a96d7492f00c728607d51b",
