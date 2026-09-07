@@ -878,5 +878,25 @@
     "slug": "vivo_x500_gets_certified_its_charging_support_is_revealed-news-74497",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_x500_gets_certified_its_charging_support_is_revealed-news-74497.php"
+  },
+  "74498": {
+    "content_hash": "a6a6f0f148917c9d1eb48fc3c5b04b598a04fe032eae01b840415c520e089fc6",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T19:30:35.455707+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_z11xa_launches_and_its_a_confusing_one-news-74498",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_z11xa_launches_and_its_a_confusing_one-news-74498.php"
+  },
+  "74500": {
+    "content_hash": "4dacbe60f0297eaf0390ddad661f943f2ccf25255b3c86bf82e9711206b8fb6b",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T19:30:10.898862+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_fold_is_here_with_the_xring_o3_soc_a_wide_format_and_a_cherry_red_colorway-news-74500",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_fold_is_here_with_the_xring_o3_soc_a_wide_format_and_a_cherry_red_colorway-news-74500.php"
   }
 }
