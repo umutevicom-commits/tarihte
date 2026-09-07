@@ -898,5 +898,15 @@
     "slug": "xiaomi_18_fold_is_here_with_the_xring_o3_soc_a_wide_format_and_a_cherry_red_colorway-news-74500",
     "status": "ok",
     "url": "https://www.gsmarena.com/xiaomi_18_fold_is_here_with_the_xring_o3_soc_a_wide_format_and_a_cherry_red_colorway-news-74500.php"
+  },
+  "74502": {
+    "content_hash": "3cf88d8760e14dad2a7e61971364df08617e0aba029acc39ab70f03315ca81e3",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T22:24:37.890626+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_reveals_the_pura_x_views_full_specs_pricing_and_launch_date-news-74502",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_reveals_the_pura_x_views_full_specs_pricing_and_launch_date-news-74502.php"
   }
 }

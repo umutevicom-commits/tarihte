@@ -1,23 +1,33 @@
 [
   {
-    "slug": "iqoo_z11xa_launches_and_its_a_confusing_one-news-74498",
-    "url": "https://www.gsmarena.com/iqoo_z11xa_launches_and_its_a_confusing_one-news-74498.php",
+    "slug": "huawei_reveals_the_pura_x_views_full_specs_pricing_and_launch_date-news-74502",
+    "url": "https://www.gsmarena.com/huawei_reveals_the_pura_x_views_full_specs_pricing_and_launch_date-news-74502.php",
     "date": "07 September 2026",
-    "fetched_at": "2026-09-07T19:30:35.455707+00:00",
+    "fetched_at": "2026-09-07T22:24:37.890626+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "a6a6f0f148917c9d1eb48fc3c5b04b598a04fe032eae01b840415c520e089fc6"
+    "content_hash": "3cf88d8760e14dad2a7e61971364df08617e0aba029acc39ab70f03315ca81e3"
   },
   {
-    "slug": "xiaomi_18_fold_is_here_with_the_xring_o3_soc_a_wide_format_and_a_cherry_red_colorway-news-74500",
-    "url": "https://www.gsmarena.com/xiaomi_18_fold_is_here_with_the_xring_o3_soc_a_wide_format_and_a_cherry_red_colorway-news-74500.php",
+    "content_hash": "a6a6f0f148917c9d1eb48fc3c5b04b598a04fe032eae01b840415c520e089fc6",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T19:30:35.455707+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_z11xa_launches_and_its_a_confusing_one-news-74498",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_z11xa_launches_and_its_a_confusing_one-news-74498.php"
+  },
+  {
+    "content_hash": "4dacbe60f0297eaf0390ddad661f943f2ccf25255b3c86bf82e9711206b8fb6b",
     "date": "07 September 2026",
     "fetched_at": "2026-09-07T19:30:10.898862+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4dacbe60f0297eaf0390ddad661f943f2ccf25255b3c86bf82e9711206b8fb6b"
+    "retries": 0,
+    "slug": "xiaomi_18_fold_is_here_with_the_xring_o3_soc_a_wide_format_and_a_cherry_red_colorway-news-74500",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_fold_is_here_with_the_xring_o3_soc_a_wide_format_and_a_cherry_red_colorway-news-74500.php"
   },
   {
     "content_hash": "34077b593432e8ce96bd3a5b314739823cfa7b2a470fdf695a24a46f8aeb88ad",
