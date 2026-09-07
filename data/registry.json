@@ -719,6 +719,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/deals_poco_f9_pro_and_f9_ultra_galaxy_s26_fe_now_available_galaxy_z_fold8_ultra_discounted-news-74479.php"
   },
+  "74480": {
+    "content_hash": "d5499b1f3d4210ac6a18e9a70760f1a9fd560e2d700b3fe68b784c74395e36f1",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T08:46:39.708577+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "poco_x8_unboxing-news-74480",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/poco_x8_unboxing-news-74480.php"
+  },
   "74481": {
     "content_hash": "9a36d0ed26c5fe530861d97578acd0692e5562b7bf7057210321a24c3f77687a",
     "date": "04 September 2026",
@@ -818,5 +828,25 @@
     "slug": "samsung_galaxy_a35_one_ui_9_beta_release_imminent-news-74491",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_a35_one_ui_9_beta_release_imminent-news-74491.php"
+  },
+  "74492": {
+    "content_hash": "651b33615a1e487d1d9eb5dbc7d01aa7a418f49bd35fcc74b8cbaafcd57c4556",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T08:46:24.582936+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_series_confirmed_to_launch_this_month_design_teased-news-74492",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_series_confirmed_to_launch_this_month_design_teased-news-74492.php"
+  },
+  "74493": {
+    "content_hash": "84212e4db6d9ff0a94ef1b791fefe85da4726ccad1645781e182859d88c962f7",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T08:46:06.609201+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "leaked_video_shows_iphone_18_pro_max_in_dark_cherry_and_18_pro_in_blue-news-74493",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/leaked_video_shows_iphone_18_pro_max_in_dark_cherry_and_18_pro_in_blue-news-74493.php"
   }
 }
