@@ -1,33 +1,63 @@
 [
   {
-    "slug": "poco_x8_unboxing-news-74480",
-    "url": "https://www.gsmarena.com/poco_x8_unboxing-news-74480.php",
+    "slug": "samsung_galaxy_a07s_debuts_with_a_67inch_screen_5000mah_battery-news-74494",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a07s_debuts_with_a_67inch_screen_5000mah_battery-news-74494.php",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T15:25:01.872715+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "34077b593432e8ce96bd3a5b314739823cfa7b2a470fdf695a24a46f8aeb88ad"
+  },
+  {
+    "slug": "vivo_x500_gets_certified_its_charging_support_is_revealed-news-74497",
+    "url": "https://www.gsmarena.com/vivo_x500_gets_certified_its_charging_support_is_revealed-news-74497.php",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T15:24:50.149230+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "02a33f625ae5456427a3d15dc36ec22cb39fb862a90dbfdfbec87454793e6d21"
+  },
+  {
+    "slug": "poco_c95_pro_specs_and_renders_leak-news-74496",
+    "url": "https://www.gsmarena.com/poco_c95_pro_specs_and_renders_leak-news-74496.php",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T15:24:31.497007+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ac37f783499d85f8f55526c9827815ee294d106570e9f5126d75bbad7fe6ab43"
+  },
+  {
+    "content_hash": "d5499b1f3d4210ac6a18e9a70760f1a9fd560e2d700b3fe68b784c74395e36f1",
     "date": "07 September 2026",
     "fetched_at": "2026-09-07T08:46:39.708577+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d5499b1f3d4210ac6a18e9a70760f1a9fd560e2d700b3fe68b784c74395e36f1"
+    "retries": 0,
+    "slug": "poco_x8_unboxing-news-74480",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/poco_x8_unboxing-news-74480.php"
   },
   {
-    "slug": "oppo_find_x10_series_confirmed_to_launch_this_month_design_teased-news-74492",
-    "url": "https://www.gsmarena.com/oppo_find_x10_series_confirmed_to_launch_this_month_design_teased-news-74492.php",
+    "content_hash": "651b33615a1e487d1d9eb5dbc7d01aa7a418f49bd35fcc74b8cbaafcd57c4556",
     "date": "07 September 2026",
     "fetched_at": "2026-09-07T08:46:24.582936+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "651b33615a1e487d1d9eb5dbc7d01aa7a418f49bd35fcc74b8cbaafcd57c4556"
+    "retries": 0,
+    "slug": "oppo_find_x10_series_confirmed_to_launch_this_month_design_teased-news-74492",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_series_confirmed_to_launch_this_month_design_teased-news-74492.php"
   },
   {
-    "slug": "leaked_video_shows_iphone_18_pro_max_in_dark_cherry_and_18_pro_in_blue-news-74493",
-    "url": "https://www.gsmarena.com/leaked_video_shows_iphone_18_pro_max_in_dark_cherry_and_18_pro_in_blue-news-74493.php",
+    "content_hash": "84212e4db6d9ff0a94ef1b791fefe85da4726ccad1645781e182859d88c962f7",
     "date": "07 September 2026",
     "fetched_at": "2026-09-07T08:46:06.609201+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "84212e4db6d9ff0a94ef1b791fefe85da4726ccad1645781e182859d88c962f7"
+    "retries": 0,
+    "slug": "leaked_video_shows_iphone_18_pro_max_in_dark_cherry_and_18_pro_in_blue-news-74493",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/leaked_video_shows_iphone_18_pro_max_in_dark_cherry_and_18_pro_in_blue-news-74493.php"
   },
   {
     "content_hash": "e5beb1dd9305e88c7368f3c551ba160af8b16c4782e1baa192772e30dd1bff49",

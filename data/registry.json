@@ -848,5 +848,35 @@
     "slug": "leaked_video_shows_iphone_18_pro_max_in_dark_cherry_and_18_pro_in_blue-news-74493",
     "status": "ok",
     "url": "https://www.gsmarena.com/leaked_video_shows_iphone_18_pro_max_in_dark_cherry_and_18_pro_in_blue-news-74493.php"
+  },
+  "74494": {
+    "content_hash": "34077b593432e8ce96bd3a5b314739823cfa7b2a470fdf695a24a46f8aeb88ad",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T15:25:01.872715+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a07s_debuts_with_a_67inch_screen_5000mah_battery-news-74494",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a07s_debuts_with_a_67inch_screen_5000mah_battery-news-74494.php"
+  },
+  "74496": {
+    "content_hash": "ac37f783499d85f8f55526c9827815ee294d106570e9f5126d75bbad7fe6ab43",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T15:24:31.497007+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "poco_c95_pro_specs_and_renders_leak-news-74496",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/poco_c95_pro_specs_and_renders_leak-news-74496.php"
+  },
+  "74497": {
+    "content_hash": "02a33f625ae5456427a3d15dc36ec22cb39fb862a90dbfdfbec87454793e6d21",
+    "date": "07 September 2026",
+    "fetched_at": "2026-09-07T15:24:50.149230+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_gets_certified_its_charging_support_is_revealed-news-74497",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_gets_certified_its_charging_support_is_revealed-news-74497.php"
   }
 }
