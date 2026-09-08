@@ -1068,5 +1068,25 @@
     "slug": "motorola_starts_teasing_the_signature_27-news-74518",
     "status": "ok",
     "url": "https://www.gsmarena.com/motorola_starts_teasing_the_signature_27-news-74518.php"
+  },
+  "74519": {
+    "content_hash": "bdaa96c1612dcd0685fe09f37608246d359dab1f867221cdd2e5f97a7665a0c5",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T22:12:33.040764+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_iphone_ultra_launch_in_china_may_be_delayed_for_the_same_reason_as_the_iphone_air-news-74519",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_iphone_ultra_launch_in_china_may_be_delayed_for_the_same_reason_as_the_iphone_air-news-74519.php"
+  },
+  "74524": {
+    "content_hash": "17c46eda701bda87e37c4a510cceadd61393cae2cec05fc66fbe686e79bc614f",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T22:12:07.639406+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ios_camera_app_will_get_some_pro_addons_hints_at_variable_aperture_support-news-74524",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/ios_camera_app_will_get_some_pro_addons_hints_at_variable_aperture_support-news-74524.php"
   }
 }
