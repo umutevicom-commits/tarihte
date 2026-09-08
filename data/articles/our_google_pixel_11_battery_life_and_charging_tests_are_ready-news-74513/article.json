@@ -1,0 +1,107 @@
+{
+  "url": "https://www.gsmarena.com/our_google_pixel_11_battery_life_and_charging_tests_are_ready-news-74513.php",
+  "slug": "our_google_pixel_11_battery_life_and_charging_tests_are_ready-news-74513",
+  "title": "Our Google Pixel 11 battery life and charging tests are ready",
+  "news_id": "74513",
+  "date": "08 September 2026",
+  "author": "Peter",
+  "tags": [
+    "Featured",
+    "Google",
+    "Android",
+    "Battery test"
+  ],
+  "body_paragraphs": [
+    "Last year, the Pixel 10 delivered less-than-stellar battery life results from its 4,970mAh battery – this was the first generation with Tensor chipsets fabbed by TSMC, so, clearly, there were some teething issues.",
+    "It’s a year later and we’re putting the Google Pixel 11 through the same battery and charging tests. Google kept battery capacity essentially the same at 4,985mAh, but it optimized the rest of the hardware to reduce power draw. Let’s find out whether it was successful.",
+    "Indeed it was! With an Active Use Score of 15:40h, the Pixel 11 left its predecessor in the dust – the 2025 vanilla phone only scored 12:08h. Crucially, the Pixel matched its key rivals – this includes the Pixel 11 Pro, the Galaxy S26 and the iPhone 17.",
+    "Gaming remains a weak test for the Pixels even with the latest Tensor G6. The culprit is the IMG CXTP-48-1536 GPU from Imagination, which struggles to match the Apple-designed GPU inside the iPhones, the AMD-based GPU inside the Galaxy S26 (we tested the Exynos 2600 version) and the Arm GPUs used by MediaTek.",
+    "That is only in terms of performance, though. As you can see, Google and Imagination significantly improved the power efficiency, and the gaming battery life test now matches the Galaxys and the iPhones. You might get worse frame rates at max graphics settings, so we still wouldn’t recommend a Pixel 11 to gamers. That said, the phone is fine for casual play as most mobile games aren’t that demanding and you’ll be getting battery life comparable to Apple and Samsung phones.",
+    "The good news is that there is no individual test that stands out as bad. This is in contrast with the Pixel 10 – look at its gaming score of only 5:47h, while the Pixel 11 scored nearly 4 hours higher. The video test also shows a significant improvement for the new Pixel 11 model.",
+    "Charging speed test",
+    "Wireless charging on the Pixel 11 has received a boost to 25W this year, but wired charging hasn't budged from the max 30W rating.",
+    "Google introduced a new Extreme mode for wired charging with the Pixel 11 series. We tested it, and we’ll tell you right now that it doesn’t really deserve that boastful term.",
+    "Still, with Extreme Charging ON, we do see a speed-up from the Pixel 10 generation, and it is overall not far behind phones like the Galaxy S26 and iPhone 17, both of which are pretty conservative when it comes to charging power. We can hear you shouting about your favorite Chinese brands, but Google sells Pixels only in a limited number of countries and those markets lean towards Samsung and Apple. Brands like Oppo and Xiaomi aren’t even available in the US and Canada, so that’s why we’re focusing on Galaxy and iPhone comparisons.",
+    "Before we continue, we need to explain what you need to enable Extreme Charging mode. It basically has the same requirements as the regular mode, it just uses a slightly more aggressive charging curve. Specifically, you need an adapter that can deliver 11V and 3A to get the fastest charge times.",
+    "Most 30W chargers won't deliver the maximum power that the phone is rated to take but anything about 33W should be good enough. Most 45W adapters we checked had the correct power ratings, so you can pick one just to be on the safe side. Google’s 45W USB-C Power Charger ($30) supports up to 16V at 3A. Note that we used Google’s 67W dual-port adapter ($60) for this test, but that’s overkill – even the 45W model can deliver maximum power to the Pixel 11 Pro XL, which has higher requirements.",
+    "Whether you go for a Google charger or a third-party one, you will have to supply your own, as Google only includes a USB-C to USB-C cable with the retail package. The good news is that you only need a 3A cable, so you can use mostly any cable; you don’t need a pricier 5A cable (those require E-Marker chips).",
+    "Alright, we can finally talk about the results. As mentioned above, neither Samsung nor Apple are fans of high charge rates and it shows – at the 15 minute mark, the iPhone 17 and Galaxy S26 pull ahead, but they have smaller batteries. And at the 30 minute mark, the Pixel 11 starts to close the gap, anyway.",
+    "A full charge for the Pixel 11 takes 1 hour and 20 minutes (give or take). That’s a little better, but we wouldn’t call it “Extreme”. Still, it’s competitive with the others, being beaten only by the Galaxy S26, whose battery is 685mAh smaller.",
+    "in 15 min",
+    "in 30 min",
+    "Time to full charge (from 0%)",
+    "In summary, Google did excellent work on improving battery efficiency – what we would like to see next year is a better GPU and a Si/C battery. But as it stands today, the Pixel 11 matches the Galaxy S26 and iPhone 17 in terms of battery life."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/our_google_pixel_11_battery_life_and_charging_tests_are_ready-news-74513/immaculate_001.jpg",
+      "alt": "Our Google Pixel 11 battery life and charging tests are ready"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/our_google_pixel_11_battery_life_and_charging_tests_are_ready-news-74513/immaculate_003.jpg",
+      "alt": "Our Google Pixel 11 battery life and charging tests are ready"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/our_google_pixel_11_battery_life_and_charging_tests_are_ready-news-74513/immaculate_002.jpg",
+      "alt": "Our Google Pixel 11 battery life and charging tests are ready"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/apple-iphone-17.jpg",
+      "alt": "iPhone 17"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/samsung-galaxy-s26.jpg",
+      "alt": "Galaxy S26"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/apple-iphone-17e.jpg",
+      "alt": "iPhone 17e"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/google-pixel-11.jpg",
+      "alt": "Pixel 11 (Extreme)"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/google-pixel-10-.jpg",
+      "alt": "Pixel 10"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/google-pixel-10a.jpg",
+      "alt": "Pixel 10a"
+    },
+    {
+      "url": "https://www.gsmarena.com/<#BasePicLoc#>bigpic/google-pixel-11-pro.jpg",
+      "alt": "Pixel 11 Pro (India)"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-08T19:09:44.362561+00:00",
+  "title_tr": "Google Pixel 11 pil ömrü ve şarj testlerimiz hazır",
+  "body_paragraphs_tr": [
+    "Geçen yıl Pixel 10, 4,970mAh bataryasından daha az yıldız pil ömrü sonuçları verdi – bu, TSMC tarafından üretilen Tensor yonga setlerine sahip ilk nesildi, bu yüzden açıkça, bazı diş çıkarma sorunları vardı.",
+    "Bir yıl geçti ve Google Pixel 11 'i aynı pil ve şarj testlerinden geçiriyoruz. Google, pil kapasitesini esasen 4.985mAh'de tuttu, ancak güç tüketimini azaltmak için donanımın geri kalanını optimize etti. Başarılı olup olmadığını öğrenelim.",
+    "Gerçekten de öyleydi! Aktif Kullanım Puanı 15:40 olan Pixel 11, selefini tozda bıraktı – 2025 vanilya telefonu sadece 12:08saat attı. En önemlisi, Pixel önemli rakipleriyle eşleşti – bu Pixel 11 Pro, Galaxy S26 ve iPhone 17 'yi içeriyor.",
+    "Oyun, en yeni Tensor G6 ile bile Pixeller için zayıf bir test olmaya devam ediyor. Suçlu, iPhone'ların içindeki Apple tarafından tasarlanan GPU'yu, Galaxy S26 'nın içindeki AMD tabanlı GPU'yu (Exynos 2600 sürümünü test ettik) ve MediaTek tarafından kullanılan Arm GPU'larını eşleştirmek için mücadele eden Imagination'ın IMG CXTP -48 -1536 GPU'su.",
+    "Ancak bu sadece performans açısından geçerli. Gördüğünüz gibi, Google ve Imagination güç verimliliğini önemli ölçüde artırdı ve oyun pil ömrü testi artık Galaxys ve iPhone'larla eşleşiyor. Maksimum grafik ayarlarında daha kötü kare hızları elde edebilirsiniz, bu nedenle yine de oyunculara Pixel 11 'i önermeyiz. Bununla birlikte, çoğu mobil oyun bu kadar zorlu olmadığından ve Apple ve Samsung telefonlarıyla karşılaştırılabilir pil ömrü elde edeceğinizden, telefon gündelik oyun için uygundur.",
+    "İyi haber şu ki, kötü olarak öne çıkan bireysel bir test yok. Bu, Pixel 10 'un aksine – sadece 5:47 saatlik oyun skoruna bakarken, Pixel 11 yaklaşık 4 saat daha yüksek puan aldı. Video testi ayrıca yeni Pixel 11 modeli için önemli bir gelişme gösteriyor.",
+    "Şarj hızı testi",
+    "Pixel 11 'deki kablosuz şarj bu yıl 25W'a yükseldi, ancak kablolu şarj maksimum 30W derecelendirmesinden çıkmadı.",
+    "Google, Pixel 11 serisi ile kablolu şarj için yeni bir Extreme modunu tanıttı. Test ettik ve şu anda size bu övünme terimini gerçekten hak etmediğini söyleyeceğiz.",
+    "Yine de, Extreme Charging ON ile Pixel 10 neslinden bir hızlanma görüyoruz ve genel olarak şarj gücü söz konusu olduğunda her ikisi de oldukça muhafazakar olan Galaxy S26 ve iPhone 17 gibi telefonların çok gerisinde değil. En sevdiğiniz Çin markaları hakkında bağırdığınızı duyabiliyoruz, ancak Google Pixels'i yalnızca sınırlı sayıda ülkede satıyor ve bu pazarlar Samsung ve Apple'a yöneliyor. Oppo ve Xiaomi gibi markalar ABD ve Kanada'da bile mevcut değil, bu yüzden Galaxy ve iPhone karşılaştırmalarına odaklanıyoruz.",
+    "Devam etmeden önce, Aşırı Şarj modunu etkinleştirmek için neye ihtiyacınız olduğunu açıklamamız gerekiyor. Temelde normal modla aynı gereksinimlere sahiptir, sadece biraz daha agresif bir şarj eğrisi kullanır. Özellikle, en hızlı şarj sürelerini elde etmek için 11V ve 3A sağlayabilen bir adaptöre ihtiyacınız vardır.",
+    "Çoğu 30W şarj cihazı, telefonun alabileceği maksimum gücü sağlamaz, ancak 33W ile ilgili herhangi bir şey yeterince iyi olmalıdır. Kontrol ettiğimiz 45W'lık adaptörlerin çoğu doğru güç değerlerine sahipti, bu nedenle güvenli tarafta olmak için birini seçebilirsiniz. Google'ın 45W USB - C Güç Şarj Cihazı (30 $), 3A'da 16V'a kadar destekler. Bu test için Google'ın 67W çift bağlantı noktalı adaptörünü (60 $) kullandığımızı unutmayın, ancak bu çok fazla – 45W modeli bile daha yüksek gereksinimleri olan Pixel 11 Pro XL'e maksimum güç sağlayabilir.",
+    "İster bir Google şarj cihazı ister üçüncü taraf bir şarj cihazı kullanın, Google yalnızca perakende paketiyle birlikte bir USB - C'den USB - C'ye kablo içerdiğinden, kendi şarj cihazınızı tedarik etmeniz gerekecektir. İyi haber şu ki, sadece bir 3A kablosuna ihtiyacınız var, bu yüzden çoğunlukla herhangi bir kabloyu kullanabilirsiniz; daha pahalı bir 5A kablosuna ihtiyacınız yok (bunlar E - Marker çipleri gerektirir).",
+    "Pekala, nihayet sonuçlar hakkında konuşabiliriz. Yukarıda belirtildiği gibi, ne Samsung ne de Apple yüksek şarj oranlarının hayranı değil ve 15 dakika sonra iPhone 17 ve Galaxy S26 öne çıkıyor, ancak daha küçük pilleri var. Ve 30. dakikada, Pixel 11 yine de boşluğu kapatmaya başlar.",
+    "Pixel 11 'in tam şarjı 1 saat 20 dakika sürer (aşağı yukarı). Bu biraz daha iyi, ama biz buna “Aşırı” demeyiz. Yine de, bataryası 685mAh daha küçük olan Galaxy S26 tarafından yenilen diğerleri ile rekabet ediyor.",
+    "15 dakika içinde",
+    "30 dakika içinde",
+    "Tam şarj olma süresi (% 0 'dan itibaren)",
+    "Özetle, Google pil verimliliğini artırmak için mükemmel bir çalışma yaptı – gelecek yıl görmek istediğimiz şey daha iyi bir GPU ve bir Si/C pil. Ancak bugün olduğu gibi, Pixel 11, pil ömrü açısından Galaxy S26 ve iPhone 17 ile eşleşiyor."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Google",
+    "Android",
+    "Pil Testi"
+  ]
+}

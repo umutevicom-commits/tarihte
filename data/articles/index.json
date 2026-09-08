@@ -1,53 +1,103 @@
 [
   {
-    "slug": "infinix_xpad_30_pro_launches_with_11inch_display_and_8200mah_battery-news-74507",
-    "url": "https://www.gsmarena.com/infinix_xpad_30_pro_launches_with_11inch_display_and_8200mah_battery-news-74507.php",
+    "slug": "iqoo_16_and_iqoo_pad_ultra_to_debut_this_month_preorders_go_live-news-74514",
+    "url": "https://www.gsmarena.com/iqoo_16_and_iqoo_pad_ultra_to_debut_this_month_preorders_go_live-news-74514.php",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T19:10:50.064880+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3953cc6960a948cc8215e23c2ee53b2086da69648409f07c62b9f6b4bdeac3b2"
+  },
+  {
+    "slug": "xiaomi_redmi_note_17_pro_series_india_launch_date-news-74516",
+    "url": "https://www.gsmarena.com/xiaomi_redmi_note_17_pro_series_india_launch_date-news-74516.php",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T19:10:36.536768+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "354e0834e5af072a83864a6a44364274c6c19693e32bc0a547c6dc3c9df94154"
+  },
+  {
+    "slug": "our_google_pixel_11_battery_life_and_charging_tests_are_ready-news-74513",
+    "url": "https://www.gsmarena.com/our_google_pixel_11_battery_life_and_charging_tests_are_ready-news-74513.php",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T19:09:44.362561+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1a981765ee0fb46dabc325034b0bcbf98e931785ff7dafd95fa99885c26f174f"
+  },
+  {
+    "slug": "poco_c95_pro_videos_show_it_in_three_colors_pricing_is_out_too-news-74517",
+    "url": "https://www.gsmarena.com/poco_c95_pro_videos_show_it_in_three_colors_pricing_is_out_too-news-74517.php",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T19:09:31.024922+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2860565a59857a05e3d413f70f97a55f9ca9fe57b655fc8fb4a40c34bedc21a2"
+  },
+  {
+    "slug": "motorola_starts_teasing_the_signature_27-news-74518",
+    "url": "https://www.gsmarena.com/motorola_starts_teasing_the_signature_27-news-74518.php",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T19:09:17.900510+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9a43f0171e71e3c26a1b58f81d7fdcda5d05942a22776e272ab25fe5b3d79c0f"
+  },
+  {
+    "content_hash": "05789cc968b63c43052bf758134348148ccca66356edac9d3d04c4609895f870",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T14:02:17.278955+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "05789cc968b63c43052bf758134348148ccca66356edac9d3d04c4609895f870"
+    "retries": 0,
+    "slug": "infinix_xpad_30_pro_launches_with_11inch_display_and_8200mah_battery-news-74507",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/infinix_xpad_30_pro_launches_with_11inch_display_and_8200mah_battery-news-74507.php"
   },
   {
-    "slug": "oneplus_n6_lite_launching_soon_in_india-news-74511",
-    "url": "https://www.gsmarena.com/oneplus_n6_lite_launching_soon_in_india-news-74511.php",
+    "content_hash": "391056768d5f97213657ccf5b1666698bbef7fd8cee7730ce3df9dc82a93a0de",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T14:02:04.806309+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "391056768d5f97213657ccf5b1666698bbef7fd8cee7730ce3df9dc82a93a0de"
+    "retries": 0,
+    "slug": "oneplus_n6_lite_launching_soon_in_india-news-74511",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_n6_lite_launching_soon_in_india-news-74511.php"
   },
   {
-    "slug": "xiaomi_18_fold_handson-news-74508",
-    "url": "https://www.gsmarena.com/xiaomi_18_fold_handson-news-74508.php",
+    "content_hash": "9ed356f652dc2b5d1a3e6dd97ae0ecaa2cde5ac3f3228b18593d69bb6c8d00cf",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T14:01:15.378962+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9ed356f652dc2b5d1a3e6dd97ae0ecaa2cde5ac3f3228b18593d69bb6c8d00cf"
+    "retries": 0,
+    "slug": "xiaomi_18_fold_handson-news-74508",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_fold_handson-news-74508.php"
   },
   {
-    "slug": "its_official__the_oppo_f35_series_is_launching_in_india_soon-news-74510",
-    "url": "https://www.gsmarena.com/its_official__the_oppo_f35_series_is_launching_in_india_soon-news-74510.php",
+    "content_hash": "1ded113b5d29b99fa3c499218ec15fd4a991f121e75700d1ec427303d3cd917f",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T14:00:55.664627+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1ded113b5d29b99fa3c499218ec15fd4a991f121e75700d1ec427303d3cd917f"
+    "retries": 0,
+    "slug": "its_official__the_oppo_f35_series_is_launching_in_india_soon-news-74510",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/its_official__the_oppo_f35_series_is_launching_in_india_soon-news-74510.php"
   },
   {
-    "slug": "realme_16_pro_buds_t500_pro_harry_potter_edition_design-news-74512",
-    "url": "https://www.gsmarena.com/realme_16_pro_buds_t500_pro_harry_potter_edition_design-news-74512.php",
+    "content_hash": "62426ec7bbadd07399f471e27267de0f3320e2b2f531c734f980c152e0a8a76f",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T14:00:31.112917+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "62426ec7bbadd07399f471e27267de0f3320e2b2f531c734f980c152e0a8a76f"
+    "retries": 0,
+    "slug": "realme_16_pro_buds_t500_pro_harry_potter_edition_design-news-74512",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/realme_16_pro_buds_t500_pro_harry_potter_edition_design-news-74512.php"
   },
   {
     "content_hash": "260d85aa3f63e8bb52094b719f70d97e81538df8816320ff89e53e3a46819cde",
