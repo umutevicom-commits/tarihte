@@ -1,63 +1,113 @@
 [
   {
-    "slug": "tecno_unveils_the_camon_slim_5g_with_interesting_and_very_different_finishes-news-74499",
-    "url": "https://www.gsmarena.com/tecno_unveils_the_camon_slim_5g_with_interesting_and_very_different_finishes-news-74499.php",
+    "slug": "infinix_xpad_30_pro_launches_with_11inch_display_and_8200mah_battery-news-74507",
+    "url": "https://www.gsmarena.com/infinix_xpad_30_pro_launches_with_11inch_display_and_8200mah_battery-news-74507.php",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T14:02:17.278955+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "05789cc968b63c43052bf758134348148ccca66356edac9d3d04c4609895f870"
+  },
+  {
+    "slug": "oneplus_n6_lite_launching_soon_in_india-news-74511",
+    "url": "https://www.gsmarena.com/oneplus_n6_lite_launching_soon_in_india-news-74511.php",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T14:02:04.806309+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "391056768d5f97213657ccf5b1666698bbef7fd8cee7730ce3df9dc82a93a0de"
+  },
+  {
+    "slug": "xiaomi_18_fold_handson-news-74508",
+    "url": "https://www.gsmarena.com/xiaomi_18_fold_handson-news-74508.php",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T14:01:15.378962+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9ed356f652dc2b5d1a3e6dd97ae0ecaa2cde5ac3f3228b18593d69bb6c8d00cf"
+  },
+  {
+    "slug": "its_official__the_oppo_f35_series_is_launching_in_india_soon-news-74510",
+    "url": "https://www.gsmarena.com/its_official__the_oppo_f35_series_is_launching_in_india_soon-news-74510.php",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T14:00:55.664627+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1ded113b5d29b99fa3c499218ec15fd4a991f121e75700d1ec427303d3cd917f"
+  },
+  {
+    "slug": "realme_16_pro_buds_t500_pro_harry_potter_edition_design-news-74512",
+    "url": "https://www.gsmarena.com/realme_16_pro_buds_t500_pro_harry_potter_edition_design-news-74512.php",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T14:00:31.112917+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "62426ec7bbadd07399f471e27267de0f3320e2b2f531c734f980c152e0a8a76f"
+  },
+  {
+    "content_hash": "260d85aa3f63e8bb52094b719f70d97e81538df8816320ff89e53e3a46819cde",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T08:28:42.722206+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "260d85aa3f63e8bb52094b719f70d97e81538df8816320ff89e53e3a46819cde"
+    "retries": 0,
+    "slug": "tecno_unveils_the_camon_slim_5g_with_interesting_and_very_different_finishes-news-74499",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tecno_unveils_the_camon_slim_5g_with_interesting_and_very_different_finishes-news-74499.php"
   },
   {
-    "slug": "huawei_mate_xt_2_ultimate_design_is_official_with_a_kirin_9050_pro_soc_5600mah_battery-news-74503",
-    "url": "https://www.gsmarena.com/huawei_mate_xt_2_ultimate_design_is_official_with_a_kirin_9050_pro_soc_5600mah_battery-news-74503.php",
+    "content_hash": "13cd5fa4df231e9557a0bb3841d54424cebfbdfd0d7d8d2096c94abc377ff544",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T08:28:15.176491+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "13cd5fa4df231e9557a0bb3841d54424cebfbdfd0d7d8d2096c94abc377ff544"
+    "retries": 0,
+    "slug": "huawei_mate_xt_2_ultimate_design_is_official_with_a_kirin_9050_pro_soc_5600mah_battery-news-74503",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_mate_xt_2_ultimate_design_is_official_with_a_kirin_9050_pro_soc_5600mah_battery-news-74503.php"
   },
   {
-    "slug": "sony_xperia_1_viii_receives_android_17_update_heres_whats_new-news-74495",
-    "url": "https://www.gsmarena.com/sony_xperia_1_viii_receives_android_17_update_heres_whats_new-news-74495.php",
+    "content_hash": "56ce50a4d027e92e80ecbf8b8015932b5ef9a8760bfa505dc071ed4e752ff199",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T08:27:58.309218+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "56ce50a4d027e92e80ecbf8b8015932b5ef9a8760bfa505dc071ed4e752ff199"
+    "retries": 0,
+    "slug": "sony_xperia_1_viii_receives_android_17_update_heres_whats_new-news-74495",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/sony_xperia_1_viii_receives_android_17_update_heres_whats_new-news-74495.php"
   },
   {
-    "slug": "heres_when_the_vivo_x500_series_is_launching_in_china-news-74504",
-    "url": "https://www.gsmarena.com/heres_when_the_vivo_x500_series_is_launching_in_china-news-74504.php",
+    "content_hash": "ecba761e1ef9c5084eeb40ecc6e82ca88b39c8d66de4accac1e719ebe2daf681",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T08:27:44.008225+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ecba761e1ef9c5084eeb40ecc6e82ca88b39c8d66de4accac1e719ebe2daf681"
+    "retries": 0,
+    "slug": "heres_when_the_vivo_x500_series_is_launching_in_china-news-74504",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_when_the_vivo_x500_series_is_launching_in_china-news-74504.php"
   },
   {
-    "slug": "oppo_find_x10_pro_maxs_triplerear_camera_setup_detailed-news-74505",
-    "url": "https://www.gsmarena.com/oppo_find_x10_pro_maxs_triplerear_camera_setup_detailed-news-74505.php",
+    "content_hash": "c161c11b7bcf8df37a72efdcdbc3bf478c5ed360b4a44d89d1f045c507505da6",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T08:27:32.716280+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c161c11b7bcf8df37a72efdcdbc3bf478c5ed360b4a44d89d1f045c507505da6"
+    "retries": 0,
+    "slug": "oppo_find_x10_pro_maxs_triplerear_camera_setup_detailed-news-74505",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_pro_maxs_triplerear_camera_setup_detailed-news-74505.php"
   },
   {
-    "slug": "samsung_galaxy_watch6_series_one_ui_9_watch_beta-news-74506",
-    "url": "https://www.gsmarena.com/samsung_galaxy_watch6_series_one_ui_9_watch_beta-news-74506.php",
+    "content_hash": "c13683febce9705ad9851b04904633e77af718ccfccf43c193bc0961e14a146c",
     "date": "08 September 2026",
     "fetched_at": "2026-09-08T08:27:08.671677+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c13683febce9705ad9851b04904633e77af718ccfccf43c193bc0961e14a146c"
+    "retries": 0,
+    "slug": "samsung_galaxy_watch6_series_one_ui_9_watch_beta-news-74506",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_watch6_series_one_ui_9_watch_beta-news-74506.php"
   },
   {
     "content_hash": "3cf88d8760e14dad2a7e61971364df08617e0aba029acc39ab70f03315ca81e3",

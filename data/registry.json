@@ -968,5 +968,55 @@
     "slug": "samsung_galaxy_watch6_series_one_ui_9_watch_beta-news-74506",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_watch6_series_one_ui_9_watch_beta-news-74506.php"
+  },
+  "74507": {
+    "content_hash": "05789cc968b63c43052bf758134348148ccca66356edac9d3d04c4609895f870",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T14:02:17.278955+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "infinix_xpad_30_pro_launches_with_11inch_display_and_8200mah_battery-news-74507",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/infinix_xpad_30_pro_launches_with_11inch_display_and_8200mah_battery-news-74507.php"
+  },
+  "74508": {
+    "content_hash": "9ed356f652dc2b5d1a3e6dd97ae0ecaa2cde5ac3f3228b18593d69bb6c8d00cf",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T14:01:15.378962+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_fold_handson-news-74508",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_fold_handson-news-74508.php"
+  },
+  "74510": {
+    "content_hash": "1ded113b5d29b99fa3c499218ec15fd4a991f121e75700d1ec427303d3cd917f",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T14:00:55.664627+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "its_official__the_oppo_f35_series_is_launching_in_india_soon-news-74510",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/its_official__the_oppo_f35_series_is_launching_in_india_soon-news-74510.php"
+  },
+  "74511": {
+    "content_hash": "391056768d5f97213657ccf5b1666698bbef7fd8cee7730ce3df9dc82a93a0de",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T14:02:04.806309+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_n6_lite_launching_soon_in_india-news-74511",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_n6_lite_launching_soon_in_india-news-74511.php"
+  },
+  "74512": {
+    "content_hash": "62426ec7bbadd07399f471e27267de0f3320e2b2f531c734f980c152e0a8a76f",
+    "date": "08 September 2026",
+    "fetched_at": "2026-09-08T14:00:31.112917+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "realme_16_pro_buds_t500_pro_harry_potter_edition_design-news-74512",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/realme_16_pro_buds_t500_pro_harry_potter_edition_design-news-74512.php"
   }
 }
