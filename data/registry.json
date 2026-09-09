@@ -989,6 +989,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/xiaomi_18_fold_handson-news-74508.php"
   },
+  "74509": {
+    "content_hash": "3edfb5d9d54d1ed63770d91fa05370adbf0a61cc62d1cbb138d55999cbc4fad8",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T08:30:22.143984+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "tecno_camon_slim_unboxing-news-74509",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tecno_camon_slim_unboxing-news-74509.php"
+  },
   "74510": {
     "content_hash": "1ded113b5d29b99fa3c499218ec15fd4a991f121e75700d1ec427303d3cd917f",
     "date": "08 September 2026",
@@ -1079,6 +1089,26 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/the_iphone_ultra_launch_in_china_may_be_delayed_for_the_same_reason_as_the_iphone_air-news-74519.php"
   },
+  "74520": {
+    "content_hash": "1bb74e04a69ab518287c73351dd6fc5f041eb8a46eecb137ff4e72262e3ae6bf",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T08:31:39.694353+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_a7_pro_is_now_official_with_an_8000_mah_battery-news-74520",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_a7_pro_is_now_official_with_an_8000_mah_battery-news-74520.php"
+  },
+  "74522": {
+    "content_hash": "62012cfaae99fd585dd4e88d24c8f683e4cc10ccca3490cd6273604d4a3c6131",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T08:31:31.167364+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_will_finally_unveil_magicos_11_next_week-news-74522",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_will_finally_unveil_magicos_11_next_week-news-74522.php"
+  },
   "74524": {
     "content_hash": "17c46eda701bda87e37c4a510cceadd61393cae2cec05fc66fbe686e79bc614f",
     "date": "08 September 2026",
@@ -1088,5 +1118,35 @@
     "slug": "ios_camera_app_will_get_some_pro_addons_hints_at_variable_aperture_support-news-74524",
     "status": "ok",
     "url": "https://www.gsmarena.com/ios_camera_app_will_get_some_pro_addons_hints_at_variable_aperture_support-news-74524.php"
+  },
+  "74525": {
+    "content_hash": "9fd3b854bdff945e6273796b15ca7462d030536ce350d6ea7e2926c1ab068c7a",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T08:31:15.993583+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a55_one_ui_9_beta_update-news-74525",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a55_one_ui_9_beta_update-news-74525.php"
+  },
+  "74526": {
+    "content_hash": "b26c3877ac4ce1cbb18d180d371d9c1bfab7f81f7bee1a2ddb8edc8d4c755820",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T08:30:04.394833+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_magic9_series_to_debut_on_september_28_design_revealed-news-74526",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_series_to_debut_on_september_28_design_revealed-news-74526.php"
+  },
+  "74527": {
+    "content_hash": "8dcd5bc42da37a268f1b6223e9b48ae6fbedb6237e4071c79f50a62966844539",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T08:29:48.602474+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_pro_max_design_revealed_ahead_of_launch-news-74527",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_max_design_revealed_ahead_of_launch-news-74527.php"
   }
 }
