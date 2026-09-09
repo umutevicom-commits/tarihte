@@ -1,53 +1,113 @@
 [
   {
-    "slug": "samsung_galaxy_s27_pro_galaxy_s27_ultra_privacy_display-news-74528",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_galaxy_s27_ultra_privacy_display-news-74528.php",
+    "slug": "apple_iphone_18_pro_series_and_ultra_duo_what_to_expect-news-74538",
+    "url": "https://www.gsmarena.com/apple_iphone_18_pro_series_and_ultra_duo_what_to_expect-news-74538.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T18:59:02.210068+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c1d8160200e6fb8ab39b869bbdd0206823fc38e9454e817a6058b2aabb5bdee7"
+  },
+  {
+    "slug": "honor_magic9_pro_max_visits_venice_film_festival_here_it_is_in_live_photos-news-74534",
+    "url": "https://www.gsmarena.com/honor_magic9_pro_max_visits_venice_film_festival_here_it_is_in_live_photos-news-74534.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T18:58:50.195709+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9f19feea81be2e26bb72b68f95165c5623525cf0913f9eee27223651466f5776"
+  },
+  {
+    "slug": "apples_new_ceo_seems_to_be_teasing_the_iphone_18_pro_maxs_variable_aperture_camera-news-74541",
+    "url": "https://www.gsmarena.com/apples_new_ceo_seems_to_be_teasing_the_iphone_18_pro_maxs_variable_aperture_camera-news-74541.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T18:58:42.414827+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "71665f50d4520feb6c8e205a70f64f3256b5c313136f772b4488334435c2ff0f"
+  },
+  {
+    "slug": "samsung_details_the_journey_of_making_the_z_fold8_and_z_fold8_ultra_thinner_and_lighter-news-74535",
+    "url": "https://www.gsmarena.com/samsung_details_the_journey_of_making_the_z_fold8_and_z_fold8_ultra_thinner_and_lighter-news-74535.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T18:58:13.275313+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2ae7fdbe186c1bba5c7964545e563bd4de26bc4e3bab7d5f43f8f6c0341c46f8"
+  },
+  {
+    "slug": "iphone_18_pro_and_pro_max_arrive_with_a20_pro_chip_smaller_dynamic_island_and_variable_aperture_main-news-74543",
+    "url": "https://www.gsmarena.com/iphone_18_pro_and_pro_max_arrive_with_a20_pro_chip_smaller_dynamic_island_and_variable_aperture_main-news-74543.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T18:57:37.924120+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "239706b995e456c4e530c92eeddb338025776912892954898bf0ec5a0b94782c"
+  },
+  {
+    "slug": "its_here__iphone_duo_gets_official_as_apples_first_foldable_smartphone-news-74545",
+    "url": "https://www.gsmarena.com/its_here__iphone_duo_gets_official_as_apples_first_foldable_smartphone-news-74545.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T18:57:12.445751+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f9eb7824579a8e93ac4525b7eda54f18bae96ec706e2a23677d7a0d8490a5c1c"
+  },
+  {
+    "content_hash": "0c1ca576c035ea90f0d97463d0da46ad06fd35f82b7245c2051d6a9e149779bd",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T14:04:16.446484+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "0c1ca576c035ea90f0d97463d0da46ad06fd35f82b7245c2051d6a9e149779bd"
+    "retries": 0,
+    "slug": "samsung_galaxy_s27_pro_galaxy_s27_ultra_privacy_display-news-74528",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_galaxy_s27_ultra_privacy_display-news-74528.php"
   },
   {
-    "slug": "arm_unveils_css_for_mobile_2_with_mali_g2ultra_nx_gpu_c2ultra_and_pro_cpu_cores-news-74531",
-    "url": "https://www.gsmarena.com/arm_unveils_css_for_mobile_2_with_mali_g2ultra_nx_gpu_c2ultra_and_pro_cpu_cores-news-74531.php",
+    "content_hash": "a52d941417926a55cefd6e5aea1a00c7c89eff4aebdba9ed7e9ee240cb8d45fd",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T14:03:57.769103+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a52d941417926a55cefd6e5aea1a00c7c89eff4aebdba9ed7e9ee240cb8d45fd"
+    "retries": 0,
+    "slug": "arm_unveils_css_for_mobile_2_with_mali_g2ultra_nx_gpu_c2ultra_and_pro_cpu_cores-news-74531",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/arm_unveils_css_for_mobile_2_with_mali_g2ultra_nx_gpu_c2ultra_and_pro_cpu_cores-news-74531.php"
   },
   {
-    "slug": "apple_iphone_18_series_iphone_duo_launch_event_live_stream-news-74532",
-    "url": "https://www.gsmarena.com/apple_iphone_18_series_iphone_duo_launch_event_live_stream-news-74532.php",
+    "content_hash": "e04c068573dc99b6f6a93887f34e97823c2e0a483693d33eff45b83381410098",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T14:03:37.876143+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e04c068573dc99b6f6a93887f34e97823c2e0a483693d33eff45b83381410098"
+    "retries": 0,
+    "slug": "apple_iphone_18_series_iphone_duo_launch_event_live_stream-news-74532",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_iphone_18_series_iphone_duo_launch_event_live_stream-news-74532.php"
   },
   {
-    "slug": "iphone_ultra_is_apparently_called_iphone_duo_and_will_be_cheaper_than_expected-news-74530",
-    "url": "https://www.gsmarena.com/iphone_ultra_is_apparently_called_iphone_duo_and_will_be_cheaper_than_expected-news-74530.php",
+    "content_hash": "f4d430cded3ba45547fedfa1912ed815f93ebbf20fb8fcc330d5de07bc03b259",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T14:03:10.397587+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f4d430cded3ba45547fedfa1912ed815f93ebbf20fb8fcc330d5de07bc03b259"
+    "retries": 0,
+    "slug": "iphone_ultra_is_apparently_called_iphone_duo_and_will_be_cheaper_than_expected-news-74530",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_ultra_is_apparently_called_iphone_duo_and_will_be_cheaper_than_expected-news-74530.php"
   },
   {
-    "slug": "oppo_find_x10_series_now_up_for_preorder_to_pack_8000mah_batteries-news-74533",
-    "url": "https://www.gsmarena.com/oppo_find_x10_series_now_up_for_preorder_to_pack_8000mah_batteries-news-74533.php",
+    "content_hash": "996b2e06a25b42b304eafe23c869bb22d00c2ce8ffa67ec7ee8ca1614f330bce",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T14:02:52.124953+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "996b2e06a25b42b304eafe23c869bb22d00c2ce8ffa67ec7ee8ca1614f330bce"
+    "retries": 0,
+    "slug": "oppo_find_x10_series_now_up_for_preorder_to_pack_8000mah_batteries-news-74533",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_series_now_up_for_preorder_to_pack_8000mah_batteries-news-74533.php"
   },
   {
     "content_hash": "1bb74e04a69ab518287c73351dd6fc5f041eb8a46eecb137ff4e72262e3ae6bf",
