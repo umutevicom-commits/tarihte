@@ -1,63 +1,113 @@
 [
   {
-    "slug": "oppo_a7_pro_is_now_official_with_an_8000_mah_battery-news-74520",
-    "url": "https://www.gsmarena.com/oppo_a7_pro_is_now_official_with_an_8000_mah_battery-news-74520.php",
+    "slug": "samsung_galaxy_s27_pro_galaxy_s27_ultra_privacy_display-news-74528",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_galaxy_s27_ultra_privacy_display-news-74528.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T14:04:16.446484+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0c1ca576c035ea90f0d97463d0da46ad06fd35f82b7245c2051d6a9e149779bd"
+  },
+  {
+    "slug": "arm_unveils_css_for_mobile_2_with_mali_g2ultra_nx_gpu_c2ultra_and_pro_cpu_cores-news-74531",
+    "url": "https://www.gsmarena.com/arm_unveils_css_for_mobile_2_with_mali_g2ultra_nx_gpu_c2ultra_and_pro_cpu_cores-news-74531.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T14:03:57.769103+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a52d941417926a55cefd6e5aea1a00c7c89eff4aebdba9ed7e9ee240cb8d45fd"
+  },
+  {
+    "slug": "apple_iphone_18_series_iphone_duo_launch_event_live_stream-news-74532",
+    "url": "https://www.gsmarena.com/apple_iphone_18_series_iphone_duo_launch_event_live_stream-news-74532.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T14:03:37.876143+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e04c068573dc99b6f6a93887f34e97823c2e0a483693d33eff45b83381410098"
+  },
+  {
+    "slug": "iphone_ultra_is_apparently_called_iphone_duo_and_will_be_cheaper_than_expected-news-74530",
+    "url": "https://www.gsmarena.com/iphone_ultra_is_apparently_called_iphone_duo_and_will_be_cheaper_than_expected-news-74530.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T14:03:10.397587+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f4d430cded3ba45547fedfa1912ed815f93ebbf20fb8fcc330d5de07bc03b259"
+  },
+  {
+    "slug": "oppo_find_x10_series_now_up_for_preorder_to_pack_8000mah_batteries-news-74533",
+    "url": "https://www.gsmarena.com/oppo_find_x10_series_now_up_for_preorder_to_pack_8000mah_batteries-news-74533.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T14:02:52.124953+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "996b2e06a25b42b304eafe23c869bb22d00c2ce8ffa67ec7ee8ca1614f330bce"
+  },
+  {
+    "content_hash": "1bb74e04a69ab518287c73351dd6fc5f041eb8a46eecb137ff4e72262e3ae6bf",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T08:31:39.694353+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1bb74e04a69ab518287c73351dd6fc5f041eb8a46eecb137ff4e72262e3ae6bf"
+    "retries": 0,
+    "slug": "oppo_a7_pro_is_now_official_with_an_8000_mah_battery-news-74520",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_a7_pro_is_now_official_with_an_8000_mah_battery-news-74520.php"
   },
   {
-    "slug": "honor_will_finally_unveil_magicos_11_next_week-news-74522",
-    "url": "https://www.gsmarena.com/honor_will_finally_unveil_magicos_11_next_week-news-74522.php",
+    "content_hash": "62012cfaae99fd585dd4e88d24c8f683e4cc10ccca3490cd6273604d4a3c6131",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T08:31:31.167364+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "62012cfaae99fd585dd4e88d24c8f683e4cc10ccca3490cd6273604d4a3c6131"
+    "retries": 0,
+    "slug": "honor_will_finally_unveil_magicos_11_next_week-news-74522",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_will_finally_unveil_magicos_11_next_week-news-74522.php"
   },
   {
-    "slug": "samsung_galaxy_a55_one_ui_9_beta_update-news-74525",
-    "url": "https://www.gsmarena.com/samsung_galaxy_a55_one_ui_9_beta_update-news-74525.php",
+    "content_hash": "9fd3b854bdff945e6273796b15ca7462d030536ce350d6ea7e2926c1ab068c7a",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T08:31:15.993583+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9fd3b854bdff945e6273796b15ca7462d030536ce350d6ea7e2926c1ab068c7a"
+    "retries": 0,
+    "slug": "samsung_galaxy_a55_one_ui_9_beta_update-news-74525",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a55_one_ui_9_beta_update-news-74525.php"
   },
   {
-    "slug": "tecno_camon_slim_unboxing-news-74509",
-    "url": "https://www.gsmarena.com/tecno_camon_slim_unboxing-news-74509.php",
+    "content_hash": "3edfb5d9d54d1ed63770d91fa05370adbf0a61cc62d1cbb138d55999cbc4fad8",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T08:30:22.143984+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3edfb5d9d54d1ed63770d91fa05370adbf0a61cc62d1cbb138d55999cbc4fad8"
+    "retries": 0,
+    "slug": "tecno_camon_slim_unboxing-news-74509",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tecno_camon_slim_unboxing-news-74509.php"
   },
   {
-    "slug": "honor_magic9_series_to_debut_on_september_28_design_revealed-news-74526",
-    "url": "https://www.gsmarena.com/honor_magic9_series_to_debut_on_september_28_design_revealed-news-74526.php",
+    "content_hash": "b26c3877ac4ce1cbb18d180d371d9c1bfab7f81f7bee1a2ddb8edc8d4c755820",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T08:30:04.394833+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b26c3877ac4ce1cbb18d180d371d9c1bfab7f81f7bee1a2ddb8edc8d4c755820"
+    "retries": 0,
+    "slug": "honor_magic9_series_to_debut_on_september_28_design_revealed-news-74526",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_series_to_debut_on_september_28_design_revealed-news-74526.php"
   },
   {
-    "slug": "vivo_x500_pro_max_design_revealed_ahead_of_launch-news-74527",
-    "url": "https://www.gsmarena.com/vivo_x500_pro_max_design_revealed_ahead_of_launch-news-74527.php",
+    "content_hash": "8dcd5bc42da37a268f1b6223e9b48ae6fbedb6237e4071c79f50a62966844539",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T08:29:48.602474+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8dcd5bc42da37a268f1b6223e9b48ae6fbedb6237e4071c79f50a62966844539"
+    "retries": 0,
+    "slug": "vivo_x500_pro_max_design_revealed_ahead_of_launch-news-74527",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_max_design_revealed_ahead_of_launch-news-74527.php"
   },
   {
     "content_hash": "bdaa96c1612dcd0685fe09f37608246d359dab1f867221cdd2e5f97a7665a0c5",
