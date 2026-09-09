@@ -1,63 +1,93 @@
 [
   {
-    "slug": "apple_iphone_18_pro_series_and_ultra_duo_what_to_expect-news-74538",
-    "url": "https://www.gsmarena.com/apple_iphone_18_pro_series_and_ultra_duo_what_to_expect-news-74538.php",
+    "slug": "iphone_18_pro_and_duo_pricing_overview-news-74546",
+    "url": "https://www.gsmarena.com/iphone_18_pro_and_duo_pricing_overview-news-74546.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T22:08:14.593983+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4446d21242801cd8c364beff381a2d5cbf7e1ad30a635544cd871ffebaecf22f"
+  },
+  {
+    "slug": "apple_watch_series_12_and_ultra_4_get_s11_chip_measure_heart_rate_every_5_seconds-news-74548",
+    "url": "https://www.gsmarena.com/apple_watch_series_12_and_ultra_4_get_s11_chip_measure_heart_rate_every_5_seconds-news-74548.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T22:07:39.940435+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "26183aae6772e33c356a83e1bc051a4733738b8b3da230aa07b5ec23240b3797"
+  },
+  {
+    "slug": "this_is_when_apple_is_releasing_ios_27-news-74549",
+    "url": "https://www.gsmarena.com/this_is_when_apple_is_releasing_ios_27-news-74549.php",
+    "date": "09 September 2026",
+    "fetched_at": "2026-09-09T22:07:22.152911+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "051704ef5de6d0b0fb8e3a6e5146550464aee4f564e7e1512a99861f0b30347a"
+  },
+  {
+    "content_hash": "c1d8160200e6fb8ab39b869bbdd0206823fc38e9454e817a6058b2aabb5bdee7",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T18:59:02.210068+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c1d8160200e6fb8ab39b869bbdd0206823fc38e9454e817a6058b2aabb5bdee7"
+    "retries": 0,
+    "slug": "apple_iphone_18_pro_series_and_ultra_duo_what_to_expect-news-74538",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_iphone_18_pro_series_and_ultra_duo_what_to_expect-news-74538.php"
   },
   {
-    "slug": "honor_magic9_pro_max_visits_venice_film_festival_here_it_is_in_live_photos-news-74534",
-    "url": "https://www.gsmarena.com/honor_magic9_pro_max_visits_venice_film_festival_here_it_is_in_live_photos-news-74534.php",
+    "content_hash": "9f19feea81be2e26bb72b68f95165c5623525cf0913f9eee27223651466f5776",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T18:58:50.195709+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9f19feea81be2e26bb72b68f95165c5623525cf0913f9eee27223651466f5776"
+    "retries": 0,
+    "slug": "honor_magic9_pro_max_visits_venice_film_festival_here_it_is_in_live_photos-news-74534",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_pro_max_visits_venice_film_festival_here_it_is_in_live_photos-news-74534.php"
   },
   {
-    "slug": "apples_new_ceo_seems_to_be_teasing_the_iphone_18_pro_maxs_variable_aperture_camera-news-74541",
-    "url": "https://www.gsmarena.com/apples_new_ceo_seems_to_be_teasing_the_iphone_18_pro_maxs_variable_aperture_camera-news-74541.php",
+    "content_hash": "71665f50d4520feb6c8e205a70f64f3256b5c313136f772b4488334435c2ff0f",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T18:58:42.414827+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "71665f50d4520feb6c8e205a70f64f3256b5c313136f772b4488334435c2ff0f"
+    "retries": 0,
+    "slug": "apples_new_ceo_seems_to_be_teasing_the_iphone_18_pro_maxs_variable_aperture_camera-news-74541",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apples_new_ceo_seems_to_be_teasing_the_iphone_18_pro_maxs_variable_aperture_camera-news-74541.php"
   },
   {
-    "slug": "samsung_details_the_journey_of_making_the_z_fold8_and_z_fold8_ultra_thinner_and_lighter-news-74535",
-    "url": "https://www.gsmarena.com/samsung_details_the_journey_of_making_the_z_fold8_and_z_fold8_ultra_thinner_and_lighter-news-74535.php",
+    "content_hash": "2ae7fdbe186c1bba5c7964545e563bd4de26bc4e3bab7d5f43f8f6c0341c46f8",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T18:58:13.275313+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2ae7fdbe186c1bba5c7964545e563bd4de26bc4e3bab7d5f43f8f6c0341c46f8"
+    "retries": 0,
+    "slug": "samsung_details_the_journey_of_making_the_z_fold8_and_z_fold8_ultra_thinner_and_lighter-news-74535",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_details_the_journey_of_making_the_z_fold8_and_z_fold8_ultra_thinner_and_lighter-news-74535.php"
   },
   {
-    "slug": "iphone_18_pro_and_pro_max_arrive_with_a20_pro_chip_smaller_dynamic_island_and_variable_aperture_main-news-74543",
-    "url": "https://www.gsmarena.com/iphone_18_pro_and_pro_max_arrive_with_a20_pro_chip_smaller_dynamic_island_and_variable_aperture_main-news-74543.php",
+    "content_hash": "239706b995e456c4e530c92eeddb338025776912892954898bf0ec5a0b94782c",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T18:57:37.924120+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "239706b995e456c4e530c92eeddb338025776912892954898bf0ec5a0b94782c"
+    "retries": 0,
+    "slug": "iphone_18_pro_and_pro_max_arrive_with_a20_pro_chip_smaller_dynamic_island_and_variable_aperture_main-news-74543",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_18_pro_and_pro_max_arrive_with_a20_pro_chip_smaller_dynamic_island_and_variable_aperture_main-news-74543.php"
   },
   {
-    "slug": "its_here__iphone_duo_gets_official_as_apples_first_foldable_smartphone-news-74545",
-    "url": "https://www.gsmarena.com/its_here__iphone_duo_gets_official_as_apples_first_foldable_smartphone-news-74545.php",
+    "content_hash": "f9eb7824579a8e93ac4525b7eda54f18bae96ec706e2a23677d7a0d8490a5c1c",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T18:57:12.445751+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f9eb7824579a8e93ac4525b7eda54f18bae96ec706e2a23677d7a0d8490a5c1c"
+    "retries": 0,
+    "slug": "its_here__iphone_duo_gets_official_as_apples_first_foldable_smartphone-news-74545",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/its_here__iphone_duo_gets_official_as_apples_first_foldable_smartphone-news-74545.php"
   },
   {
     "content_hash": "0c1ca576c035ea90f0d97463d0da46ad06fd35f82b7245c2051d6a9e149779bd",
