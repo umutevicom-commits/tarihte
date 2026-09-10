@@ -1,13 +1,63 @@
 [
   {
-    "slug": "sony_xperia_1_ix_may_get_an_exciting_camera_upgrade-news-74529",
-    "url": "https://www.gsmarena.com/sony_xperia_1_ix_may_get_an_exciting_camera_upgrade-news-74529.php",
+    "slug": "the_honor_magic9_pro_max_stars_in_a_handson_video_before_its_official_announcement-news-74542",
+    "url": "https://www.gsmarena.com/the_honor_magic9_pro_max_stars_in_a_handson_video_before_its_official_announcement-news-74542.php",
     "date": "10 September 2026",
-    "fetched_at": "2026-09-10T02:16:01.510875+00:00",
+    "fetched_at": "2026-09-10T08:32:36.018197+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "12959bc9acb81c4ef5872fa2d6cf0d2a17b8ff5b3fa099eb13db9a9282f6b201"
+    "content_hash": "5cef2349d12ce3edee85ab41daa86542196fcef0c5fc4b2f8a3c17e92b2f88b3"
+  },
+  {
+    "slug": "global_oppo_a7_pro_and_a7_pro_max_spotted_on_geekbench-news-74540",
+    "url": "https://www.gsmarena.com/global_oppo_a7_pro_and_a7_pro_max_spotted_on_geekbench-news-74540.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T08:32:19.734351+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b615e5154f1ffc17d6e50c22ffab632141d9b82fe2435ccfca1bebe8d3490f40"
+  },
+  {
+    "slug": "samsung_starts_selling_certified_renewed_galaxy_s26_s26_and_s26_ultra_in_the_uk-news-74537",
+    "url": "https://www.gsmarena.com/samsung_starts_selling_certified_renewed_galaxy_s26_s26_and_s26_ultra_in_the_uk-news-74537.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T08:32:02.683510+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3a307ed66d810d80159603d60ac86504df1dd455a3c2e4a6aa32d162bb809af0"
+  },
+  {
+    "slug": "apple_raises_prices_of_the_iphone_17_series_iphone_air_and_iphone_16-news-74551",
+    "url": "https://www.gsmarena.com/apple_raises_prices_of_the_iphone_17_series_iphone_air_and_iphone_16-news-74551.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T08:31:48.384316+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2f4b9011ec30986dd31a3c2414f1568d3eaed3eb5ae0df8075ed64dd9f83254d"
+  },
+  {
+    "slug": "apple_iphone_duo_iphone_18_pro_watch_series_12_ultra_4_coverage_wrapup-news-74550",
+    "url": "https://www.gsmarena.com/apple_iphone_duo_iphone_18_pro_watch_series_12_ultra_4_coverage_wrapup-news-74550.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T08:31:31.777286+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3691f12e1da21dbfb04a342acd347c03646fb508996b83b20e24a03ad135ab48"
+  },
+  {
+    "content_hash": "12959bc9acb81c4ef5872fa2d6cf0d2a17b8ff5b3fa099eb13db9a9282f6b201",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T02:16:01.510875+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "sony_xperia_1_ix_may_get_an_exciting_camera_upgrade-news-74529",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/sony_xperia_1_ix_may_get_an_exciting_camera_upgrade-news-74529.php"
   },
   {
     "content_hash": "4446d21242801cd8c364beff381a2d5cbf7e1ad30a635544cd871ffebaecf22f",
