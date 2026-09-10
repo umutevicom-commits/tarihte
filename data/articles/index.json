@@ -1,43 +1,63 @@
 [
   {
-    "slug": "samsung_pulls_the_plug_on_the_galaxy_watch4_and_watch4_classic__no_more_updates_are_coming-news-74556",
-    "url": "https://www.gsmarena.com/samsung_pulls_the_plug_on_the_galaxy_watch4_and_watch4_classic__no_more_updates_are_coming-news-74556.php",
+    "slug": "apple_reveals_the_iphone_18_pro_and_iphone_18_pro_maxs_battery_capacities-news-74566",
+    "url": "https://www.gsmarena.com/apple_reveals_the_iphone_18_pro_and_iphone_18_pro_maxs_battery_capacities-news-74566.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T20:15:35.884705+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "19b3515f6e6d4ae4b59f83e87b32c59806b781446d00c8a981c33f4235d1735e"
+  },
+  {
+    "slug": "the_trump_phone_just_got_50_more_expensive-news-74564",
+    "url": "https://www.gsmarena.com/the_trump_phone_just_got_50_more_expensive-news-74564.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T20:15:18.678332+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0ef98bf6b8fb0ca6cb79802154f5324d688071a157a6010c6275cf5baccc6bac"
+  },
+  {
+    "content_hash": "7d189ad35a43c9895d4da8749bc9b7823e3a91be9addf36dd630e559b09ee634",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T17:31:12.976288+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7d189ad35a43c9895d4da8749bc9b7823e3a91be9addf36dd630e559b09ee634"
+    "retries": 0,
+    "slug": "samsung_pulls_the_plug_on_the_galaxy_watch4_and_watch4_classic__no_more_updates_are_coming-news-74556",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_pulls_the_plug_on_the_galaxy_watch4_and_watch4_classic__no_more_updates_are_coming-news-74556.php"
   },
   {
-    "slug": "motorola_starts_teasing_its_own_wide_foldable_smartphone_in_response_to_the_iphone_duo-news-74558",
-    "url": "https://www.gsmarena.com/motorola_starts_teasing_its_own_wide_foldable_smartphone_in_response_to_the_iphone_duo-news-74558.php",
+    "content_hash": "eef178296167d21c1cea9afdb30e8916f321422d9fb56935ae52c659e97f9df5",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T17:30:56.172017+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "eef178296167d21c1cea9afdb30e8916f321422d9fb56935ae52c659e97f9df5"
+    "retries": 0,
+    "slug": "motorola_starts_teasing_its_own_wide_foldable_smartphone_in_response_to_the_iphone_duo-news-74558",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_starts_teasing_its_own_wide_foldable_smartphone_in_response_to_the_iphone_duo-news-74558.php"
   },
   {
-    "slug": "here_are_the_apple_iphone_duo_alternatives-news-74560",
-    "url": "https://www.gsmarena.com/here_are_the_apple_iphone_duo_alternatives-news-74560.php",
+    "content_hash": "ba94a09aa05cc124d735d3f175a0088a3d52dfa616797dd90939c7357b159aeb",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T17:29:58.627868+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ba94a09aa05cc124d735d3f175a0088a3d52dfa616797dd90939c7357b159aeb"
+    "retries": 0,
+    "slug": "here_are_the_apple_iphone_duo_alternatives-news-74560",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/here_are_the_apple_iphone_duo_alternatives-news-74560.php"
   },
   {
-    "slug": "trendforce_apple_to_capture_a_quarter_of_the_folding_phone_market_in_2026-news-74562",
-    "url": "https://www.gsmarena.com/trendforce_apple_to_capture_a_quarter_of_the_folding_phone_market_in_2026-news-74562.php",
+    "content_hash": "23a5928605d30393b4ff8b2a60bee8c02475d5200ec12d53daad130a448c59f5",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T17:29:40.361852+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "23a5928605d30393b4ff8b2a60bee8c02475d5200ec12d53daad130a448c59f5"
+    "retries": 0,
+    "slug": "trendforce_apple_to_capture_a_quarter_of_the_folding_phone_market_in_2026-news-74562",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/trendforce_apple_to_capture_a_quarter_of_the_folding_phone_market_in_2026-news-74562.php"
   },
   {
     "content_hash": "8f82535750c5d61e2fd505b8bc07018d241b5dcdb94ccee1a5bf03ef4de2c813",
