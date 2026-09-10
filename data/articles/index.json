@@ -1,23 +1,43 @@
 [
   {
-    "slug": "apple_reveals_the_iphone_18_pro_and_iphone_18_pro_maxs_battery_capacities-news-74566",
-    "url": "https://www.gsmarena.com/apple_reveals_the_iphone_18_pro_and_iphone_18_pro_maxs_battery_capacities-news-74566.php",
+    "slug": "apple_iphone_duo_vs_iphone_18_pro_max_which_one_to_get-news-74567",
+    "url": "https://www.gsmarena.com/apple_iphone_duo_vs_iphone_18_pro_max_which_one_to_get-news-74567.php",
     "date": "10 September 2026",
-    "fetched_at": "2026-09-10T20:15:35.884705+00:00",
+    "fetched_at": "2026-09-10T23:34:58.723175+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "19b3515f6e6d4ae4b59f83e87b32c59806b781446d00c8a981c33f4235d1735e"
+    "content_hash": "35f5829ef8928c1a8e1b44bbf0fcb55479a3a94f6fce14e7273cef7ef8fc5342"
   },
   {
-    "slug": "the_trump_phone_just_got_50_more_expensive-news-74564",
-    "url": "https://www.gsmarena.com/the_trump_phone_just_got_50_more_expensive-news-74564.php",
+    "slug": "insta360_luna_pro_gimbal_camera_goes_official_with_a_1inch_sensor-news-74571",
+    "url": "https://www.gsmarena.com/insta360_luna_pro_gimbal_camera_goes_official_with_a_1inch_sensor-news-74571.php",
     "date": "10 September 2026",
-    "fetched_at": "2026-09-10T20:15:18.678332+00:00",
+    "fetched_at": "2026-09-10T23:34:37.467351+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "0ef98bf6b8fb0ca6cb79802154f5324d688071a157a6010c6275cf5baccc6bac"
+    "content_hash": "03effaf9d7aa6fbbd2d1b1f912c0b1597afb549e8f555b64754ad72b216d4a0d"
+  },
+  {
+    "content_hash": "19b3515f6e6d4ae4b59f83e87b32c59806b781446d00c8a981c33f4235d1735e",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T20:15:35.884705+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_reveals_the_iphone_18_pro_and_iphone_18_pro_maxs_battery_capacities-news-74566",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_reveals_the_iphone_18_pro_and_iphone_18_pro_maxs_battery_capacities-news-74566.php"
+  },
+  {
+    "content_hash": "0ef98bf6b8fb0ca6cb79802154f5324d688071a157a6010c6275cf5baccc6bac",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T20:15:18.678332+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_trump_phone_just_got_50_more_expensive-news-74564",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_trump_phone_just_got_50_more_expensive-news-74564.php"
   },
   {
     "content_hash": "7d189ad35a43c9895d4da8749bc9b7823e3a91be9addf36dd630e559b09ee634",

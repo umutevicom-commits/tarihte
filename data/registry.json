@@ -1458,5 +1458,25 @@
     "slug": "apple_reveals_the_iphone_18_pro_and_iphone_18_pro_maxs_battery_capacities-news-74566",
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_reveals_the_iphone_18_pro_and_iphone_18_pro_maxs_battery_capacities-news-74566.php"
+  },
+  "74567": {
+    "content_hash": "35f5829ef8928c1a8e1b44bbf0fcb55479a3a94f6fce14e7273cef7ef8fc5342",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T23:34:58.723175+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_iphone_duo_vs_iphone_18_pro_max_which_one_to_get-news-74567",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_iphone_duo_vs_iphone_18_pro_max_which_one_to_get-news-74567.php"
+  },
+  "74571": {
+    "content_hash": "03effaf9d7aa6fbbd2d1b1f912c0b1597afb549e8f555b64754ad72b216d4a0d",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T23:34:37.467351+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "insta360_luna_pro_gimbal_camera_goes_official_with_a_1inch_sensor-news-74571",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/insta360_luna_pro_gimbal_camera_goes_official_with_a_1inch_sensor-news-74571.php"
   }
 }
