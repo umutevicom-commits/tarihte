@@ -1,33 +1,43 @@
 [
   {
-    "slug": "iphone_18_pro_and_duo_pricing_overview-news-74546",
-    "url": "https://www.gsmarena.com/iphone_18_pro_and_duo_pricing_overview-news-74546.php",
+    "slug": "sony_xperia_1_ix_may_get_an_exciting_camera_upgrade-news-74529",
+    "url": "https://www.gsmarena.com/sony_xperia_1_ix_may_get_an_exciting_camera_upgrade-news-74529.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T02:16:01.510875+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "12959bc9acb81c4ef5872fa2d6cf0d2a17b8ff5b3fa099eb13db9a9282f6b201"
+  },
+  {
+    "content_hash": "4446d21242801cd8c364beff381a2d5cbf7e1ad30a635544cd871ffebaecf22f",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T22:08:14.593983+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4446d21242801cd8c364beff381a2d5cbf7e1ad30a635544cd871ffebaecf22f"
+    "retries": 0,
+    "slug": "iphone_18_pro_and_duo_pricing_overview-news-74546",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_18_pro_and_duo_pricing_overview-news-74546.php"
   },
   {
-    "slug": "apple_watch_series_12_and_ultra_4_get_s11_chip_measure_heart_rate_every_5_seconds-news-74548",
-    "url": "https://www.gsmarena.com/apple_watch_series_12_and_ultra_4_get_s11_chip_measure_heart_rate_every_5_seconds-news-74548.php",
+    "content_hash": "26183aae6772e33c356a83e1bc051a4733738b8b3da230aa07b5ec23240b3797",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T22:07:39.940435+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "26183aae6772e33c356a83e1bc051a4733738b8b3da230aa07b5ec23240b3797"
+    "retries": 0,
+    "slug": "apple_watch_series_12_and_ultra_4_get_s11_chip_measure_heart_rate_every_5_seconds-news-74548",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_watch_series_12_and_ultra_4_get_s11_chip_measure_heart_rate_every_5_seconds-news-74548.php"
   },
   {
-    "slug": "this_is_when_apple_is_releasing_ios_27-news-74549",
-    "url": "https://www.gsmarena.com/this_is_when_apple_is_releasing_ios_27-news-74549.php",
+    "content_hash": "051704ef5de6d0b0fb8e3a6e5146550464aee4f564e7e1512a99861f0b30347a",
     "date": "09 September 2026",
     "fetched_at": "2026-09-09T22:07:22.152911+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "051704ef5de6d0b0fb8e3a6e5146550464aee4f564e7e1512a99861f0b30347a"
+    "retries": 0,
+    "slug": "this_is_when_apple_is_releasing_ios_27-news-74549",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/this_is_when_apple_is_releasing_ios_27-news-74549.php"
   },
   {
     "content_hash": "c1d8160200e6fb8ab39b869bbdd0206823fc38e9454e817a6058b2aabb5bdee7",
