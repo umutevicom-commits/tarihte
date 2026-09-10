@@ -1,53 +1,103 @@
 [
   {
-    "slug": "the_honor_magic9_pro_max_stars_in_a_handson_video_before_its_official_announcement-news-74542",
-    "url": "https://www.gsmarena.com/the_honor_magic9_pro_max_stars_in_a_handson_video_before_its_official_announcement-news-74542.php",
+    "slug": "vivo_x500s_new_design_revealed_ahead_of_launch-news-74552",
+    "url": "https://www.gsmarena.com/vivo_x500s_new_design_revealed_ahead_of_launch-news-74552.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T13:59:46.707960+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "8f82535750c5d61e2fd505b8bc07018d241b5dcdb94ccee1a5bf03ef4de2c813"
+  },
+  {
+    "slug": "oppo_find_x10_to_feature_dual_200mp_cameras_pro_max_gets_open_gate-news-74555",
+    "url": "https://www.gsmarena.com/oppo_find_x10_to_feature_dual_200mp_cameras_pro_max_gets_open_gate-news-74555.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T13:59:29.983712+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6629033ef2db586595d6ffba64b85bc1eef9c4684f4a290cc90fc25139762c3b"
+  },
+  {
+    "slug": "apple_iphone_duo_vs_galaxy_z_fold8_by_the_numbers-news-74557",
+    "url": "https://www.gsmarena.com/apple_iphone_duo_vs_galaxy_z_fold8_by_the_numbers-news-74557.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T13:58:53.934851+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6e388f9a6095260e2cce3becc77e60aaf81cef9a243481fcb3e698db4b7b547b"
+  },
+  {
+    "slug": "samsung_galaxy_tab_s12_plus_tab_s12_ultra_colors_renders-news-74553",
+    "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_plus_tab_s12_ultra_colors_renders-news-74553.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T13:58:32.914899+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "407a3797b740c94e87181c02d3561c976d3a1da002cc88c5d330c255223d6f70"
+  },
+  {
+    "slug": "google_introduces_adb_wifi_20_for_faster_and_more_reliable_connections-news-74554",
+    "url": "https://www.gsmarena.com/google_introduces_adb_wifi_20_for_faster_and_more_reliable_connections-news-74554.php",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T13:58:09.158258+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0845fc159dce588482b2a789fd44ebbf7d431a54075fb770d4783a1b4099631e"
+  },
+  {
+    "content_hash": "5cef2349d12ce3edee85ab41daa86542196fcef0c5fc4b2f8a3c17e92b2f88b3",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T08:32:36.018197+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5cef2349d12ce3edee85ab41daa86542196fcef0c5fc4b2f8a3c17e92b2f88b3"
+    "retries": 0,
+    "slug": "the_honor_magic9_pro_max_stars_in_a_handson_video_before_its_official_announcement-news-74542",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_honor_magic9_pro_max_stars_in_a_handson_video_before_its_official_announcement-news-74542.php"
   },
   {
-    "slug": "global_oppo_a7_pro_and_a7_pro_max_spotted_on_geekbench-news-74540",
-    "url": "https://www.gsmarena.com/global_oppo_a7_pro_and_a7_pro_max_spotted_on_geekbench-news-74540.php",
+    "content_hash": "b615e5154f1ffc17d6e50c22ffab632141d9b82fe2435ccfca1bebe8d3490f40",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T08:32:19.734351+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b615e5154f1ffc17d6e50c22ffab632141d9b82fe2435ccfca1bebe8d3490f40"
+    "retries": 0,
+    "slug": "global_oppo_a7_pro_and_a7_pro_max_spotted_on_geekbench-news-74540",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/global_oppo_a7_pro_and_a7_pro_max_spotted_on_geekbench-news-74540.php"
   },
   {
-    "slug": "samsung_starts_selling_certified_renewed_galaxy_s26_s26_and_s26_ultra_in_the_uk-news-74537",
-    "url": "https://www.gsmarena.com/samsung_starts_selling_certified_renewed_galaxy_s26_s26_and_s26_ultra_in_the_uk-news-74537.php",
+    "content_hash": "3a307ed66d810d80159603d60ac86504df1dd455a3c2e4a6aa32d162bb809af0",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T08:32:02.683510+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3a307ed66d810d80159603d60ac86504df1dd455a3c2e4a6aa32d162bb809af0"
+    "retries": 0,
+    "slug": "samsung_starts_selling_certified_renewed_galaxy_s26_s26_and_s26_ultra_in_the_uk-news-74537",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_starts_selling_certified_renewed_galaxy_s26_s26_and_s26_ultra_in_the_uk-news-74537.php"
   },
   {
-    "slug": "apple_raises_prices_of_the_iphone_17_series_iphone_air_and_iphone_16-news-74551",
-    "url": "https://www.gsmarena.com/apple_raises_prices_of_the_iphone_17_series_iphone_air_and_iphone_16-news-74551.php",
+    "content_hash": "2f4b9011ec30986dd31a3c2414f1568d3eaed3eb5ae0df8075ed64dd9f83254d",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T08:31:48.384316+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2f4b9011ec30986dd31a3c2414f1568d3eaed3eb5ae0df8075ed64dd9f83254d"
+    "retries": 0,
+    "slug": "apple_raises_prices_of_the_iphone_17_series_iphone_air_and_iphone_16-news-74551",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_raises_prices_of_the_iphone_17_series_iphone_air_and_iphone_16-news-74551.php"
   },
   {
-    "slug": "apple_iphone_duo_iphone_18_pro_watch_series_12_ultra_4_coverage_wrapup-news-74550",
-    "url": "https://www.gsmarena.com/apple_iphone_duo_iphone_18_pro_watch_series_12_ultra_4_coverage_wrapup-news-74550.php",
+    "content_hash": "3691f12e1da21dbfb04a342acd347c03646fb508996b83b20e24a03ad135ab48",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T08:31:31.777286+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3691f12e1da21dbfb04a342acd347c03646fb508996b83b20e24a03ad135ab48"
+    "retries": 0,
+    "slug": "apple_iphone_duo_iphone_18_pro_watch_series_12_ultra_4_coverage_wrapup-news-74550",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_iphone_duo_iphone_18_pro_watch_series_12_ultra_4_coverage_wrapup-news-74550.php"
   },
   {
     "content_hash": "12959bc9acb81c4ef5872fa2d6cf0d2a17b8ff5b3fa099eb13db9a9282f6b201",

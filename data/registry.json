@@ -1348,5 +1348,55 @@
     "slug": "apple_raises_prices_of_the_iphone_17_series_iphone_air_and_iphone_16-news-74551",
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_raises_prices_of_the_iphone_17_series_iphone_air_and_iphone_16-news-74551.php"
+  },
+  "74552": {
+    "content_hash": "8f82535750c5d61e2fd505b8bc07018d241b5dcdb94ccee1a5bf03ef4de2c813",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T13:59:46.707960+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500s_new_design_revealed_ahead_of_launch-news-74552",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500s_new_design_revealed_ahead_of_launch-news-74552.php"
+  },
+  "74553": {
+    "content_hash": "407a3797b740c94e87181c02d3561c976d3a1da002cc88c5d330c255223d6f70",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T13:58:32.914899+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_tab_s12_plus_tab_s12_ultra_colors_renders-news-74553",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_plus_tab_s12_ultra_colors_renders-news-74553.php"
+  },
+  "74554": {
+    "content_hash": "0845fc159dce588482b2a789fd44ebbf7d431a54075fb770d4783a1b4099631e",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T13:58:09.158258+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "google_introduces_adb_wifi_20_for_faster_and_more_reliable_connections-news-74554",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/google_introduces_adb_wifi_20_for_faster_and_more_reliable_connections-news-74554.php"
+  },
+  "74555": {
+    "content_hash": "6629033ef2db586595d6ffba64b85bc1eef9c4684f4a290cc90fc25139762c3b",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T13:59:29.983712+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_to_feature_dual_200mp_cameras_pro_max_gets_open_gate-news-74555",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_to_feature_dual_200mp_cameras_pro_max_gets_open_gate-news-74555.php"
+  },
+  "74557": {
+    "content_hash": "6e388f9a6095260e2cce3becc77e60aaf81cef9a243481fcb3e698db4b7b547b",
+    "date": "10 September 2026",
+    "fetched_at": "2026-09-10T13:58:53.934851+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_iphone_duo_vs_galaxy_z_fold8_by_the_numbers-news-74557",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_iphone_duo_vs_galaxy_z_fold8_by_the_numbers-news-74557.php"
   }
 }
