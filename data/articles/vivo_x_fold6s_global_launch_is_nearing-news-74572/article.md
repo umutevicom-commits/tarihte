@@ -1,0 +1,15 @@
+# vivo X Fold6 'nın küresel lansmanı yaklaşıyor
+
+vivo, en son katlanabilir akıllı telefonu X Fold6 'yı Haziran ayında Çin'de piyasaya sürdü. O zamandan beri sabırla küreselleşmesini bekliyoruz ve bu henüz gerçekleşmemiş olsa da, şimdi köşeyi dönmüş gibi görünüyor.
+
+Bunun nedeni, küresel bir X Fold6 prototipine sahip birinin bugün erken saatlerde Geekbench'i çalıştırmaya karar vermesidir. Global X Fold6, V2559 model numarasına sahiptir. Aşağıdaki ekran görüntüsünde de görebileceğiniz gibi, Android için Geekbench 7.0.0 'da tek çekirdekli 1.710 puan ve çok çekirdekli 5.977 puan aldı.
+
+Açıkçası bu bir prototip cihaz olduğundan, bu sayıları çok ciddiye almamalısınız. Bununla birlikte, kıyaslama çalışması, küresel X Fold6 'nın Çin yinelemesiyle aynı MediaTek Dimensity 9500 Super SoC tarafından destekleneceğini doğrulamaktadır. Bu, test edilen prototipte 12 GB RAM ile eşleştirildi, ancak elbette VIVO piyasaya sürüldüğünde daha fazla RAM katmanı sunabilir. İlginç bir şekilde, Çin X Fold6 Android 16 ile piyasaya sürülürken, küresel model ilk günden itibaren Android 17 'yi alacak ve VIVO'nun yaklaşmakta olan OriginOS 7' si en üstte olacak.
+
+Tazeleme olarak, Çin X Fold6, 2312x2504 çözünürlüğe ve 120Hz yenileme hızına sahip 8,02inç katlanabilir LTPO AMOLED ekrana, 1120x2528 çözünürlüğe ve 120Hz yenileme hızına sahip 6,51inç LTPO AMOLED kapak ekranına, 256/512 GB/1 TB depolama alanına, OIS'li 200MP ana kameraya, OIS'li 50MP periskop telefotoya ve 3x optik zoom'a, 50MP ultra çekime, 20MP selfie kamerasına, 20MP kapak selfie kamerasına ve 80W kablo destekli 7.000 mAh bataryaya sahiptir. d ve 40W kablosuz şarj.
+
+---
+
+## Görseller
+
+![vivo X Fold6's global launch is nearing](https://umutevicom-commits.github.io/tarihte/data/images/vivo_x_fold6s_global_launch_is_nearing-news-74572/immaculate_001.jpg)

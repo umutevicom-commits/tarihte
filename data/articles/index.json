@@ -1,5 +1,55 @@
 [
   {
+    "slug": "xiaomi_starts_beta_test_recruitment_for_hyperos_4_-news-74570",
+    "url": "https://www.gsmarena.com/xiaomi_starts_beta_test_recruitment_for_hyperos_4_-news-74570.php",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T08:27:36.086809+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "01997fbfe13d2431bf4e83000f2f03d4b7b4a4e5451bff4c5a8abad5e71c4ead"
+  },
+  {
+    "slug": "samsung_galaxy_s26_galaxy_s26_ultra_certified_renewed_india_price-news-74561",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s26_galaxy_s26_ultra_certified_renewed_india_price-news-74561.php",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T08:27:01.356846+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7260c48c911ca28b73eaf4563223e47cd3c222837aab66c47a8003f9f4609c61"
+  },
+  {
+    "slug": "vivo_x_fold6s_global_launch_is_nearing-news-74572",
+    "url": "https://www.gsmarena.com/vivo_x_fold6s_global_launch_is_nearing-news-74572.php",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T08:26:39.163487+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e96a1ccca546c106f7937525a2af1836dfd0520d48538537e04d89bea64258dd"
+  },
+  {
+    "slug": "oppo_k14_lite_design_colors_launch_date-news-74575",
+    "url": "https://www.gsmarena.com/oppo_k14_lite_design_colors_launch_date-news-74575.php",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T08:26:18.412442+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a530f54d780a0bf0dc9cc0e09c46d6e05810a35bf960ff116a0c84b194ac7ea9"
+  },
+  {
+    "slug": "heres_your_first_look_at_the_upcoming_iqoo_16-news-74573",
+    "url": "https://www.gsmarena.com/heres_your_first_look_at_the_upcoming_iqoo_16-news-74573.php",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T08:25:51.092928+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7091a0d231a5301755c06d9c1e8bc968337042338e9278a162af54807ad813f4"
+  },
+  {
     "content_hash": "35f5829ef8928c1a8e1b44bbf0fcb55479a3a94f6fce14e7273cef7ef8fc5342",
     "date": "10 September 2026",
     "fetched_at": "2026-09-10T23:34:58.723175+00:00",

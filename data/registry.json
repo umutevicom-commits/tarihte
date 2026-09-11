@@ -1429,6 +1429,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/here_are_the_apple_iphone_duo_alternatives-news-74560.php"
   },
+  "74561": {
+    "content_hash": "7260c48c911ca28b73eaf4563223e47cd3c222837aab66c47a8003f9f4609c61",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T08:27:01.356846+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_s26_galaxy_s26_ultra_certified_renewed_india_price-news-74561",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s26_galaxy_s26_ultra_certified_renewed_india_price-news-74561.php"
+  },
   "74562": {
     "content_hash": "23a5928605d30393b4ff8b2a60bee8c02475d5200ec12d53daad130a448c59f5",
     "date": "10 September 2026",
@@ -1469,6 +1479,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_iphone_duo_vs_iphone_18_pro_max_which_one_to_get-news-74567.php"
   },
+  "74570": {
+    "content_hash": "01997fbfe13d2431bf4e83000f2f03d4b7b4a4e5451bff4c5a8abad5e71c4ead",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T08:27:36.086809+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_starts_beta_test_recruitment_for_hyperos_4_-news-74570",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_starts_beta_test_recruitment_for_hyperos_4_-news-74570.php"
+  },
   "74571": {
     "content_hash": "03effaf9d7aa6fbbd2d1b1f912c0b1597afb549e8f555b64754ad72b216d4a0d",
     "date": "10 September 2026",
@@ -1478,5 +1498,35 @@
     "slug": "insta360_luna_pro_gimbal_camera_goes_official_with_a_1inch_sensor-news-74571",
     "status": "ok",
     "url": "https://www.gsmarena.com/insta360_luna_pro_gimbal_camera_goes_official_with_a_1inch_sensor-news-74571.php"
+  },
+  "74572": {
+    "content_hash": "e96a1ccca546c106f7937525a2af1836dfd0520d48538537e04d89bea64258dd",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T08:26:39.163487+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x_fold6s_global_launch_is_nearing-news-74572",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x_fold6s_global_launch_is_nearing-news-74572.php"
+  },
+  "74573": {
+    "content_hash": "7091a0d231a5301755c06d9c1e8bc968337042338e9278a162af54807ad813f4",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T08:25:51.092928+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_your_first_look_at_the_upcoming_iqoo_16-news-74573",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_your_first_look_at_the_upcoming_iqoo_16-news-74573.php"
+  },
+  "74575": {
+    "content_hash": "a530f54d780a0bf0dc9cc0e09c46d6e05810a35bf960ff116a0c84b194ac7ea9",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T08:26:18.412442+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_k14_lite_design_colors_launch_date-news-74575",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_k14_lite_design_colors_launch_date-news-74575.php"
   }
 }
