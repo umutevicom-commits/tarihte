@@ -1539,6 +1539,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/oppo_k14_lite_design_colors_launch_date-news-74575.php"
   },
+  "74576": {
+    "content_hash": "36833222f7373a8aa0071921c65268153ee583edd63c142451c991075c75e336",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T17:30:21.626666+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_extends_free_satellite_access_for_older_iphones-news-74576",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_extends_free_satellite_access_for_older_iphones-news-74576.php"
+  },
   "74577": {
     "content_hash": "c6cd09c7971a652c2c204070201f429c8f5ff369669dd30bc6e0069c4c81a013",
     "date": "11 September 2026",
@@ -1578,5 +1588,25 @@
     "slug": "honor_watch_6_pro_launch_date_design-news-74580",
     "status": "ok",
     "url": "https://www.gsmarena.com/honor_watch_6_pro_launch_date_design-news-74580.php"
+  },
+  "74581": {
+    "content_hash": "961454ea9476639ed9fe08138c5980a5fbe7c6c8eaf20cde4977372537a64ed8",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T17:30:06.611706+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "here_are_the_iphone_18_pro_max_and_iphone_duo_offers_from_apple_and_the_big_us_carriers-news-74581",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/here_are_the_iphone_18_pro_max_and_iphone_duo_offers_from_apple_and_the_big_us_carriers-news-74581.php"
+  },
+  "74582": {
+    "content_hash": "bb4b50eebb3b52b13e1bcd3d4a8875b36c47d4044dcfc178ee57c19ab5392e40",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T17:29:51.962236+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_how_much_using_one_phone_number_on_two_iphones_will_cost_you-news-74582",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_how_much_using_one_phone_number_on_two_iphones_will_cost_you-news-74582.php"
   }
 }
