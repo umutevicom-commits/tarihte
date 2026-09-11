@@ -1,33 +1,43 @@
 [
   {
-    "slug": "apple_extends_free_satellite_access_for_older_iphones-news-74576",
-    "url": "https://www.gsmarena.com/apple_extends_free_satellite_access_for_older_iphones-news-74576.php",
+    "slug": "the_iphone_duo_does_not_solve_foldables_biggest_problems-news-74568",
+    "url": "https://www.gsmarena.com/the_iphone_duo_does_not_solve_foldables_biggest_problems-news-74568.php",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T20:14:46.686540+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "12b5b51b558edbca5105a92cd735b2bb336be0992635eaa1a9da205231ac2dd8"
+  },
+  {
+    "content_hash": "36833222f7373a8aa0071921c65268153ee583edd63c142451c991075c75e336",
     "date": "11 September 2026",
     "fetched_at": "2026-09-11T17:30:21.626666+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "36833222f7373a8aa0071921c65268153ee583edd63c142451c991075c75e336"
+    "retries": 0,
+    "slug": "apple_extends_free_satellite_access_for_older_iphones-news-74576",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_extends_free_satellite_access_for_older_iphones-news-74576.php"
   },
   {
-    "slug": "here_are_the_iphone_18_pro_max_and_iphone_duo_offers_from_apple_and_the_big_us_carriers-news-74581",
-    "url": "https://www.gsmarena.com/here_are_the_iphone_18_pro_max_and_iphone_duo_offers_from_apple_and_the_big_us_carriers-news-74581.php",
+    "content_hash": "961454ea9476639ed9fe08138c5980a5fbe7c6c8eaf20cde4977372537a64ed8",
     "date": "11 September 2026",
     "fetched_at": "2026-09-11T17:30:06.611706+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "961454ea9476639ed9fe08138c5980a5fbe7c6c8eaf20cde4977372537a64ed8"
+    "retries": 0,
+    "slug": "here_are_the_iphone_18_pro_max_and_iphone_duo_offers_from_apple_and_the_big_us_carriers-news-74581",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/here_are_the_iphone_18_pro_max_and_iphone_duo_offers_from_apple_and_the_big_us_carriers-news-74581.php"
   },
   {
-    "slug": "heres_how_much_using_one_phone_number_on_two_iphones_will_cost_you-news-74582",
-    "url": "https://www.gsmarena.com/heres_how_much_using_one_phone_number_on_two_iphones_will_cost_you-news-74582.php",
+    "content_hash": "bb4b50eebb3b52b13e1bcd3d4a8875b36c47d4044dcfc178ee57c19ab5392e40",
     "date": "11 September 2026",
     "fetched_at": "2026-09-11T17:29:51.962236+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "bb4b50eebb3b52b13e1bcd3d4a8875b36c47d4044dcfc178ee57c19ab5392e40"
+    "retries": 0,
+    "slug": "heres_how_much_using_one_phone_number_on_two_iphones_will_cost_you-news-74582",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_how_much_using_one_phone_number_on_two_iphones_will_cost_you-news-74582.php"
   },
   {
     "content_hash": "288392f74be00e66e6a96742c35513813d8d379faf73e3282b21323f473d312c",
