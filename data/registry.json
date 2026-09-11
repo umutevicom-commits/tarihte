@@ -1519,6 +1519,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/heres_your_first_look_at_the_upcoming_iqoo_16-news-74573.php"
   },
+  "74574": {
+    "content_hash": "288392f74be00e66e6a96742c35513813d8d379faf73e3282b21323f473d312c",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T13:58:51.926979+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_smarttag3_design_colors_leaked_images-news-74574",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_smarttag3_design_colors_leaked_images-news-74574.php"
+  },
   "74575": {
     "content_hash": "a530f54d780a0bf0dc9cc0e09c46d6e05810a35bf960ff116a0c84b194ac7ea9",
     "date": "11 September 2026",
@@ -1528,5 +1538,45 @@
     "slug": "oppo_k14_lite_design_colors_launch_date-news-74575",
     "status": "ok",
     "url": "https://www.gsmarena.com/oppo_k14_lite_design_colors_launch_date-news-74575.php"
+  },
+  "74577": {
+    "content_hash": "c6cd09c7971a652c2c204070201f429c8f5ff369669dd30bc6e0069c4c81a013",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T13:58:33.893185+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_magic9_series_said_to_include_a_super_edition_with_an_11000mah_battery-news-74577",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_series_said_to_include_a_super_edition_with_an_11000mah_battery-news-74577.php"
+  },
+  "74578": {
+    "content_hash": "ec9e18cdc98bbe334a33febdcbb01c9f193f6485ef5a384da821d3e4dae87f84",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T13:58:13.704063+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "poco_x8_power_with_a_10000mah_battery_goes_on_sale_in_india-news-74578",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/poco_x8_power_with_a_10000mah_battery_goes_on_sale_in_india-news-74578.php"
+  },
+  "74579": {
+    "content_hash": "6ac525a692487d0dbfbd33b0cbe90f833dc6555aa651b2bdf9974ba9bc0fd04d",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T13:57:26.816581+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsungs_galaxy_buds_on_leak_again_-news-74579",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsungs_galaxy_buds_on_leak_again_-news-74579.php"
+  },
+  "74580": {
+    "content_hash": "370e8cda29d08b41bbf9e95905d11773ebd40b306bc1842a4060a745a5b245d1",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T13:57:56.981982+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_watch_6_pro_launch_date_design-news-74580",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_watch_6_pro_launch_date_design-news-74580.php"
   }
 }
