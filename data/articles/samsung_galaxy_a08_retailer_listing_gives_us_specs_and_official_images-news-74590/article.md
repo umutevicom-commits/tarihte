@@ -1,0 +1,31 @@
+# Samsung Galaxy A08 retailer listing gives us specs and official images
+
+The Samsung Galaxy A08 was spotted in the Google Play Console in August, and then got certified by Anatel in Brazil a few days later. Things have been quiet since then, but now the phone has shown up at an online retailer in the UAE, where it's seemingly already available for purchase for AED 625 ($170), down from the recommended price of AED 659 ($179).
+
+The phone sports a 6.7-inch PLS LCD screen with a 90Hz refresh rate, a 50MP main camera, a 2MP depth sensor, an 8MP front camera, and a 6,000 mAh battery with support for 25W fast charging.
+
+Samsung Galaxy A08 images
+
+It's powered by an unnamed chipset which has an octa-core 2.2GHz CPU. The aforementioned Google Play Console listing identified this as the MediaTek Helio G99. The same source also told us that the screen's resolution is 720x1600.
+
+More Samsung Galaxy A08 images
+
+The A08 is listed with 4GB of RAM and 64GB of expandable storage, but there's apparently a 6/128GB version as well. The A08 is IP64-rated for dust and splash resistance and supports dual-SIM. It is offered in Navy Blue, Silver, and Green. It's 8mm thick.
+
+Compared to the Galaxy A07, which came out in August 2025, the A08 has a 20% larger battery. That seems to be the only thing that's changed.
+
+---
+
+## Görseller
+
+![Samsung Galaxy A08 images](https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590/immaculate_001.jpg)
+
+![Samsung Galaxy A08 images](https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590/immaculate_002.jpg)
+
+![Samsung Galaxy A08 images](https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590/immaculate_003.jpg)
+
+![More Samsung Galaxy A08 images](https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590/immaculate_004.jpg)
+
+![More Samsung Galaxy A08 images](https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590/immaculate_005.jpg)
+
+![More Samsung Galaxy A08 images](https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590/immaculate_006.jpg)

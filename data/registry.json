@@ -1618,5 +1618,25 @@
     "slug": "heres_how_much_using_one_phone_number_on_two_iphones_will_cost_you-news-74582",
     "status": "ok",
     "url": "https://www.gsmarena.com/heres_how_much_using_one_phone_number_on_two_iphones_will_cost_you-news-74582.php"
+  },
+  "74590": {
+    "content_hash": "d7f54f1724c2f9eeed8aba37705ab629e9533b82a00810a241c8ab98e02f9014",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T23:45:42.514519+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590.php"
+  },
+  "74591": {
+    "content_hash": "c0f0731d5aa10e1542908046f01c2e49a309619c331171f0f12679e189777a86",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T23:42:52.932976+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591.php"
   }
 }
