@@ -1,23 +1,33 @@
 [
   {
-    "slug": "realme_16_pro_harry_potter_key_specs-news-74593",
-    "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_key_specs-news-74593.php",
+    "slug": "samsung_galaxy_s26_fe_india_price_leaks-news-74595",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_india_price_leaks-news-74595.php",
     "date": "12 September 2026",
-    "fetched_at": "2026-09-12T13:16:15.072658+00:00",
+    "fetched_at": "2026-09-12T16:39:29.677888+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "0363b5cc1be73fee335b97a0561b26351db9d9c7550278dd2e65e23077097c8e"
+    "content_hash": "d4eaa2e05b405f0405ebaf3bfab9e70b58cfb54e55dd7535dce4d532876b9665"
   },
   {
-    "slug": "apple_iphone_18_pro_iphone_18_pro_max_pre_orders_begin-news-74594",
-    "url": "https://www.gsmarena.com/apple_iphone_18_pro_iphone_18_pro_max_pre_orders_begin-news-74594.php",
+    "content_hash": "0363b5cc1be73fee335b97a0561b26351db9d9c7550278dd2e65e23077097c8e",
+    "date": "12 September 2026",
+    "fetched_at": "2026-09-12T13:16:15.072658+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "realme_16_pro_harry_potter_key_specs-news-74593",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_key_specs-news-74593.php"
+  },
+  {
+    "content_hash": "cd57af234f4856b2cc73c06836ef5deb3fcc350decd229c8a3aa88f90b32812b",
     "date": "12 September 2026",
     "fetched_at": "2026-09-12T13:16:00.496007+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "cd57af234f4856b2cc73c06836ef5deb3fcc350decd229c8a3aa88f90b32812b"
+    "retries": 0,
+    "slug": "apple_iphone_18_pro_iphone_18_pro_max_pre_orders_begin-news-74594",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_iphone_18_pro_iphone_18_pro_max_pre_orders_begin-news-74594.php"
   },
   {
     "content_hash": "b42c072b2e5996f0763a90b8b3299bf37fc5aae799571a2cc0954d2a5a37022e",
