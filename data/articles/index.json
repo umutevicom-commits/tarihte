@@ -1,23 +1,33 @@
 [
   {
-    "slug": "samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590",
-    "url": "https://www.gsmarena.com/samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590.php",
-    "date": "11 September 2026",
-    "fetched_at": "2026-09-11T23:45:42.514519+00:00",
+    "slug": "oneplus_16_may_not_launch_in_india-news-74587",
+    "url": "https://www.gsmarena.com/oneplus_16_may_not_launch_in_india-news-74587.php",
+    "date": "12 September 2026",
+    "fetched_at": "2026-09-12T02:18:23.692183+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "d7f54f1724c2f9eeed8aba37705ab629e9533b82a00810a241c8ab98e02f9014"
+    "content_hash": "ef5322763b4460e6613ad638165073360d774f1b8aa6d402e8d87196dc249061"
   },
   {
-    "slug": "fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591",
-    "url": "https://www.gsmarena.com/fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591.php",
+    "content_hash": "d7f54f1724c2f9eeed8aba37705ab629e9533b82a00810a241c8ab98e02f9014",
+    "date": "11 September 2026",
+    "fetched_at": "2026-09-11T23:45:42.514519+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a08_retailer_listing_gives_us_specs_and_official_images-news-74590.php"
+  },
+  {
+    "content_hash": "c0f0731d5aa10e1542908046f01c2e49a309619c331171f0f12679e189777a86",
     "date": "11 September 2026",
     "fetched_at": "2026-09-11T23:42:52.932976+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c0f0731d5aa10e1542908046f01c2e49a309619c331171f0f12679e189777a86"
+    "retries": 0,
+    "slug": "fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591.php"
   },
   {
     "content_hash": "12b5b51b558edbca5105a92cd735b2bb336be0992635eaa1a9da205231ac2dd8",
