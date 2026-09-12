@@ -1,13 +1,33 @@
 [
   {
-    "slug": "oneplus_16_may_not_launch_in_india-news-74587",
-    "url": "https://www.gsmarena.com/oneplus_16_may_not_launch_in_india-news-74587.php",
+    "slug": "vivo_shows_all_colors_of_the_x500_pro_max-news-74589",
+    "url": "https://www.gsmarena.com/vivo_shows_all_colors_of_the_x500_pro_max-news-74589.php",
     "date": "12 September 2026",
-    "fetched_at": "2026-09-12T02:18:23.692183+00:00",
+    "fetched_at": "2026-09-12T08:15:26.834982+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "ef5322763b4460e6613ad638165073360d774f1b8aa6d402e8d87196dc249061"
+    "content_hash": "b42c072b2e5996f0763a90b8b3299bf37fc5aae799571a2cc0954d2a5a37022e"
+  },
+  {
+    "slug": "deals_iphone_18_pro_and_pro_max_launch_galaxy_s26_and_pixel_11_series_drop_prices-news-74585",
+    "url": "https://www.gsmarena.com/deals_iphone_18_pro_and_pro_max_launch_galaxy_s26_and_pixel_11_series_drop_prices-news-74585.php",
+    "date": "12 September 2026",
+    "fetched_at": "2026-09-12T08:14:42.336940+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0245180a4cfc125d9da61b0d322ecf9b7a93bb0b1f7d1af6995523a7a56628fc"
+  },
+  {
+    "content_hash": "ef5322763b4460e6613ad638165073360d774f1b8aa6d402e8d87196dc249061",
+    "date": "12 September 2026",
+    "fetched_at": "2026-09-12T02:18:23.692183+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_16_may_not_launch_in_india-news-74587",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_16_may_not_launch_in_india-news-74587.php"
   },
   {
     "content_hash": "d7f54f1724c2f9eeed8aba37705ab629e9533b82a00810a241c8ab98e02f9014",
