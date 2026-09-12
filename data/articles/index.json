@@ -1,23 +1,43 @@
 [
   {
-    "slug": "vivo_shows_all_colors_of_the_x500_pro_max-news-74589",
-    "url": "https://www.gsmarena.com/vivo_shows_all_colors_of_the_x500_pro_max-news-74589.php",
+    "slug": "realme_16_pro_harry_potter_key_specs-news-74593",
+    "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_key_specs-news-74593.php",
     "date": "12 September 2026",
-    "fetched_at": "2026-09-12T08:15:26.834982+00:00",
+    "fetched_at": "2026-09-12T13:16:15.072658+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "b42c072b2e5996f0763a90b8b3299bf37fc5aae799571a2cc0954d2a5a37022e"
+    "content_hash": "0363b5cc1be73fee335b97a0561b26351db9d9c7550278dd2e65e23077097c8e"
   },
   {
-    "slug": "deals_iphone_18_pro_and_pro_max_launch_galaxy_s26_and_pixel_11_series_drop_prices-news-74585",
-    "url": "https://www.gsmarena.com/deals_iphone_18_pro_and_pro_max_launch_galaxy_s26_and_pixel_11_series_drop_prices-news-74585.php",
+    "slug": "apple_iphone_18_pro_iphone_18_pro_max_pre_orders_begin-news-74594",
+    "url": "https://www.gsmarena.com/apple_iphone_18_pro_iphone_18_pro_max_pre_orders_begin-news-74594.php",
     "date": "12 September 2026",
-    "fetched_at": "2026-09-12T08:14:42.336940+00:00",
+    "fetched_at": "2026-09-12T13:16:00.496007+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "0245180a4cfc125d9da61b0d322ecf9b7a93bb0b1f7d1af6995523a7a56628fc"
+    "content_hash": "cd57af234f4856b2cc73c06836ef5deb3fcc350decd229c8a3aa88f90b32812b"
+  },
+  {
+    "content_hash": "b42c072b2e5996f0763a90b8b3299bf37fc5aae799571a2cc0954d2a5a37022e",
+    "date": "12 September 2026",
+    "fetched_at": "2026-09-12T08:15:26.834982+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_shows_all_colors_of_the_x500_pro_max-news-74589",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_shows_all_colors_of_the_x500_pro_max-news-74589.php"
+  },
+  {
+    "content_hash": "0245180a4cfc125d9da61b0d322ecf9b7a93bb0b1f7d1af6995523a7a56628fc",
+    "date": "12 September 2026",
+    "fetched_at": "2026-09-12T08:14:42.336940+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_iphone_18_pro_and_pro_max_launch_galaxy_s26_and_pixel_11_series_drop_prices-news-74585",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_iphone_18_pro_and_pro_max_launch_galaxy_s26_and_pixel_11_series_drop_prices-news-74585.php"
   },
   {
     "content_hash": "ef5322763b4460e6613ad638165073360d774f1b8aa6d402e8d87196dc249061",

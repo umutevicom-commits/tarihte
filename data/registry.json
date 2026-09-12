@@ -1668,5 +1668,25 @@
     "slug": "fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591",
     "status": "ok",
     "url": "https://www.gsmarena.com/fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591.php"
+  },
+  "74593": {
+    "content_hash": "0363b5cc1be73fee335b97a0561b26351db9d9c7550278dd2e65e23077097c8e",
+    "date": "12 September 2026",
+    "fetched_at": "2026-09-12T13:16:15.072658+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "realme_16_pro_harry_potter_key_specs-news-74593",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_key_specs-news-74593.php"
+  },
+  "74594": {
+    "content_hash": "cd57af234f4856b2cc73c06836ef5deb3fcc350decd229c8a3aa88f90b32812b",
+    "date": "12 September 2026",
+    "fetched_at": "2026-09-12T13:16:00.496007+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_iphone_18_pro_iphone_18_pro_max_pre_orders_begin-news-74594",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_iphone_18_pro_iphone_18_pro_max_pre_orders_begin-news-74594.php"
   }
 }
