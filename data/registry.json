@@ -1459,6 +1459,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/the_trump_phone_just_got_50_more_expensive-news-74564.php"
   },
+  "74565": {
+    "content_hash": "f8a5b561694ecb083894b305888adb396671374e0f913f43452bcb430304a3c0",
+    "date": "13 September 2026",
+    "fetched_at": "2026-09-13T02:15:49.306942+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_results_poco_f9_ultra_sizzles_poco_f9_pro_not_as_hot_both_need_a_price_cut-news-74565",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_poco_f9_ultra_sizzles_poco_f9_pro_not_as_hot_both_need_a_price_cut-news-74565.php"
+  },
   "74566": {
     "content_hash": "19b3515f6e6d4ae4b59f83e87b32c59806b781446d00c8a981c33f4235d1735e",
     "date": "10 September 2026",

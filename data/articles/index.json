@@ -1,13 +1,23 @@
 [
   {
-    "slug": "iphone_18_pro_and_iphone_duo_hottake-news-74588",
-    "url": "https://www.gsmarena.com/iphone_18_pro_and_iphone_duo_hottake-news-74588.php",
-    "date": "12 September 2026",
-    "fetched_at": "2026-09-12T23:36:15.638010+00:00",
+    "slug": "weekly_poll_results_poco_f9_ultra_sizzles_poco_f9_pro_not_as_hot_both_need_a_price_cut-news-74565",
+    "url": "https://www.gsmarena.com/weekly_poll_results_poco_f9_ultra_sizzles_poco_f9_pro_not_as_hot_both_need_a_price_cut-news-74565.php",
+    "date": "13 September 2026",
+    "fetched_at": "2026-09-13T02:15:49.306942+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "fdf8358e7c7beaf9e38152ec8147c238f4952f3b7fa5a1cf887c6ba34107f520"
+    "content_hash": "f8a5b561694ecb083894b305888adb396671374e0f913f43452bcb430304a3c0"
+  },
+  {
+    "content_hash": "fdf8358e7c7beaf9e38152ec8147c238f4952f3b7fa5a1cf887c6ba34107f520",
+    "date": "12 September 2026",
+    "fetched_at": "2026-09-12T23:36:15.638010+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_18_pro_and_iphone_duo_hottake-news-74588",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_18_pro_and_iphone_duo_hottake-news-74588.php"
   },
   {
     "content_hash": "885ea83c1a45f4dedfa40baa0d48de881b767b1feb941e5ef7eddf33fa1250dd",
