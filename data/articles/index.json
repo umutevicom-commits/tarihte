@@ -1,23 +1,33 @@
 [
   {
-    "slug": "weekly_poll_will_you_buy_the_iphone_duo_what_about_the_iphone_18_pro_or_iphone_18_pro_max-news-74563",
-    "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_iphone_duo_what_about_the_iphone_18_pro_or_iphone_18_pro_max-news-74563.php",
+    "slug": "tcl_p80_ultra_unboxing_and_handson-news-74536",
+    "url": "https://www.gsmarena.com/tcl_p80_ultra_unboxing_and_handson-news-74536.php",
     "date": "13 September 2026",
-    "fetched_at": "2026-09-13T14:00:07.244552+00:00",
+    "fetched_at": "2026-09-13T17:20:34.201785+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "95b46b7c3c7af3463ad8e9f00f2e74803cf3bc034a93667b949c21ee5ff89428"
+    "content_hash": "862d183709d846cf1024ada8ef8f97201dc7ee15456061886a328bd117325805"
   },
   {
-    "slug": "deals_iphone_18_pro_and_pro_max_preorder_begins_galaxy_z_fold8_and_galaxy_s26_series_get_discounted-news-74592",
-    "url": "https://www.gsmarena.com/deals_iphone_18_pro_and_pro_max_preorder_begins_galaxy_z_fold8_and_galaxy_s26_series_get_discounted-news-74592.php",
+    "content_hash": "95b46b7c3c7af3463ad8e9f00f2e74803cf3bc034a93667b949c21ee5ff89428",
+    "date": "13 September 2026",
+    "fetched_at": "2026-09-13T14:00:07.244552+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_will_you_buy_the_iphone_duo_what_about_the_iphone_18_pro_or_iphone_18_pro_max-news-74563",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_iphone_duo_what_about_the_iphone_18_pro_or_iphone_18_pro_max-news-74563.php"
+  },
+  {
+    "content_hash": "8c07603c686989a9e53c4da47aa8d558d5e8ae9520b9a12d9dcb7100b976df6a",
     "date": "13 September 2026",
     "fetched_at": "2026-09-13T13:59:36.540610+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8c07603c686989a9e53c4da47aa8d558d5e8ae9520b9a12d9dcb7100b976df6a"
+    "retries": 0,
+    "slug": "deals_iphone_18_pro_and_pro_max_preorder_begins_galaxy_z_fold8_and_galaxy_s26_series_get_discounted-news-74592",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_iphone_18_pro_and_pro_max_preorder_begins_galaxy_z_fold8_and_galaxy_s26_series_get_discounted-news-74592.php"
   },
   {
     "content_hash": "f9e7586d6735c74ab2835c947a88d716153a5b81f11846542384140b65ac3307",
