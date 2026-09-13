@@ -1,13 +1,23 @@
 [
   {
-    "slug": "tcl_p80_ultra_unboxing_and_handson-news-74536",
-    "url": "https://www.gsmarena.com/tcl_p80_ultra_unboxing_and_handson-news-74536.php",
+    "slug": "apple_unveils_its_first_foldable__the_iphone_duo_iphone_18_pro_official_week_37_in_review-news-74586",
+    "url": "https://www.gsmarena.com/apple_unveils_its_first_foldable__the_iphone_duo_iphone_18_pro_official_week_37_in_review-news-74586.php",
     "date": "13 September 2026",
-    "fetched_at": "2026-09-13T17:20:34.201785+00:00",
+    "fetched_at": "2026-09-13T20:02:20.650266+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "862d183709d846cf1024ada8ef8f97201dc7ee15456061886a328bd117325805"
+    "content_hash": "59e1fd15735d0cc7bc0cd51f153236e1f4041998e0e3dafecb1d0cfcbf9f10c2"
+  },
+  {
+    "content_hash": "862d183709d846cf1024ada8ef8f97201dc7ee15456061886a328bd117325805",
+    "date": "13 September 2026",
+    "fetched_at": "2026-09-13T17:20:34.201785+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "tcl_p80_ultra_unboxing_and_handson-news-74536",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tcl_p80_ultra_unboxing_and_handson-news-74536.php"
   },
   {
     "content_hash": "95b46b7c3c7af3463ad8e9f00f2e74803cf3bc034a93667b949c21ee5ff89428",
