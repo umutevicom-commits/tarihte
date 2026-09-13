@@ -1459,6 +1459,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/trendforce_apple_to_capture_a_quarter_of_the_folding_phone_market_in_2026-news-74562.php"
   },
+  "74563": {
+    "content_hash": "95b46b7c3c7af3463ad8e9f00f2e74803cf3bc034a93667b949c21ee5ff89428",
+    "date": "13 September 2026",
+    "fetched_at": "2026-09-13T14:00:07.244552+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_will_you_buy_the_iphone_duo_what_about_the_iphone_18_pro_or_iphone_18_pro_max-news-74563",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_the_iphone_duo_what_about_the_iphone_18_pro_or_iphone_18_pro_max-news-74563.php"
+  },
   "74564": {
     "content_hash": "0ef98bf6b8fb0ca6cb79802154f5324d688071a157a6010c6275cf5baccc6bac",
     "date": "10 September 2026",
@@ -1708,6 +1718,16 @@
     "slug": "fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591",
     "status": "ok",
     "url": "https://www.gsmarena.com/fairphones_fairbuds_2_earbuds_leak_in_two_colors-news-74591.php"
+  },
+  "74592": {
+    "content_hash": "8c07603c686989a9e53c4da47aa8d558d5e8ae9520b9a12d9dcb7100b976df6a",
+    "date": "13 September 2026",
+    "fetched_at": "2026-09-13T13:59:36.540610+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_iphone_18_pro_and_pro_max_preorder_begins_galaxy_z_fold8_and_galaxy_s26_series_get_discounted-news-74592",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_iphone_18_pro_and_pro_max_preorder_begins_galaxy_z_fold8_and_galaxy_s26_series_get_discounted-news-74592.php"
   },
   "74593": {
     "content_hash": "0363b5cc1be73fee335b97a0561b26351db9d9c7550278dd2e65e23077097c8e",
