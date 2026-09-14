@@ -1849,6 +1849,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_to_feature_nextgeneration_m16_oled_panel-news-74603.php"
   },
+  "74604": {
+    "content_hash": "fbf371bb4956cdd2724505a9dcc07b8d43ee8a7ea57b7db9b9d536db4bad267e",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:13:34.837918+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_stars_in_a_new_video-news-74604",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_stars_in_a_new_video-news-74604.php"
+  },
   "74605": {
     "content_hash": "bdf03a16505a37c321c4c0fea2f7e37dd5bff8b52bd2275ce615240c0c245744",
     "date": "14 September 2026",
@@ -1868,5 +1878,35 @@
     "slug": "heres_how_much_the_galaxy_s26_fe_is_priced_in_india-news-74606",
     "status": "ok",
     "url": "https://www.gsmarena.com/heres_how_much_the_galaxy_s26_fe_is_priced_in_india-news-74606.php"
+  },
+  "74607": {
+    "content_hash": "3150144f18152247044b120259eb07973cbb60517d9b61de5248d6e7638e71d6",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:13:19.320715+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_galaxy_tab_s12_and_tab_s12_ultra_are_coming_next_month_says_evan_blass-news-74607",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_galaxy_tab_s12_and_tab_s12_ultra_are_coming_next_month_says_evan_blass-news-74607.php"
+  },
+  "74608": {
+    "content_hash": "a702858e9c273704e53bbd50d65614b296df0c1a2d505135c8e192cdc151a3d4",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:13:00.893967+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "one_ui_9_beta_2_for_the_galaxy_s24_series_now_rolling_out_with_new_s26_and_z8_features-news-74608",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/one_ui_9_beta_2_for_the_galaxy_s24_series_now_rolling_out_with_new_s26_and_z8_features-news-74608.php"
+  },
+  "74610": {
+    "content_hash": "899a7ea8f9e9921f01472b7299f07a573a7e2946ae5d836c14949a6ee17bb5e8",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:12:42.016827+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_duo_may_become_an_entire_product_line_new_rumor_claims-news-74610",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_duo_may_become_an_entire_product_line_new_rumor_claims-news-74610.php"
   }
 }

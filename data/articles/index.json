@@ -1,63 +1,103 @@
 [
   {
-    "slug": "honor_reveals_magic9_series_designs_and_colors_super_edition_to_get_11000mah_battery-news-74601",
-    "url": "https://www.gsmarena.com/honor_reveals_magic9_series_designs_and_colors_super_edition_to_get_11000mah_battery-news-74601.php",
+    "slug": "vivo_x500_stars_in_a_new_video-news-74604",
+    "url": "https://www.gsmarena.com/vivo_x500_stars_in_a_new_video-news-74604.php",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:13:34.837918+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "fbf371bb4956cdd2724505a9dcc07b8d43ee8a7ea57b7db9b9d536db4bad267e"
+  },
+  {
+    "slug": "the_galaxy_tab_s12_and_tab_s12_ultra_are_coming_next_month_says_evan_blass-news-74607",
+    "url": "https://www.gsmarena.com/the_galaxy_tab_s12_and_tab_s12_ultra_are_coming_next_month_says_evan_blass-news-74607.php",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:13:19.320715+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3150144f18152247044b120259eb07973cbb60517d9b61de5248d6e7638e71d6"
+  },
+  {
+    "slug": "one_ui_9_beta_2_for_the_galaxy_s24_series_now_rolling_out_with_new_s26_and_z8_features-news-74608",
+    "url": "https://www.gsmarena.com/one_ui_9_beta_2_for_the_galaxy_s24_series_now_rolling_out_with_new_s26_and_z8_features-news-74608.php",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:13:00.893967+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a702858e9c273704e53bbd50d65614b296df0c1a2d505135c8e192cdc151a3d4"
+  },
+  {
+    "slug": "iphone_duo_may_become_an_entire_product_line_new_rumor_claims-news-74610",
+    "url": "https://www.gsmarena.com/iphone_duo_may_become_an_entire_product_line_new_rumor_claims-news-74610.php",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T21:12:42.016827+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "899a7ea8f9e9921f01472b7299f07a573a7e2946ae5d836c14949a6ee17bb5e8"
+  },
+  {
+    "content_hash": "33e1abc8d83cfe626be5eea1ff244758e6d4f369e76d52c1058ad4152c50f0a2",
     "date": "14 September 2026",
     "fetched_at": "2026-09-14T16:05:38.751002+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "33e1abc8d83cfe626be5eea1ff244758e6d4f369e76d52c1058ad4152c50f0a2"
+    "retries": 0,
+    "slug": "honor_reveals_magic9_series_designs_and_colors_super_edition_to_get_11000mah_battery-news-74601",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_reveals_magic9_series_designs_and_colors_super_edition_to_get_11000mah_battery-news-74601.php"
   },
   {
-    "slug": "samsung_details_its_impressively_bright_m16_oled_display_-news-74600",
-    "url": "https://www.gsmarena.com/samsung_details_its_impressively_bright_m16_oled_display_-news-74600.php",
+    "content_hash": "51657dd3a742f6c60de7c273bca1a1dc143c80d1954e6beb24427aee09b29ec7",
     "date": "14 September 2026",
     "fetched_at": "2026-09-14T16:05:19.646406+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "51657dd3a742f6c60de7c273bca1a1dc143c80d1954e6beb24427aee09b29ec7"
+    "retries": 0,
+    "slug": "samsung_details_its_impressively_bright_m16_oled_display_-news-74600",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_details_its_impressively_bright_m16_oled_display_-news-74600.php"
   },
   {
-    "slug": "no_samsung_isnt_changing_the_telephoto_camera_on_the_galaxy_s27_ultra_says_ice_universe-news-74602",
-    "url": "https://www.gsmarena.com/no_samsung_isnt_changing_the_telephoto_camera_on_the_galaxy_s27_ultra_says_ice_universe-news-74602.php",
+    "content_hash": "7b226fa495a230f97707e1ef653895df974cdbfb5c59129ab6042adcbb16c807",
     "date": "14 September 2026",
     "fetched_at": "2026-09-14T16:05:01.250536+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7b226fa495a230f97707e1ef653895df974cdbfb5c59129ab6042adcbb16c807"
+    "retries": 0,
+    "slug": "no_samsung_isnt_changing_the_telephoto_camera_on_the_galaxy_s27_ultra_says_ice_universe-news-74602",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/no_samsung_isnt_changing_the_telephoto_camera_on_the_galaxy_s27_ultra_says_ice_universe-news-74602.php"
   },
   {
-    "slug": "heres_how_much_the_galaxy_s26_fe_is_priced_in_india-news-74606",
-    "url": "https://www.gsmarena.com/heres_how_much_the_galaxy_s26_fe_is_priced_in_india-news-74606.php",
+    "content_hash": "4061edc251dfd768e2db490d13cdd772307e1158108ad2620cbbb96508b704fe",
     "date": "14 September 2026",
     "fetched_at": "2026-09-14T16:04:42.969880+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4061edc251dfd768e2db490d13cdd772307e1158108ad2620cbbb96508b704fe"
+    "retries": 0,
+    "slug": "heres_how_much_the_galaxy_s26_fe_is_priced_in_india-news-74606",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_how_much_the_galaxy_s26_fe_is_priced_in_india-news-74606.php"
   },
   {
-    "slug": "honor_robot_phone_gets_bend_tested_and_disassembled_on_video-news-74605",
-    "url": "https://www.gsmarena.com/honor_robot_phone_gets_bend_tested_and_disassembled_on_video-news-74605.php",
+    "content_hash": "bdf03a16505a37c321c4c0fea2f7e37dd5bff8b52bd2275ce615240c0c245744",
     "date": "14 September 2026",
     "fetched_at": "2026-09-14T16:04:28.518158+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "bdf03a16505a37c321c4c0fea2f7e37dd5bff8b52bd2275ce615240c0c245744"
+    "retries": 0,
+    "slug": "honor_robot_phone_gets_bend_tested_and_disassembled_on_video-news-74605",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_robot_phone_gets_bend_tested_and_disassembled_on_video-news-74605.php"
   },
   {
-    "slug": "samsung_galaxy_s27_pro_and_s27_ultra_to_feature_nextgeneration_m16_oled_panel-news-74603",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_to_feature_nextgeneration_m16_oled_panel-news-74603.php",
+    "content_hash": "0e531315a414d3b91633c1177d1c225f413b5eb0f9dc11c83dd880a25e13d8ca",
     "date": "14 September 2026",
     "fetched_at": "2026-09-14T16:04:08.278244+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "0e531315a414d3b91633c1177d1c225f413b5eb0f9dc11c83dd880a25e13d8ca"
+    "retries": 0,
+    "slug": "samsung_galaxy_s27_pro_and_s27_ultra_to_feature_nextgeneration_m16_oled_panel-news-74603",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_to_feature_nextgeneration_m16_oled_panel-news-74603.php"
   },
   {
     "content_hash": "ac03c4b4638951a11d93ba659b693560a3d2bdb72d1e1c6d338b63ad3a0e51bc",
