@@ -1,23 +1,33 @@
 [
   {
-    "slug": "heres_another_look_at_tecnos_camon_slim_bezelless_concept_phone-news-74584",
-    "url": "https://www.gsmarena.com/heres_another_look_at_tecnos_camon_slim_bezelless_concept_phone-news-74584.php",
+    "slug": "oppo_find_x10_series_launch_date_colors_and_storage_options_revealed-news-74599",
+    "url": "https://www.gsmarena.com/oppo_find_x10_series_launch_date_colors_and_storage_options_revealed-news-74599.php",
     "date": "14 September 2026",
-    "fetched_at": "2026-09-14T02:35:58.065200+00:00",
+    "fetched_at": "2026-09-14T09:24:26.291465+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "b28245d80cb080d63082c592cc45064f9f4b31e607615c39a3bb0c2b2734b1b8"
+    "content_hash": "ac03c4b4638951a11d93ba659b693560a3d2bdb72d1e1c6d338b63ad3a0e51bc"
   },
   {
-    "slug": "sony_linkbuds_clip_review-news-74598",
-    "url": "https://www.gsmarena.com/sony_linkbuds_clip_review-news-74598.php",
+    "content_hash": "b28245d80cb080d63082c592cc45064f9f4b31e607615c39a3bb0c2b2734b1b8",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T02:35:58.065200+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_another_look_at_tecnos_camon_slim_bezelless_concept_phone-news-74584",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_another_look_at_tecnos_camon_slim_bezelless_concept_phone-news-74584.php"
+  },
+  {
+    "content_hash": "1d7636cc7976b5cffaa25c7c6e51cbd4ae7a1179ab9a96e40fdb2a051eb6bd0b",
     "date": "14 September 2026",
     "fetched_at": "2026-09-14T02:33:28.726492+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1d7636cc7976b5cffaa25c7c6e51cbd4ae7a1179ab9a96e40fdb2a051eb6bd0b"
+    "retries": 0,
+    "slug": "sony_linkbuds_clip_review-news-74598",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/sony_linkbuds_clip_review-news-74598.php"
   },
   {
     "content_hash": "59e1fd15735d0cc7bc0cd51f153236e1f4041998e0e3dafecb1d0cfcbf9f10c2",

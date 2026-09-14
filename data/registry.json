@@ -1798,5 +1798,15 @@
     "slug": "sony_linkbuds_clip_review-news-74598",
     "status": "ok",
     "url": "https://www.gsmarena.com/sony_linkbuds_clip_review-news-74598.php"
+  },
+  "74599": {
+    "content_hash": "ac03c4b4638951a11d93ba659b693560a3d2bdb72d1e1c6d338b63ad3a0e51bc",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T09:24:26.291465+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_series_launch_date_colors_and_storage_options_revealed-news-74599",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_series_launch_date_colors_and_storage_options_revealed-news-74599.php"
   }
 }
