@@ -1,13 +1,73 @@
 [
   {
-    "slug": "oppo_find_x10_series_launch_date_colors_and_storage_options_revealed-news-74599",
-    "url": "https://www.gsmarena.com/oppo_find_x10_series_launch_date_colors_and_storage_options_revealed-news-74599.php",
+    "slug": "honor_reveals_magic9_series_designs_and_colors_super_edition_to_get_11000mah_battery-news-74601",
+    "url": "https://www.gsmarena.com/honor_reveals_magic9_series_designs_and_colors_super_edition_to_get_11000mah_battery-news-74601.php",
     "date": "14 September 2026",
-    "fetched_at": "2026-09-14T09:24:26.291465+00:00",
+    "fetched_at": "2026-09-14T16:05:38.751002+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "ac03c4b4638951a11d93ba659b693560a3d2bdb72d1e1c6d338b63ad3a0e51bc"
+    "content_hash": "33e1abc8d83cfe626be5eea1ff244758e6d4f369e76d52c1058ad4152c50f0a2"
+  },
+  {
+    "slug": "samsung_details_its_impressively_bright_m16_oled_display_-news-74600",
+    "url": "https://www.gsmarena.com/samsung_details_its_impressively_bright_m16_oled_display_-news-74600.php",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T16:05:19.646406+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "51657dd3a742f6c60de7c273bca1a1dc143c80d1954e6beb24427aee09b29ec7"
+  },
+  {
+    "slug": "no_samsung_isnt_changing_the_telephoto_camera_on_the_galaxy_s27_ultra_says_ice_universe-news-74602",
+    "url": "https://www.gsmarena.com/no_samsung_isnt_changing_the_telephoto_camera_on_the_galaxy_s27_ultra_says_ice_universe-news-74602.php",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T16:05:01.250536+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7b226fa495a230f97707e1ef653895df974cdbfb5c59129ab6042adcbb16c807"
+  },
+  {
+    "slug": "heres_how_much_the_galaxy_s26_fe_is_priced_in_india-news-74606",
+    "url": "https://www.gsmarena.com/heres_how_much_the_galaxy_s26_fe_is_priced_in_india-news-74606.php",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T16:04:42.969880+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4061edc251dfd768e2db490d13cdd772307e1158108ad2620cbbb96508b704fe"
+  },
+  {
+    "slug": "honor_robot_phone_gets_bend_tested_and_disassembled_on_video-news-74605",
+    "url": "https://www.gsmarena.com/honor_robot_phone_gets_bend_tested_and_disassembled_on_video-news-74605.php",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T16:04:28.518158+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "bdf03a16505a37c321c4c0fea2f7e37dd5bff8b52bd2275ce615240c0c245744"
+  },
+  {
+    "slug": "samsung_galaxy_s27_pro_and_s27_ultra_to_feature_nextgeneration_m16_oled_panel-news-74603",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultra_to_feature_nextgeneration_m16_oled_panel-news-74603.php",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T16:04:08.278244+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0e531315a414d3b91633c1177d1c225f413b5eb0f9dc11c83dd880a25e13d8ca"
+  },
+  {
+    "content_hash": "ac03c4b4638951a11d93ba659b693560a3d2bdb72d1e1c6d338b63ad3a0e51bc",
+    "date": "14 September 2026",
+    "fetched_at": "2026-09-14T09:24:26.291465+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_series_launch_date_colors_and_storage_options_revealed-news-74599",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_series_launch_date_colors_and_storage_options_revealed-news-74599.php"
   },
   {
     "content_hash": "b28245d80cb080d63082c592cc45064f9f4b31e607615c39a3bb0c2b2734b1b8",
