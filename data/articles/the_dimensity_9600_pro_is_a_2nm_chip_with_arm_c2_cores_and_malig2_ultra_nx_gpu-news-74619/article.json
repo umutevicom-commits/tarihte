@@ -1,0 +1,47 @@
+{
+  "url": "https://www.gsmarena.com/the_dimensity_9600_pro_is_a_2nm_chip_with_arm_c2_cores_and_malig2_ultra_nx_gpu-news-74619.php",
+  "slug": "the_dimensity_9600_pro_is_a_2nm_chip_with_arm_c2_cores_and_malig2_ultra_nx_gpu-news-74619",
+  "title": "The Dimensity 9600 Pro is a 2nm chip with Arm C2 cores and Mali-G2 Ultra NX GPU",
+  "news_id": "74619",
+  "date": "15 September 2026",
+  "author": "Peter",
+  "tags": [
+    "Featured",
+    "MediaTek",
+    "Mobile hardware",
+    "Announcement"
+  ],
+  "body_paragraphs": [
+    "MediaTek just unveiled the Dimensity 9600 Pro – this is the company’s first 2nm chipset and the first to use Arm’s next-gen CPU and GPU designs. It brings notable performance upgrades across the board with special attention paid to AI compute.",
+    "The CPU layout has been reshuffled – there are now two Ultra-class CPU cores at the expense of one small Pro core. The exact configuration is 2x Arm C2-Ultra + 3x C2-Pro + 3x C2-Pro (we don’t know the clock speeds yet). The CPU promises 17% higher single-core performance and 37% higher efficiency. For multi-threaded tasks, performance is 15% higher and efficiency is a whopping 61% better.",
+    "The GPU is a Mali-G2 Ultra NX with support for 185+ fps gaming. Peak performance is 27% higher, ray tracing is 18% faster and power efficiency has improved by 24%. The neural graphics rendering enables better quality super resolution.",
+    "The chipset is equipped with 16MB of L3 cache and 10MB of SoC cache. It supports both LPDDR5X and LPDDR6 RAM (33% faster, but it’s more expensive too) and UFS 5.0 storage.",
+    "The MediaTek NPU 1090 doubles the INT4 performance of the NPU 990 inside the Dimensity 9500. It also brings 55% better token generation per watt and 51% faster pre-fill (reading the prompt). There is a hardware compression engine for the KV cache.",
+    "The Dimensity 9600 Pro allows the ISP to tap directly into the NPU and use it to process photos and videos. Sensors up to 200MP are supported and video can be recorded at up to 8K at 60fps. The video decoding engine now supports VVC (aka H.266).",
+    "The first smartphone with the Dimensity 9600 Pro has already been announced and there are more to come. And no, we don’t know if and when a vanilla Dimensity 9600 is coming."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/the_dimensity_9600_pro_is_a_2nm_chip_with_arm_c2_cores_and_malig2_ultra_nx_gpu-news-74619/immaculate_001.jpg",
+      "alt": "The Dimensity 9600 Pro is a 2nm chip with Arm C2 cores and Mali-G2 Ultra NX GPU"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-15T13:01:01.821840+00:00",
+  "title_tr": "Dimensity 9600 Pro, Arm C2 çekirdekli ve Mali - G2 Ultra NX GPU'lu 2nm'lik bir yongadır",
+  "body_paragraphs_tr": [
+    "MediaTek, şirketin ilk 2nm yonga seti olan ve Arm'ın yeni nesil CPU ve GPU tasarımlarını kullanan Dimensity 9600 Pro'yu tanıttı. Yapay zeka hesaplamasına özel önem verilerek genel olarak dikkate değer performans yükseltmeleri sağlar.",
+    "CPU düzeni değiştirildi – artık bir küçük Pro çekirdeği pahasına iki Ultra sınıf CPU çekirdeği var. Kesin konfigürasyon 2x Arm C2 - Ultra + 3x C2 - Pro + 3x C2 - Pro şeklindedir (saat hızlarını henüz bilmiyoruz). CPU, % 17 daha yüksek tek çekirdekli performans ve % 37 daha yüksek verimlilik vaat ediyor. Çok iş parçacıklı görevler için performans % 15 daha yüksektir ve verimlilik % 61 daha iyidir.",
+    "GPU, 185+ fps oyun desteği olan bir Mali - G2 Ultra NX'tir. En yüksek performans % 27 daha yüksek, ışın izleme % 18 daha hızlı ve güç verimliliği % 24 oranında artmıştır. Sinirsel grafik oluşturma, daha iyi kalitede süper çözünürlük sağlar.",
+    "Yonga seti 16MB L3 önbellek ve 10MB SoC önbellek ile donatılmıştır. Hem LPDDR5X hem de LPDDR6 RAM'İ (% 33 daha hızlı, ancak daha pahalı) ve UFS 5.0 depolamayı destekler.",
+    "MediaTek NPU 1090, NPU 990 'ın 9500 Boyutundaki INT4 performansını iki katına çıkarır. Ayrıca watt başına % 55 daha iyi token üretimi ve % 51 daha hızlı ön dolum (istemi okuyarak) sağlar. KV önbelleği için donanımsal sıkıştırma motoru bulunmaktadır.",
+    "Dimensity 9600 Pro, ISS'nin doğrudan NPU'ya dokunmasını ve fotoğrafları ve videoları işlemek için kullanmasını sağlar. 200MP'ye kadar sensörler desteklenir ve video 60fps'de 8K'ya kadar kaydedilebilir. Video kod çözme motoru artık VVC'yi (diğer adıyla H.266) desteklemektedir.",
+    "Dimensity 9600 Pro'ya sahip ilk akıllı telefon zaten duyuruldu ve daha fazlası da gelecek. Ve hayır, vanilya Dimensity 9600 'ün gelip gelmeyeceğini ve ne zaman geleceğini bilmiyoruz."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "MediaTek",
+    "Mobil donanım",
+    "İlan"
+  ]
+}

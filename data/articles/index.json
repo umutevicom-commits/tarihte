@@ -1,23 +1,83 @@
 [
   {
-    "slug": "oppo_f35_and_f35_pro_renders_leak_heres_when_theyre_coming-news-74612",
-    "url": "https://www.gsmarena.com/oppo_f35_and_f35_pro_renders_leak_heres_when_theyre_coming-news-74612.php",
+    "slug": "samsung_quietly_makes_the_galaxy_a08_official_with_a_bigger_battery-news-74614",
+    "url": "https://www.gsmarena.com/samsung_quietly_makes_the_galaxy_a08_official_with_a_bigger_battery-news-74614.php",
     "date": "15 September 2026",
-    "fetched_at": "2026-09-15T06:59:56.877093+00:00",
+    "fetched_at": "2026-09-15T13:02:11.207967+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "d31ee6399bed1d4083faa08e90e8352580f6da02c5c3f12baa5aa3de877193b1"
+    "content_hash": "72dbd4b03b223a0fddf9f850563e1f1c162a285f92a9592fe8d5099d37cfd434"
   },
   {
-    "slug": "vivo_v80s_battery_capacity_leaks_along_with_some_camera_features_and_its_release_timeline-news-74613",
-    "url": "https://www.gsmarena.com/vivo_v80s_battery_capacity_leaks_along_with_some_camera_features_and_its_release_timeline-news-74613.php",
+    "slug": "iqoo_16_launch_date_and_color_options_revealed-news-74615",
+    "url": "https://www.gsmarena.com/iqoo_16_launch_date_and_color_options_revealed-news-74615.php",
     "date": "15 September 2026",
-    "fetched_at": "2026-09-15T06:59:41.037427+00:00",
+    "fetched_at": "2026-09-15T13:01:57.321367+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "a5035fc22075b53a6a9dfc814b3f4f489dcddd3301f0b96a87e7998be63da443"
+    "content_hash": "d634ae2e2e973cd5047c63443859df2d7724d47f80469a9debf8cbb72bda2eea"
+  },
+  {
+    "slug": "ios_27_now_seeding_here_are_all_the_iphones_getting_it_-news-74617",
+    "url": "https://www.gsmarena.com/ios_27_now_seeding_here_are_all_the_iphones_getting_it_-news-74617.php",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T13:01:18.209656+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "77cb01a41a606646c221b99982703d2b095b491bd8da655e44e0cb0949745e06"
+  },
+  {
+    "slug": "the_dimensity_9600_pro_is_a_2nm_chip_with_arm_c2_cores_and_malig2_ultra_nx_gpu-news-74619",
+    "url": "https://www.gsmarena.com/the_dimensity_9600_pro_is_a_2nm_chip_with_arm_c2_cores_and_malig2_ultra_nx_gpu-news-74619.php",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T13:01:01.821840+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "af8d9873e780326f5a65c87d2c5f1a0ef8ebfda40cc6eda3d820ed4ad24ecddf"
+  },
+  {
+    "slug": "the_samsung_galaxy_a18_4g_launches_with_a_new_chipset_ip64_rating_and_a_notch-news-74622",
+    "url": "https://www.gsmarena.com/the_samsung_galaxy_a18_4g_launches_with_a_new_chipset_ip64_rating_and_a_notch-news-74622.php",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T13:00:36.845966+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "cfd60f7134e1cf0f2914761f21169dbd33eed7e4e6ad134af7b5e566323e9fc5"
+  },
+  {
+    "slug": "oneplus_n6_lite_to_debut_next_week_with_a_7000mah_battery-news-74620",
+    "url": "https://www.gsmarena.com/oneplus_n6_lite_to_debut_next_week_with_a_7000mah_battery-news-74620.php",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T13:00:19.071002+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b4a88721da9dfe0438b81c550d855ff78e4db3b310699e0c4f096677bdd373bc"
+  },
+  {
+    "content_hash": "d31ee6399bed1d4083faa08e90e8352580f6da02c5c3f12baa5aa3de877193b1",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T06:59:56.877093+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_f35_and_f35_pro_renders_leak_heres_when_theyre_coming-news-74612",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_f35_and_f35_pro_renders_leak_heres_when_theyre_coming-news-74612.php"
+  },
+  {
+    "content_hash": "a5035fc22075b53a6a9dfc814b3f4f489dcddd3301f0b96a87e7998be63da443",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T06:59:41.037427+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_v80s_battery_capacity_leaks_along_with_some_camera_features_and_its_release_timeline-news-74613",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_v80s_battery_capacity_leaks_along_with_some_camera_features_and_its_release_timeline-news-74613.php"
   },
   {
     "content_hash": "fbf371bb4956cdd2724505a9dcc07b8d43ee8a7ea57b7db9b9d536db4bad267e",

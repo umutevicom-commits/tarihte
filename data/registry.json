@@ -1928,5 +1928,65 @@
     "slug": "vivo_v80s_battery_capacity_leaks_along_with_some_camera_features_and_its_release_timeline-news-74613",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_v80s_battery_capacity_leaks_along_with_some_camera_features_and_its_release_timeline-news-74613.php"
+  },
+  "74614": {
+    "content_hash": "72dbd4b03b223a0fddf9f850563e1f1c162a285f92a9592fe8d5099d37cfd434",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T13:02:11.207967+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_quietly_makes_the_galaxy_a08_official_with_a_bigger_battery-news-74614",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_quietly_makes_the_galaxy_a08_official_with_a_bigger_battery-news-74614.php"
+  },
+  "74615": {
+    "content_hash": "d634ae2e2e973cd5047c63443859df2d7724d47f80469a9debf8cbb72bda2eea",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T13:01:57.321367+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_16_launch_date_and_color_options_revealed-news-74615",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_16_launch_date_and_color_options_revealed-news-74615.php"
+  },
+  "74617": {
+    "content_hash": "77cb01a41a606646c221b99982703d2b095b491bd8da655e44e0cb0949745e06",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T13:01:18.209656+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ios_27_now_seeding_here_are_all_the_iphones_getting_it_-news-74617",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/ios_27_now_seeding_here_are_all_the_iphones_getting_it_-news-74617.php"
+  },
+  "74619": {
+    "content_hash": "af8d9873e780326f5a65c87d2c5f1a0ef8ebfda40cc6eda3d820ed4ad24ecddf",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T13:01:01.821840+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_dimensity_9600_pro_is_a_2nm_chip_with_arm_c2_cores_and_malig2_ultra_nx_gpu-news-74619",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_dimensity_9600_pro_is_a_2nm_chip_with_arm_c2_cores_and_malig2_ultra_nx_gpu-news-74619.php"
+  },
+  "74620": {
+    "content_hash": "b4a88721da9dfe0438b81c550d855ff78e4db3b310699e0c4f096677bdd373bc",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T13:00:19.071002+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_n6_lite_to_debut_next_week_with_a_7000mah_battery-news-74620",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_n6_lite_to_debut_next_week_with_a_7000mah_battery-news-74620.php"
+  },
+  "74622": {
+    "content_hash": "cfd60f7134e1cf0f2914761f21169dbd33eed7e4e6ad134af7b5e566323e9fc5",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T13:00:36.845966+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_samsung_galaxy_a18_4g_launches_with_a_new_chipset_ip64_rating_and_a_notch-news-74622",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_samsung_galaxy_a18_4g_launches_with_a_new_chipset_ip64_rating_and_a_notch-news-74622.php"
   }
 }
