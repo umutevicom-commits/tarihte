@@ -1949,6 +1949,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/iqoo_16_launch_date_and_color_options_revealed-news-74615.php"
   },
+  "74616": {
+    "content_hash": "d095091709c0cb751f06137ac8c50230d43ea70ead6289b2a362c9e5b3eca91d",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T17:50:55.856750+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_pro_series_launch_officially_teased-news-74616",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_series_launch_officially_teased-news-74616.php"
+  },
   "74617": {
     "content_hash": "77cb01a41a606646c221b99982703d2b095b491bd8da655e44e0cb0949745e06",
     "date": "15 September 2026",
@@ -1958,6 +1968,16 @@
     "slug": "ios_27_now_seeding_here_are_all_the_iphones_getting_it_-news-74617",
     "status": "ok",
     "url": "https://www.gsmarena.com/ios_27_now_seeding_here_are_all_the_iphones_getting_it_-news-74617.php"
+  },
+  "74618": {
+    "content_hash": "8ca935880de259fc1a785d9285ca455cda4dc374918bbac4592916127bb14b0d",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T17:50:23.791149+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_to_step_up_its_game_after_the_iphone_duo_release_galaxy_z_trifold2_to_arrive_early-news-74618",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_to_step_up_its_game_after_the_iphone_duo_release_galaxy_z_trifold2_to_arrive_early-news-74618.php"
   },
   "74619": {
     "content_hash": "af8d9873e780326f5a65c87d2c5f1a0ef8ebfda40cc6eda3d820ed4ad24ecddf",
@@ -1979,6 +1999,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/oneplus_n6_lite_to_debut_next_week_with_a_7000mah_battery-news-74620.php"
   },
+  "74621": {
+    "content_hash": "2e750cf57485e10f6a9ab68bb49ee69fd63acd555886b24e7decdd86944e3dbd",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T17:51:10.041205+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_oppo_find_x10_pro_max_is_one_of_the_first_dimensity_9600_pro_phones_will_be_available_globally-news-74621",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_oppo_find_x10_pro_max_is_one_of_the_first_dimensity_9600_pro_phones_will_be_available_globally-news-74621.php"
+  },
   "74622": {
     "content_hash": "cfd60f7134e1cf0f2914761f21169dbd33eed7e4e6ad134af7b5e566323e9fc5",
     "date": "15 September 2026",
@@ -1988,5 +2018,15 @@
     "slug": "the_samsung_galaxy_a18_4g_launches_with_a_new_chipset_ip64_rating_and_a_notch-news-74622",
     "status": "ok",
     "url": "https://www.gsmarena.com/the_samsung_galaxy_a18_4g_launches_with_a_new_chipset_ip64_rating_and_a_notch-news-74622.php"
+  },
+  "74626": {
+    "content_hash": "95469d3765786c66a99a0d3fbaef94d5b667c5fccb4f75f024d74684ce37d039",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T17:50:41.249704+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "realme_16_pro_harry_potter_edition_design_revealed_launch_date_confirmed-news-74626",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_edition_design_revealed_launch_date_confirmed-news-74626.php"
   }
 }
