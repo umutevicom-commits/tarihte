@@ -1,43 +1,63 @@
 [
   {
-    "slug": "the_oppo_find_x10_pro_max_is_one_of_the_first_dimensity_9600_pro_phones_will_be_available_globally-news-74621",
-    "url": "https://www.gsmarena.com/the_oppo_find_x10_pro_max_is_one_of_the_first_dimensity_9600_pro_phones_will_be_available_globally-news-74621.php",
+    "slug": "3d_models_of_new_iphone_duo_iphone_18_pro_and_18_pro_max_are_now_available_in_our_database-news-74623",
+    "url": "https://www.gsmarena.com/3d_models_of_new_iphone_duo_iphone_18_pro_and_18_pro_max_are_now_available_in_our_database-news-74623.php",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T20:41:15.078777+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "59f6078079f63dfb4eef45f961bb15f351db02b0bae58451d5786434c82c98da"
+  },
+  {
+    "slug": "samsung_will_reportedly_raise_dram_and_nand_prices_for_smartphone_makers-news-74628",
+    "url": "https://www.gsmarena.com/samsung_will_reportedly_raise_dram_and_nand_prices_for_smartphone_makers-news-74628.php",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T20:40:56.119242+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "55815f90f415b04275058618e4fd5e5276cb60bb0d306495972b24852b8a1920"
+  },
+  {
+    "content_hash": "2e750cf57485e10f6a9ab68bb49ee69fd63acd555886b24e7decdd86944e3dbd",
     "date": "15 September 2026",
     "fetched_at": "2026-09-15T17:51:10.041205+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2e750cf57485e10f6a9ab68bb49ee69fd63acd555886b24e7decdd86944e3dbd"
+    "retries": 0,
+    "slug": "the_oppo_find_x10_pro_max_is_one_of_the_first_dimensity_9600_pro_phones_will_be_available_globally-news-74621",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_oppo_find_x10_pro_max_is_one_of_the_first_dimensity_9600_pro_phones_will_be_available_globally-news-74621.php"
   },
   {
-    "slug": "xiaomi_18_pro_series_launch_officially_teased-news-74616",
-    "url": "https://www.gsmarena.com/xiaomi_18_pro_series_launch_officially_teased-news-74616.php",
+    "content_hash": "d095091709c0cb751f06137ac8c50230d43ea70ead6289b2a362c9e5b3eca91d",
     "date": "15 September 2026",
     "fetched_at": "2026-09-15T17:50:55.856750+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d095091709c0cb751f06137ac8c50230d43ea70ead6289b2a362c9e5b3eca91d"
+    "retries": 0,
+    "slug": "xiaomi_18_pro_series_launch_officially_teased-news-74616",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_series_launch_officially_teased-news-74616.php"
   },
   {
-    "slug": "realme_16_pro_harry_potter_edition_design_revealed_launch_date_confirmed-news-74626",
-    "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_edition_design_revealed_launch_date_confirmed-news-74626.php",
+    "content_hash": "95469d3765786c66a99a0d3fbaef94d5b667c5fccb4f75f024d74684ce37d039",
     "date": "15 September 2026",
     "fetched_at": "2026-09-15T17:50:41.249704+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "95469d3765786c66a99a0d3fbaef94d5b667c5fccb4f75f024d74684ce37d039"
+    "retries": 0,
+    "slug": "realme_16_pro_harry_potter_edition_design_revealed_launch_date_confirmed-news-74626",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_edition_design_revealed_launch_date_confirmed-news-74626.php"
   },
   {
-    "slug": "samsung_to_step_up_its_game_after_the_iphone_duo_release_galaxy_z_trifold2_to_arrive_early-news-74618",
-    "url": "https://www.gsmarena.com/samsung_to_step_up_its_game_after_the_iphone_duo_release_galaxy_z_trifold2_to_arrive_early-news-74618.php",
+    "content_hash": "8ca935880de259fc1a785d9285ca455cda4dc374918bbac4592916127bb14b0d",
     "date": "15 September 2026",
     "fetched_at": "2026-09-15T17:50:23.791149+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8ca935880de259fc1a785d9285ca455cda4dc374918bbac4592916127bb14b0d"
+    "retries": 0,
+    "slug": "samsung_to_step_up_its_game_after_the_iphone_duo_release_galaxy_z_trifold2_to_arrive_early-news-74618",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_to_step_up_its_game_after_the_iphone_duo_release_galaxy_z_trifold2_to_arrive_early-news-74618.php"
   },
   {
     "content_hash": "72dbd4b03b223a0fddf9f850563e1f1c162a285f92a9592fe8d5099d37cfd434",

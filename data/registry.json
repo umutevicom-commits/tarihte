@@ -2019,6 +2019,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/the_samsung_galaxy_a18_4g_launches_with_a_new_chipset_ip64_rating_and_a_notch-news-74622.php"
   },
+  "74623": {
+    "content_hash": "59f6078079f63dfb4eef45f961bb15f351db02b0bae58451d5786434c82c98da",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T20:41:15.078777+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "3d_models_of_new_iphone_duo_iphone_18_pro_and_18_pro_max_are_now_available_in_our_database-news-74623",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/3d_models_of_new_iphone_duo_iphone_18_pro_and_18_pro_max_are_now_available_in_our_database-news-74623.php"
+  },
   "74626": {
     "content_hash": "95469d3765786c66a99a0d3fbaef94d5b667c5fccb4f75f024d74684ce37d039",
     "date": "15 September 2026",
@@ -2028,5 +2038,15 @@
     "slug": "realme_16_pro_harry_potter_edition_design_revealed_launch_date_confirmed-news-74626",
     "status": "ok",
     "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_edition_design_revealed_launch_date_confirmed-news-74626.php"
+  },
+  "74628": {
+    "content_hash": "55815f90f415b04275058618e4fd5e5276cb60bb0d306495972b24852b8a1920",
+    "date": "15 September 2026",
+    "fetched_at": "2026-09-15T20:40:56.119242+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_will_reportedly_raise_dram_and_nand_prices_for_smartphone_makers-news-74628",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_will_reportedly_raise_dram_and_nand_prices_for_smartphone_makers-news-74628.php"
   }
 }
