@@ -2029,6 +2029,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/3d_models_of_new_iphone_duo_iphone_18_pro_and_18_pro_max_are_now_available_in_our_database-news-74623.php"
   },
+  "74624": {
+    "content_hash": "cf1a21c2c506c267dd4231076752e383de7592fdcaf1efd43e8ef9ceeafd9b74",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T08:57:37.406107+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_magic9_pro_max_runs_geekbench_reveals_its_chipset_and_ram_amount-news-74624",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_pro_max_runs_geekbench_reveals_its_chipset_and_ram_amount-news-74624.php"
+  },
   "74626": {
     "content_hash": "95469d3765786c66a99a0d3fbaef94d5b667c5fccb4f75f024d74684ce37d039",
     "date": "15 September 2026",
@@ -2048,5 +2058,45 @@
     "slug": "samsung_will_reportedly_raise_dram_and_nand_prices_for_smartphone_makers-news-74628",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_will_reportedly_raise_dram_and_nand_prices_for_smartphone_makers-news-74628.php"
+  },
+  "74629": {
+    "content_hash": "ee96661b721480b250695f93926845a91f255bc9bd8bc6c25759bc92df84dae8",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T08:58:05.637799+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "redmi_note_17_pro_and_redmi_note_17_pro_max_land_in_india_here_are_the_prices-news-74629",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmi_note_17_pro_and_redmi_note_17_pro_max_land_in_india_here_are_the_prices-news-74629.php"
+  },
+  "74630": {
+    "content_hash": "1c7ed1383738dc6fd84f55055795037637963a384a33a97907caef98093b635b",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T08:58:42.041533+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_when_the_lava_virat_curve_is_launching_and_its_main_specs-news-74630",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_when_the_lava_virat_curve_is_launching_and_its_main_specs-news-74630.php"
+  },
+  "74631": {
+    "content_hash": "719d8725b241fc95a809e94b5c987f0294678f7fedb40ceb23f4d0644602b2d0",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T08:58:30.087529+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_starts_teasing_the_v80_promises_it_will_deliver_cinematic_moments-news-74631",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_starts_teasing_the_v80_promises_it_will_deliver_cinematic_moments-news-74631.php"
+  },
+  "74632": {
+    "content_hash": "278a9b5532558099e3f61627043a849105d21ea4d9c2c4c6ac484024f690db06",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T08:57:54.830900+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_pro_and_x500_pro_max_will_be_the_first_to_use_mediateks_dimensity_9600_pro-news-74632",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_and_x500_pro_max_will_be_the_first_to_use_mediateks_dimensity_9600_pro-news-74632.php"
   }
 }
