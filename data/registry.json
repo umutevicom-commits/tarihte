@@ -2098,5 +2098,55 @@
     "slug": "vivo_x500_pro_and_x500_pro_max_will_be_the_first_to_use_mediateks_dimensity_9600_pro-news-74632",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_x500_pro_and_x500_pro_max_will_be_the_first_to_use_mediateks_dimensity_9600_pro-news-74632.php"
+  },
+  "74636": {
+    "content_hash": "5e2c046627b3febd53f9a978aed897945b0ebe2a6fd0be93fdfeeddfc3176fc6",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T14:29:54.097513+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_might_stick_to_lpddr5x_memory_for_its_lowertier_galaxy_s27_devices-news-74636",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_might_stick_to_lpddr5x_memory_for_its_lowertier_galaxy_s27_devices-news-74636.php"
+  },
+  "74637": {
+    "content_hash": "03199606489a5d45cb64d5f730c552183f4c9efc9acae3e998c699e6e81d7985",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T14:29:38.038523+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_k14_lite_is_official_with_a_7000mah_battery-news-74637",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_k14_lite_is_official_with_a_7000mah_battery-news-74637.php"
+  },
+  "74639": {
+    "content_hash": "3e5f703fc7479071a311cca93816ac80c9eb26accdc7c8b14117bc57502f7c43",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T14:28:54.084955+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_series_emerges_in_handson_shots_ahead_of_launch-news-74639",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_series_emerges_in_handson_shots_ahead_of_launch-news-74639.php"
+  },
+  "74641": {
+    "content_hash": "9ac3cc6cc22ddc3123e0b324d44a2101a4762663d5bf00559fba7f1924876084",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T14:29:10.575439+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_pros_rear_display_will_let_users_build_apps_with_ai-news-74641",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pros_rear_display_will_let_users_build_apps_with_ai-news-74641.php"
+  },
+  "74642": {
+    "content_hash": "d5c56dfab4926a275a5e84566162a55dbebca51746821f6a14c46e82698b3a80",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T14:29:25.675423+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_officially_releases_one_ui_9_based_on_android_17_for_the_galaxy_s26_s26_and_s26_ultra-news-74642",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_officially_releases_one_ui_9_based_on_android_17_for_the_galaxy_s26_s26_and_s26_ultra-news-74642.php"
   }
 }

@@ -1,53 +1,103 @@
 [
   {
-    "slug": "heres_when_the_lava_virat_curve_is_launching_and_its_main_specs-news-74630",
-    "url": "https://www.gsmarena.com/heres_when_the_lava_virat_curve_is_launching_and_its_main_specs-news-74630.php",
+    "slug": "samsung_might_stick_to_lpddr5x_memory_for_its_lowertier_galaxy_s27_devices-news-74636",
+    "url": "https://www.gsmarena.com/samsung_might_stick_to_lpddr5x_memory_for_its_lowertier_galaxy_s27_devices-news-74636.php",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T14:29:54.097513+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5e2c046627b3febd53f9a978aed897945b0ebe2a6fd0be93fdfeeddfc3176fc6"
+  },
+  {
+    "slug": "oppo_k14_lite_is_official_with_a_7000mah_battery-news-74637",
+    "url": "https://www.gsmarena.com/oppo_k14_lite_is_official_with_a_7000mah_battery-news-74637.php",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T14:29:38.038523+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "03199606489a5d45cb64d5f730c552183f4c9efc9acae3e998c699e6e81d7985"
+  },
+  {
+    "slug": "samsung_officially_releases_one_ui_9_based_on_android_17_for_the_galaxy_s26_s26_and_s26_ultra-news-74642",
+    "url": "https://www.gsmarena.com/samsung_officially_releases_one_ui_9_based_on_android_17_for_the_galaxy_s26_s26_and_s26_ultra-news-74642.php",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T14:29:25.675423+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d5c56dfab4926a275a5e84566162a55dbebca51746821f6a14c46e82698b3a80"
+  },
+  {
+    "slug": "xiaomi_18_pros_rear_display_will_let_users_build_apps_with_ai-news-74641",
+    "url": "https://www.gsmarena.com/xiaomi_18_pros_rear_display_will_let_users_build_apps_with_ai-news-74641.php",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T14:29:10.575439+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9ac3cc6cc22ddc3123e0b324d44a2101a4762663d5bf00559fba7f1924876084"
+  },
+  {
+    "slug": "oppo_find_x10_series_emerges_in_handson_shots_ahead_of_launch-news-74639",
+    "url": "https://www.gsmarena.com/oppo_find_x10_series_emerges_in_handson_shots_ahead_of_launch-news-74639.php",
+    "date": "16 September 2026",
+    "fetched_at": "2026-09-16T14:28:54.084955+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3e5f703fc7479071a311cca93816ac80c9eb26accdc7c8b14117bc57502f7c43"
+  },
+  {
+    "content_hash": "1c7ed1383738dc6fd84f55055795037637963a384a33a97907caef98093b635b",
     "date": "16 September 2026",
     "fetched_at": "2026-09-16T08:58:42.041533+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1c7ed1383738dc6fd84f55055795037637963a384a33a97907caef98093b635b"
+    "retries": 0,
+    "slug": "heres_when_the_lava_virat_curve_is_launching_and_its_main_specs-news-74630",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_when_the_lava_virat_curve_is_launching_and_its_main_specs-news-74630.php"
   },
   {
-    "slug": "vivo_starts_teasing_the_v80_promises_it_will_deliver_cinematic_moments-news-74631",
-    "url": "https://www.gsmarena.com/vivo_starts_teasing_the_v80_promises_it_will_deliver_cinematic_moments-news-74631.php",
+    "content_hash": "719d8725b241fc95a809e94b5c987f0294678f7fedb40ceb23f4d0644602b2d0",
     "date": "16 September 2026",
     "fetched_at": "2026-09-16T08:58:30.087529+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "719d8725b241fc95a809e94b5c987f0294678f7fedb40ceb23f4d0644602b2d0"
+    "retries": 0,
+    "slug": "vivo_starts_teasing_the_v80_promises_it_will_deliver_cinematic_moments-news-74631",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_starts_teasing_the_v80_promises_it_will_deliver_cinematic_moments-news-74631.php"
   },
   {
-    "slug": "redmi_note_17_pro_and_redmi_note_17_pro_max_land_in_india_here_are_the_prices-news-74629",
-    "url": "https://www.gsmarena.com/redmi_note_17_pro_and_redmi_note_17_pro_max_land_in_india_here_are_the_prices-news-74629.php",
+    "content_hash": "ee96661b721480b250695f93926845a91f255bc9bd8bc6c25759bc92df84dae8",
     "date": "16 September 2026",
     "fetched_at": "2026-09-16T08:58:05.637799+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ee96661b721480b250695f93926845a91f255bc9bd8bc6c25759bc92df84dae8"
+    "retries": 0,
+    "slug": "redmi_note_17_pro_and_redmi_note_17_pro_max_land_in_india_here_are_the_prices-news-74629",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmi_note_17_pro_and_redmi_note_17_pro_max_land_in_india_here_are_the_prices-news-74629.php"
   },
   {
-    "slug": "vivo_x500_pro_and_x500_pro_max_will_be_the_first_to_use_mediateks_dimensity_9600_pro-news-74632",
-    "url": "https://www.gsmarena.com/vivo_x500_pro_and_x500_pro_max_will_be_the_first_to_use_mediateks_dimensity_9600_pro-news-74632.php",
+    "content_hash": "278a9b5532558099e3f61627043a849105d21ea4d9c2c4c6ac484024f690db06",
     "date": "16 September 2026",
     "fetched_at": "2026-09-16T08:57:54.830900+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "278a9b5532558099e3f61627043a849105d21ea4d9c2c4c6ac484024f690db06"
+    "retries": 0,
+    "slug": "vivo_x500_pro_and_x500_pro_max_will_be_the_first_to_use_mediateks_dimensity_9600_pro-news-74632",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_and_x500_pro_max_will_be_the_first_to_use_mediateks_dimensity_9600_pro-news-74632.php"
   },
   {
-    "slug": "honor_magic9_pro_max_runs_geekbench_reveals_its_chipset_and_ram_amount-news-74624",
-    "url": "https://www.gsmarena.com/honor_magic9_pro_max_runs_geekbench_reveals_its_chipset_and_ram_amount-news-74624.php",
+    "content_hash": "cf1a21c2c506c267dd4231076752e383de7592fdcaf1efd43e8ef9ceeafd9b74",
     "date": "16 September 2026",
     "fetched_at": "2026-09-16T08:57:37.406107+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "cf1a21c2c506c267dd4231076752e383de7592fdcaf1efd43e8ef9ceeafd9b74"
+    "retries": 0,
+    "slug": "honor_magic9_pro_max_runs_geekbench_reveals_its_chipset_and_ram_amount-news-74624",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_pro_max_runs_geekbench_reveals_its_chipset_and_ram_amount-news-74624.php"
   },
   {
     "content_hash": "59f6078079f63dfb4eef45f961bb15f351db02b0bae58451d5786434c82c98da",
