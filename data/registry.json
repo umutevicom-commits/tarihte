@@ -1789,6 +1789,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_india_price_leaks-news-74595.php"
   },
+  "74596": {
+    "content_hash": "cc99705baaf7dd8a426a1e14714f64089fcd2226fedc28a05df92fe736819f31",
+    "date": "17 September 2026",
+    "fetched_at": "2026-09-17T22:32:51.371844+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "pixel_11_pro_vs_pixel_10_pro_battery_camera_price_compared-news-74596",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/pixel_11_pro_vs_pixel_10_pro_battery_camera_price_compared-news-74596.php"
+  },
   "74598": {
     "content_hash": "1d7636cc7976b5cffaa25c7c6e51cbd4ae7a1179ab9a96e40fdb2a051eb6bd0b",
     "date": "14 September 2026",
@@ -2348,5 +2358,15 @@
     "slug": "here_is_when_the_galaxy_s25_and_galaxy_z7_series_will_receive_the_one_ui_9_update-news-74664",
     "status": "ok",
     "url": "https://www.gsmarena.com/here_is_when_the_galaxy_s25_and_galaxy_z7_series_will_receive_the_one_ui_9_update-news-74664.php"
+  },
+  "74665": {
+    "content_hash": "fc905e806dad00feb66b5eae390a42051f37971f2a670e1daf39281dc4523aca",
+    "date": "17 September 2026",
+    "fetched_at": "2026-09-17T22:36:12.123990+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_to_outsource_all_of_its_dram_manufacturing_and_focus_on_hbm_production-news-74665",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_to_outsource_all_of_its_dram_manufacturing_and_focus_on_hbm_production-news-74665.php"
   }
 }
