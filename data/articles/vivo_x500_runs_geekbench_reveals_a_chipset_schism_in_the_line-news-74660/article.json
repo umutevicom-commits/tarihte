@@ -1,0 +1,39 @@
+{
+  "url": "https://www.gsmarena.com/vivo_x500_runs_geekbench_reveals_a_chipset_schism_in_the_line-news-74660.php",
+  "slug": "vivo_x500_runs_geekbench_reveals_a_chipset_schism_in_the_line-news-74660",
+  "title": "vivo X500 runs Geekbench, reveals a chipset schism in the line",
+  "news_id": "74660",
+  "date": "17 September 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "vivo",
+    "Android"
+  ],
+  "body_paragraphs": [
+    "The upcoming vivo X500 has seemingly been spotted in the Geekbench online database with the model number V2609A. As you can see in the screenshot below, the device managed a single-core score of 2,694 and a multi-core score of 7,770 in Geekbench 6.7.1 for Android.",
+    "It's powered by a MediaTek chipset that could very well be the newly announced Dimensity 9600M - or it's the Dimensity 9500 from last year, it's hard to tell since the differences between the two aren't very big.",
+    "The prototype which ran the benchmark had 12GB of RAM, but as always vivo may offer more options when the phone launches. One thing seems to be certain though - the vivo X500 will run Android 17 out of the box, with the company’s OriginOS 7 on top.",
+    "While the X500 Pro and X500 Pro Max have already been confirmed to be powered by the new Dimensity 9600 Pro SoC, MediaTek's current flagship, the 'vanilla' X500 is using a lesser chipset in order to be cheaper. The trio will be made official in China on September 21."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/vivo_x500_runs_geekbench_reveals_a_chipset_schism_in_the_line-news-74660/immaculate_001.jpg",
+      "alt": "vivo X500 runs Geekbench, reveals a chipset schism in the line"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-17T14:33:39.068324+00:00",
+  "title_tr": "vivo X500 Geekbench'i çalıştırıyor, sıradaki bir yonga seti bölünmesini ortaya koyuyor",
+  "body_paragraphs_tr": [
+    "Yaklaşan vivo X500, Geekbench çevrimiçi veritabanında V2609A model numarasıyla tespit edildi. Aşağıdaki ekran görüntüsünde de görebileceğiniz gibi, cihaz Android için Geekbench 6.7.1 'de tek çekirdekli 2.694 puan ve çok çekirdekli 7.770 puan aldı.",
+    "Yeni duyurulan Dimensity 9600M veya geçen yılın Dimensity 9500 'ü olabilecek bir MediaTek yonga seti tarafından destekleniyor, ikisi arasındaki farklar çok büyük olmadığı için söylemek zor.",
+    "Karşılaştırmayı gerçekleştiren prototip 12GB RAM'e sahipti, ancak her zaman olduğu gibi VIVO telefon piyasaya sürüldüğünde daha fazla seçenek sunabilir. Yine de kesin olan bir şey var: Vivo X500, Android 17 'yi kutudan çıkaracak ve şirketin OriginOS 7' si en üstte olacak.",
+    "X500 Pro ve X500 Pro Max'in, MediaTek'in şu anki amiral gemisi olan yeni Dimensity 9600 Pro SoC tarafından desteklendiği zaten onaylanmış olsa da, 'vanilya' X500 daha ucuz olmak için daha küçük bir yonga seti kullanıyor. Üçlü, 21 Eylül'de Çin'de resmiyet kazanacak."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "VIVO",
+    "Android"
+  ]
+}
