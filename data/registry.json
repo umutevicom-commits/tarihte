@@ -2308,5 +2308,45 @@
     "slug": "vivo_x500_runs_geekbench_reveals_a_chipset_schism_in_the_line-news-74660",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_x500_runs_geekbench_reveals_a_chipset_schism_in_the_line-news-74660.php"
+  },
+  "74661": {
+    "content_hash": "1aaac436f55beeb90400c64ad25894a24d33d1d5641771602fd42ea1bb593542",
+    "date": "17 September 2026",
+    "fetched_at": "2026-09-17T19:26:16.339274+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "snaps_specs_ar_glasses_are_now_on_preorder_verizon_is_offering_data_plans_for_them-news-74661",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/snaps_specs_ar_glasses_are_now_on_preorder_verizon_is_offering_data_plans_for_them-news-74661.php"
+  },
+  "74662": {
+    "content_hash": "e0cdfa67ccd3caf9b91397ec80fa676c2baa40c45d0cab0b4c06ccc9a3d5d520",
+    "date": "17 September 2026",
+    "fetched_at": "2026-09-17T19:25:57.017736+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_18_pro_and_iphone_18_pro_max_preorders_in_china_eclipse_the_2025_pros-news-74662",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_18_pro_and_iphone_18_pro_max_preorders_in_china_eclipse_the_2025_pros-news-74662.php"
+  },
+  "74663": {
+    "content_hash": "16f0d7b990dd8e46958543b0c51f2e76d1df950608e3aa7c4537727a92aa7064",
+    "date": "17 September 2026",
+    "fetched_at": "2026-09-17T19:26:56.897341+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "bose_unveils_new_ultra_open_earbuds_and_sport_open_earbuds-news-74663",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/bose_unveils_new_ultra_open_earbuds_and_sport_open_earbuds-news-74663.php"
+  },
+  "74664": {
+    "content_hash": "a7951b656c0e511128030fa3aef6a6101879566cbff0f80d7a807171d878741b",
+    "date": "17 September 2026",
+    "fetched_at": "2026-09-17T19:26:36.240686+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "here_is_when_the_galaxy_s25_and_galaxy_z7_series_will_receive_the_one_ui_9_update-news-74664",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/here_is_when_the_galaxy_s25_and_galaxy_z7_series_will_receive_the_one_ui_9_update-news-74664.php"
   }
 }
