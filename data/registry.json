@@ -2218,5 +2218,45 @@
     "slug": "nubia_navix_ultra_launches_with_an_advanced_agentic_ai_snapdragon_8_elite_gen_5_power-news-74646",
     "status": "ok",
     "url": "https://www.gsmarena.com/nubia_navix_ultra_launches_with_an_advanced_agentic_ai_snapdragon_8_elite_gen_5_power-news-74646.php"
+  },
+  "74651": {
+    "content_hash": "4c17f6299bbf8c3c36eafea38157d7e0af8d8a2b95a862571c4e7d8631d09c88",
+    "date": "17 September 2026",
+    "fetched_at": "2026-09-17T09:03:42.890643+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_shows_the_pad_ultra_and_its_dedicated_gaming_accessories-news-74651",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_shows_the_pad_ultra_and_its_dedicated_gaming_accessories-news-74651.php"
+  },
+  "74653": {
+    "content_hash": "de8efcd77783c31cd66ded7f815f39940f9da57af3285cf203d6407fb24030e0",
+    "date": "17 September 2026",
+    "fetched_at": "2026-09-17T09:03:24.658876+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_win_2_and_win_2_rt_get_certified-news-74653",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_win_2_and_win_2_rt_get_certified-news-74653.php"
+  },
+  "74654": {
+    "content_hash": "50ca90cb560a84657d2356fb2165d82a92b54f190fbc16e441aec09c38687ed2",
+    "date": "17 September 2026",
+    "fetched_at": "2026-09-17T09:02:59.716181+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_16_launch_teased_165hz_systemwide_refresh_rate_confirmed-news-74654",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_16_launch_teased_165hz_systemwide_refresh_rate_confirmed-news-74654.php"
+  },
+  "74655": {
+    "content_hash": "0840663a3002efb93fc9bd6893f42a0e4b25d0cd581f94bee28f16d97f2e5a02",
+    "date": "17 September 2026",
+    "fetched_at": "2026-09-17T09:02:27.841062+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_win_tablet_is_coming_soon_with_an_oled_display_and_builtin_fan-news-74655",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_win_tablet_is_coming_soon_with_an_oled_display_and_builtin_fan-news-74655.php"
   }
 }
