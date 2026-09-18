@@ -1,23 +1,43 @@
 [
   {
-    "slug": "apple_samsung_and_google_face_potential_device_ban_in_the_us-news-74676",
-    "url": "https://www.gsmarena.com/apple_samsung_and_google_face_potential_device_ban_in_the_us-news-74676.php",
+    "slug": "first_iphone_18_pro_teardown_video_is_here-news-74683",
+    "url": "https://www.gsmarena.com/first_iphone_18_pro_teardown_video_is_here-news-74683.php",
     "date": "18 September 2026",
-    "fetched_at": "2026-09-18T20:11:53.166572+00:00",
+    "fetched_at": "2026-09-18T23:46:38.948971+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "deefd5b7ce99321d0613685ca03cbf0e8bab7efd5a9fdb33bee6274a763b559c"
+    "content_hash": "dea3f87c4724c626b31e2c32c52a9dd1193f34293b92e531cde7cd79a29b7090"
   },
   {
-    "slug": "apple_iphone_18_pro_max_in_for_review-news-74680",
-    "url": "https://www.gsmarena.com/apple_iphone_18_pro_max_in_for_review-news-74680.php",
+    "slug": "this_is_when_motorola_is_unveiling_the_signature_27-news-74681",
+    "url": "https://www.gsmarena.com/this_is_when_motorola_is_unveiling_the_signature_27-news-74681.php",
     "date": "18 September 2026",
-    "fetched_at": "2026-09-18T20:11:21.985975+00:00",
+    "fetched_at": "2026-09-18T23:46:22.938612+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "19d2b16b4c669613979e00708cbb2d83d3c1a6bcd4cef670ba4840456e161734"
+    "content_hash": "e5afc03d4c9f5c5ec9c71c324072ac5f393509019ecaaad3f577e03969b91d31"
+  },
+  {
+    "content_hash": "deefd5b7ce99321d0613685ca03cbf0e8bab7efd5a9fdb33bee6274a763b559c",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T20:11:53.166572+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_samsung_and_google_face_potential_device_ban_in_the_us-news-74676",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_samsung_and_google_face_potential_device_ban_in_the_us-news-74676.php"
+  },
+  {
+    "content_hash": "19d2b16b4c669613979e00708cbb2d83d3c1a6bcd4cef670ba4840456e161734",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T20:11:21.985975+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_iphone_18_pro_max_in_for_review-news-74680",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_iphone_18_pro_max_in_for_review-news-74680.php"
   },
   {
     "content_hash": "7f666953d6a112a022719f4d11d86a53fb486a0cc3190cea01e795cbfb2aaaad",
