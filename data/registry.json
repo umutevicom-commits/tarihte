@@ -2449,6 +2449,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_x500_pro_maxs_main_specs_are_out_just_as_it_receives_another_certification-news-74675.php"
   },
+  "74676": {
+    "content_hash": "deefd5b7ce99321d0613685ca03cbf0e8bab7efd5a9fdb33bee6274a763b559c",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T20:11:53.166572+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_samsung_and_google_face_potential_device_ban_in_the_us-news-74676",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_samsung_and_google_face_potential_device_ban_in_the_us-news-74676.php"
+  },
   "74677": {
     "content_hash": "e697f4a0370d783ee9e2d9cf7474ff330fc4f4675bc40cf0f36c42b1254eac1b",
     "date": "18 September 2026",
@@ -2458,5 +2468,15 @@
     "slug": "samsung_galaxy_s27_pro_and_s27_ultras_battery_capacities_and_charging_spec_revealed-news-74677",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultras_battery_capacities_and_charging_spec_revealed-news-74677.php"
+  },
+  "74680": {
+    "content_hash": "19d2b16b4c669613979e00708cbb2d83d3c1a6bcd4cef670ba4840456e161734",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T20:11:21.985975+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_iphone_18_pro_max_in_for_review-news-74680",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_iphone_18_pro_max_in_for_review-news-74680.php"
   }
 }

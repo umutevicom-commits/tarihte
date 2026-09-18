@@ -1,23 +1,43 @@
 [
   {
-    "slug": "vivo_x500_pro_maxs_main_specs_are_out_just_as_it_receives_another_certification-news-74675",
-    "url": "https://www.gsmarena.com/vivo_x500_pro_maxs_main_specs_are_out_just_as_it_receives_another_certification-news-74675.php",
+    "slug": "apple_samsung_and_google_face_potential_device_ban_in_the_us-news-74676",
+    "url": "https://www.gsmarena.com/apple_samsung_and_google_face_potential_device_ban_in_the_us-news-74676.php",
     "date": "18 September 2026",
-    "fetched_at": "2026-09-18T17:34:58.172061+00:00",
+    "fetched_at": "2026-09-18T20:11:53.166572+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "7f666953d6a112a022719f4d11d86a53fb486a0cc3190cea01e795cbfb2aaaad"
+    "content_hash": "deefd5b7ce99321d0613685ca03cbf0e8bab7efd5a9fdb33bee6274a763b559c"
   },
   {
-    "slug": "samsung_galaxy_s27_pro_and_s27_ultras_battery_capacities_and_charging_spec_revealed-news-74677",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultras_battery_capacities_and_charging_spec_revealed-news-74677.php",
+    "slug": "apple_iphone_18_pro_max_in_for_review-news-74680",
+    "url": "https://www.gsmarena.com/apple_iphone_18_pro_max_in_for_review-news-74680.php",
     "date": "18 September 2026",
-    "fetched_at": "2026-09-18T17:34:40.605617+00:00",
+    "fetched_at": "2026-09-18T20:11:21.985975+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "e697f4a0370d783ee9e2d9cf7474ff330fc4f4675bc40cf0f36c42b1254eac1b"
+    "content_hash": "19d2b16b4c669613979e00708cbb2d83d3c1a6bcd4cef670ba4840456e161734"
+  },
+  {
+    "content_hash": "7f666953d6a112a022719f4d11d86a53fb486a0cc3190cea01e795cbfb2aaaad",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T17:34:58.172061+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_pro_maxs_main_specs_are_out_just_as_it_receives_another_certification-news-74675",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_maxs_main_specs_are_out_just_as_it_receives_another_certification-news-74675.php"
+  },
+  {
+    "content_hash": "e697f4a0370d783ee9e2d9cf7474ff330fc4f4675bc40cf0f36c42b1254eac1b",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T17:34:40.605617+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_s27_pro_and_s27_ultras_battery_capacities_and_charging_spec_revealed-news-74677",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultras_battery_capacities_and_charging_spec_revealed-news-74677.php"
   },
   {
     "content_hash": "1727897e5025fd1b0a133ce317d37d24c19bdcda7edc40687ceb5c21668d250a",
