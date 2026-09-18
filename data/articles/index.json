@@ -1,23 +1,33 @@
 [
   {
-    "slug": "samsung_to_outsource_all_of_its_dram_manufacturing_and_focus_on_hbm_production-news-74665",
-    "url": "https://www.gsmarena.com/samsung_to_outsource_all_of_its_dram_manufacturing_and_focus_on_hbm_production-news-74665.php",
-    "date": "17 September 2026",
-    "fetched_at": "2026-09-17T22:36:12.123990+00:00",
+    "slug": "honor_700_pro_to_have_a_rear_screen-news-74666",
+    "url": "https://www.gsmarena.com/honor_700_pro_to_have_a_rear_screen-news-74666.php",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T02:22:53.417138+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "fc905e806dad00feb66b5eae390a42051f37971f2a670e1daf39281dc4523aca"
+    "content_hash": "ce3182231a4ba25c98c2d16107ca51dad21e817adc372a7facda09e8e8ed8fdf"
   },
   {
-    "slug": "pixel_11_pro_vs_pixel_10_pro_battery_camera_price_compared-news-74596",
-    "url": "https://www.gsmarena.com/pixel_11_pro_vs_pixel_10_pro_battery_camera_price_compared-news-74596.php",
+    "content_hash": "fc905e806dad00feb66b5eae390a42051f37971f2a670e1daf39281dc4523aca",
+    "date": "17 September 2026",
+    "fetched_at": "2026-09-17T22:36:12.123990+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_to_outsource_all_of_its_dram_manufacturing_and_focus_on_hbm_production-news-74665",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_to_outsource_all_of_its_dram_manufacturing_and_focus_on_hbm_production-news-74665.php"
+  },
+  {
+    "content_hash": "cc99705baaf7dd8a426a1e14714f64089fcd2226fedc28a05df92fe736819f31",
     "date": "17 September 2026",
     "fetched_at": "2026-09-17T22:32:51.371844+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "cc99705baaf7dd8a426a1e14714f64089fcd2226fedc28a05df92fe736819f31"
+    "retries": 0,
+    "slug": "pixel_11_pro_vs_pixel_10_pro_battery_camera_price_compared-news-74596",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/pixel_11_pro_vs_pixel_10_pro_battery_camera_price_compared-news-74596.php"
   },
   {
     "content_hash": "16f0d7b990dd8e46958543b0c51f2e76d1df950608e3aa7c4537727a92aa7064",

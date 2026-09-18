@@ -2368,5 +2368,15 @@
     "slug": "samsung_to_outsource_all_of_its_dram_manufacturing_and_focus_on_hbm_production-news-74665",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_to_outsource_all_of_its_dram_manufacturing_and_focus_on_hbm_production-news-74665.php"
+  },
+  "74666": {
+    "content_hash": "ce3182231a4ba25c98c2d16107ca51dad21e817adc372a7facda09e8e8ed8fdf",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T02:22:53.417138+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_700_pro_to_have_a_rear_screen-news-74666",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_700_pro_to_have_a_rear_screen-news-74666.php"
   }
 }
