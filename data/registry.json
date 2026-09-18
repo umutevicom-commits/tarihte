@@ -2398,5 +2398,45 @@
     "slug": "iphone_18_pro_series_go_on_sale-news-74669",
     "status": "ok",
     "url": "https://www.gsmarena.com/iphone_18_pro_series_go_on_sale-news-74669.php"
+  },
+  "74670": {
+    "content_hash": "1727897e5025fd1b0a133ce317d37d24c19bdcda7edc40687ceb5c21668d250a",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T14:00:04.266578+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "androidpowered_arc_x1_gaming_handheld_launches_with_7inch_display_snapdragon_g2_gen_2-news-74670",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/androidpowered_arc_x1_gaming_handheld_launches_with_7inch_display_snapdragon_g2_gen_2-news-74670.php"
+  },
+  "74671": {
+    "content_hash": "e4fde8f49718b625966b2c13d41083c7ad47dd35c9a512fcbfe53c7971f0e839",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T13:59:35.703031+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_k14_lineup_is_getting_a_new_plus_variant_in_india-news-74671",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_k14_lineup_is_getting_a_new_plus_variant_in_india-news-74671.php"
+  },
+  "74673": {
+    "content_hash": "68e2a2baabc6f68d59652d48653e870fab7644133d8ae3662a0e40167ba99e0d",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T13:59:50.169935+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "lava_bold_n4_pro_is_official_with_a_6000_mah_battery_heres_when_it_goes_on_sale-news-74673",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/lava_bold_n4_pro_is_official_with_a_6000_mah_battery_heres_when_it_goes_on_sale-news-74673.php"
+  },
+  "74674": {
+    "content_hash": "124ed95ff9618b702566acd2b9a20c5240c2e303514269ca4a5ad8b3840d8091",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T13:59:17.868954+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_16s_main_specs_leak-news-74674",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_16s_main_specs_leak-news-74674.php"
   }
 }
