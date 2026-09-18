@@ -2438,5 +2438,25 @@
     "slug": "oneplus_16s_main_specs_leak-news-74674",
     "status": "ok",
     "url": "https://www.gsmarena.com/oneplus_16s_main_specs_leak-news-74674.php"
+  },
+  "74675": {
+    "content_hash": "7f666953d6a112a022719f4d11d86a53fb486a0cc3190cea01e795cbfb2aaaad",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T17:34:58.172061+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_pro_maxs_main_specs_are_out_just_as_it_receives_another_certification-news-74675",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_maxs_main_specs_are_out_just_as_it_receives_another_certification-news-74675.php"
+  },
+  "74677": {
+    "content_hash": "e697f4a0370d783ee9e2d9cf7474ff330fc4f4675bc40cf0f36c42b1254eac1b",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T17:34:40.605617+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_s27_pro_and_s27_ultras_battery_capacities_and_charging_spec_revealed-news-74677",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultras_battery_capacities_and_charging_spec_revealed-news-74677.php"
   }
 }

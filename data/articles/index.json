@@ -1,43 +1,63 @@
 [
   {
-    "slug": "androidpowered_arc_x1_gaming_handheld_launches_with_7inch_display_snapdragon_g2_gen_2-news-74670",
-    "url": "https://www.gsmarena.com/androidpowered_arc_x1_gaming_handheld_launches_with_7inch_display_snapdragon_g2_gen_2-news-74670.php",
+    "slug": "vivo_x500_pro_maxs_main_specs_are_out_just_as_it_receives_another_certification-news-74675",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_maxs_main_specs_are_out_just_as_it_receives_another_certification-news-74675.php",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T17:34:58.172061+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7f666953d6a112a022719f4d11d86a53fb486a0cc3190cea01e795cbfb2aaaad"
+  },
+  {
+    "slug": "samsung_galaxy_s27_pro_and_s27_ultras_battery_capacities_and_charging_spec_revealed-news-74677",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_pro_and_s27_ultras_battery_capacities_and_charging_spec_revealed-news-74677.php",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T17:34:40.605617+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e697f4a0370d783ee9e2d9cf7474ff330fc4f4675bc40cf0f36c42b1254eac1b"
+  },
+  {
+    "content_hash": "1727897e5025fd1b0a133ce317d37d24c19bdcda7edc40687ceb5c21668d250a",
     "date": "18 September 2026",
     "fetched_at": "2026-09-18T14:00:04.266578+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1727897e5025fd1b0a133ce317d37d24c19bdcda7edc40687ceb5c21668d250a"
+    "retries": 0,
+    "slug": "androidpowered_arc_x1_gaming_handheld_launches_with_7inch_display_snapdragon_g2_gen_2-news-74670",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/androidpowered_arc_x1_gaming_handheld_launches_with_7inch_display_snapdragon_g2_gen_2-news-74670.php"
   },
   {
-    "slug": "lava_bold_n4_pro_is_official_with_a_6000_mah_battery_heres_when_it_goes_on_sale-news-74673",
-    "url": "https://www.gsmarena.com/lava_bold_n4_pro_is_official_with_a_6000_mah_battery_heres_when_it_goes_on_sale-news-74673.php",
+    "content_hash": "68e2a2baabc6f68d59652d48653e870fab7644133d8ae3662a0e40167ba99e0d",
     "date": "18 September 2026",
     "fetched_at": "2026-09-18T13:59:50.169935+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "68e2a2baabc6f68d59652d48653e870fab7644133d8ae3662a0e40167ba99e0d"
+    "retries": 0,
+    "slug": "lava_bold_n4_pro_is_official_with_a_6000_mah_battery_heres_when_it_goes_on_sale-news-74673",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/lava_bold_n4_pro_is_official_with_a_6000_mah_battery_heres_when_it_goes_on_sale-news-74673.php"
   },
   {
-    "slug": "oppo_k14_lineup_is_getting_a_new_plus_variant_in_india-news-74671",
-    "url": "https://www.gsmarena.com/oppo_k14_lineup_is_getting_a_new_plus_variant_in_india-news-74671.php",
+    "content_hash": "e4fde8f49718b625966b2c13d41083c7ad47dd35c9a512fcbfe53c7971f0e839",
     "date": "18 September 2026",
     "fetched_at": "2026-09-18T13:59:35.703031+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e4fde8f49718b625966b2c13d41083c7ad47dd35c9a512fcbfe53c7971f0e839"
+    "retries": 0,
+    "slug": "oppo_k14_lineup_is_getting_a_new_plus_variant_in_india-news-74671",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_k14_lineup_is_getting_a_new_plus_variant_in_india-news-74671.php"
   },
   {
-    "slug": "oneplus_16s_main_specs_leak-news-74674",
-    "url": "https://www.gsmarena.com/oneplus_16s_main_specs_leak-news-74674.php",
+    "content_hash": "124ed95ff9618b702566acd2b9a20c5240c2e303514269ca4a5ad8b3840d8091",
     "date": "18 September 2026",
     "fetched_at": "2026-09-18T13:59:17.868954+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "124ed95ff9618b702566acd2b9a20c5240c2e303514269ca4a5ad8b3840d8091"
+    "retries": 0,
+    "slug": "oneplus_16s_main_specs_leak-news-74674",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_16s_main_specs_leak-news-74674.php"
   },
   {
     "content_hash": "6aacbd3ddfaef29c81d3fb459c6ff167c2c33e62d3ed1ede02b31ebee57857f5",
