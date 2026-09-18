@@ -1,13 +1,33 @@
 [
   {
-    "slug": "honor_700_pro_to_have_a_rear_screen-news-74666",
-    "url": "https://www.gsmarena.com/honor_700_pro_to_have_a_rear_screen-news-74666.php",
+    "slug": "honor_x9e_pro_is_coming_next_week_with_an_11000mah_battery-news-74668",
+    "url": "https://www.gsmarena.com/honor_x9e_pro_is_coming_next_week_with_an_11000mah_battery-news-74668.php",
     "date": "18 September 2026",
-    "fetched_at": "2026-09-18T02:22:53.417138+00:00",
+    "fetched_at": "2026-09-18T08:37:36.508606+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "ce3182231a4ba25c98c2d16107ca51dad21e817adc372a7facda09e8e8ed8fdf"
+    "content_hash": "6aacbd3ddfaef29c81d3fb459c6ff167c2c33e62d3ed1ede02b31ebee57857f5"
+  },
+  {
+    "slug": "iphone_18_pro_series_go_on_sale-news-74669",
+    "url": "https://www.gsmarena.com/iphone_18_pro_series_go_on_sale-news-74669.php",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T08:37:15.238150+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f5e6dda29a4b556d69462169a7c30f0fc257a7622712df0650fdf499fdea6b7c"
+  },
+  {
+    "content_hash": "ce3182231a4ba25c98c2d16107ca51dad21e817adc372a7facda09e8e8ed8fdf",
+    "date": "18 September 2026",
+    "fetched_at": "2026-09-18T02:22:53.417138+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_700_pro_to_have_a_rear_screen-news-74666",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_700_pro_to_have_a_rear_screen-news-74666.php"
   },
   {
     "content_hash": "fc905e806dad00feb66b5eae390a42051f37971f2a670e1daf39281dc4523aca",
