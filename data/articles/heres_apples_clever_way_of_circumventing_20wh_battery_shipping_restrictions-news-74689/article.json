@@ -1,0 +1,51 @@
+{
+  "url": "https://www.gsmarena.com/heres_apples_clever_way_of_circumventing_20wh_battery_shipping_restrictions-news-74689.php",
+  "slug": "heres_apples_clever_way_of_circumventing_20wh_battery_shipping_restrictions-news-74689",
+  "title": "Here's how Apple circumvented the battery shipping restrictions for iPhone 18 Pro Max",
+  "news_id": "74689",
+  "date": "19 September 2026",
+  "author": "Ro",
+  "tags": [
+    "Featured",
+    "Apple",
+    "iOS"
+  ],
+  "body_paragraphs": [
+    "If you've been following the smartphone trends in recent years, you've probably noticed that the battery capacities of recent flagships have grown significantly. That's mainly because of the new silicon-carbon chemistry that allows higher-density cells, which in turn allows manufacturers to offer larger batteries at the same size. However, manufacturers found themselves in a bit of a conundrum since international shipping regulations make shipping batteries with cells larger than 20Wh quite the challenge.",
+    "These regulations forced manufacturers to either split the batteries into more than one cell in order to remain under the 20Wh threshold or just ship phones with smaller batteries for markets such as Europe or the USA. Apple found a clever way to circumvent these rules with a software trick.",
+    "The method Apple used is buried in the iPhone 18 Pro Max support page, explaining that there's a software limitation in place that limits the battery charge below 20Wh, which effectively limits the battery's capacity. Upon starting the iPhone for the first time, the charging limit is removed, and the users will be able to use the full capacity, which is rated at 5,567mAh (21.75Wh) for the eSIM-only model shipped in the US. Since the European iteration comes with a physical SIM card slot, the battery's capacity is slightly lower (5,391 mAh or 21.06Wh), but still higher than the 20Wh threshold.",
+    "Notably, these are the rated battery capacities and should not be directly compared to Android phones' batteries, which are advertised with their typical capacity.",
+    "The US transport regulator has explicitly allowed this shipping method back in June 2025, but other regulatory bodies such as ADR, IATA and ICAO still haven't officially chimed in. We can only assume that they are okay with that since the iPhone 18 Pro lineup is already on sale in the EU.",
+    "Moreover, Apple is allowing users to turn on and off the said feature in case they plan to ship the phone overseas, for example. Once shipped, the feature can be disabled again.",
+    "In 2026, the UN Sub-Committee of Experts on the Transport of Dangerous Goods considered a proposal specifically dealing with single-cell batteries. The proposal points out that the old 20 Wh boundary is increasingly obsolete because the same type of cell can be used inside a multi-cell battery exceeding 20 Wh while a functionally similar single-cell battery is treated differently. That's why the regulatory bodies are working on updating the policy in 2029, but until then, Apple found a workaround.",
+    "Apple's shipping method will most likely set a precedent, and we will start seeing phones with bigger batteries enter the European and US markets with fewer regulatory hurdles. Hopefully, we will no longer have two different versions of the same phone for Asia and Europe."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/heres_apples_clever_way_of_circumventing_20wh_battery_shipping_restrictions-news-74689/immaculate_001.jpg",
+      "alt": "Here's Apple's clever way of circumventing 20Wh battery shipping restrictions"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/heres_apples_clever_way_of_circumventing_20wh_battery_shipping_restrictions-news-74689/immaculate_006.jpg",
+      "alt": "Here's Apple's clever way of circumventing 20Wh battery shipping restrictions"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-19T16:56:20.189686+00:00",
+  "title_tr": "Apple, iPhone 18 Pro Max için pil gönderim kısıtlamalarını nasıl atlattı?",
+  "body_paragraphs_tr": [
+    "Son yıllarda akıllı telefon trendlerini takip ediyorsanız, muhtemelen son amiral gemilerinin pil kapasitelerinin önemli ölçüde arttığını fark etmişsinizdir. Bunun başlıca nedeni, üreticilerin aynı boyutta daha büyük piller sunmasına izin veren daha yüksek yoğunluklu hücrelere izin veren yeni silikon - karbon kimyasıdır. Bununla birlikte, uluslararası nakliye düzenlemeleri 20Wh'den daha büyük hücrelerle pil göndermeyi oldukça zor hale getirdiğinden, üreticiler kendilerini biraz muamma içinde buldular.",
+    "Bu düzenlemeler, üreticileri 20Wh eşiğinin altında kalmak için pilleri birden fazla hücreye bölmeye veya sadece Avrupa veya ABD gibi pazarlar için daha küçük pilli telefonlar göndermeye zorladı. Apple, bir yazılım hilesiyle bu kuralları aşmanın akıllıca bir yolunu buldu.",
+    "Apple'ın kullandığı yöntem, pil şarjını 20Wh'nin altında sınırlayan ve pilin kapasitesini etkili bir şekilde sınırlayan bir yazılım sınırlaması olduğunu açıklayan iPhone 18 Pro Max destek sayfasına gömülüdür. İPhone'u ilk kez başlattıktan sonra, şarj sınırı kaldırılacak ve kullanıcılar, yalnızca ABD'de gönderilen eSIM modeli için 5.567mAh (21.75Wh) olarak derecelendirilen tam kapasiteyi kullanabilecekler. Avrupa yinelemesi fiziksel bir SIM kart yuvasıyla geldiğinden, pilin kapasitesi biraz daha düşüktür (5,391 mAh veya 21.06Wh), ancak yine de 20Wh eşiğinden daha yüksektir.",
+    "Özellikle, bunlar nominal pil kapasiteleridir ve tipik kapasiteleriyle reklamı yapılan Android telefonların pilleriyle doğrudan karşılaştırılmamalıdır.",
+    "ABD ulaştırma düzenleyicisi, Haziran 2025 'te bu nakliye yöntemine açıkça izin verdi, ancak ADR, IATA ve ICAO gibi diğer düzenleyici kurumlar hala resmi olarak devreye girmedi. İPhone 18 Pro serisi zaten AB'de satışa sunulduğundan, bunun sorun olmadığını varsayabiliriz.",
+    "Ayrıca Apple, örneğin telefonu denizaşırı ülkelere göndermeyi planlamaları durumunda kullanıcıların söz konusu özelliği açıp kapatmalarına izin veriyor. Gönderildikten sonra, özellik tekrar devre dışı bırakılabilir.",
+    "2026 'da, BM Tehlikeli Malların Taşınması Uzmanlar Alt Komitesi, özellikle tek hücreli pillerle ilgili bir öneriyi değerlendirdi. Teklif, eski 20 Wh sınırının giderek eskidiğine işaret ediyor, çünkü aynı tip hücre, 20 Wh'yi aşan çok hücreli bir pil içinde kullanılabilirken, işlevsel olarak benzer tek hücreli bir pil farklı şekilde işleniyor. Bu nedenle düzenleyici kurumlar 2029 'da politikayı güncellemek için çalışıyorlar, ancak o zamana kadar Apple bir geçici çözüm buldu.",
+    "Apple'ın gönderim yöntemi büyük olasılıkla bir emsal oluşturacak ve daha büyük bataryalara sahip telefonların Avrupa ve ABD pazarlarına daha az düzenleyici engelle girdiğini görmeye başlayacağız. İnşallah artık Asya ve Avrupa için aynı telefonun iki farklı versiyonuna sahip olmayacağız."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "iOS"
+  ]
+}
