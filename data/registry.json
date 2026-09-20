@@ -2229,6 +2229,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/nubia_navix_ultra_launches_with_an_advanced_agentic_ai_snapdragon_8_elite_gen_5_power-news-74646.php"
   },
+  "74650": {
+    "content_hash": "3a759ad5dfddcc42cc3ac89dcfc4aa0b49c8491f892de6a648f9b97fbb6ee2dd",
+    "date": "20 September 2026",
+    "fetched_at": "2026-09-20T08:56:09.959656+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_results_the_iphone_duo_nailed_the_form_factor_iphone_18_pro_max_upstages_the_18_pro-news-74650",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_the_iphone_duo_nailed_the_form_factor_iphone_18_pro_max_upstages_the_18_pro-news-74650.php"
+  },
   "74651": {
     "content_hash": "4c17f6299bbf8c3c36eafea38157d7e0af8d8a2b95a862571c4e7d8631d09c88",
     "date": "17 September 2026",
@@ -2528,6 +2538,16 @@
     "slug": "iphone_18_pro_in_for_review-news-74684",
     "status": "ok",
     "url": "https://www.gsmarena.com/iphone_18_pro_in_for_review-news-74684.php"
+  },
+  "74685": {
+    "content_hash": "73981b1d3ca31334af2004ec09c9ecbe7bd9b4932a42c2e6338459fac0a18c9a",
+    "date": "20 September 2026",
+    "fetched_at": "2026-09-20T08:55:40.614146+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_iphone_18_pro_series_goes_on_sale_galaxy_z8_foldables_get_discounts-news-74685",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_iphone_18_pro_series_goes_on_sale_galaxy_z8_foldables_get_discounts-news-74685.php"
   },
   "74686": {
     "content_hash": "b33abf653c5375335a0e899228056c5652209d10e453d7cf278a46f03de8bc45",
