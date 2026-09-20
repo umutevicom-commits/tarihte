@@ -1,23 +1,33 @@
 [
   {
-    "slug": "weekly_poll_results_the_iphone_duo_nailed_the_form_factor_iphone_18_pro_max_upstages_the_18_pro-news-74650",
-    "url": "https://www.gsmarena.com/weekly_poll_results_the_iphone_duo_nailed_the_form_factor_iphone_18_pro_max_upstages_the_18_pro-news-74650.php",
+    "slug": "weekly_poll_will_you_buy_a_redmi_note_17_pro_or_a_redmi_note_17_pro_max-news-74649",
+    "url": "https://www.gsmarena.com/weekly_poll_will_you_buy_a_redmi_note_17_pro_or_a_redmi_note_17_pro_max-news-74649.php",
     "date": "20 September 2026",
-    "fetched_at": "2026-09-20T08:56:09.959656+00:00",
+    "fetched_at": "2026-09-20T13:50:00.760795+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "3a759ad5dfddcc42cc3ac89dcfc4aa0b49c8491f892de6a648f9b97fbb6ee2dd"
+    "content_hash": "46b23927f11b149fc66666fdad623bf4cc7d8e74accde86a0f6b26294b47511f"
   },
   {
-    "slug": "deals_iphone_18_pro_series_goes_on_sale_galaxy_z8_foldables_get_discounts-news-74685",
-    "url": "https://www.gsmarena.com/deals_iphone_18_pro_series_goes_on_sale_galaxy_z8_foldables_get_discounts-news-74685.php",
+    "content_hash": "3a759ad5dfddcc42cc3ac89dcfc4aa0b49c8491f892de6a648f9b97fbb6ee2dd",
+    "date": "20 September 2026",
+    "fetched_at": "2026-09-20T08:56:09.959656+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_results_the_iphone_duo_nailed_the_form_factor_iphone_18_pro_max_upstages_the_18_pro-news-74650",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_the_iphone_duo_nailed_the_form_factor_iphone_18_pro_max_upstages_the_18_pro-news-74650.php"
+  },
+  {
+    "content_hash": "73981b1d3ca31334af2004ec09c9ecbe7bd9b4932a42c2e6338459fac0a18c9a",
     "date": "20 September 2026",
     "fetched_at": "2026-09-20T08:55:40.614146+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "73981b1d3ca31334af2004ec09c9ecbe7bd9b4932a42c2e6338459fac0a18c9a"
+    "retries": 0,
+    "slug": "deals_iphone_18_pro_series_goes_on_sale_galaxy_z8_foldables_get_discounts-news-74685",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_iphone_18_pro_series_goes_on_sale_galaxy_z8_foldables_get_discounts-news-74685.php"
   },
   {
     "content_hash": "ee1237ab86082d508bd39fe071ae87043afbc2d9ad76c2170dffbceb4545df90",
