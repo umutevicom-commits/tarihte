@@ -1,23 +1,83 @@
 [
   {
-    "slug": "oneplus_16_design_and_color_options_officially_revealed-news-74691",
-    "url": "https://www.gsmarena.com/oneplus_16_design_and_color_options_officially_revealed-news-74691.php",
+    "slug": "heres_an_upclose_look_at_the_iphone_18_pro_series_variable_aperture_-news-74693",
+    "url": "https://www.gsmarena.com/heres_an_upclose_look_at_the_iphone_18_pro_series_variable_aperture_-news-74693.php",
     "date": "21 September 2026",
-    "fetched_at": "2026-09-21T09:27:16.041580+00:00",
+    "fetched_at": "2026-09-21T16:08:09.080570+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "1c86d541dd5415e61add0ccce82a751c52f7338449e73aadee0e26cced1e0de4"
+    "content_hash": "53e8e8978c18131aa8b66a934697e15a1061ca4333261c9e9f1556a8453c94f8"
   },
   {
-    "slug": "xiaomi_18_pro_series_to_launch_on_september_23_with_hardwarelevel_privacy_screen-news-74692",
-    "url": "https://www.gsmarena.com/xiaomi_18_pro_series_to_launch_on_september_23_with_hardwarelevel_privacy_screen-news-74692.php",
+    "slug": "apple_pay_reportedly_set_to_launch_in_india_next_month-news-74694",
+    "url": "https://www.gsmarena.com/apple_pay_reportedly_set_to_launch_in_india_next_month-news-74694.php",
     "date": "21 September 2026",
-    "fetched_at": "2026-09-21T09:26:51.780599+00:00",
+    "fetched_at": "2026-09-21T16:07:54.914467+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "65b3039ac21388d23f2f0f3c02f722c44d61c9f5c9bb4a335263b236b7070915"
+    "content_hash": "1a2aca4cf71f7838d693ce079c4c6f730f9c7283371484ecb149b9df3cbe5839"
+  },
+  {
+    "slug": "realme_16_pro_harry_potter_edition_debuts_with_quadra_lightsensing_colorchanging_technology-news-74695",
+    "url": "https://www.gsmarena.com/realme_16_pro_harry_potter_edition_debuts_with_quadra_lightsensing_colorchanging_technology-news-74695.php",
+    "date": "21 September 2026",
+    "fetched_at": "2026-09-21T16:07:30.682016+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "fef7fdad1101bab854f74b7e3ae1f1dd7381dc327bfb6222bdb08be29823c3b1"
+  },
+  {
+    "slug": "lava_virat_curve_is_here_with_the_mediatek_dimensity_7100_soc_and_a_6000_mah_battery-news-74696",
+    "url": "https://www.gsmarena.com/lava_virat_curve_is_here_with_the_mediatek_dimensity_7100_soc_and_a_6000_mah_battery-news-74696.php",
+    "date": "21 September 2026",
+    "fetched_at": "2026-09-21T16:07:17.778554+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9b2a1bc16daedb70b2344d120d2a79dfba3420c375ae245ea36d2b29402564f4"
+  },
+  {
+    "slug": "vivo_unveils_global_originos_7_it_will_be_available_today_in_a_preview_program-news-74699",
+    "url": "https://www.gsmarena.com/vivo_unveils_global_originos_7_it_will_be_available_today_in_a_preview_program-news-74699.php",
+    "date": "21 September 2026",
+    "fetched_at": "2026-09-21T16:06:57.705330+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "923fa156c97dcc2320ef78f9134e41723c04bff863b7d4b8288d571a888ea53a"
+  },
+  {
+    "slug": "vivo_x500_x500_pro_and_x500_pro_max_announced-news-74698",
+    "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_announced-news-74698.php",
+    "date": "21 September 2026",
+    "fetched_at": "2026-09-21T16:06:19.889742+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "58a188d16022f685de0d5f79d2b689e53c189ce7a64692e138520a9f61cd1f19"
+  },
+  {
+    "content_hash": "1c86d541dd5415e61add0ccce82a751c52f7338449e73aadee0e26cced1e0de4",
+    "date": "21 September 2026",
+    "fetched_at": "2026-09-21T09:27:16.041580+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_16_design_and_color_options_officially_revealed-news-74691",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_16_design_and_color_options_officially_revealed-news-74691.php"
+  },
+  {
+    "content_hash": "65b3039ac21388d23f2f0f3c02f722c44d61c9f5c9bb4a335263b236b7070915",
+    "date": "21 September 2026",
+    "fetched_at": "2026-09-21T09:26:51.780599+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_pro_series_to_launch_on_september_23_with_hardwarelevel_privacy_screen-news-74692",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_series_to_launch_on_september_23_with_hardwarelevel_privacy_screen-news-74692.php"
   },
   {
     "content_hash": "695422a1f8521d38f5752fbcf96e52d7f49a2819a40938969f82506c54036a40",
