@@ -2608,5 +2608,25 @@
     "slug": "earfun_wave_pro_x_review-news-74690",
     "status": "ok",
     "url": "https://www.gsmarena.com/earfun_wave_pro_x_review-news-74690.php"
+  },
+  "74691": {
+    "content_hash": "1c86d541dd5415e61add0ccce82a751c52f7338449e73aadee0e26cced1e0de4",
+    "date": "21 September 2026",
+    "fetched_at": "2026-09-21T09:27:16.041580+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_16_design_and_color_options_officially_revealed-news-74691",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_16_design_and_color_options_officially_revealed-news-74691.php"
+  },
+  "74692": {
+    "content_hash": "65b3039ac21388d23f2f0f3c02f722c44d61c9f5c9bb4a335263b236b7070915",
+    "date": "21 September 2026",
+    "fetched_at": "2026-09-21T09:26:51.780599+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_pro_series_to_launch_on_september_23_with_hardwarelevel_privacy_screen-news-74692",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_series_to_launch_on_september_23_with_hardwarelevel_privacy_screen-news-74692.php"
   }
 }
