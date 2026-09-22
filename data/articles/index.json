@@ -1,43 +1,63 @@
 [
   {
-    "slug": "heres_when_the_vivo_x500_series_is_launching_in_europe-news-74709",
-    "url": "https://www.gsmarena.com/heres_when_the_vivo_x500_series_is_launching_in_europe-news-74709.php",
+    "slug": "redmagic_12_pro_is_coming_next_month_design_teased-news-74711",
+    "url": "https://www.gsmarena.com/redmagic_12_pro_is_coming_next_month_design_teased-news-74711.php",
+    "date": "22 September 2026",
+    "fetched_at": "2026-09-22T20:41:30.554337+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b64093b9aae08f217d4c54bca42eae625da9b4de859cb7c96e8002834d133e9a"
+  },
+  {
+    "slug": "the_signature_27_will_be_motorolas_first_smartphone_with_bang___olufsen_audio-news-74710",
+    "url": "https://www.gsmarena.com/the_signature_27_will_be_motorolas_first_smartphone_with_bang___olufsen_audio-news-74710.php",
+    "date": "22 September 2026",
+    "fetched_at": "2026-09-22T20:41:12.383962+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "563aaf336900fbf31fb35cdc919c178946bde919d354e7d32d5b8f1861b45931"
+  },
+  {
+    "content_hash": "849d1892f3b2eade758b718055c6822dfa294cfb63f9831d34c3811b31db4295",
     "date": "22 September 2026",
     "fetched_at": "2026-09-22T17:51:56.519860+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "849d1892f3b2eade758b718055c6822dfa294cfb63f9831d34c3811b31db4295"
+    "retries": 0,
+    "slug": "heres_when_the_vivo_x500_series_is_launching_in_europe-news-74709",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_when_the_vivo_x500_series_is_launching_in_europe-news-74709.php"
   },
   {
-    "slug": "oppo_find_x10_pro_max_launches_with_three_200mp_rear_cameras_dimensity_9600_pro_soc-news-74714",
-    "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_launches_with_three_200mp_rear_cameras_dimensity_9600_pro_soc-news-74714.php",
+    "content_hash": "b6f4b025a49627419bd4fc82a30f84ee4230f3409ab3d8432488b73b12c06270",
     "date": "22 September 2026",
     "fetched_at": "2026-09-22T17:51:37.722245+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b6f4b025a49627419bd4fc82a30f84ee4230f3409ab3d8432488b73b12c06270"
+    "retries": 0,
+    "slug": "oppo_find_x10_pro_max_launches_with_three_200mp_rear_cameras_dimensity_9600_pro_soc-news-74714",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_launches_with_three_200mp_rear_cameras_dimensity_9600_pro_soc-news-74714.php"
   },
   {
-    "slug": "nothing_makes_cmf_an_independent_indian_brand-news-74713",
-    "url": "https://www.gsmarena.com/nothing_makes_cmf_an_independent_indian_brand-news-74713.php",
+    "content_hash": "f15c0d8cb359e006177365b7a8615a8a3ef16685743db3f2a86c4d1f563f7c94",
     "date": "22 September 2026",
     "fetched_at": "2026-09-22T17:51:21.649094+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f15c0d8cb359e006177365b7a8615a8a3ef16685743db3f2a86c4d1f563f7c94"
+    "retries": 0,
+    "slug": "nothing_makes_cmf_an_independent_indian_brand-news-74713",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nothing_makes_cmf_an_independent_indian_brand-news-74713.php"
   },
   {
-    "slug": "oppo_find_x10_and_find_x10_e_are_official_too_here_are_their_specs_and_pricing_details-news-74716",
-    "url": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_e_are_official_too_here_are_their_specs_and_pricing_details-news-74716.php",
+    "content_hash": "92b4a3e32cced8d638583f30844bde7784bf996002d59187f991a4a8f2d584dc",
     "date": "22 September 2026",
     "fetched_at": "2026-09-22T17:50:42.022503+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "92b4a3e32cced8d638583f30844bde7784bf996002d59187f991a4a8f2d584dc"
+    "retries": 0,
+    "slug": "oppo_find_x10_and_find_x10_e_are_official_too_here_are_their_specs_and_pricing_details-news-74716",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_e_are_official_too_here_are_their_specs_and_pricing_details-news-74716.php"
   },
   {
     "content_hash": "04bd3f9c0d7fb17f9638faba8e7be49f351b2a005577e4974b1fce9e5edc1d60",
