@@ -1,23 +1,43 @@
 [
   {
-    "slug": "redmagic_12_pro_is_coming_next_month_design_teased-news-74711",
-    "url": "https://www.gsmarena.com/redmagic_12_pro_is_coming_next_month_design_teased-news-74711.php",
+    "slug": "nothing_os_50_open_beta_based_on_android_17_expands_to_more_devices-news-74717",
+    "url": "https://www.gsmarena.com/nothing_os_50_open_beta_based_on_android_17_expands_to_more_devices-news-74717.php",
     "date": "22 September 2026",
-    "fetched_at": "2026-09-22T20:41:30.554337+00:00",
+    "fetched_at": "2026-09-22T23:56:00.201149+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "b64093b9aae08f217d4c54bca42eae625da9b4de859cb7c96e8002834d133e9a"
+    "content_hash": "7a67296159808c48cef8df94758a3d974bccd04bafd406190bce297a578e8bc1"
   },
   {
-    "slug": "the_signature_27_will_be_motorolas_first_smartphone_with_bang___olufsen_audio-news-74710",
-    "url": "https://www.gsmarena.com/the_signature_27_will_be_motorolas_first_smartphone_with_bang___olufsen_audio-news-74710.php",
+    "slug": "motorola_expands_the_reach_of_its_qira_ai_with_the_android_17_update-news-74718",
+    "url": "https://www.gsmarena.com/motorola_expands_the_reach_of_its_qira_ai_with_the_android_17_update-news-74718.php",
     "date": "22 September 2026",
-    "fetched_at": "2026-09-22T20:41:12.383962+00:00",
+    "fetched_at": "2026-09-22T23:55:43.493352+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "563aaf336900fbf31fb35cdc919c178946bde919d354e7d32d5b8f1861b45931"
+    "content_hash": "17902ae0e7de77fd78154dee94f66b4753d464dc5d464b18377334f1745702ec"
+  },
+  {
+    "content_hash": "b64093b9aae08f217d4c54bca42eae625da9b4de859cb7c96e8002834d133e9a",
+    "date": "22 September 2026",
+    "fetched_at": "2026-09-22T20:41:30.554337+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "redmagic_12_pro_is_coming_next_month_design_teased-news-74711",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmagic_12_pro_is_coming_next_month_design_teased-news-74711.php"
+  },
+  {
+    "content_hash": "563aaf336900fbf31fb35cdc919c178946bde919d354e7d32d5b8f1861b45931",
+    "date": "22 September 2026",
+    "fetched_at": "2026-09-22T20:41:12.383962+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_signature_27_will_be_motorolas_first_smartphone_with_bang___olufsen_audio-news-74710",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_signature_27_will_be_motorolas_first_smartphone_with_bang___olufsen_audio-news-74710.php"
   },
   {
     "content_hash": "849d1892f3b2eade758b718055c6822dfa294cfb63f9831d34c3811b31db4295",
