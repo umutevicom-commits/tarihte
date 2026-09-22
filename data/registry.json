@@ -2718,5 +2718,35 @@
     "slug": "motorola_heard_you_like_cameras_so_it_put_a_lot_of_them_on_the_signature_27-news-74701",
     "status": "ok",
     "url": "https://www.gsmarena.com/motorola_heard_you_like_cameras_so_it_put_a_lot_of_them_on_the_signature_27-news-74701.php"
+  },
+  "74703": {
+    "content_hash": "80181c504815b5f27d8c576981f74502d96a089a29baa9c9783c6acda3cfad8c",
+    "date": "22 September 2026",
+    "fetched_at": "2026-09-22T07:05:34.922658+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_v80_runs_geekbench_just_as_a_new_teaser_video_gets_released-news-74703",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_v80_runs_geekbench_just_as_a_new_teaser_video_gets_released-news-74703.php"
+  },
+  "74704": {
+    "content_hash": "105ace701f3613dbce4a9198cc26f1e35d77f200c4122838303280e116b5ac49",
+    "date": "22 September 2026",
+    "fetched_at": "2026-09-22T07:05:25.559852+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_a7_pro_max_makes_its_global_debut_heres_how_much_it_costs_in_europe-news-74704",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_a7_pro_max_makes_its_global_debut_heres_how_much_it_costs_in_europe-news-74704.php"
+  },
+  "74705": {
+    "content_hash": "cc8cd7ddce4ff8152a17fc9f7410caf58e83549cdec68cb21d4642ac2f90fe72",
+    "date": "22 September 2026",
+    "fetched_at": "2026-09-22T07:05:04.414160+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_pro_series_camera_specs_and_samples_revealed_ahead_of_launch-news-74705",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_series_camera_specs_and_samples_revealed_ahead_of_launch-news-74705.php"
   }
 }
