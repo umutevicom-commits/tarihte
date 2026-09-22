@@ -1,33 +1,63 @@
 [
   {
-    "slug": "vivo_v80_runs_geekbench_just_as_a_new_teaser_video_gets_released-news-74703",
-    "url": "https://www.gsmarena.com/vivo_v80_runs_geekbench_just_as_a_new_teaser_video_gets_released-news-74703.php",
+    "slug": "vivo_v80_key_specs_colors_design_launch_date-news-74706",
+    "url": "https://www.gsmarena.com/vivo_v80_key_specs_colors_design_launch_date-news-74706.php",
+    "date": "22 September 2026",
+    "fetched_at": "2026-09-22T12:58:21.844562+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "04bd3f9c0d7fb17f9638faba8e7be49f351b2a005577e4974b1fce9e5edc1d60"
+  },
+  {
+    "slug": "vivo_x500_ultras_china_launch_timeline_revealed-news-74707",
+    "url": "https://www.gsmarena.com/vivo_x500_ultras_china_launch_timeline_revealed-news-74707.php",
+    "date": "22 September 2026",
+    "fetched_at": "2026-09-22T12:58:07.259666+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "998f281e814859846b23a16d709c70e0c89f00c68754deec0b02e85723d31591"
+  },
+  {
+    "slug": "oneplus_n6_lite_goes_official_with_a_7000mah_battery-news-74708",
+    "url": "https://www.gsmarena.com/oneplus_n6_lite_goes_official_with_a_7000mah_battery-news-74708.php",
+    "date": "22 September 2026",
+    "fetched_at": "2026-09-22T12:57:41.142824+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "620433dab1e958fb5626b7fc75e2c4ef8111904c58e9fe85965534737f35819b"
+  },
+  {
+    "content_hash": "80181c504815b5f27d8c576981f74502d96a089a29baa9c9783c6acda3cfad8c",
     "date": "22 September 2026",
     "fetched_at": "2026-09-22T07:05:34.922658+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "80181c504815b5f27d8c576981f74502d96a089a29baa9c9783c6acda3cfad8c"
+    "retries": 0,
+    "slug": "vivo_v80_runs_geekbench_just_as_a_new_teaser_video_gets_released-news-74703",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_v80_runs_geekbench_just_as_a_new_teaser_video_gets_released-news-74703.php"
   },
   {
-    "slug": "oppo_a7_pro_max_makes_its_global_debut_heres_how_much_it_costs_in_europe-news-74704",
-    "url": "https://www.gsmarena.com/oppo_a7_pro_max_makes_its_global_debut_heres_how_much_it_costs_in_europe-news-74704.php",
+    "content_hash": "105ace701f3613dbce4a9198cc26f1e35d77f200c4122838303280e116b5ac49",
     "date": "22 September 2026",
     "fetched_at": "2026-09-22T07:05:25.559852+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "105ace701f3613dbce4a9198cc26f1e35d77f200c4122838303280e116b5ac49"
+    "retries": 0,
+    "slug": "oppo_a7_pro_max_makes_its_global_debut_heres_how_much_it_costs_in_europe-news-74704",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_a7_pro_max_makes_its_global_debut_heres_how_much_it_costs_in_europe-news-74704.php"
   },
   {
-    "slug": "xiaomi_18_pro_series_camera_specs_and_samples_revealed_ahead_of_launch-news-74705",
-    "url": "https://www.gsmarena.com/xiaomi_18_pro_series_camera_specs_and_samples_revealed_ahead_of_launch-news-74705.php",
+    "content_hash": "cc8cd7ddce4ff8152a17fc9f7410caf58e83549cdec68cb21d4642ac2f90fe72",
     "date": "22 September 2026",
     "fetched_at": "2026-09-22T07:05:04.414160+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "cc8cd7ddce4ff8152a17fc9f7410caf58e83549cdec68cb21d4642ac2f90fe72"
+    "retries": 0,
+    "slug": "xiaomi_18_pro_series_camera_specs_and_samples_revealed_ahead_of_launch-news-74705",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_series_camera_specs_and_samples_revealed_ahead_of_launch-news-74705.php"
   },
   {
     "content_hash": "1687da26e7e60ce0eaea7254cdfb7ad7883c0c686e9d7b408be79a7f19eafce5",
