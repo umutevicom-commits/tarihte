@@ -1,53 +1,93 @@
 [
   {
-    "slug": "android_oems_pledge_allegiance_to_the_snapdragon_8_elite_gen_6_series-news-74723",
-    "url": "https://www.gsmarena.com/android_oems_pledge_allegiance_to_the_snapdragon_8_elite_gen_6_series-news-74723.php",
+    "slug": "xiaomi_18_pro_and_18_pro_max_arrive_with_latest_snapdragon_chips_privacy_displays_and_more_useful_re-news-74733",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_and_18_pro_max_arrive_with_latest_snapdragon_chips_privacy_displays_and_more_useful_re-news-74733.php",
+    "date": "23 September 2026",
+    "fetched_at": "2026-09-23T19:22:09.149024+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "83fe0c24473678032ba1c427558901cc7757fe83173ec28a03007036b047ba23"
+  },
+  {
+    "slug": "galaxy_tab_s12_and_s12_ultra_specs_leak__heres_what_will_be_upgraded-news-74731",
+    "url": "https://www.gsmarena.com/galaxy_tab_s12_and_s12_ultra_specs_leak__heres_what_will_be_upgraded-news-74731.php",
+    "date": "23 September 2026",
+    "fetched_at": "2026-09-23T19:21:31.644555+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "df4a753b6dcaafe9020657e4ec3027af2e683cf5c83d9e825934bfb2dd5c16a3"
+  },
+  {
+    "slug": "heres_the_oneplus_16s_antutu_score-news-74728",
+    "url": "https://www.gsmarena.com/heres_the_oneplus_16s_antutu_score-news-74728.php",
+    "date": "23 September 2026",
+    "fetched_at": "2026-09-23T19:21:18.083154+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "dcb05add44367fc631e8c0006af4163949d919b87c1f2cffc0a2055e7846fce6"
+  },
+  {
+    "slug": "apple_opens_a_600seat_live_music_venue_in_london-news-74729",
+    "url": "https://www.gsmarena.com/apple_opens_a_600seat_live_music_venue_in_london-news-74729.php",
+    "date": "23 September 2026",
+    "fetched_at": "2026-09-23T19:21:02.709393+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b26ef6ddc4602ada01e385d15fe9c24acdcccc4103d68f806d8427988ba35e8b"
+  },
+  {
+    "content_hash": "99fe95921eca4127200d29f44c818864e1d8c825f2c06d80189bc5e3ed168b3f",
     "date": "23 September 2026",
     "fetched_at": "2026-09-23T14:35:40.079398+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "99fe95921eca4127200d29f44c818864e1d8c825f2c06d80189bc5e3ed168b3f"
+    "retries": 0,
+    "slug": "android_oems_pledge_allegiance_to_the_snapdragon_8_elite_gen_6_series-news-74723",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/android_oems_pledge_allegiance_to_the_snapdragon_8_elite_gen_6_series-news-74723.php"
   },
   {
-    "slug": "the_3d_models_of_foldable_phones_on_our_site_can_now_be_opened_and_closed_heres_a_look-news-74724",
-    "url": "https://www.gsmarena.com/the_3d_models_of_foldable_phones_on_our_site_can_now_be_opened_and_closed_heres_a_look-news-74724.php",
+    "content_hash": "55ae89d2024662c5068ec9e5e0fd01057e2672398d501193d256e81597402c40",
     "date": "23 September 2026",
     "fetched_at": "2026-09-23T14:35:21.367456+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "55ae89d2024662c5068ec9e5e0fd01057e2672398d501193d256e81597402c40"
+    "retries": 0,
+    "slug": "the_3d_models_of_foldable_phones_on_our_site_can_now_be_opened_and_closed_heres_a_look-news-74724",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_3d_models_of_foldable_phones_on_our_site_can_now_be_opened_and_closed_heres_a_look-news-74724.php"
   },
   {
-    "slug": "motorola_unveils_signature_27_with_200mp_telephoto_camera_snapdragon_8_elite_extreme_gen_6-news-74726",
-    "url": "https://www.gsmarena.com/motorola_unveils_signature_27_with_200mp_telephoto_camera_snapdragon_8_elite_extreme_gen_6-news-74726.php",
+    "content_hash": "68146ea8cc3d5201c76b30590e40a2110015f37d54302443dd53142d33cf7a37",
     "date": "23 September 2026",
     "fetched_at": "2026-09-23T14:35:02.009352+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "68146ea8cc3d5201c76b30590e40a2110015f37d54302443dd53142d33cf7a37"
+    "retries": 0,
+    "slug": "motorola_unveils_signature_27_with_200mp_telephoto_camera_snapdragon_8_elite_extreme_gen_6-news-74726",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_unveils_signature_27_with_200mp_telephoto_camera_snapdragon_8_elite_extreme_gen_6-news-74726.php"
   },
   {
-    "slug": "the_huawei_watch_d3_is_now_available_in_europe_comes_with_a_free_smart_bathroom_scale-news-74727",
-    "url": "https://www.gsmarena.com/the_huawei_watch_d3_is_now_available_in_europe_comes_with_a_free_smart_bathroom_scale-news-74727.php",
+    "content_hash": "e3c1b09c93c3f0eb45aab164c3f0e6326d67f080dc34f1588ffb4dec58fc9952",
     "date": "23 September 2026",
     "fetched_at": "2026-09-23T14:34:37.910757+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e3c1b09c93c3f0eb45aab164c3f0e6326d67f080dc34f1588ffb4dec58fc9952"
+    "retries": 0,
+    "slug": "the_huawei_watch_d3_is_now_available_in_europe_comes_with_a_free_smart_bathroom_scale-news-74727",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_huawei_watch_d3_is_now_available_in_europe_comes_with_a_free_smart_bathroom_scale-news-74727.php"
   },
   {
-    "slug": "leak_threatens_major_price_hike_for_the_galaxy_tab_s12_ultra_and_tab_s12_in_india-news-74730",
-    "url": "https://www.gsmarena.com/leak_threatens_major_price_hike_for_the_galaxy_tab_s12_ultra_and_tab_s12_in_india-news-74730.php",
+    "content_hash": "16c2e14bc9b2f85ce47947c81ff2b099b81b4231fbec00f341cd9be9001a639e",
     "date": "23 September 2026",
     "fetched_at": "2026-09-23T14:34:15.776161+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "16c2e14bc9b2f85ce47947c81ff2b099b81b4231fbec00f341cd9be9001a639e"
+    "retries": 0,
+    "slug": "leak_threatens_major_price_hike_for_the_galaxy_tab_s12_ultra_and_tab_s12_in_india-news-74730",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/leak_threatens_major_price_hike_for_the_galaxy_tab_s12_ultra_and_tab_s12_in_india-news-74730.php"
   },
   {
     "content_hash": "0fed62806b58e6fae1101056868e995e4ef828a0574a23429f411c120a099818",
