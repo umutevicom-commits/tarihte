@@ -1,0 +1,41 @@
+# Realme Buds T500 Pro Harry Potter Sürümü uygulamalı
+
+Realme, Realme 15 Pro Game of Thrones Limited Edition akıllı telefon için geçen yıl Warner Bros. Discovery Global Consumer Products ile işbirliği yaptı. Bu hafta şirket, Harry Potter evreninden esinlenerek Warner Bros. ile ortaklaşa iki sınırlı sayıda ürünü daha tanıttı. Harry Potter tedavisi gören ürünler Realme 16 Pro ve Realme Buds T500 Pro TWS kulaklıklardır. Realme Buds T500 Pro Harry Potter Edition'ı aldık, bu yüzden nelerin sunulduğunu kontrol edelim.
+
+Bir akıllı telefon kutusu büyüklüğünde olan ve kulaklıklar için gördüğümüz en havalı perakende paketlerinden biri olan Realme Buds T500 Pro Harry Potter Edition'ın perakende paketini açarak başlayalım. Üzerinde Realme ve Harry Potter logolarının yanı sıra Hogwarts Cadılık ve Büyücülük Okulu'nun 4 evini temsil eden hayvanları içeren Hogwarts arması var. Ayrıca, armanın altında "Uyuyan bir ejderhayı asla gıdıklama" anlamına gelen Latince "Draco Dormiens Nunquam Titillandus" ifadesini gösteren bir pankart da görebilirsiniz.
+
+Paket ve içeriği, Realme tarafından "Sihirli Kahverengi" olarak adlandırılan kahverengi - altın renk temasına sahiptir. Kutu, Realme Buds T500 Pro Harry Potter Edition, bir kulaklık kılıfı, kılıf için bir kordon ve kullanım kılavuzu ve garanti kartı için bir kap ile birlikte gelir. Ayrıca farklı boyutlarda birkaç ekstra kulak ucu da elde edersiniz.
+
+Realme Buds T500 Pro Harry Potter Edition'ın şarj kutusu, birinci sınıf bir el hissi veren suni deri kaplamaya sahiptir. Ayrıca tutuşu iyileştirir ve parmak izi lekelerine karşı dayanıklıdır. Hoşumuza gitti.
+
+Şarj kutusunun ön tarafında, altında bir LED göstergesi bulunan parlak bir Hogwarts arması bulunur. Kutuyu çevirdiğinde parlak bir Harry Potter logosu ve bir USB - C şarj bağlantı noktası görürsün. Kapağın menteşesinde “Hogwarts'a Hoş Geldiniz” yazısını da görebilirsiniz. Şarj kutusunun sağ tarafında bir kordon konektörü ve üstte Realme logosu bulunur.
+
+Realme Buds T500 Pro Harry Potter Sürümü
+
+Kulakiçi kulaklıklar kahverengi - altın renginde bir temaya sahiptir ve gövdesinde 'H' harfi bulunur. Gövdeler parlak, yansıtıcı ve parlaktır ve kolayca lekelenirler, bozulmadan kalmaları için sürekli silmeleri gerekir.
+
+Dikkatimizi oldukça havalı görünen bavul tarzı kulaklık kılıfına çevirelim. Deri benzeri bir cilaya ve taşıma için üstte küçük bir sapa sahiptir. Hogwarts arması ön tarafta yer alırken, sol ve sağ taraftaki ilmekler kordonu takmanıza izin verir.
+
+O kordon da sıradan değil. Daha çok Hogwarts arması ve Harry Potter'ın baykuşu Hedwig'in takılı olduğu üniversite tarzı örme çapraz vücut kayışı.
+
+Realme Buds T500 Pro Harry Potter Edition ile ilgili hemen hemen her şey bu kadar. Özellikleri standart Buds T500 Pro ile aynıdır, ancak maliyeti daha yüksektir. Hindistan'da, Çikolata, Limon Kola ve Turuncu Nane renklerinde gelen standart Buds T500 Pro'nun fiyatı 3.199 INR iken, Harry Potter Edition'ın fiyatı 6.999 INR'dir. Realme'nin resmi Hindistan web sitesinden satın alınabilir.
+
+---
+
+## Görseller
+
+![Realme Buds T500 Pro Harry Potter Edition hands-on](https://umutevicom-commits.github.io/tarihte/data/images/realme_buds_t500_pro_harry_potter_edition_hands_on-news-74712/immaculate_001.jpg)
+
+![Realme Buds T500 Pro Harry Potter Edition hands-on](https://umutevicom-commits.github.io/tarihte/data/images/realme_buds_t500_pro_harry_potter_edition_hands_on-news-74712/immaculate_002.jpg)
+
+![Realme Buds T500 Pro Harry Potter Edition hands-on](https://umutevicom-commits.github.io/tarihte/data/images/realme_buds_t500_pro_harry_potter_edition_hands_on-news-74712/immaculate_003.jpg)
+
+![Realme Buds T500 Pro Harry Potter Edition](https://umutevicom-commits.github.io/tarihte/data/images/realme_buds_t500_pro_harry_potter_edition_hands_on-news-74712/immaculate_004.jpg)
+
+![Realme Buds T500 Pro Harry Potter Edition](https://umutevicom-commits.github.io/tarihte/data/images/realme_buds_t500_pro_harry_potter_edition_hands_on-news-74712/immaculate_005.jpg)
+
+![Realme Buds T500 Pro Harry Potter Edition](https://umutevicom-commits.github.io/tarihte/data/images/realme_buds_t500_pro_harry_potter_edition_hands_on-news-74712/immaculate_006.jpg)
+
+![Realme Buds T500 Pro Harry Potter Edition hands-on](https://umutevicom-commits.github.io/tarihte/data/images/realme_buds_t500_pro_harry_potter_edition_hands_on-news-74712/immaculate_007.jpg)
+
+![Realme Buds T500 Pro Harry Potter Edition hands-on](https://umutevicom-commits.github.io/tarihte/data/images/realme_buds_t500_pro_harry_potter_edition_hands_on-news-74712/immaculate_008.jpg)
