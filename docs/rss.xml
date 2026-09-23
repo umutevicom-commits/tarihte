@@ -6,7 +6,41 @@
     <atom:link href="https://www.gsmarena.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>GSMArena haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 23 Sep 2026 19:22:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 22:35:17 +0000</lastBuildDate>
+    <item>
+      <title>Pahalı 1 TB ve 2 TB iPhone 18 Pro ve Pro Max'in çok yavaş bellek kullandığı tespit edildi</title>
+      <link>https://www.gsmarena.com/the_pricey_1tb_and_2tb_iphone_18_pro_and_pro_max_use_very_slow_memory-news-74725.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/the_pricey_1tb_and_2tb_iphone_18_pro_and_pro_max_use_very_slow_memory-news-74725.php</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Peter</author>
+      <category>Öne Çıkanlar</category><category>Apple</category><category>iOS</category><category>Mobil donanım</category>
+      <description>Geçen yıl iPhone 17 Pro ve Pro Max, 2 TB depolama katmanını tanıttı. Tıpkı onlar gibi, iPhone 18 Pro ve iPhone 18 Pro Max dört konfigürasyonda mevcuttur: 256GB, 512GB, 1TB ve 2TB. Bununla birlikte, bir şeyler değişmiştir ve kullanılan depolama türüdür. BiliBili'deki bir videoda Homolab, biri 512 GB depolama alanına ve biri 1 TB depolama alanına sahip iki 18 Pro Max telefonunu karşılaştırdı.</description>
+      <content:encoded><![CDATA[<p>Geçen yıl iPhone 17 Pro ve Pro Max, 2 TB depolama katmanını tanıttı. Tıpkı onlar gibi, iPhone 18 Pro ve iPhone 18 Pro Max dört konfigürasyonda mevcuttur: 256GB, 512GB, 1TB ve 2TB. Bununla birlikte, bir şeyler değişmiştir ve kullanılan depolama türüdür. BiliBili'deki bir videoda Homolab, biri 512 GB depolama alanına ve biri 1 TB depolama alanına sahip iki 18 Pro Max telefonunu karşılaştırdı.</p>
+<p>Görünüşe göre, 256GB ve 512GB Pro modelleri TLC flaş kullanıyor – her bellek hücresi üç bite sığıyor. Bununla birlikte, 1 TB ve 2 TB modelleri QLC kullanır – bellek hücresi başına dört bit. QLC'nin yavaş olduğu biliniyor, bu nedenle Apple hızlı bir SLC önbelleği (hücre başına bir bit), ardından bir TLC önbelleği ve ardından QLC toplu depolama ekledi.</p>
+<p>Bu işe yaramayana kadar işe yarar. Testlerde, SLC önbelleği 3.000 MB/sn'ye kadar yazma hızlarını koruyabilir. Ancak doldurulduktan sonra, telefon TLC önbelleğine yazmaya başlar, bu da 578 MB/sn'de daha yavaş ancak yine de saygındır. Ve her iki önbellek seviyesi de dolduğunda, telefon yalnızca 79,4 MB/sn'yi 25,6 MB/sn'ye kadar olan düşüşlerle yöneten QLC depolama alanına gider.</p>
+<p>Bu, depolama alanı boşken, SLC önbelleği 250 GB olduğunda gerçekleşir. Ancak depolama alanı dolmaya başladığında, önbelleğin boyutu küçülür – kullanılan % 60 depolama alanında, SLC önbelleği yalnızca 58 GB'dir. TLC ve QLC bellekleri benzer şekilde dolar ve yavaşlar.</p>
+<p>Homolab'ın kullanılan % 60 depolama alanındaki ölçümleri, TLC önbelleği için 396 MB/sn ve QLC depolaması için berbat bir 1.1MB/s göstermektedir. Yine, bu sürekli yazılar içindir.</p>
+<p>Rastgele erişimde de bir fark vardır. QLC'li 1 TB iPhone 18 Pro Max, 4K rastgele okumalarda 512 GB TLC modeline göre % 38 daha yavaştı. Bu, düşük sıra derinliklerindedir. Daha fazla süreç depolama alanından veri talep etmeye başladığında, QLC modeli boşluğu % 12 'ye kapatır, ancak yine de TLC muadilinden daha yavaştır.</p>
+<p>Normalde, iş yükü farklı NAND yongaları arasında bölünebildiğinden, flash depolama kapasitesi arttıkça daha hızlı hale gelir. Bununla birlikte, bu yalnızca benzer depolama alanlarını karşılaştırırken geçerlidir. SLC en hızlısıdır, ancak pahalıdır. MLC, TLC ve QLC çip başına daha fazla bit paketler, bu nedenle belirli bir kapasite için daha az maliyetlidirler, ancak ödünleşim daha düşük hızlarıdır.</p>
+<p>Her neyse, bunlar sentetik testler ve en pahalı iPhone modelleri için QLC kullanmanın gerçek dünyadaki etkisinin ne olacağı henüz belli değil. Ve evet, iPhone 17 Pro ve Pro Max, 1 TB ve 2 TB seviyelerinde bile TLC kullandı. Tabii ki, bu hafıza altından daha pahalı hale gelmeden önceydi.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_pricey_1tb_and_2tb_iphone_18_pro_and_pro_max_use_very_slow_memory-news-74725/immaculate_002.jpg" alt="The pricey 1TB and 2TB iPhone 18 Pro and Pro Max use very slow memory" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_pricey_1tb_and_2tb_iphone_18_pro_and_pro_max_use_very_slow_memory-news-74725/immaculate_001.jpg" alt="The pricey 1TB and 2TB iPhone 18 Pro and Pro Max use very slow memory" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_pricey_1tb_and_2tb_iphone_18_pro_and_pro_max_use_very_slow_memory-news-74725/immaculate_003.jpg" alt="The pricey 1TB and 2TB iPhone 18 Pro and Pro Max use very slow memory" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Samsung'un Galaxy S26 serisi için One UI 9 güncellemesi ABD'ye ulaştı</title>
+      <link>https://www.gsmarena.com/samsungs_one_ui_9_update_for_the_galaxy_s26_series_reaches_the_us-news-74735.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/samsungs_one_ui_9_update_for_the_galaxy_s26_series_reaches_the_us-news-74735.php</guid>
+      <pubDate>Wed, 23 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Vlad</author>
+      <category>Öne Çıkanlar</category><category>Samsung</category><category>Android</category><category>AYGIT YAZILIMI GÜNCELLEMELERİ</category>
+      <description>Bir hafta önce Samsung, Galaxy S26, Galaxy S26 + ve Galaxy S26 Ultra için Android 17 tabanlı One UI 9 'un piyasaya sürüldüğünü resmen duyurdu. Güncelleme başlangıçta yalnızca Güney Kore'de mevcuttu, ancak bugün bu durum değişiyor.</description>
+      <content:encoded><![CDATA[<p>Bir hafta önce Samsung, Galaxy S26, Galaxy S26 + ve Galaxy S26 Ultra için Android 17 tabanlı One UI 9 'un piyasaya sürüldüğünü resmen duyurdu. Güncelleme başlangıçta yalnızca Güney Kore'de mevcuttu, ancak bugün bu durum değişiyor.</p>
+<p>Galaxy S26 üçlüsü artık ABD'de de One UI 9 güncellemesini alıyor. İlk taşıyıcı versiyonları T - Mobile'dır. 4.1GB'lık bir indirme olarak havadan geliyor.</p>
+<p>Güncellemeyi yükledikten sonra, telefonunuz Android 17 'yi One UI 9 ile çalıştıracak ve yapı numarası &quot;BZID&quot; ile bitecektir. Şimdi T - Mobile taşkın kapaklarını açtığına göre, şüphesiz AT&amp;T ve Verizon da yakında güncellemenin kendi sürümlerini yayınlayarak davayı takip edecekler.</p>
+<p>Bir UI 9, geniş bir görüntü kaydetmenizi sağlayan My FanCam'i getiriyor, ardından Galeriden videodaki bir kişiyi seçerek Galaxy AI'nın hareketlerini izlemesini ve görüntüleri seçtiğiniz en boy oranında konu odaklı bir videoya dönüştürmesini sağlıyor. Samsung ayrıca, üretken yapay zeka ile Now Brief kartları oluşturabileceğinizi ve düzenleyebileceğinizi, Now Nudge'ı daha az adımla kullanabileceğinizi ve Creative Studio, Tercüman, Belge Tarama ve Ses Kaydedici'de iyileştirmeler bekleyebileceğinizi söylüyor. Ayarlar'da da yeni bir Garanti ve Bakım menüsü var.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsungs_one_ui_9_update_for_the_galaxy_s26_series_reaches_the_us-news-74735/immaculate_001.jpg" alt="Samsung's One UI 9 update for the Galaxy S26 series reaches the US" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Xiaomi 18 Pro ve 18 Pro Max, en yeni Snapdragon çipleri, gizlilik ekranları ve daha kullanışlı arka ekranlarla geliyor</title>
       <link>https://www.gsmarena.com/xiaomi_18_pro_and_18_pro_max_arrive_with_latest_snapdragon_chips_privacy_displays_and_more_useful_re-news-74733.php</link>
@@ -1403,35 +1437,6 @@
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/lava_bold_n4_pro_is_official_with_a_6000_mah_battery_heres_when_it_goes_on_sale-news-74673/immaculate_003.jpg" alt="Lava Bold N4 Pro is official with a 6,000 mAh battery, here's when it goes on sale" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/lava_bold_n4_pro_is_official_with_a_6000_mah_battery_heres_when_it_goes_on_sale-news-74673/immaculate_002.jpg" alt="Lava Bold N4 Pro is official with a 6,000 mAh battery, here's when it goes on sale" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/lava_bold_n4_pro_is_official_with_a_6000_mah_battery_heres_when_it_goes_on_sale-news-74673/immaculate_001.jpg" alt="Lava Bold N4 Pro is official with a 6,000 mAh battery, here's when it goes on sale" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Oppo K14 serisi Hindistan'da yeni bir Plus varyantına kavuşuyor</title>
-      <link>https://www.gsmarena.com/oppo_k14_lineup_is_getting_a_new_plus_variant_in_india-news-74671.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/oppo_k14_lineup_is_getting_a_new_plus_variant_in_india-news-74671.php</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Siddharth</author>
-      <category>Öne Çıkanlar</category><category>OPPO</category><category>Android</category>
-      <description>Oppo K14 serisi Hindistan'da yeni bir üye kazanmaya hazırlanıyor. K14 Lite'ın son lansmanının ardından, şirket şimdi yeni bir K14 Plus varyantını tanıtmaya başladı. Kadroda ayrıca K14 ve K14x de yer alıyor.</description>
-      <content:encoded><![CDATA[<p>Oppo K14 serisi Hindistan'da yeni bir üye kazanmaya hazırlanıyor. K14 Lite'ın son lansmanının ardından, şirket şimdi yeni bir K14 Plus varyantını tanıtmaya başladı. Kadroda ayrıca K14 ve K14x de yer alıyor.</p>
-<p>Oppo, yeni akıllı telefonun lansmanını sosyal medyada yaptı, ancak şirket henüz çok fazla ayrıntı açıklamadı.</p>
-<p>Teaser görüntüsü, K14 Plus'ın en azından Turuncu ve Gri renklerde mevcut olacağını gösteriyor. Telefonun düz bir çerçevesi de var gibi görünüyor.</p>
-<p>Bu arada Flipkart, telefon için özel bir mikro site başlattı ve K14 Plus'ın çevrimiçi perakendeci aracılığıyla satın alınabileceğini öne sürdü.</p>
-<p>Plus lakabı, yaklaşmakta olan telefonun serideki diğer modellere kıyasla daha büyük bir pil veya ekrana sahip olabileceğini gösteriyor.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oppo_k14_lineup_is_getting_a_new_plus_variant_in_india-news-74671/immaculate_001.jpg" alt="Oppo K14 lineup is getting a new Plus variant in India" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OnePlus 16 'nın ana özellikleri sızdırıldı</title>
-      <link>https://www.gsmarena.com/oneplus_16s_main_specs_leak-news-74674.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/oneplus_16s_main_specs_leak-news-74674.php</guid>
-      <pubDate>Fri, 18 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Vlad</author>
-      <category>Öne Çıkanlar</category><category>OnePlus</category><category>Android</category><category>Söylentiler</category>
-      <description>OnePlus, 165Hz küresel yenileme hızı ekranını onaylayarak birkaç gün önce yaklaşan OnePlus 16 'yı tanıtmaya başladı. Bugün, Weibo'daki üretken Dijital Sohbet İstasyonu'ndan gelen yeni bir sızıntı, cihazın ana özelliklerini tam olarak ortaya koyuyor.</description>
-      <content:encoded><![CDATA[<p>OnePlus, 165Hz küresel yenileme hızı ekranını onaylayarak birkaç gün önce yaklaşan OnePlus 16 'yı tanıtmaya başladı. Bugün, Weibo'daki üretken Dijital Sohbet İstasyonu'ndan gelen yeni bir sızıntı, cihazın ana özelliklerini tam olarak ortaya koyuyor.</p>
-<p>Snapdragon 8 Elite Gen 6 Pro yonga seti ile güçlendirilecek. Yenileme hızı aslında belirli oyunlarda 185Hz'e kadar çıkacaktır. Telefon, 100W kablolu ve 50W kablosuz şarj desteği ile 9.000 mAh bataryaya sahip olacak.</p>
-<p>Arkada 1/1.4 inç sensörlü 200MP ana kamera, 50MP ultra genişlik ve 1/1.95 inç sensörlü 50MP periskop telefoto kamera olacaktır. Sızıntı yapan kişi, telefonun kulağa ilginç gelen &quot;oldukça şık&quot; bir tasarıma sahip olduğunu iddia ediyor.</p>
-<p>Önceki söylentiler, ekranın boyutunu 6,78&quot;ve çözünürlüğünü&quot; 1,5K &quot;olarak belirledi. OnePlus 16, ilk günden itibaren Android 17 tabanlı ColorOS 17 'yi çalıştıracak.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_16s_main_specs_leak-news-74674/immaculate_001.jpg" alt="OnePlus 15" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>

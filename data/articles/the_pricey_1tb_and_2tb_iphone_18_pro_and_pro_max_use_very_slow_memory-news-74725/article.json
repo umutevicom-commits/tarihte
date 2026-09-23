@@ -1,0 +1,57 @@
+{
+  "url": "https://www.gsmarena.com/the_pricey_1tb_and_2tb_iphone_18_pro_and_pro_max_use_very_slow_memory-news-74725.php",
+  "slug": "the_pricey_1tb_and_2tb_iphone_18_pro_and_pro_max_use_very_slow_memory-news-74725",
+  "title": "The pricey 1TB and 2TB iPhone 18 Pro and Pro Max found to use very slow memory",
+  "news_id": "74725",
+  "date": "23 September 2026",
+  "author": "Peter",
+  "tags": [
+    "Featured",
+    "Apple",
+    "iOS",
+    "Mobile hardware"
+  ],
+  "body_paragraphs": [
+    "The iPhone 17 Pro and Pro Max last year introduced a 2TB storage tier. Just like them, the iPhone 18 Pro and iPhone 18 Pro Max are available in four configurations: 256GB, 512GB, 1TB and 2TB. Something has changed, however, and it is the type of storage used. In a video on BiliBili, Homolab compared two 18 Pro Max phones, one with 512GB storage and one with 1TB.",
+    "Apparently, the 256GB and 512GB Pro models use TLC flash – each memory cell fits three bits. However, the 1TB and 2TB models use QLC – four bits per memory cell. QLC is known to be slow, so Apple added a fast SLC cache (one bit per cell), followed by a TLC cache and then the QLC bulk storage.",
+    "That works well until it doesn’t. In the tests, the SLC cache could sustain write speeds of up to 3,000MB/s. But once it’s filled up, the phone starts writing to its TLC cache, which is slower but still respectable at 578MB/s. And once both levels of cache are full, the phone goes to the QLC storage that only manages 79.4MB/s with dips to 25.6MB/s.",
+    "This is while the storage is empty, when the SLC cache is 250GB. But once storage starts to fill up, the size of the cache shrinks – at 60% storage used, the SLC cache is only 58GB. The TLC and QLC memories get similarly filled up and they become slower too.",
+    "Homolab’s measurements at 60% storage used show 396MB/s for the TLC cache and an abysmal 1.1MB/s for the QLC storage. Again, this is for sustained writes.",
+    "There is a difference in random access too. The 1TB iPhone 18 Pro Max with QLC was 38% slower in 4K random reads than the 512GB TLC model. This is at low queue depths. Once more processes start requesting data from the storage, the QLC model closes the gap to 12%, but it is still slower than its TLC counterpart.",
+    "Normally, flash storage gets faster as its capacity grows as the workload can be split between different NAND chips. However, this only holds true when comparing storage like for like. SLC is the fastest, but it’s expensive. MLC, TLC and QLC pack more bits per chip, so they cost less for a given capacity, but the trade-off is their lower speed.",
+    "Anyway, these are synthetic tests and it remains to be seen what the real-world impact of using QLC for the priciest iPhone models will be. And yes, the iPhone 17 Pro and Pro Max used TLC even at the 1TB and 2TB tiers. Of course, that was before memory became more expensive than gold."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/the_pricey_1tb_and_2tb_iphone_18_pro_and_pro_max_use_very_slow_memory-news-74725/immaculate_002.jpg",
+      "alt": "The pricey 1TB and 2TB iPhone 18 Pro and Pro Max use very slow memory"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/the_pricey_1tb_and_2tb_iphone_18_pro_and_pro_max_use_very_slow_memory-news-74725/immaculate_001.jpg",
+      "alt": "The pricey 1TB and 2TB iPhone 18 Pro and Pro Max use very slow memory"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/the_pricey_1tb_and_2tb_iphone_18_pro_and_pro_max_use_very_slow_memory-news-74725/immaculate_003.jpg",
+      "alt": "The pricey 1TB and 2TB iPhone 18 Pro and Pro Max use very slow memory"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-23T22:34:57.370586+00:00",
+  "title_tr": "Pahalı 1 TB ve 2 TB iPhone 18 Pro ve Pro Max'in çok yavaş bellek kullandığı tespit edildi",
+  "body_paragraphs_tr": [
+    "Geçen yıl iPhone 17 Pro ve Pro Max, 2 TB depolama katmanını tanıttı. Tıpkı onlar gibi, iPhone 18 Pro ve iPhone 18 Pro Max dört konfigürasyonda mevcuttur: 256GB, 512GB, 1TB ve 2TB. Bununla birlikte, bir şeyler değişmiştir ve kullanılan depolama türüdür. BiliBili'deki bir videoda Homolab, biri 512 GB depolama alanına ve biri 1 TB depolama alanına sahip iki 18 Pro Max telefonunu karşılaştırdı.",
+    "Görünüşe göre, 256GB ve 512GB Pro modelleri TLC flaş kullanıyor – her bellek hücresi üç bite sığıyor. Bununla birlikte, 1 TB ve 2 TB modelleri QLC kullanır – bellek hücresi başına dört bit. QLC'nin yavaş olduğu biliniyor, bu nedenle Apple hızlı bir SLC önbelleği (hücre başına bir bit), ardından bir TLC önbelleği ve ardından QLC toplu depolama ekledi.",
+    "Bu işe yaramayana kadar işe yarar. Testlerde, SLC önbelleği 3.000 MB/sn'ye kadar yazma hızlarını koruyabilir. Ancak doldurulduktan sonra, telefon TLC önbelleğine yazmaya başlar, bu da 578 MB/sn'de daha yavaş ancak yine de saygındır. Ve her iki önbellek seviyesi de dolduğunda, telefon yalnızca 79,4 MB/sn'yi 25,6 MB/sn'ye kadar olan düşüşlerle yöneten QLC depolama alanına gider.",
+    "Bu, depolama alanı boşken, SLC önbelleği 250 GB olduğunda gerçekleşir. Ancak depolama alanı dolmaya başladığında, önbelleğin boyutu küçülür – kullanılan % 60 depolama alanında, SLC önbelleği yalnızca 58 GB'dir. TLC ve QLC bellekleri benzer şekilde dolar ve yavaşlar.",
+    "Homolab'ın kullanılan % 60 depolama alanındaki ölçümleri, TLC önbelleği için 396 MB/sn ve QLC depolaması için berbat bir 1.1MB/s göstermektedir. Yine, bu sürekli yazılar içindir.",
+    "Rastgele erişimde de bir fark vardır. QLC'li 1 TB iPhone 18 Pro Max, 4K rastgele okumalarda 512 GB TLC modeline göre % 38 daha yavaştı. Bu, düşük sıra derinliklerindedir. Daha fazla süreç depolama alanından veri talep etmeye başladığında, QLC modeli boşluğu % 12 'ye kapatır, ancak yine de TLC muadilinden daha yavaştır.",
+    "Normalde, iş yükü farklı NAND yongaları arasında bölünebildiğinden, flash depolama kapasitesi arttıkça daha hızlı hale gelir. Bununla birlikte, bu yalnızca benzer depolama alanlarını karşılaştırırken geçerlidir. SLC en hızlısıdır, ancak pahalıdır. MLC, TLC ve QLC çip başına daha fazla bit paketler, bu nedenle belirli bir kapasite için daha az maliyetlidirler, ancak ödünleşim daha düşük hızlarıdır.",
+    "Her neyse, bunlar sentetik testler ve en pahalı iPhone modelleri için QLC kullanmanın gerçek dünyadaki etkisinin ne olacağı henüz belli değil. Ve evet, iPhone 17 Pro ve Pro Max, 1 TB ve 2 TB seviyelerinde bile TLC kullandı. Tabii ki, bu hafıza altından daha pahalı hale gelmeden önceydi."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "iOS",
+    "Mobil donanım"
+  ]
+}
