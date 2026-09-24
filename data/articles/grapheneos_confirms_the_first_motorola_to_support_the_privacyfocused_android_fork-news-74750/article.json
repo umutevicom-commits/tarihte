@@ -1,0 +1,53 @@
+{
+  "url": "https://www.gsmarena.com/grapheneos_confirms_the_first_motorola_to_support_the_privacyfocused_android_fork-news-74750.php",
+  "slug": "grapheneos_confirms_the_first_motorola_to_support_the_privacyfocused_android_fork-news-74750",
+  "title": "GrapheneOS confirms the first Motorola to support the privacy-focused Android fork",
+  "news_id": "74750",
+  "date": "24 September 2026",
+  "author": "Peter",
+  "tags": [
+    "Featured",
+    "Motorola",
+    "Android",
+    "GrapheneOS"
+  ],
+  "body_paragraphs": [
+    "This March, GrapheneOS announced a partnership with Motorola. This Android fork has an uncompromising focus on security and privacy to the point where it only supports a limited number of phones – if a phone is missing a hardware feature that is vital for security, it doesn’t get a GrapheneOS port.",
+    "Naturally, the expectation that the new Motorola Signature 27 will become the first Moto to support this fork was met with the cloud of doubt. Well, doubt no more – the official GrapheneOS account on X confirmed that the new Signature will become the first Motorola phone to be supported.",
+    "However, the team needs more time before making the official announcement, so there are more details coming.",
+    "Motorola Signature 27",
+    "If you’ve been following the project, you know that this is a big deal – and if not, the Signature 27 will be the first non-Pixel device to be supported. Here’s the current list of phones that can run GrapheneOS – long story short, it’s the Pixel 6 through to the Pixel 10 (including a-models).",
+    "If you’re wondering “what about the new Pixel 11 models?”, well, there was some misunderstanding over whether the Tensor G6 supports the Memory Tagging Extension (MTE). This extension helps catch memory safety bugs and the GrapheneOS team considers it a must-have. As it turned out, the G6 chip does support MTE but the feature was disabled in hardware.",
+    "Anyway, the Motorola Signature 27 is powered by the latest Snapdragon 8 Elite Extreme Gen 6, which does support MTE. The phone hasn’t been fully unveiled yet, but it will have a 50MP main camera (1/1.28” Sony Lytia 910 sensor) and a 200MP periscope, plus a speaker system by Bang & Olufsen. The phone is slated for 7 years of OS updates.",
+    "You should know that GrapheneOS sandboxes Google Play services. Most aps run just fine, though. Other Motorola phones are expected to join the party, but we don’t know for sure which ones yet – as you saw, they have to meet pretty strict requirements."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/grapheneos_confirms_the_first_motorola_to_support_the_privacyfocused_android_fork-news-74750/immaculate_003.jpg",
+      "alt": ""
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/grapheneos_confirms_the_first_motorola_to_support_the_privacyfocused_android_fork-news-74750/immaculate_004.jpg",
+      "alt": ""
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-24T19:38:11.685537+00:00",
+  "title_tr": "GrapheneOS, gizlilik odaklı Android çatalını destekleyen ilk Motorola'yı onayladı",
+  "body_paragraphs_tr": [
+    "Bu Mart ayında GrapheneOS, Motorola ile bir ortaklık duyurdu. Bu Android çatalı, yalnızca sınırlı sayıda telefonu desteklediği noktaya kadar güvenlik ve gizliliğe tavizsiz bir şekilde odaklanmıştır – bir telefonda güvenlik için hayati önem taşıyan bir donanım özelliği yoksa, GrapheneOS bağlantı noktası yoktur.",
+    "Doğal olarak, yeni Motorola Signature 27 'nin bu çatalı destekleyen ilk Moto olacağı beklentisi şüphe bulutuyla karşılandı. Artık şüphe yok – X'teki resmi GrapheneOS hesabı, yeni Signature'ın desteklenecek ilk Motorola telefonu olacağını doğruladı.",
+    "Ancak, ekibin resmi duyuruyu yapmadan önce daha fazla zamana ihtiyacı var, bu nedenle daha fazla ayrıntı geliyor.",
+    "Motorola Signature 27",
+    "Projeyi takip ediyorsanız, bunun büyük bir sorun olduğunu biliyorsunuz – ve eğer değilse, Signature 27 desteklenen ilk Pixel olmayan cihaz olacaktır. İşte GrapheneOS'u çalıştırabilen telefonların mevcut listesi – uzun lafın kısası, Pixel 6 'dan Pixel 10' a (a - modelleri dahil) kadar.",
+    "\"Peki ya yeni Pixel 11 modelleri ?\" diye merak ediyorsanız, Tensor G6 'nın Bellek Etiketleme Uzantısını (MTE) destekleyip desteklemediği konusunda bazı yanlış anlamalar vardı. Bu uzantı, bellek güvenliği hatalarını yakalamaya yardımcı olur ve GrapheneOS ekibi bunu olmazsa olmaz olarak görür. Görüldüğü gibi, G6 yongası MTE'yi destekliyor ancak özellik donanımda devre dışı bırakıldı.",
+    "Her neyse, Motorola Signature 27, MTE'yi destekleyen en yeni Snapdragon 8 Elite Extreme Gen 6 tarafından desteklenmektedir. Telefon henüz tam olarak açıklanmadı, ancak 50MP ana kameraya (1/1.28” Sony Lytia 910 sensörü) ve 200MP periskopun yanı sıra Bang & Olufsen tarafından bir hoparlör sistemine sahip olacak. Telefon, 7 yıllık işletim sistemi güncellemeleri için tasarlandı.",
+    "GrapheneOS'un Google Play hizmetlerini kum havuzlarına taşıdığını bilmelisiniz. Yine de çoğu aps gayet iyi çalışıyor. Diğer Motorola telefonlarının da partiye katılması bekleniyor, ancak hangilerinin olduğundan henüz emin değiliz – gördüğünüz gibi, oldukça katı gereksinimleri karşılamak zorundalar."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Motorola",
+    "Android",
+    "GrapheneOS"
+  ]
+}

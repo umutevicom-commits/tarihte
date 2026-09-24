@@ -3029,6 +3029,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/oppo_starts_blind_find_x10_series_preorders_in_the_uk_with_tons_of_freebies-news-74738.php"
   },
+  "74739": {
+    "content_hash": "0ae7d22bdaa813617c89bbc3cfe796169a7b1399d1a80e9cef6b3449998b1587",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T19:43:09.219926+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_s2_fe_specs_and_images_leak_10000_mah_battery_takes_the_spotlight-news-74739",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_s2_fe_specs_and_images_leak_10000_mah_battery_takes_the_spotlight-news-74739.php"
+  },
   "74741": {
     "content_hash": "a9f7b9ab1e984c53e6e1a7ab971c137b18b31433bfd8558e61ad6346230eb050",
     "date": "24 September 2026",
@@ -3048,5 +3058,95 @@
     "slug": "vivo_v80_hands_on_camera_samples-news-74742",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_v80_hands_on_camera_samples-news-74742.php"
+  },
+  "74743": {
+    "content_hash": "03e7925a065d91b9cbedbf4aaabd9899243f302ebcd0f57fc37a9e17149b77eb",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T19:38:47.655356+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_16_complete_camera_hardware_detailed-news-74743",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_16_complete_camera_hardware_detailed-news-74743.php"
+  },
+  "74744": {
+    "content_hash": "c8d621fc8b90d820049f8c02287f5f9816a3502298d13b990e61fc2830c4a0c7",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T19:41:32.464548+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "meta_muse_charm_is_a_standalone_ai_device_coming_later_this_year_-news-74744",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/meta_muse_charm_is_a_standalone_ai_device_coming_later_this_year_-news-74744.php"
+  },
+  "74745": {
+    "content_hash": "06bf793e3a04e128bf9951f684a2d08c60e54882baef18f0960b9015223b9ef8",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T19:40:30.098875+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_is_fixing_a_nasty_iphone_18_pro_and_iphone_18_pro_max_bug-news-74745",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_is_fixing_a_nasty_iphone_18_pro_and_iphone_18_pro_max_bug-news-74745.php"
+  },
+  "74746": {
+    "content_hash": "38193229e5d0c93958fa5839fe64fa2ff8d2985028a80df346bc0f62d6928d2e",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T19:40:40.317845+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_pro_and_xiaomi_18_pro_max_are_going_global_the_company_confirms-news-74746",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_are_going_global_the_company_confirms-news-74746.php"
+  },
+  "74747": {
+    "content_hash": "64e5009cc1fc17d9b6f0377f398427e036f82292013e10892cc519be2928fdb0",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T19:39:26.083354+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "microsoft_unveils_surface_pro_12_tablet_and_surface_laptop_13_with_snapdragon_x2_plus-news-74747",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/microsoft_unveils_surface_pro_12_tablet_and_surface_laptop_13_with_snapdragon_x2_plus-news-74747.php"
+  },
+  "74748": {
+    "content_hash": "a3948016d585f99d80d16f24e37dd6eb1dbc997bbb4f2e4ad99ca94c00d17ed7",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T19:39:01.116616+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_new_snapdragon_sound_elite_gen_2_is_a_chip_for_cameraequipped_headphones-news-74748",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_new_snapdragon_sound_elite_gen_2_is_a_chip_for_cameraequipped_headphones-news-74748.php"
+  },
+  "74749": {
+    "content_hash": "412dfb3ed9c9d69bcfcd4101df1bb2f156fec82f137774806a8424290c5f9f34",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T19:40:11.183864+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_x9e_pro_arrives_with_11000mah_battery_and_snapdragon_6_gen_5_chip-news-74749",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_x9e_pro_arrives_with_11000mah_battery_and_snapdragon_6_gen_5_chip-news-74749.php"
+  },
+  "74750": {
+    "content_hash": "ec0d644a9adb1508a4be3702361870d8a1f43d7c0e9a216bab7b820695c4d6c4",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T19:38:11.685537+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "grapheneos_confirms_the_first_motorola_to_support_the_privacyfocused_android_fork-news-74750",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/grapheneos_confirms_the_first_motorola_to_support_the_privacyfocused_android_fork-news-74750.php"
+  },
+  "74759": {
+    "content_hash": "8d59d4ad97ed0878c26ee6df216d1586ba4e87d0940ca3897f470b119993d31a",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T19:38:34.217783+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "verizon_finally_launches_the_motorola_razr_fold_razr_2026_and_razr_2026_with_swarovski_crystals-news-74759",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/verizon_finally_launches_the_motorola_razr_fold_razr_2026_and_razr_2026_with_swarovski_crystals-news-74759.php"
   }
 }
