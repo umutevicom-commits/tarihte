@@ -3139,6 +3139,26 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/grapheneos_confirms_the_first_motorola_to_support_the_privacyfocused_android_fork-news-74750.php"
   },
+  "74752": {
+    "content_hash": "22de3b63c90a84d45d9ac80436464d635852f594fb4363dd8c94c3d73ed671d4",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T22:51:37.705781+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "disney_plus_hulu_price_hike-news-74752",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/disney_plus_hulu_price_hike-news-74752.php"
+  },
+  "74758": {
+    "content_hash": "3523885aacd78f066699f3160ab15c94838060b4e3bb8d3f69816d4484ac3226",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T22:51:22.374477+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_will_keep_paying_qualcomm_royalties_for_its_patents-news-74758",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_will_keep_paying_qualcomm_royalties_for_its_patents-news-74758.php"
+  },
   "74759": {
     "content_hash": "8d59d4ad97ed0878c26ee6df216d1586ba4e87d0940ca3897f470b119993d31a",
     "date": "24 September 2026",
