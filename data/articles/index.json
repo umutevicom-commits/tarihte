@@ -1,33 +1,53 @@
 [
   {
-    "slug": "insta360_may_be_working_on_a_unique_pair_of_aipowered_smart_glasses-news-74769",
-    "url": "https://www.gsmarena.com/insta360_may_be_working_on_a_unique_pair_of_aipowered_smart_glasses-news-74769.php",
+    "slug": "samsung_sued_over_galaxy_s23_ultra_galaxy_watch_ultra_patent_infringement-news-74777",
+    "url": "https://www.gsmarena.com/samsung_sued_over_galaxy_s23_ultra_galaxy_watch_ultra_patent_infringement-news-74777.php",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T22:58:50.750428+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e6fcdcb66fd26abac9f9c6e420695c135a3b19b3913ec9f9f34118bc906d8af8"
+  },
+  {
+    "slug": "motorola_edge_60_fusion_starts_receiving_the_android_17_update-news-74781",
+    "url": "https://www.gsmarena.com/motorola_edge_60_fusion_starts_receiving_the_android_17_update-news-74781.php",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T22:58:32.558930+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1e0ed29700a3b031a3af2e5e6810dea5f180d181c9930007a6e7e18efa0f5c0e"
+  },
+  {
+    "content_hash": "ccc475e03190c60a2e245ebc09307f32687065f2c10e5849dcedb631023e7ba5",
     "date": "25 September 2026",
     "fetched_at": "2026-09-25T19:44:15.994706+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ccc475e03190c60a2e245ebc09307f32687065f2c10e5849dcedb631023e7ba5"
+    "retries": 0,
+    "slug": "insta360_may_be_working_on_a_unique_pair_of_aipowered_smart_glasses-news-74769",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/insta360_may_be_working_on_a_unique_pair_of_aipowered_smart_glasses-news-74769.php"
   },
   {
-    "slug": "multiple_users_report_lockscreen_issues_after_installing_the_september_pixel_drop-news-74775",
-    "url": "https://www.gsmarena.com/multiple_users_report_lockscreen_issues_after_installing_the_september_pixel_drop-news-74775.php",
+    "content_hash": "63160a6b7ab596e8b926a1281017298f7b2234a3f1940e4ca5657db1e0ea1f2b",
     "date": "25 September 2026",
     "fetched_at": "2026-09-25T19:43:53.324151+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "63160a6b7ab596e8b926a1281017298f7b2234a3f1940e4ca5657db1e0ea1f2b"
+    "retries": 0,
+    "slug": "multiple_users_report_lockscreen_issues_after_installing_the_september_pixel_drop-news-74775",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/multiple_users_report_lockscreen_issues_after_installing_the_september_pixel_drop-news-74775.php"
   },
   {
-    "slug": "qualcomm_may_be_adding_directx_12_support_on_its_flagship_snapdragon_chips-news-74774",
-    "url": "https://www.gsmarena.com/qualcomm_may_be_adding_directx_12_support_on_its_flagship_snapdragon_chips-news-74774.php",
+    "content_hash": "004a135e7e565d6858c3e259c580959932a9d54bb09bcc0f48e6cf1ec9d8022d",
     "date": "25 September 2026",
     "fetched_at": "2026-09-25T19:43:41.116724+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "004a135e7e565d6858c3e259c580959932a9d54bb09bcc0f48e6cf1ec9d8022d"
+    "retries": 0,
+    "slug": "qualcomm_may_be_adding_directx_12_support_on_its_flagship_snapdragon_chips-news-74774",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/qualcomm_may_be_adding_directx_12_support_on_its_flagship_snapdragon_chips-news-74774.php"
   },
   {
     "content_hash": "f137fda435d142801337bc6121b837978c2d73ec9ebe70f4770809980df4be3b",
