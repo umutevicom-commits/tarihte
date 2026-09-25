@@ -3268,5 +3268,35 @@
     "slug": "infinix_unveils_gt_nx_controller_and_gt_nx_station_dock-news-74768",
     "status": "ok",
     "url": "https://www.gsmarena.com/infinix_unveils_gt_nx_controller_and_gt_nx_station_dock-news-74768.php"
+  },
+  "74769": {
+    "content_hash": "ccc475e03190c60a2e245ebc09307f32687065f2c10e5849dcedb631023e7ba5",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T19:44:15.994706+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "insta360_may_be_working_on_a_unique_pair_of_aipowered_smart_glasses-news-74769",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/insta360_may_be_working_on_a_unique_pair_of_aipowered_smart_glasses-news-74769.php"
+  },
+  "74774": {
+    "content_hash": "004a135e7e565d6858c3e259c580959932a9d54bb09bcc0f48e6cf1ec9d8022d",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T19:43:41.116724+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "qualcomm_may_be_adding_directx_12_support_on_its_flagship_snapdragon_chips-news-74774",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/qualcomm_may_be_adding_directx_12_support_on_its_flagship_snapdragon_chips-news-74774.php"
+  },
+  "74775": {
+    "content_hash": "63160a6b7ab596e8b926a1281017298f7b2234a3f1940e4ca5657db1e0ea1f2b",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T19:43:53.324151+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "multiple_users_report_lockscreen_issues_after_installing_the_september_pixel_drop-news-74775",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/multiple_users_report_lockscreen_issues_after_installing_the_september_pixel_drop-news-74775.php"
   }
 }

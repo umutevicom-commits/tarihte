@@ -1,0 +1,35 @@
+{
+  "url": "https://www.gsmarena.com/qualcomm_may_be_adding_directx_12_support_on_its_flagship_snapdragon_chips-news-74774.php",
+  "slug": "qualcomm_may_be_adding_directx_12_support_on_its_flagship_snapdragon_chips-news-74774",
+  "title": "Qualcomm may be adding DirectX 12 support on its flagship Snapdragon chips",
+  "news_id": "74774",
+  "date": "25 September 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "Qualcomm"
+  ],
+  "body_paragraphs": [
+    "Qualcomm is apparently considering an official solution to better support PC game emulation on Android. According to one Chinese YouTuber, the company may be adding proper support for DirectX 12 for its Snapdragon chips.",
+    "If this happens, it would make emulating PC games on Android much easier. The YouTuber in question tested the capability on a Snapdragon 8 Elite Gen 6 reference device and managed to successfully run Cyberpunk 2077 and Black Myth: Wukong through a translation layer in DirectX 12 mode.",
+    "It's unclear whether Qualcomm will bring this feature to other SoCs aside from its latest and greatest. It's also unclear if the Snapdragon 8 Elite Gen 6 and the Snapdragon 8 Elite Extreme Gen 6 would get this as a driver update - that's probably down to the smartphone makers, anyway. So stay tuned for more on the topic in the coming weeks and months."
+  ],
+  "images": [],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/embed/qZxclaQU1wI",
+      "title": ""
+    }
+  ],
+  "fetched_at": "2026-09-25T19:43:41.116724+00:00",
+  "title_tr": "Qualcomm, amiral gemisi Snapdragon çiplerine DirectX 12 desteği ekliyor olabilir",
+  "body_paragraphs_tr": [
+    "Qualcomm görünüşe göre Android'de PC oyun emülasyonunu daha iyi desteklemek için resmi bir çözüm düşünüyor. Çinli bir YouTuber'a göre, şirket Snapdragon çipleri için DirectX 12 'ye uygun desteği ekliyor olabilir.",
+    "Bu gerçekleşirse, Android'de PC oyunlarını taklit etmeyi çok daha kolay hale getirecektir. Söz konusu YouTuber, Snapdragon 8 Elite Gen 6 referans cihazında yeteneği test etti ve Cyberpunk 2077 ve Black Myth: Wukong'u DirectX 12 modunda bir çeviri katmanı aracılığıyla başarıyla çalıştırmayı başardı.",
+    "Qualcomm'un bu özelliği en son ve en büyüklerinin yanı sıra diğer SoC'lere de getirip getirmeyeceği belli değil. Snapdragon 8 Elite Gen 6 ve Snapdragon 8 Elite Extreme Gen 6 'nın bunu bir sürücü güncellemesi olarak alıp almayacağı da belli değil - bu muhtemelen akıllı telefon üreticilerine bağlı. Önümüzdeki haftalarda ve aylarda konuyla ilgili daha fazla bilgi için bizi izlemeye devam edin."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Qualcomm"
+  ]
+}
