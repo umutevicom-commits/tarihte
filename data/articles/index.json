@@ -1,23 +1,33 @@
 [
   {
-    "slug": "disney_plus_hulu_price_hike-news-74752",
-    "url": "https://www.gsmarena.com/disney_plus_hulu_price_hike-news-74752.php",
-    "date": "24 September 2026",
-    "fetched_at": "2026-09-24T22:51:37.705781+00:00",
+    "slug": "mivi_one_goes_official_with_a_675inch_display_and_6000mah_battery-news-74751",
+    "url": "https://www.gsmarena.com/mivi_one_goes_official_with_a_675inch_display_and_6000mah_battery-news-74751.php",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T02:39:25.726624+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "22de3b63c90a84d45d9ac80436464d635852f594fb4363dd8c94c3d73ed671d4"
+    "content_hash": "2a50995fa628ba2cf819847d20772406e86d764ee1bb6b147ae1432d9e8930db"
   },
   {
-    "slug": "apple_will_keep_paying_qualcomm_royalties_for_its_patents-news-74758",
-    "url": "https://www.gsmarena.com/apple_will_keep_paying_qualcomm_royalties_for_its_patents-news-74758.php",
+    "content_hash": "22de3b63c90a84d45d9ac80436464d635852f594fb4363dd8c94c3d73ed671d4",
+    "date": "24 September 2026",
+    "fetched_at": "2026-09-24T22:51:37.705781+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "disney_plus_hulu_price_hike-news-74752",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/disney_plus_hulu_price_hike-news-74752.php"
+  },
+  {
+    "content_hash": "3523885aacd78f066699f3160ab15c94838060b4e3bb8d3f69816d4484ac3226",
     "date": "24 September 2026",
     "fetched_at": "2026-09-24T22:51:22.374477+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3523885aacd78f066699f3160ab15c94838060b4e3bb8d3f69816d4484ac3226"
+    "retries": 0,
+    "slug": "apple_will_keep_paying_qualcomm_royalties_for_its_patents-news-74758",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_will_keep_paying_qualcomm_royalties_for_its_patents-news-74758.php"
   },
   {
     "content_hash": "0ae7d22bdaa813617c89bbc3cfe796169a7b1399d1a80e9cef6b3449998b1587",
