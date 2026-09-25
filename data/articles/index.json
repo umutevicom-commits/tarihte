@@ -1,13 +1,53 @@
 [
   {
-    "slug": "mivi_one_goes_official_with_a_675inch_display_and_6000mah_battery-news-74751",
-    "url": "https://www.gsmarena.com/mivi_one_goes_official_with_a_675inch_display_and_6000mah_battery-news-74751.php",
+    "slug": "heres_how_much_honors_magic9_will_cost-news-74755",
+    "url": "https://www.gsmarena.com/heres_how_much_honors_magic9_will_cost-news-74755.php",
     "date": "25 September 2026",
-    "fetched_at": "2026-09-25T02:39:25.726624+00:00",
+    "fetched_at": "2026-09-25T09:14:20.538369+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "2a50995fa628ba2cf819847d20772406e86d764ee1bb6b147ae1432d9e8930db"
+    "content_hash": "04a159b3368143859b540ff4e0bc69e0abf6e945edcb85e4c5fecb181681d238"
+  },
+  {
+    "slug": "hmd_aura_2_pro_specs_and_renders_leak-news-74761",
+    "url": "https://www.gsmarena.com/hmd_aura_2_pro_specs_and_renders_leak-news-74761.php",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T09:14:05.262339+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9dcb38bbc22b658893f934df01da6950ed3b7dd3791980c71f2b83c4b5af21b8"
+  },
+  {
+    "slug": "wechat_launches_a_new_payment_app_for_tourists_in_china-news-74760",
+    "url": "https://www.gsmarena.com/wechat_launches_a_new_payment_app_for_tourists_in_china-news-74760.php",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T09:13:51.844599+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "14292848cbdad6d82b1665a2f2af54085eb1a9ab5b7419fc82f2580e7fc1713b"
+  },
+  {
+    "slug": "vivo_y600i_silently_unveiled_with_an_8000mah_battery-news-74762",
+    "url": "https://www.gsmarena.com/vivo_y600i_silently_unveiled_with_an_8000mah_battery-news-74762.php",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T09:13:26.913028+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a338af2e5a1a5deafdfcea9e4c7b1711e1e151ab77fd9a056e37e4297c46ff7b"
+  },
+  {
+    "content_hash": "2a50995fa628ba2cf819847d20772406e86d764ee1bb6b147ae1432d9e8930db",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T02:39:25.726624+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "mivi_one_goes_official_with_a_675inch_display_and_6000mah_battery-news-74751",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/mivi_one_goes_official_with_a_675inch_display_and_6000mah_battery-news-74751.php"
   },
   {
     "content_hash": "22de3b63c90a84d45d9ac80436464d635852f594fb4363dd8c94c3d73ed671d4",
