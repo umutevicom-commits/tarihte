@@ -3218,5 +3218,55 @@
     "slug": "vivo_y600i_silently_unveiled_with_an_8000mah_battery-news-74762",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_y600i_silently_unveiled_with_an_8000mah_battery-news-74762.php"
+  },
+  "74763": {
+    "content_hash": "f137fda435d142801337bc6121b837978c2d73ec9ebe70f4770809980df4be3b",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T14:53:50.072626+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "redmi_17c_5g_india_launch_set_for_next_week-news-74763",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmi_17c_5g_india_launch_set_for_next_week-news-74763.php"
+  },
+  "74764": {
+    "content_hash": "ade447d67e20e7749e101b13d69cb492c41125dc250d5922d1abd60f37b5ef8c",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T14:53:22.501212+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_f35_f35_pro_india_launch_timeframe-news-74764",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_f35_f35_pro_india_launch_timeframe-news-74764.php"
+  },
+  "74765": {
+    "content_hash": "49b9b7637d774c1312d00638fac207230bc878bbb3de9bb72d4114f7598dc2bb",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T14:53:36.646369+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_reveals_pad_ultra_display_specs_and_iqoo_16_camera_details_-news-74765",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_reveals_pad_ultra_display_specs_and_iqoo_16_camera_details_-news-74765.php"
+  },
+  "74766": {
+    "content_hash": "8cd1c8e44d496a357c1e122b79b5903f12396fd870238a8e7436ecbea15f2ed1",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T14:53:08.521005+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_s2_fe_launch_date_design-news-74766",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_s2_fe_launch_date_design-news-74766.php"
+  },
+  "74768": {
+    "content_hash": "c7e55c1ff7002a47f42cfc7cc7740c6ef16079e51508a8bc9411c2f622ac0694",
+    "date": "25 September 2026",
+    "fetched_at": "2026-09-25T14:52:50.212256+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "infinix_unveils_gt_nx_controller_and_gt_nx_station_dock-news-74768",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/infinix_unveils_gt_nx_controller_and_gt_nx_station_dock-news-74768.php"
   }
 }
