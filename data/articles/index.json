@@ -1,23 +1,43 @@
 [
   {
-    "slug": "honor_keeps_teasing_the_magic9_pro_maxs_cinematic_mic_and_teleconverter-news-74780",
-    "url": "https://www.gsmarena.com/honor_keeps_teasing_the_magic9_pro_maxs_cinematic_mic_and_teleconverter-news-74780.php",
+    "slug": "oppo_k14_plus_official_images_memory_options_colors-news-74784",
+    "url": "https://www.gsmarena.com/oppo_k14_plus_official_images_memory_options_colors-news-74784.php",
     "date": "26 September 2026",
-    "fetched_at": "2026-09-26T08:57:15.731673+00:00",
+    "fetched_at": "2026-09-26T13:58:43.044855+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "fc2b3f84f265416aab48d122737b9fae7f594bcb41d140ce0fdd6373896ef1d0"
+    "content_hash": "dc969cf437b3d3b72e9078a390ba1516f7eaf461291b3d3c5d50029ffd2fb7aa"
   },
   {
-    "slug": "deals_massive_price_cuts_for_the_galaxy_z_fold8_and_z_flip8_pixel_11_series_also_discounted-news-74770",
-    "url": "https://www.gsmarena.com/deals_massive_price_cuts_for_the_galaxy_z_fold8_and_z_flip8_pixel_11_series_also_discounted-news-74770.php",
+    "slug": "samsung_galaxy_tab_s12_plus_galaxy_tab_s12_ultra_renders-news-74785",
+    "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_plus_galaxy_tab_s12_ultra_renders-news-74785.php",
     "date": "26 September 2026",
-    "fetched_at": "2026-09-26T08:56:43.772143+00:00",
+    "fetched_at": "2026-09-26T13:58:14.654168+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "b663c1552215aeec73e5fbc6595ffdbbd55693515df49824e67d72ef74ef259e"
+    "content_hash": "c772ec04f75374c8c8aa3454b325f1e48b12019006706140f1de681bfc91adf0"
+  },
+  {
+    "content_hash": "fc2b3f84f265416aab48d122737b9fae7f594bcb41d140ce0fdd6373896ef1d0",
+    "date": "26 September 2026",
+    "fetched_at": "2026-09-26T08:57:15.731673+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_keeps_teasing_the_magic9_pro_maxs_cinematic_mic_and_teleconverter-news-74780",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_keeps_teasing_the_magic9_pro_maxs_cinematic_mic_and_teleconverter-news-74780.php"
+  },
+  {
+    "content_hash": "b663c1552215aeec73e5fbc6595ffdbbd55693515df49824e67d72ef74ef259e",
+    "date": "26 September 2026",
+    "fetched_at": "2026-09-26T08:56:43.772143+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_massive_price_cuts_for_the_galaxy_z_fold8_and_z_flip8_pixel_11_series_also_discounted-news-74770",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_massive_price_cuts_for_the_galaxy_z_fold8_and_z_flip8_pixel_11_series_also_discounted-news-74770.php"
   },
   {
     "content_hash": "e6fcdcb66fd26abac9f9c6e420695c135a3b19b3913ec9f9f34118bc906d8af8",
