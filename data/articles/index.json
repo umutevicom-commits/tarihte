@@ -1,23 +1,33 @@
 [
   {
-    "slug": "oppo_k14_plus_official_images_memory_options_colors-news-74784",
-    "url": "https://www.gsmarena.com/oppo_k14_plus_official_images_memory_options_colors-news-74784.php",
+    "slug": "apple_homepod_mini_2_design_colors-news-74786",
+    "url": "https://www.gsmarena.com/apple_homepod_mini_2_design_colors-news-74786.php",
     "date": "26 September 2026",
-    "fetched_at": "2026-09-26T13:58:43.044855+00:00",
+    "fetched_at": "2026-09-26T17:37:37.902912+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "dc969cf437b3d3b72e9078a390ba1516f7eaf461291b3d3c5d50029ffd2fb7aa"
+    "content_hash": "799afa55fd8e6a272bb6938aa52ed9be7ff96cf1853acc329171890444f2dc87"
   },
   {
-    "slug": "samsung_galaxy_tab_s12_plus_galaxy_tab_s12_ultra_renders-news-74785",
-    "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_plus_galaxy_tab_s12_ultra_renders-news-74785.php",
+    "content_hash": "dc969cf437b3d3b72e9078a390ba1516f7eaf461291b3d3c5d50029ffd2fb7aa",
+    "date": "26 September 2026",
+    "fetched_at": "2026-09-26T13:58:43.044855+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_k14_plus_official_images_memory_options_colors-news-74784",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_k14_plus_official_images_memory_options_colors-news-74784.php"
+  },
+  {
+    "content_hash": "c772ec04f75374c8c8aa3454b325f1e48b12019006706140f1de681bfc91adf0",
     "date": "26 September 2026",
     "fetched_at": "2026-09-26T13:58:14.654168+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c772ec04f75374c8c8aa3454b325f1e48b12019006706140f1de681bfc91adf0"
+    "retries": 0,
+    "slug": "samsung_galaxy_tab_s12_plus_galaxy_tab_s12_ultra_renders-news-74785",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_plus_galaxy_tab_s12_ultra_renders-news-74785.php"
   },
   {
     "content_hash": "fc2b3f84f265416aab48d122737b9fae7f594bcb41d140ce0fdd6373896ef1d0",
