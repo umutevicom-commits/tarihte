@@ -1,0 +1,27 @@
+# Fırsatlar: Galaxy Z Fold8 ve Z Flip8 için büyük fiyat indirimleri, Pixel 11 serisi de indirimli
+
+Galaxy Z Fold8 ve Z Flip8 bu hafta yaklaşık üçte bir oranında indirimde – bunlar sadece geçen ay piyasaya sürülen son teknoloji katlanabilir ürünler için büyük indirimler. Pixel 11 serisiyle birlikte büyük Z Fold8 Ultra, hala görülmeye değer daha küçük indirimlere sahiptir.
+
+Samsung Galaxy Z Fold8, temel 12/256GB birimi için 1.430 € 'a düştü. 512 GB depolama alanına yükseltme, oldukça iyi bir indirime rağmen şu anda oldukça pahalı. 256 GB'lık iPhone Duo'nun 2.300 €' dan başlayacağını ve Apple cihazlarının fiyat indirimlerinde o kadar hızlı olmadığını hatırlatmak isteriz. Duo'yu henüz test etmedik, ancak Z Fold8 ile nasıl karşılaştırıldığına genel bir bakış.
+
+Geçen yılki Z Fold7 'nin halefi olan daha büyük Galaxy Z Fold8 Ultra, yaklaşık 250 € indirimde. Ayrıntılı bir karşılaştırma için Galaxy Z Fold8 ve Z Fold8 Ultra makalemizi inceleyebilirsiniz – farklı form faktörleri bunları farklı kullanım durumları için daha uygun hale getirir.
+
+Samsung Galaxy Z Flip8 üçüncü indirim. Hem Google hem de şimdi Apple yatay katlanabilirlere odaklanırken, Avrupa'da bile çok fazla takla atılmıyor (Çinli üreticiler de taklalarda oldukça ılımlı). Selefi ile karşılaştırıldığında, 2026 Flip yeni bir yonga seti getiriyor (Exynos 2600 'e karşı 2500), ancak çok fazla değil. Bir Si/C bataryaya sahiptir, ancak öncekiyle aynı kapasiteye, 4.300mAh'ye sahiptir ve aynı 25W şarjda derecelendirilmiştir. Resmi rakamlar bir yana, incelememizde yeni modelin bir ücretlendirmede daha uzun sürdüğünü ve daha sonra daha hızlı ücretlendirildiğini gördük. Samsung, termal kısıtlamayı düzeltmek için fazla bir şey yapmadı.
+
+Google Pixel 11 serisinde 100 € ile 180 € arasında değişen indirimler vardır. 11 Pro ile birçok benzerlik paylaşan temel model Pixel 11 ile başlıyoruz. Bununla birlikte, Pro modelinin daha yüksek fiyatını haklı çıkarmak için birkaç önemli avantajı vardır – Pixel 11 'e karşı Pixel 11 Pro makalemiz, hangi modelin paranızın karşılığını daha iyi vereceğine karar vermenize yardımcı olmak için ayrıntılara girer.
+
+Pixel 11 Pro, geçen yıla göre 10 Pro'yu geliştiriyor, ancak büyük yükseltmeler yok. Tensor G6 'nın bile bunaltıcı olmadığı ortaya çıktı. Nelerin yeni ve aslında daha iyi olduğuna ayrıntılı bir bakış için Pixel 10 Pro vs. Pixel 11 Pro makalemize göz atın.
+
+Pixel 11 Pro XL, adından da anlaşılacağı gibi – 11 Pro'nun 6,8 inçlik bir versiyonu (6,3 inç ekrana sahip). Bu, daha büyük bir batarya ile birlikte gelir ve bu da 11 Pro puanının bir saat üzerinde bir Aktif Kullanım Puanı ile sonuçlanır. Yine de, geçen yılki 10 Pro XL'e kıyasla pil ömrü oldukça büyük.
+
+Pixel 11 Pro Fold, kardeşlerine benzer bir indirime sahiptir, ancak yüksek taban fiyatı tavsiye etmeyi zorlaştırır. Z Fold8 Ultra daha ucuz, daha ince (8.9mm'ye karşı 10.1mm), daha hafif (215g'ye karşı 239g), daha iyi bir yonga setine (Snapdragon 8 Elite Gen 5 'e karşı Tensor G6) ve daha büyük bir bataryaya sahip. Pixel'deki kameraları henüz test etmedik, ancak işte Galaxy vs. Piksel donanım karşılaştırması – Galaxy'de 200MP 1/1.3 ” ana ve Pixel'de 48MP 1/1.56 ”, 10MP 3x/67mm'ye karşı 10.8MP 5x/112mm ve 50MP 120 °' ye karşı 10.5MP 127 °.
+
+Geçen haftaki anket Redmi Note 17 serisiyle ilgiliydi. Hem ankette hem de o haftanın anlaşma gönderisinde bize bu telefonların sunduğu paranın değerinden etkilenmediğinizi söylediniz. Ve hemfikiriz – ancak anlamlı fiyat indirimleri için gözümüzü açık tutacağız.
+
+Bu arada, Poco X8 Pro ve X8 Pro Max gibi telefonlar daha iyi fırsatlar sunuyor. Sırasıyla 6,59” ve 6,83” ekrana sahiptirler. Ayrıca 6.500mAh ve 8.500mAh pilleri vardır (her ikisi de 100W hızlı şarjlı). Max daha iyi yonga setine sahiptir (Dimensity 9500 'lere karşı 8500 Ultra), ancak kameraları büyük ölçüde aynıdır. Her modelin artıları ve eksileri için Poco X8 Pro vs. Poco X8 Pro Max gönderimize göz atın.
+
+Redmi Note 17 Pro Max ile karşılaştırıldığında, Poco X8 Pro Max daha iyi yonga setine sahiptir (Redmi sadece Snapdragon 6 Gen 5 ile donatılmıştır). Kameralar aynı ve batarya sadece biraz daha küçük – Poco için 8.500mAh ve Redmi için 9.210mAh (her ikisi de 100W şarj ile). Redmi, çoğunlukla aynı donanıma ve aynı su direncine (IP69K) sahip olmasına rağmen, bir şekilde 0.4mm daha kalın ve 11g daha ağırdır.
+
+Geçenlerde Samsung Galaxy S26 FE'nin var olduğunu hatırlattık – ve fiyatını kontrol ettikten hemen sonra tekrar unuttuk. 8GB RAM ve 128GB depolama alanına sahip bir telefon için 800 € hayır.
+
+Galaxy S25 FE'yi çok daha ucuza alabilirsiniz – Samsung çok fazla değişmedi, bu yüzden çoğunlukla yeni yonga seti için ödeme yapıyorsunuz. Bu yeni yonga seti verimliliği artırır, bu nedenle pil ömrü gözle görülür şekilde daha uzundur (14:49h Aktif Kullanım Puanı vs. 11:57h). Yani, S26 FE daha iyi, ancak kesinlikle 300 € daha iyi değil.
