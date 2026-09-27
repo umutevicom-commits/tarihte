@@ -1,13 +1,33 @@
 [
   {
-    "slug": "weekly_poll_results_the_redmi_note_17_pro_and_note_17_pro_max_feel_like_a_step_back-news-74756",
-    "url": "https://www.gsmarena.com/weekly_poll_results_the_redmi_note_17_pro_and_note_17_pro_max_feel_like_a_step_back-news-74756.php",
+    "slug": "weekly_poll_what_do_you_think_of_the_xiaomi_18_pro_and_xiaomi_18_pro_max-news-74753",
+    "url": "https://www.gsmarena.com/weekly_poll_what_do_you_think_of_the_xiaomi_18_pro_and_xiaomi_18_pro_max-news-74753.php",
     "date": "27 September 2026",
-    "fetched_at": "2026-09-27T07:22:54.877441+00:00",
+    "fetched_at": "2026-09-27T13:26:06.717750+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "baab71de97a56860e600a24693257bc6c5f7b0e2d7240cf2e66bc722d53f32de"
+    "content_hash": "a994ee8290c1ca51266042d51a3b7795922a3dcc88a56be3b23e5bb29195b6d2"
+  },
+  {
+    "slug": "deals_googles_pixel_11_series_gets_price_cuts_samsung_galaxy_z8_foldables_discounted-news-74778",
+    "url": "https://www.gsmarena.com/deals_googles_pixel_11_series_gets_price_cuts_samsung_galaxy_z8_foldables_discounted-news-74778.php",
+    "date": "27 September 2026",
+    "fetched_at": "2026-09-27T13:25:38.625344+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0a432aff87baf04be355435507edcb362a0d0c932e4867dba50d5d90e6614c9a"
+  },
+  {
+    "content_hash": "baab71de97a56860e600a24693257bc6c5f7b0e2d7240cf2e66bc722d53f32de",
+    "date": "27 September 2026",
+    "fetched_at": "2026-09-27T07:22:54.877441+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_results_the_redmi_note_17_pro_and_note_17_pro_max_feel_like_a_step_back-news-74756",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_the_redmi_note_17_pro_and_note_17_pro_max_feel_like_a_step_back-news-74756.php"
   },
   {
     "content_hash": "b9c77ad14dde07b3cf002d43353ac128c4b174a3907decf1461ad03089026fba",

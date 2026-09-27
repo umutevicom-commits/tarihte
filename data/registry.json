@@ -3159,6 +3159,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/disney_plus_hulu_price_hike-news-74752.php"
   },
+  "74753": {
+    "content_hash": "a994ee8290c1ca51266042d51a3b7795922a3dcc88a56be3b23e5bb29195b6d2",
+    "date": "27 September 2026",
+    "fetched_at": "2026-09-27T13:26:06.717750+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_what_do_you_think_of_the_xiaomi_18_pro_and_xiaomi_18_pro_max-news-74753",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_what_do_you_think_of_the_xiaomi_18_pro_and_xiaomi_18_pro_max-news-74753.php"
+  },
   "74755": {
     "content_hash": "04a159b3368143859b540ff4e0bc69e0abf6e945edcb85e4c5fecb181681d238",
     "date": "25 September 2026",
@@ -3338,6 +3348,16 @@
     "slug": "samsung_sued_over_galaxy_s23_ultra_galaxy_watch_ultra_patent_infringement-news-74777",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_sued_over_galaxy_s23_ultra_galaxy_watch_ultra_patent_infringement-news-74777.php"
+  },
+  "74778": {
+    "content_hash": "0a432aff87baf04be355435507edcb362a0d0c932e4867dba50d5d90e6614c9a",
+    "date": "27 September 2026",
+    "fetched_at": "2026-09-27T13:25:38.625344+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_googles_pixel_11_series_gets_price_cuts_samsung_galaxy_z8_foldables_discounted-news-74778",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_googles_pixel_11_series_gets_price_cuts_samsung_galaxy_z8_foldables_discounted-news-74778.php"
   },
   "74780": {
     "content_hash": "fc2b3f84f265416aab48d122737b9fae7f594bcb41d140ce0fdd6373896ef1d0",
