@@ -1,13 +1,13 @@
 [
   {
-    "slug": "vivo_x500_pro_max_in_for_review-news-74773",
-    "url": "https://www.gsmarena.com/vivo_x500_pro_max_in_for_review-news-74773.php",
+    "content_hash": "e00ad789805d5c4c353f30000a4242ea828de7ecbeccd2b152faf23058596701",
     "date": "27 September 2026",
     "fetched_at": "2026-09-27T21:05:22.846488+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e00ad789805d5c4c353f30000a4242ea828de7ecbeccd2b152faf23058596701"
+    "retries": 0,
+    "slug": "vivo_x500_pro_max_in_for_review-news-74773",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_max_in_for_review-news-74773.php"
   },
   {
     "content_hash": "ec299722055698b87e982859b4a55d883e3145aa34333f705f38fa447eb2931d",
