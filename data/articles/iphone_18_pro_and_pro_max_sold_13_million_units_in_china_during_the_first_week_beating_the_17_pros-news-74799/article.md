@@ -1,0 +1,25 @@
+# iPhone 18 Pro ve Pro Max, ilk hafta Çin'de 17 Pro'yu geçerek 1,3 milyon adet sattı
+
+Çin'deki ön sipariş döneminde, perakendecilerin mevcut iPhone 18 Pro serisi üniteleri hızla tükendi – tahminlere göre, 7 milyon adet ön sipariş verildi. Bazı mağazalar, geçen yıl piyasaya sürülen 17 Pro ve 17 Pro Max'e kıyasla gelirlerini iki katına çıkardı.
+
+Bu ivme gerçek satışlara da yansıdı. Blog yazarı RD Observation'ın bilgilerine göre, yeni iPhone 18 Pro ve iPhone 18 Pro Max, Çin'de kullanılabilirliğin ilk haftasında yaklaşık 1,3 milyon adet sattı.
+
+Bu, 17 Pro ve 17 Pro Max'in geçen yıl ilk haftalarında sattıklarından % 15 daha fazla birim anlamına geliyor. Tabii ki, vanilya iPhone 17 ve iPhone Air ile rekabet ediyorlardı.
+
+Ancak daha etkileyici bir istatistik var – iPhone 18 Pro ve 18 Pro Max'in satışları, tüm iPhone 2025 serisinin Çin'de ilk hafta boyunca sattıklarının % 90 'ını oluşturuyor. Görünen o ki, yeni bir vanilya ve yeni bir Air modelinin yokluğu Apple'ın alt çizgisine zarar vermiyor. Artık yeni bir iPhone isteyen herkes bir Pro almak zorunda. Ve eğer yapmazsanız, birkaç ay içinde Apple yeni vanilya (ve muhtemelen yeni Air) modelini piyasaya sürecek.
+
+İlginç bir şekilde, bu tahminler iPhone 18 Pro Max'i ikisinin en popüler modeli olarak gösteriyor – toplamın % 55,5 'ini sattı. Ön sipariş aşamasında tam tersi oldu – insanların % 60' ı daha küçük Pro'yu seçti.
+
+Apple yeni modellerinin fiyatlarını yükseltti, ancak bu konuda zekiydi. 256GB ve 512GB modelleri sadece 1.000 CNY (yaklaşık 150 $) arttı. Bu arada, halihazırda pahalı olan 1 TB ve 2 TB modellerinin fiyatları sırasıyla 2.500 CNY ve 3.500 CNY arttı. Bu, Apple'ın yavaş QLC çipleri kullanmasına rağmen böyle.
+
+Yeni iPhone 18 Pro ve 18 Pro Max, diğer bölgelerde olduğu kadar popüler olmayabilir. BigGo tarafından derlenen veriler, Çin'de 256 GB'lık bir modelin fiyatlarının yaklaşık % 11 oranında arttığını gösteriyor. ABD'de aynı kapasite için 100 $ fiyat artışı yaklaşık % 9 'a çıkıyor.
+
+Bununla birlikte, Japonya'da, 256GB iPhone 18 Pro 40.000 JPY daha pahalıdır – kayda değer bir % 22 artış. 18 Pro lansmanından önce Apple, iPhone 17 Pro fiyatını orijinal 179.800 JPY'den 194.800 JPY'ye yükseltti. Ancak 18 Pro 219.800 JPY'den piyasaya sürüldü, bu nedenle revize edilmiş 17 Pro fiyatına kıyasla bile, 18 Pro 20.000 JPY'den daha pahalı.
+
+---
+
+## Görseller
+
+![iPhone 18 Pro and iPhone 18 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_and_pro_max_sold_13_million_units_in_china_during_the_first_week_beating_the_17_pros-news-74799/immaculate_001.jpg)
+
+![Our iPhone 18 Pro and iPhone 18 Pro Max reviews are already out (linked below)](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_and_pro_max_sold_13_million_units_in_china_during_the_first_week_beating_the_17_pros-news-74799/immaculate_002.jpg)
