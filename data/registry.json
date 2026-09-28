@@ -3319,6 +3319,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/deals_massive_price_cuts_for_the_galaxy_z_fold8_and_z_flip8_pixel_11_series_also_discounted-news-74770.php"
   },
+  "74771": {
+    "content_hash": "c47b775e74b12762a6d2964f9e47d50ffdc3d0f3d3bd1e6ea4ab228879be97b8",
+    "date": "28 September 2026",
+    "fetched_at": "2026-09-28T22:48:12.434197+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "google_pixel_11_pro_vs_pixel_11_pro_xl_battery_camera_price_compared-news-74771",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/google_pixel_11_pro_vs_pixel_11_pro_xl_battery_camera_price_compared-news-74771.php"
+  },
   "74773": {
     "content_hash": "e00ad789805d5c4c353f30000a4242ea828de7ecbeccd2b152faf23058596701",
     "date": "27 September 2026",
@@ -3499,6 +3509,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/the_oppo_f35_series_is_going_official_next_week-news-74796.php"
   },
+  "74797": {
+    "content_hash": "8d05a30ee4631adf0f6198b8f443b0d90a8152e502ed0fead09b2178f83467b0",
+    "date": "28 September 2026",
+    "fetched_at": "2026-09-28T22:50:29.764916+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "qualcomm_confirms_it_wants_to_use_samsungs_2nm_process-news-74797",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/qualcomm_confirms_it_wants_to_use_samsungs_2nm_process-news-74797.php"
+  },
   "74798": {
     "content_hash": "da03a3a31bb689eeb513dcc03e9bd90e6fdbd30dd0a6742ea6d3004ac3668590",
     "date": "28 September 2026",
@@ -3518,5 +3538,15 @@
     "slug": "iphone_18_pro_and_pro_max_sold_13_million_units_in_china_during_the_first_week_beating_the_17_pros-news-74799",
     "status": "ok",
     "url": "https://www.gsmarena.com/iphone_18_pro_and_pro_max_sold_13_million_units_in_china_during_the_first_week_beating_the_17_pros-news-74799.php"
+  },
+  "74801": {
+    "content_hash": "a08a31dc9c0f67e27ef0de8256d410b9a46d56f5367505415cf74c295750d3e1",
+    "date": "28 September 2026",
+    "fetched_at": "2026-09-28T22:50:12.188654+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_galaxy_s25_series_plus_the_galaxy_z_fold7_and_z_flip7_are_now_getting_stable_one_ui_9-news-74801",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_galaxy_s25_series_plus_the_galaxy_z_fold7_and_z_flip7_are_now_getting_stable_one_ui_9-news-74801.php"
   }
 }
