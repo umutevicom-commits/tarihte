@@ -1,0 +1,19 @@
+# Huawei starts teasing the Mate90 series and reveals the launch date while teleconverter leaks
+
+A few hours ago leaks brought us our first look at Huawei’s upcoming Mate90 series, including the Mate90 RS, and now the company has finally officially acknowledged the lineup. Not just that, but Huawei has provided us with the official announcement date for the Mate90 series: October 1. The event is taking place at 10 AM local time in China, and sales will start on the same day at 12:08 PM.
+
+Huawei has posted the image above on its official Weibo account, showing the Mate90 in all its glory. It's certainly got an interesting design of its back panel. At the same time, the video below got outed, showing the Mate90 Pro Max's teleconverter (since these are all the rage in China these days).
+
+The Pro Max is rumored to have the Kirin 9050 Pro SoC at the helm, an optional privacy screen for its dual-layer OLED display, a 200MP periscope telephoto camera, an upgraded ultrawide, and a "near 1-inch" type sensor for the main camera. Everything will become official in just two days, so stay tuned.
+
+---
+
+## Görseller
+
+![Huawei starts teasing the Mate90 series and reveals the launch date while teleconverter leaks](https://umutevicom-commits.github.io/tarihte/data/images/huawei_starts_teasing_the_mate90_series_and_reveals_the_launch_date_while_teleconverter_leaks-news-74820/immaculate_001.jpg)
+
+---
+
+## Videolar
+
+🎬 https://www.youtube.com/embed/K1UgL_NhEKA

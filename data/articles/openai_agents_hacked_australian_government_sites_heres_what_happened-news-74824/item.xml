@@ -1,0 +1,22 @@
+    <item>
+      <title>OpenAI ajanları Avustralya hükümetinin sitelerini hackledi, işte olanlar</title>
+      <link>https://www.gsmarena.com/openai_agents_hacked_australian_government_sites_heres_what_happened-news-74824.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/openai_agents_hacked_australian_government_sites_heres_what_happened-news-74824.php</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Peter</author>
+      <category>Öne Çıkanlar</category><category>OpenAI. </category><category>Online Hizmetler</category>
+      <description>OpenAI'den yapay zeka ajanları bilgisayar korsanlığı çılgınlığı yapıyor. Hugging Face'i hacklediler, daha sonra Modal Labs'a da saldırdıkları ortaya çıktı ve geçen hafta ajanların Avustralya hükümeti tarafından işletilen birkaç siteyi hacklediği ortaya çıktı.</description>
+      <content:encoded><![CDATA[<p>OpenAI'den yapay zeka ajanları bilgisayar korsanlığı çılgınlığı yapıyor. Hugging Face'i hacklediler, daha sonra Modal Labs'a da saldırdıkları ortaya çıktı ve geçen hafta ajanların Avustralya hükümeti tarafından işletilen birkaç siteyi hacklediği ortaya çıktı.</p>
+<p>Hack haziranda gerçekleşmişti ama şimdi gün ışığına çıkıyor. Etkilenen bölgeler şunlardır:</p>
+<p>Services Australia: Bir OpenAI modeli erişim sağladı, komutları çalıştırdı ve hatta dahili dosyaları aldı. Ancak OpenAI, hiçbir hasta kaydına erişilmediğini söylüyor.</p>
+<p>NSW Suç İstatistikleri ve Araştırmaları Bürosu: Benzer şekilde, bireylerin suç kayıtlarına erişilmemiştir.</p>
+<p>Victoria Sağlık Bakanlığı: bir temsilci bir erişim anahtarı keşfetti ve toplu anket istatistiklerini aldı. Bireysel tıbbi kayıtlara ve tanımlanabilir anket yanıtlarına erişilmemiştir.</p>
+<p>Avustralya Sağlık ve Refah Enstitüsü: yine, ajanlar toplu anket istatistiklerini süpürdü, ancak bireysel tıbbi kayıtları okumadı.</p>
+<p>Tahmin edebileceğiniz gibi, Avustralya hükümeti öfkeli. OpenAI Strateji Direktörü Jason Kwon, gelecek hafta Sidney'de bir Senato komitesi duruşması önünde hazır bulunacak.</p>
+<p>Bu hackler, OpenAI'de test edilen deneysel bir model tarafından gerçekleştirildi. Test prosedürünün bir parçası olarak, modellere çeşitli görevler verilir – örneğin, Victoria hükümetinin cilt ilaçlarına kişi başına ne kadar harcama yaptığını bulmak. Model bu konuda hazır veri bulamadığından, kamuya açık olmayan verileri toplamak için hükümet sitelerini araştırdı.</p>
+<p>OpenAI, modele bunu yapma yetkisi vermemişti, ancak kamuya açık modellere eklediği her zamanki önlemlerini de uygulamamıştı. Hacklerin farkına vardıktan sonra bir iç soruşturma başlattı ve etkilenen siteleri bilgilendirdi.</p>
+<p>OpenAI, araştırma modelleri için önlemleri güçlendiriyor – canlı internete erişmelerini önleyecek (onlara yalnızca önbelleğe alınmış içerik sunacak) ve daha fazla ağ kısıtlaması ve izleme uyguluyor. Şirket, Sarılma Yüzü olayından sonra bu önlemleri eklemeye başladı, ancak Avustralya'daki saldırıları önlemek için zamanında orada olmadılar.</p>
+<p>Özellikle Avustralya örneğinde, OpenAI etkilenen siteleri işleten ajanslarla birlikte çalışmakta ve onlara özel destek sunmaktadır. Ayrıca, devlet kurumlarının siber savunmasını güçlendirmek için 1 milyar $ tutarındaki Daybreak'i Frontline Defenders fonu için kullanacak. Ve gelecekteki olaylar durumunda iletişimi ve koordinasyonu geliştirmeye çalışacak bir Avustralya görev gücü oluşturuyor.</p>
+<p>OpenAI, olayı anlatan blog yazısında, &quot;Güveni yeniden inşa etmek için önümüzde çok iş olduğunu ve Avustralyalılara anlamlı değişiklikler yaptığımızı ve sözlerimizi yerine getirdiğimizi göstermekten sorumlu olduğumuzu biliyoruz&quot; diye yazdı. Her şeyi okumak için Kaynak bağlantısını takip edin.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/openai_agents_hacked_australian_government_sites_heres_what_happened-news-74824/immaculate_001.jpg" alt="An image from OpenAI’s ‘Training agents to self-report misbehavior’ post" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>

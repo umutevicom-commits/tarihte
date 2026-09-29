@@ -1,0 +1,55 @@
+{
+  "url": "https://www.gsmarena.com/openai_agents_hacked_australian_government_sites_heres_what_happened-news-74824.php",
+  "slug": "openai_agents_hacked_australian_government_sites_heres_what_happened-news-74824",
+  "title": "OpenAI agents hacked Australian government sites, here's what happened",
+  "news_id": "74824",
+  "date": "29 September 2026",
+  "author": "Peter",
+  "tags": [
+    "Featured",
+    "OpenAI",
+    "Online services"
+  ],
+  "body_paragraphs": [
+    "AI agents from OpenAI have been on a hacking spree – they hacked into Hugging Face, later it came out that they also attacked Modal Labs and last week it was revealed that agents had hacked several sites run by the Australian government.",
+    "The hack happened in June, but it is only now coming to light. Here are the affected sites:",
+    "Services Australia: an OpenAI model gained access, ran commands and even retrieved internal files. OpenAI says that no patient records were accessed, however.",
+    "NSW Bureau of Crime Statistics and Research: similarly, crime records of individuals were not accessed.",
+    "Victorian Department of Health: an agent discovered an access key and retrieved aggregate survey statistics. Individual medical records and identifiable survey responses were not accessed.",
+    "Australian Institute of Health and Welfare: again, agents vacuumed up aggregate survey statistics, but did not read individual medical records.",
+    "As you can imagine, the Australian government is furious. OpenAI Chief Strategy Officer Jason Kwon will appear in front of a Senate committee hearing in Sydney next week.",
+    "These hacks were carried out by an experimental model that was under test at OpenAI. As part of the testing procedure, models are given various tasks – for example, finding out how much the Victorian government spends per person on skin medicines. Since the model couldn’t find readily available data on that, it dug into the government sites to gather data that is not publicly available.",
+    "OpenAI hadn’t authorized the model to do that, but it hadn’t applied its usual safeguards that it adds to publicly available models either. After becoming aware of the hacks, it launched an internal investigation and notified the affected sites.",
+    "OpenAI is bolstering the safeguards for research models – it will prevent them from accessing the live internet (serving them only cached content) and it is putting more network restrictions and monitoring in place. The company started adding these safeguards after the Hugging Face incident, but they weren’t there in time to prevent the hacks in Australia.",
+    "In the case of Australia specifically, OpenAI is working with the agencies that run the affected sites and is offering them dedicated support. It will also use its $1 billion Daybreak for Frontline Defenders fund to strengthen the cyber defenses of government agencies. And it is creating an Australian task force that will work on improving communication and coordination in the event of future incidents.",
+    "“We know we have a lot of work ahead of us to rebuild trust and that we are accountable for showing Australians that we’re making meaningful changes and following through on our promises,” wrote OpenAI in its blog post that described the incident. Follow the Source link to read the whole thing."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/openai_agents_hacked_australian_government_sites_heres_what_happened-news-74824/immaculate_001.jpg",
+      "alt": "An image from OpenAI’s ‘Training agents to self-report misbehavior’ post"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-09-29T21:41:18.268268+00:00",
+  "title_tr": "OpenAI ajanları Avustralya hükümetinin sitelerini hackledi, işte olanlar",
+  "body_paragraphs_tr": [
+    "OpenAI'den yapay zeka ajanları bilgisayar korsanlığı çılgınlığı yapıyor. Hugging Face'i hacklediler, daha sonra Modal Labs'a da saldırdıkları ortaya çıktı ve geçen hafta ajanların Avustralya hükümeti tarafından işletilen birkaç siteyi hacklediği ortaya çıktı.",
+    "Hack haziranda gerçekleşmişti ama şimdi gün ışığına çıkıyor. Etkilenen bölgeler şunlardır:",
+    "Services Australia: Bir OpenAI modeli erişim sağladı, komutları çalıştırdı ve hatta dahili dosyaları aldı. Ancak OpenAI, hiçbir hasta kaydına erişilmediğini söylüyor.",
+    "NSW Suç İstatistikleri ve Araştırmaları Bürosu: Benzer şekilde, bireylerin suç kayıtlarına erişilmemiştir.",
+    "Victoria Sağlık Bakanlığı: bir temsilci bir erişim anahtarı keşfetti ve toplu anket istatistiklerini aldı. Bireysel tıbbi kayıtlara ve tanımlanabilir anket yanıtlarına erişilmemiştir.",
+    "Avustralya Sağlık ve Refah Enstitüsü: yine, ajanlar toplu anket istatistiklerini süpürdü, ancak bireysel tıbbi kayıtları okumadı.",
+    "Tahmin edebileceğiniz gibi, Avustralya hükümeti öfkeli. OpenAI Strateji Direktörü Jason Kwon, gelecek hafta Sidney'de bir Senato komitesi duruşması önünde hazır bulunacak.",
+    "Bu hackler, OpenAI'de test edilen deneysel bir model tarafından gerçekleştirildi. Test prosedürünün bir parçası olarak, modellere çeşitli görevler verilir – örneğin, Victoria hükümetinin cilt ilaçlarına kişi başına ne kadar harcama yaptığını bulmak. Model bu konuda hazır veri bulamadığından, kamuya açık olmayan verileri toplamak için hükümet sitelerini araştırdı.",
+    "OpenAI, modele bunu yapma yetkisi vermemişti, ancak kamuya açık modellere eklediği her zamanki önlemlerini de uygulamamıştı. Hacklerin farkına vardıktan sonra bir iç soruşturma başlattı ve etkilenen siteleri bilgilendirdi.",
+    "OpenAI, araştırma modelleri için önlemleri güçlendiriyor – canlı internete erişmelerini önleyecek (onlara yalnızca önbelleğe alınmış içerik sunacak) ve daha fazla ağ kısıtlaması ve izleme uyguluyor. Şirket, Sarılma Yüzü olayından sonra bu önlemleri eklemeye başladı, ancak Avustralya'daki saldırıları önlemek için zamanında orada olmadılar.",
+    "Özellikle Avustralya örneğinde, OpenAI etkilenen siteleri işleten ajanslarla birlikte çalışmakta ve onlara özel destek sunmaktadır. Ayrıca, devlet kurumlarının siber savunmasını güçlendirmek için 1 milyar $ tutarındaki Daybreak'i Frontline Defenders fonu için kullanacak. Ve gelecekteki olaylar durumunda iletişimi ve koordinasyonu geliştirmeye çalışacak bir Avustralya görev gücü oluşturuyor.",
+    "OpenAI, olayı anlatan blog yazısında, \"Güveni yeniden inşa etmek için önümüzde çok iş olduğunu ve Avustralyalılara anlamlı değişiklikler yaptığımızı ve sözlerimizi yerine getirdiğimizi göstermekten sorumlu olduğumuzu biliyoruz\" diye yazdı. Her şeyi okumak için Kaynak bağlantısını takip edin."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "OpenAI. ",
+    "Online Hizmetler"
+  ]
+}
