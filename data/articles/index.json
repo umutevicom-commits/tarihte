@@ -1,53 +1,113 @@
 [
   {
-    "slug": "heres_our_first_look_at_the_huawei_mate_90_series_including_the_mate_90_rs-news-74805",
-    "url": "https://www.gsmarena.com/heres_our_first_look_at_the_huawei_mate_90_series_including_the_mate_90_rs-news-74805.php",
+    "slug": "the_oppo_k14_plus_is_now_official_with_an_8000mah_battery-news-74815",
+    "url": "https://www.gsmarena.com/the_oppo_k14_plus_is_now_official_with_an_8000mah_battery-news-74815.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T17:22:08.653300+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "608dce75b34760c23d83ae40551774f48edbde337927155f613398378188ec3a"
+  },
+  {
+    "slug": "the_lava_shark_2_pro_launches_with_5g_connectivity_6000mah_battery-news-74814",
+    "url": "https://www.gsmarena.com/the_lava_shark_2_pro_launches_with_5g_connectivity_6000mah_battery-news-74814.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T17:21:39.965747+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "30fe68281bb70f31cad1b4cc06a48623a685f5349edc2ee76b9ccf455926b868"
+  },
+  {
+    "slug": "new_leak_details_camera_processing_changes_coming_to_galaxy_s27_ultra-news-74812",
+    "url": "https://www.gsmarena.com/new_leak_details_camera_processing_changes_coming_to_galaxy_s27_ultra-news-74812.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T17:21:22.025173+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c601839437a9a9307bbcc820c7229d3c6f58db0bf8a172e7de034472ba498fc0"
+  },
+  {
+    "slug": "huawei_matepad_air_z_tablets_launch_in_china_-news-74813",
+    "url": "https://www.gsmarena.com/huawei_matepad_air_z_tablets_launch_in_china_-news-74813.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T17:20:59.515930+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9a8ee79f66a3a31ef8ce7e6069c270a0b4c8aa72fe6d118c32a9eef455e256ed"
+  },
+  {
+    "slug": "iqoo_16_launches_with_snapdragon_8_elite_extreme_gen_6_8400_mah_battery-news-74826",
+    "url": "https://www.gsmarena.com/iqoo_16_launches_with_snapdragon_8_elite_extreme_gen_6_8400_mah_battery-news-74826.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T17:20:37.007564+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b8cc83df148239bac5e92c26d987075688d036523dab7c9ecd0b6c08ceae0143"
+  },
+  {
+    "slug": "hmd_vibe2_pro_debuts_with_a_64mp_rear_camera_678inch_display-news-74818",
+    "url": "https://www.gsmarena.com/hmd_vibe2_pro_debuts_with_a_64mp_rear_camera_678inch_display-news-74818.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T17:20:13.567856+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f7752bd2e35f563957b2e734db1d67d79cbf95a55659b5316e6790e6d165797d"
+  },
+  {
+    "content_hash": "d1f62042e93d6415b5170bcff94fc82aaf5da15e6e3e3b68187637019604022d",
     "date": "29 September 2026",
     "fetched_at": "2026-09-29T10:16:56.030910+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d1f62042e93d6415b5170bcff94fc82aaf5da15e6e3e3b68187637019604022d"
+    "retries": 0,
+    "slug": "heres_our_first_look_at_the_huawei_mate_90_series_including_the_mate_90_rs-news-74805",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_our_first_look_at_the_huawei_mate_90_series_including_the_mate_90_rs-news-74805.php"
   },
   {
-    "slug": "standard_xiaomi_18_said_to_offer_dual_200mp_cameras_complete_specs_tipped-news-74804",
-    "url": "https://www.gsmarena.com/standard_xiaomi_18_said_to_offer_dual_200mp_cameras_complete_specs_tipped-news-74804.php",
+    "content_hash": "c411acbaf5a27ac5e879c03737f59616d7e1463da9c5ec7c9b59a2210c3bc87e",
     "date": "29 September 2026",
     "fetched_at": "2026-09-29T10:16:43.523589+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c411acbaf5a27ac5e879c03737f59616d7e1463da9c5ec7c9b59a2210c3bc87e"
+    "retries": 0,
+    "slug": "standard_xiaomi_18_said_to_offer_dual_200mp_cameras_complete_specs_tipped-news-74804",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/standard_xiaomi_18_said_to_offer_dual_200mp_cameras_complete_specs_tipped-news-74804.php"
   },
   {
-    "slug": "samsung_galaxy_a08_4g_f08_4g_and_m08_4g_have_their_prices_in_india_revealed-news-74810",
-    "url": "https://www.gsmarena.com/samsung_galaxy_a08_4g_f08_4g_and_m08_4g_have_their_prices_in_india_revealed-news-74810.php",
+    "content_hash": "ac262ed9a618dd244f5747a6004e9c91afe456b5b3c7a9ab05063d0184ae4b3b",
     "date": "29 September 2026",
     "fetched_at": "2026-09-29T10:16:31.796962+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ac262ed9a618dd244f5747a6004e9c91afe456b5b3c7a9ab05063d0184ae4b3b"
+    "retries": 0,
+    "slug": "samsung_galaxy_a08_4g_f08_4g_and_m08_4g_have_their_prices_in_india_revealed-news-74810",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a08_4g_f08_4g_and_m08_4g_have_their_prices_in_india_revealed-news-74810.php"
   },
   {
-    "slug": "global_oppo_find_x10_runs_geekbench_heres_whats_changed_from_the_chinese_version-news-74807",
-    "url": "https://www.gsmarena.com/global_oppo_find_x10_runs_geekbench_heres_whats_changed_from_the_chinese_version-news-74807.php",
+    "content_hash": "7157fe614c376c4adebcf8bf40b69ab14613247db9a21199469e01ff4c470b99",
     "date": "29 September 2026",
     "fetched_at": "2026-09-29T10:16:20.552159+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7157fe614c376c4adebcf8bf40b69ab14613247db9a21199469e01ff4c470b99"
+    "retries": 0,
+    "slug": "global_oppo_find_x10_runs_geekbench_heres_whats_changed_from_the_chinese_version-news-74807",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/global_oppo_find_x10_runs_geekbench_heres_whats_changed_from_the_chinese_version-news-74807.php"
   },
   {
-    "slug": "iqoo_16_and_iqoo_pad_ultra_full_specs_leak-news-74811",
-    "url": "https://www.gsmarena.com/iqoo_16_and_iqoo_pad_ultra_full_specs_leak-news-74811.php",
+    "content_hash": "b28a049be6459e2217e767405ecc37b978e7ffe0b20a835bafe85edb2d4e2cd9",
     "date": "29 September 2026",
     "fetched_at": "2026-09-29T10:16:00.048439+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b28a049be6459e2217e767405ecc37b978e7ffe0b20a835bafe85edb2d4e2cd9"
+    "retries": 0,
+    "slug": "iqoo_16_and_iqoo_pad_ultra_full_specs_leak-news-74811",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_16_and_iqoo_pad_ultra_full_specs_leak-news-74811.php"
   },
   {
     "content_hash": "bfb904529ee3b80abaf714b4e5b9fb1b23ded12e45d3b7680c23ac0facb45cb3",
