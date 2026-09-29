@@ -3549,6 +3549,26 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/the_galaxy_s25_series_plus_the_galaxy_z_fold7_and_z_flip7_are_now_getting_stable_one_ui_9-news-74801.php"
   },
+  "74804": {
+    "content_hash": "c411acbaf5a27ac5e879c03737f59616d7e1463da9c5ec7c9b59a2210c3bc87e",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T10:16:43.523589+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "standard_xiaomi_18_said_to_offer_dual_200mp_cameras_complete_specs_tipped-news-74804",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/standard_xiaomi_18_said_to_offer_dual_200mp_cameras_complete_specs_tipped-news-74804.php"
+  },
+  "74805": {
+    "content_hash": "d1f62042e93d6415b5170bcff94fc82aaf5da15e6e3e3b68187637019604022d",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T10:16:56.030910+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_our_first_look_at_the_huawei_mate_90_series_including_the_mate_90_rs-news-74805",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_our_first_look_at_the_huawei_mate_90_series_including_the_mate_90_rs-news-74805.php"
+  },
   "74806": {
     "content_hash": "7f76b6b9a36a5b18d9b8f949ef4b3774bd21df000ce363323d0617b1f2633e55",
     "date": "29 September 2026",
@@ -3558,6 +3578,16 @@
     "slug": "redmagic_12_pro_now_has_an_official_launch_date-news-74806",
     "status": "ok",
     "url": "https://www.gsmarena.com/redmagic_12_pro_now_has_an_official_launch_date-news-74806.php"
+  },
+  "74807": {
+    "content_hash": "7157fe614c376c4adebcf8bf40b69ab14613247db9a21199469e01ff4c470b99",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T10:16:20.552159+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "global_oppo_find_x10_runs_geekbench_heres_whats_changed_from_the_chinese_version-news-74807",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/global_oppo_find_x10_runs_geekbench_heres_whats_changed_from_the_chinese_version-news-74807.php"
   },
   "74808": {
     "content_hash": "bfb904529ee3b80abaf714b4e5b9fb1b23ded12e45d3b7680c23ac0facb45cb3",
@@ -3578,5 +3608,25 @@
     "slug": "nothing_headphone_1_pro_unveiled_with_triple_drivers_improved_anc_and_premium_build-news-74809",
     "status": "ok",
     "url": "https://www.gsmarena.com/nothing_headphone_1_pro_unveiled_with_triple_drivers_improved_anc_and_premium_build-news-74809.php"
+  },
+  "74810": {
+    "content_hash": "ac262ed9a618dd244f5747a6004e9c91afe456b5b3c7a9ab05063d0184ae4b3b",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T10:16:31.796962+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a08_4g_f08_4g_and_m08_4g_have_their_prices_in_india_revealed-news-74810",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a08_4g_f08_4g_and_m08_4g_have_their_prices_in_india_revealed-news-74810.php"
+  },
+  "74811": {
+    "content_hash": "b28a049be6459e2217e767405ecc37b978e7ffe0b20a835bafe85edb2d4e2cd9",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T10:16:00.048439+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_16_and_iqoo_pad_ultra_full_specs_leak-news-74811",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_16_and_iqoo_pad_ultra_full_specs_leak-news-74811.php"
   }
 }

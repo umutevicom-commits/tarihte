@@ -1,33 +1,83 @@
 [
   {
-    "slug": "motorolas_wide_foldable_now_has_a_name_and_its_specs_are_out-news-74808",
-    "url": "https://www.gsmarena.com/motorolas_wide_foldable_now_has_a_name_and_its_specs_are_out-news-74808.php",
+    "slug": "heres_our_first_look_at_the_huawei_mate_90_series_including_the_mate_90_rs-news-74805",
+    "url": "https://www.gsmarena.com/heres_our_first_look_at_the_huawei_mate_90_series_including_the_mate_90_rs-news-74805.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T10:16:56.030910+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d1f62042e93d6415b5170bcff94fc82aaf5da15e6e3e3b68187637019604022d"
+  },
+  {
+    "slug": "standard_xiaomi_18_said_to_offer_dual_200mp_cameras_complete_specs_tipped-news-74804",
+    "url": "https://www.gsmarena.com/standard_xiaomi_18_said_to_offer_dual_200mp_cameras_complete_specs_tipped-news-74804.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T10:16:43.523589+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c411acbaf5a27ac5e879c03737f59616d7e1463da9c5ec7c9b59a2210c3bc87e"
+  },
+  {
+    "slug": "samsung_galaxy_a08_4g_f08_4g_and_m08_4g_have_their_prices_in_india_revealed-news-74810",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a08_4g_f08_4g_and_m08_4g_have_their_prices_in_india_revealed-news-74810.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T10:16:31.796962+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ac262ed9a618dd244f5747a6004e9c91afe456b5b3c7a9ab05063d0184ae4b3b"
+  },
+  {
+    "slug": "global_oppo_find_x10_runs_geekbench_heres_whats_changed_from_the_chinese_version-news-74807",
+    "url": "https://www.gsmarena.com/global_oppo_find_x10_runs_geekbench_heres_whats_changed_from_the_chinese_version-news-74807.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T10:16:20.552159+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7157fe614c376c4adebcf8bf40b69ab14613247db9a21199469e01ff4c470b99"
+  },
+  {
+    "slug": "iqoo_16_and_iqoo_pad_ultra_full_specs_leak-news-74811",
+    "url": "https://www.gsmarena.com/iqoo_16_and_iqoo_pad_ultra_full_specs_leak-news-74811.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T10:16:00.048439+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b28a049be6459e2217e767405ecc37b978e7ffe0b20a835bafe85edb2d4e2cd9"
+  },
+  {
+    "content_hash": "bfb904529ee3b80abaf714b4e5b9fb1b23ded12e45d3b7680c23ac0facb45cb3",
     "date": "29 September 2026",
     "fetched_at": "2026-09-29T03:27:04.064237+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "bfb904529ee3b80abaf714b4e5b9fb1b23ded12e45d3b7680c23ac0facb45cb3"
+    "retries": 0,
+    "slug": "motorolas_wide_foldable_now_has_a_name_and_its_specs_are_out-news-74808",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorolas_wide_foldable_now_has_a_name_and_its_specs_are_out-news-74808.php"
   },
   {
-    "slug": "nothing_headphone_1_pro_unveiled_with_triple_drivers_improved_anc_and_premium_build-news-74809",
-    "url": "https://www.gsmarena.com/nothing_headphone_1_pro_unveiled_with_triple_drivers_improved_anc_and_premium_build-news-74809.php",
+    "content_hash": "21cc65484e7209a0a03722cc72befd5b0d3b3a7781bbf3ebe1ff0ba7d543d85d",
     "date": "29 September 2026",
     "fetched_at": "2026-09-29T03:26:35.642405+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "21cc65484e7209a0a03722cc72befd5b0d3b3a7781bbf3ebe1ff0ba7d543d85d"
+    "retries": 0,
+    "slug": "nothing_headphone_1_pro_unveiled_with_triple_drivers_improved_anc_and_premium_build-news-74809",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nothing_headphone_1_pro_unveiled_with_triple_drivers_improved_anc_and_premium_build-news-74809.php"
   },
   {
-    "slug": "redmagic_12_pro_now_has_an_official_launch_date-news-74806",
-    "url": "https://www.gsmarena.com/redmagic_12_pro_now_has_an_official_launch_date-news-74806.php",
+    "content_hash": "7f76b6b9a36a5b18d9b8f949ef4b3774bd21df000ce363323d0617b1f2633e55",
     "date": "29 September 2026",
     "fetched_at": "2026-09-29T03:26:18.750417+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7f76b6b9a36a5b18d9b8f949ef4b3774bd21df000ce363323d0617b1f2633e55"
+    "retries": 0,
+    "slug": "redmagic_12_pro_now_has_an_official_launch_date-news-74806",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmagic_12_pro_now_has_an_official_launch_date-news-74806.php"
   },
   {
     "content_hash": "8d05a30ee4631adf0f6198b8f443b0d90a8152e502ed0fead09b2178f83467b0",
