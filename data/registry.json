@@ -3548,5 +3548,35 @@
     "slug": "the_galaxy_s25_series_plus_the_galaxy_z_fold7_and_z_flip7_are_now_getting_stable_one_ui_9-news-74801",
     "status": "ok",
     "url": "https://www.gsmarena.com/the_galaxy_s25_series_plus_the_galaxy_z_fold7_and_z_flip7_are_now_getting_stable_one_ui_9-news-74801.php"
+  },
+  "74806": {
+    "content_hash": "7f76b6b9a36a5b18d9b8f949ef4b3774bd21df000ce363323d0617b1f2633e55",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T03:26:18.750417+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "redmagic_12_pro_now_has_an_official_launch_date-news-74806",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmagic_12_pro_now_has_an_official_launch_date-news-74806.php"
+  },
+  "74808": {
+    "content_hash": "bfb904529ee3b80abaf714b4e5b9fb1b23ded12e45d3b7680c23ac0facb45cb3",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T03:27:04.064237+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorolas_wide_foldable_now_has_a_name_and_its_specs_are_out-news-74808",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorolas_wide_foldable_now_has_a_name_and_its_specs_are_out-news-74808.php"
+  },
+  "74809": {
+    "content_hash": "21cc65484e7209a0a03722cc72befd5b0d3b3a7781bbf3ebe1ff0ba7d543d85d",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T03:26:35.642405+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "nothing_headphone_1_pro_unveiled_with_triple_drivers_improved_anc_and_premium_build-news-74809",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nothing_headphone_1_pro_unveiled_with_triple_drivers_improved_anc_and_premium_build-news-74809.php"
   }
 }

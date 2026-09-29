@@ -1,33 +1,63 @@
 [
   {
-    "slug": "qualcomm_confirms_it_wants_to_use_samsungs_2nm_process-news-74797",
-    "url": "https://www.gsmarena.com/qualcomm_confirms_it_wants_to_use_samsungs_2nm_process-news-74797.php",
+    "slug": "motorolas_wide_foldable_now_has_a_name_and_its_specs_are_out-news-74808",
+    "url": "https://www.gsmarena.com/motorolas_wide_foldable_now_has_a_name_and_its_specs_are_out-news-74808.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T03:27:04.064237+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "bfb904529ee3b80abaf714b4e5b9fb1b23ded12e45d3b7680c23ac0facb45cb3"
+  },
+  {
+    "slug": "nothing_headphone_1_pro_unveiled_with_triple_drivers_improved_anc_and_premium_build-news-74809",
+    "url": "https://www.gsmarena.com/nothing_headphone_1_pro_unveiled_with_triple_drivers_improved_anc_and_premium_build-news-74809.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T03:26:35.642405+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "21cc65484e7209a0a03722cc72befd5b0d3b3a7781bbf3ebe1ff0ba7d543d85d"
+  },
+  {
+    "slug": "redmagic_12_pro_now_has_an_official_launch_date-news-74806",
+    "url": "https://www.gsmarena.com/redmagic_12_pro_now_has_an_official_launch_date-news-74806.php",
+    "date": "29 September 2026",
+    "fetched_at": "2026-09-29T03:26:18.750417+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7f76b6b9a36a5b18d9b8f949ef4b3774bd21df000ce363323d0617b1f2633e55"
+  },
+  {
+    "content_hash": "8d05a30ee4631adf0f6198b8f443b0d90a8152e502ed0fead09b2178f83467b0",
     "date": "28 September 2026",
     "fetched_at": "2026-09-28T22:50:29.764916+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8d05a30ee4631adf0f6198b8f443b0d90a8152e502ed0fead09b2178f83467b0"
+    "retries": 0,
+    "slug": "qualcomm_confirms_it_wants_to_use_samsungs_2nm_process-news-74797",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/qualcomm_confirms_it_wants_to_use_samsungs_2nm_process-news-74797.php"
   },
   {
-    "slug": "the_galaxy_s25_series_plus_the_galaxy_z_fold7_and_z_flip7_are_now_getting_stable_one_ui_9-news-74801",
-    "url": "https://www.gsmarena.com/the_galaxy_s25_series_plus_the_galaxy_z_fold7_and_z_flip7_are_now_getting_stable_one_ui_9-news-74801.php",
+    "content_hash": "a08a31dc9c0f67e27ef0de8256d410b9a46d56f5367505415cf74c295750d3e1",
     "date": "28 September 2026",
     "fetched_at": "2026-09-28T22:50:12.188654+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a08a31dc9c0f67e27ef0de8256d410b9a46d56f5367505415cf74c295750d3e1"
+    "retries": 0,
+    "slug": "the_galaxy_s25_series_plus_the_galaxy_z_fold7_and_z_flip7_are_now_getting_stable_one_ui_9-news-74801",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_galaxy_s25_series_plus_the_galaxy_z_fold7_and_z_flip7_are_now_getting_stable_one_ui_9-news-74801.php"
   },
   {
-    "slug": "google_pixel_11_pro_vs_pixel_11_pro_xl_battery_camera_price_compared-news-74771",
-    "url": "https://www.gsmarena.com/google_pixel_11_pro_vs_pixel_11_pro_xl_battery_camera_price_compared-news-74771.php",
+    "content_hash": "c47b775e74b12762a6d2964f9e47d50ffdc3d0f3d3bd1e6ea4ab228879be97b8",
     "date": "28 September 2026",
     "fetched_at": "2026-09-28T22:48:12.434197+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c47b775e74b12762a6d2964f9e47d50ffdc3d0f3d3bd1e6ea4ab228879be97b8"
+    "retries": 0,
+    "slug": "google_pixel_11_pro_vs_pixel_11_pro_xl_battery_camera_price_compared-news-74771",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/google_pixel_11_pro_vs_pixel_11_pro_xl_battery_camera_price_compared-news-74771.php"
   },
   {
     "content_hash": "4ca89d820e3ed59bbf949a300f0b6b177e890540eea4e237437a0a261453f6da",
