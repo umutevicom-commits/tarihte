@@ -3788,5 +3788,55 @@
     "slug": "apple_pay_is_now_available_in_india-news-74830",
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_pay_is_now_available_in_india-news-74830.php"
+  },
+  "74831": {
+    "content_hash": "b43abc947476b513e6ece61084868e9f1f3894f0031effcf529c63180750faae",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T14:28:07.961351+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_f35_series_pricing_leaked_ahead_of_india_launch-news-74831",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_f35_series_pricing_leaked_ahead_of_india_launch-news-74831.php"
+  },
+  "74832": {
+    "content_hash": "01da1eede62ee5534c9e670cca309d8c9b0a4891d8c8528bd37b92a7d36230a8",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T14:27:06.942521+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "airpods_5_are_apples_most_repairable_earbuds_ever-news-74832",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/airpods_5_are_apples_most_repairable_earbuds_ever-news-74832.php"
+  },
+  "74834": {
+    "content_hash": "a53355248da9beae3e2374e66aa303ac7b7e316f4aca62a9771a9b1fa69d94f6",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T14:27:47.325971+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_tab_s12_ultra_and_galaxy_tab_s12_debut-news-74834",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_ultra_and_galaxy_tab_s12_debut-news-74834.php"
+  },
+  "74835": {
+    "content_hash": "716b8db08a348b6689dcce66c69efe355bc2e927a4deaee3efff8c0ef8befae9",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T14:27:23.854590+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_new_samsung_smarttag3_supports_ios_its_also_smaller_and_its_battery_lasts_longer-news-74835",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_new_samsung_smarttag3_supports_ios_its_also_smaller_and_its_battery_lasts_longer-news-74835.php"
+  },
+  "74837": {
+    "content_hash": "72c40940e1b0ce494f33b865435dc6eb5878422423665348a37be1836bb41faf",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T14:26:50.079472+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_700_pro_with_its_rear_screen_to_be_joined_by_three_other_interesting_phones_this_year-news-74837",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_700_pro_with_its_rear_screen_to_be_joined_by_three_other_interesting_phones_this_year-news-74837.php"
   }
 }
