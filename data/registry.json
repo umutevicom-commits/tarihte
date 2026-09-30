@@ -3809,6 +3809,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/airpods_5_are_apples_most_repairable_earbuds_ever-news-74832.php"
   },
+  "74833": {
+    "content_hash": "7f622e5e33f2f2e1286f07e248883ca65287c1235ecaa949eae2e3b6df2611fa",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T20:26:42.873111+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ceo_john_ternus_wants_apple_to_be_leaner_more_experimental_and_to_launch_products_faster-news-74833",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/ceo_john_ternus_wants_apple_to_be_leaner_more_experimental_and_to_launch_products_faster-news-74833.php"
+  },
   "74834": {
     "content_hash": "a53355248da9beae3e2374e66aa303ac7b7e316f4aca62a9771a9b1fa69d94f6",
     "date": "30 September 2026",
@@ -3829,6 +3839,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/the_new_samsung_smarttag3_supports_ios_its_also_smaller_and_its_battery_lasts_longer-news-74835.php"
   },
+  "74836": {
+    "content_hash": "eefb89f76c3bffc4b3e14a618ad65c8e960923837e4b0d543d95759b08f75ffb",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T20:26:27.008022+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "more_images_of_the_samsung_galaxy_buds_on_surface_they_show_off_the_clipon_design-news-74836",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/more_images_of_the_samsung_galaxy_buds_on_surface_they_show_off_the_clipon_design-news-74836.php"
+  },
   "74837": {
     "content_hash": "72c40940e1b0ce494f33b865435dc6eb5878422423665348a37be1836bb41faf",
     "date": "30 September 2026",
@@ -3838,5 +3858,25 @@
     "slug": "honor_700_pro_with_its_rear_screen_to_be_joined_by_three_other_interesting_phones_this_year-news-74837",
     "status": "ok",
     "url": "https://www.gsmarena.com/honor_700_pro_with_its_rear_screen_to_be_joined_by_three_other_interesting_phones_this_year-news-74837.php"
+  },
+  "74843": {
+    "content_hash": "f421ccd8754787730ee66c310d46c812772a353cf91651ee69a3c8c161f8da65",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T20:25:56.882390+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazon_unveils_faster_fire_tv_stick_4k_2026_and_a_new_fire_tv_remote-news-74843",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_unveils_faster_fire_tv_stick_4k_2026_and_a_new_fire_tv_remote-news-74843.php"
+  },
+  "74845": {
+    "content_hash": "3b4072b889b11853cab3a020be31feccfa534b1bae562739b505f509e832d154",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T20:25:14.119017+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_tab_s12_ultra_in_for_review-news-74845",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_tab_s12_ultra_in_for_review-news-74845.php"
   }
 }
