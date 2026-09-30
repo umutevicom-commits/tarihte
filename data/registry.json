@@ -3549,6 +3549,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/iphone_18_pro_and_pro_max_sold_13_million_units_in_china_during_the_first_week_beating_the_17_pros-news-74799.php"
   },
+  "74800": {
+    "content_hash": "eb95df63ded98f075acc011acab4c0fd7fdb74da2ec3319f3110a2021f12dfe9",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T07:44:57.490389+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "tecno_pova_8_pro_and_pova_8_pro_tonino_lamborghini_unboxing_and_handson-news-74800",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tecno_pova_8_pro_and_pova_8_pro_tonino_lamborghini_unboxing_and_handson-news-74800.php"
+  },
   "74801": {
     "content_hash": "a08a31dc9c0f67e27ef0de8256d410b9a46d56f5367505415cf74c295750d3e1",
     "date": "28 September 2026",
@@ -3679,6 +3689,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/the_oppo_k14_plus_is_now_official_with_an_8000mah_battery-news-74815.php"
   },
+  "74816": {
+    "content_hash": "574d860c03f8ecd942f3ee21ade96ef7d60f55f5cad4f8033c5ad4031e12ac69",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T07:47:00.325741+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_honor_life_s3_is_a_37_ebook_reader_that_attaches_to_the_back_of_your_phone_with_magnets-news-74816",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_honor_life_s3_is_a_37_ebook_reader_that_attaches_to_the_back_of_your_phone_with_magnets-news-74816.php"
+  },
   "74818": {
     "content_hash": "f7752bd2e35f563957b2e734db1d67d79cbf95a55659b5316e6790e6d165797d",
     "date": "29 September 2026",
@@ -3709,6 +3729,26 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_starts_teasing_the_mate90_series_and_reveals_the_launch_date_while_teleconverter_leaks-news-74820.php"
   },
+  "74821": {
+    "content_hash": "342fbf1c25bb6e96fa0070520dba8031d9cfe09135bb83987373e6d1eb4fb3fd",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T07:46:29.484971+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_v80_price_in_india_leaks_along_with_full_specs-news-74821",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_v80_price_in_india_leaks_along_with_full_specs-news-74821.php"
+  },
+  "74822": {
+    "content_hash": "e495664497b83cdd06f2f0e757de63bee3bdc46f3391a6eebf6ae15eda7b3bad",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T07:46:41.853297+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_mate_90_series_key_specs_leaked_ahead_of_launch-news-74822",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_mate_90_series_key_specs_leaked_ahead_of_launch-news-74822.php"
+  },
   "74824": {
     "content_hash": "a346f69219f541ac591f4f0e7c13250c7d4201f6845c1c9bf10e0b84cb48049d",
     "date": "29 September 2026",
@@ -3719,6 +3759,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/openai_agents_hacked_australian_government_sites_heres_what_happened-news-74824.php"
   },
+  "74825": {
+    "content_hash": "caa2e01602fd4819ea8a2ee91bd0c25fbeadbae9f2e6b637dfb6565474a1a72a",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T07:45:54.035810+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x_fold6_european_listing_reveals_its_price_and_specs-news-74825",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x_fold6_european_listing_reveals_its_price_and_specs-news-74825.php"
+  },
   "74826": {
     "content_hash": "b8cc83df148239bac5e92c26d987075688d036523dab7c9ecd0b6c08ceae0143",
     "date": "29 September 2026",
@@ -3728,5 +3778,15 @@
     "slug": "iqoo_16_launches_with_snapdragon_8_elite_extreme_gen_6_8400_mah_battery-news-74826",
     "status": "ok",
     "url": "https://www.gsmarena.com/iqoo_16_launches_with_snapdragon_8_elite_extreme_gen_6_8400_mah_battery-news-74826.php"
+  },
+  "74830": {
+    "content_hash": "f5372da8d26554e69c2fef4162aceff0d3f263e46452335806b2f65ce4251a0c",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T07:46:11.416167+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_pay_is_now_available_in_india-news-74830",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_pay_is_now_available_in_india-news-74830.php"
   }
 }
