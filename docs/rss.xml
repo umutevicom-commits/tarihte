@@ -6,7 +6,46 @@
     <atom:link href="https://www.gsmarena.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>GSMArena haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 29 Sep 2026 21:53:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 00:55:53 +0000</lastBuildDate>
+    <item>
+      <title>Redmi Note 17 5G pil ömrü ve şarj testlerimiz hazır</title>
+      <link>https://www.gsmarena.com/our_redmi_note_17_5g_battery_life_and_charging_tests_are_ready-news-74819.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/our_redmi_note_17_5g_battery_life_and_charging_tests_are_ready-news-74819.php</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <author>Peter</author>
+      <category>Öne Çıkanlar</category><category>Xiaomi</category><category>Redmi</category><category>Android</category><category>Pil Testi</category>
+      <description>Xiaomi'nin Redmi Note serisi, dünyanın çoğu 5G'ye geçmesine rağmen hala 4G modeline sahip. Hem Redmi Note 17 5G hem de 4G varyantına sahibiz ve bunlar üzerinde pil ve şarj testleri yaptık. Bu yazıda 5G modeline odaklanacağız ve bir sonraki yazıda 4G modelinin neler sunabileceğini göreceğiz.</description>
+      <content:encoded><![CDATA[<p>Xiaomi'nin Redmi Note serisi, dünyanın çoğu 5G'ye geçmesine rağmen hala 4G modeline sahip. Hem Redmi Note 17 5G hem de 4G varyantına sahibiz ve bunlar üzerinde pil ve şarj testleri yaptık. Bu yazıda 5G modeline odaklanacağız ve bir sonraki yazıda 4G modelinin neler sunabileceğini göreceğiz.</p>
+<p>Redmi Note 17 5G, 4G kardeşiyle neredeyse aynıdır – tek fark yonga setidir. 5G bağlantısı için Xiaomi, 4nm Snapdragon 4 Gen 4 'ü seçti. 4G görevleri için Xiaomi, 6nm Snapdragon 6s 4G Gen 2 ile gitti. Her iki çip de aynı anda duyuruldu, ancak 4. Nesil 4 daha yeni bir düğüm üzerine inşa edildi ve daha yeni CPU çekirdeklerine sahip, bu yüzden daha iyi performans sunacak. Ve belki de daha iyi verimlilik?</p>
+<p>Her iki model de 7.700mAh Si/C pillerle çalışır ve 45W şarjı destekler (artı 22.5W ters şarj). Önceki nesilde daha küçük, daha yavaş piller vardı – Note 15 5G için 5.520mAh/45W ve Note 15 4G için 6.000mAh/33W. Sırasıyla Snapdragon 4 Gen 3 ve Helio G100 Ultra kullandılar.</p>
+<p>Pil dayanıklılığıyla başlayan Redmi Note 17, 5G selefini genel olarak büyük iyileştirmelerle kolayca geride bıraktı. Aktif Kullanım Skorundaki iyileşme yaklaşık 5 buçuk saatte oldukça etkileyicidir. İyileştirme oldukça doğrusaldır – batarya % 39 daha fazla kapasiteye sahiptir ve test puanı % 38 oranında iyileşmiştir. Note 17 5G'nin 6.99” OLED ekrana (1080p+, 120Hz) sahip olduğunu, Note 15 5G'nin ise 6.77” OLED ekrana (1080p+, 120Hz) sahip olduğunu unutmayın. Bu, daha büyük ekranı dengeleyen verimlilikte küçük bir artış olduğu anlamına gelir.</p>
+<p>Bir sonraki yazıda Redmi Note 17 5G ve 4G'yi karşılaştıracağız, ancak 5G modelinin daha iyi bir telefon olduğunu söylemek yeterli.</p>
+<p>Realme 16T, 3 saat daha uzun ömürlü biraz daha büyük 8.000mAh bataryaya sahiptir. Arama, web ve oyun testlerinde Redmi'yi yeniyor ve video testinde geride kalıyor. 16T, oldukça farklı olan 6,81&quot; ekrana sahiptir – sadece 720p+ çözünürlüğe sahip 144Hz IPS LCD'dir. Dimensity 6300 oyun için en iyi GPU'ya sahip olmadığı için bu önemlidir.</p>
+<p>Poco M8 Pro, daha küçük bir 6.500mAh Si/C bataryaya sahiptir, ancak çok daha hızlı 100W şarjı destekler. Bir dakika içinde bunun nasıl sonuçlanacağını göreceğiz. Bu, Snapdragon 7s Gen 4 yonga setine ve daha yüksek 1280p + çözünürlüğe sahip 6.83” OLED ekrana sahiptir.</p>
+<p>Redmi Note 17 Pro daha büyük bir bataryaya (+640mAh) sahip, ancak dayanıklılığı daha düşük. Bu bizi şaşırttı – Pro daha küçük bir 6.83&quot; ekrana sahip (daha fazla piksel, 1280p + ve 1080p+) ve 4nm yonga seti neredeyse hiç keskin değil – Snapdragon 6s Gen 4. Pro, daha büyük bataryasıyla bunu kolayca kazanmalıydı.</p>
+<p>Ayrıca Samsung Galaxy A37 'yi de dahil ettik – 5.000mAh pili ile bu telefon daha iyi donanımlı orta kademelerle rekabet edemiyor.</p>
+<p>Redmi Note 17 5G, bunun gibi pil kapasiteleri için minimum olan 45W şarj cihazına sahiptir. 15 dakika sonra, % 25 şarj durumuna yaklaşıyordu. 30 dakikalık şarj size % 41 verir, bu da yoğun bir kullanıcı olsanız bile gün boyunca size yetecektir.</p>
+<p>Yine de, Poco M8 Pro'nun 100W şarj sisteminin avantajını görüyorsunuz – 30 dakika sonra zaten % 83 'tü. Tabii ki, önceki grafikte gördüğümüz gibi, M8 Pro ile iki tam gün ağır kullanım elde etmek zor olabilir ve Note 17 Pro ile daha kolay olacak. Dolayısıyla bu, telefonunuzu ne sıklıkta şarj ettiğiniz ve her seferinde ne kadar beklemek istediğinizle ilgili bir sorudur.</p>
+<p>Samsung Galaxy A37, kağıt üzerinde 45W şarjı destekliyor ancak grafik, rakamın kendi başına yanıltıcı olabileceğini açıkça gösteriyor. Redmi % 54 daha fazla pil kapasitesine sahiptir, ancak tam şarj için sadece % 18 daha uzun süreye ihtiyaç duyar.</p>
+<p>Redmi Note 17 Pro, dayanıklılık testinde kendini utandırdı ve şarj testinde de herhangi bir ödül kazanmıyor – evet, daha büyük bir bataryaya sahip (8,340mAh'ye karşı 7,700mAh, +% 8), ancak aynı zamanda daha hızlı şarj oluyor (67W'a karşı 45W ,% 49). Ve yine de vanilyalı Redmi Note 17 'yi sadece 5 dakika yendi.</p>
+<p>15 dakika içinde</p>
+<p>30 dakika içinde</p>
+<p>Tam şarj olma süresi (% 0 'dan itibaren)</p>
+<p>Redmi Note 17 5G ve 4G, seleflerinin yüksek çözünürlüklü kameralarını kaybetti – Note 15 çifti 108MP sensörlere sahipti. Poco M8 Pro'nun Note 17 'yi geçtiği düşünüldüğünde yonga setleri de harika değil. Yani, bu neslin tek iyi yükseltmesi bataryadır.</p>
+<p>Dayanıklılık açısından, Redmi Note 17 5G, 20 saate yakın Aktif Kullanım Puanı ile, telefonu ne kadar zorladığınıza bağlı olarak, şarjlar arasında kolayca 2 -3 gün gidebilirsiniz.</p>
+<p>Bununla birlikte, 67W'lık bir şarj artışını memnuniyetle karşılardık. Anlıyoruz, orta korucuda her şeye sahip olamazsınız, ancak tam şarj için yaklaşık bir buçuk saat beklemek zorunda kalmak yavaş hissettiriyor.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/our_redmi_note_17_5g_battery_life_and_charging_tests_are_ready-news-74819/immaculate_001.jpg" alt="Redmi Note 17 5G retail package" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/our_redmi_note_17_5g_battery_life_and_charging_tests_are_ready-news-74819/immaculate_003.jpg" alt="Our Redmi Note 17 5G battery life and charging tests are ready" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/our_redmi_note_17_5g_battery_life_and_charging_tests_are_ready-news-74819/immaculate_004.jpg" alt="Our Redmi Note 17 5G battery life and charging tests are ready" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/our_redmi_note_17_5g_battery_life_and_charging_tests_are_ready-news-74819/immaculate_002.jpg" alt="The Redmi Note 17 5G supports 45W charging" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://www.gsmarena.com/&lt;#BasePicLoc#&gt;bigpic/xiaomi-poco-m8-pro.jpg" alt="Poco M8 Pro" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://www.gsmarena.com/&lt;#BasePicLoc#&gt;bigpic/samsung-galaxy-a37.jpg" alt="Galaxy A37" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://www.gsmarena.com/&lt;#BasePicLoc#&gt;bigpic/xiaomi-redmi-note-15-global.jpg" alt="Redmi Note 15 5G" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://www.gsmarena.com/&lt;#BasePicLoc#&gt;bigpic/xiaomi-redmi-note-17-pro.jpg" alt="Redmi Note 17 Pro (Global)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://www.gsmarena.com/&lt;#BasePicLoc#&gt;bigpic/xiaomi-redmi-note-17.jpg" alt="Redmi Note 17 5G (Global)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://www.gsmarena.com/&lt;#BasePicLoc#&gt;bigpic/xiaomi-redmi-note-17-4g.jpg" alt="Redmi Note 17 4G (Global)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://www.gsmarena.com/&lt;#BasePicLoc#&gt;bigpic/realme-16t.jpg" alt="Realme 16T" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Huawei starts teasing the Mate90 series and reveals the launch date while teleconverter leaks</title>
       <link>https://www.gsmarena.com/huawei_starts_teasing_the_mate90_series_and_reveals_the_launch_date_while_teleconverter_leaks-news-74820.php</link>
@@ -1498,23 +1537,6 @@
 <p>It also gets a front-facing camera, a fingerprint sensor on the top right corner and an action button on the left side. Meta said it “packed the whole Muse experience” inside the Muse Charm with real-time voice, so it should be able to do everything you can on the standard Muse AI app.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/meta_muse_charm_is_a_standalone_ai_device_coming_later_this_year_-news-74744/immaculate_001.jpg" alt="Meta Muse Charm" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/meta_muse_charm_is_a_standalone_ai_device_coming_later_this_year_-news-74744/immaculate_002.jpg" alt="Meta Muse Charm" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Şirket, Xiaomi 18 Pro ve Xiaomi 18 Pro Max'in küreselleştiğini doğruladı</title>
-      <link>https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_are_going_global_the_company_confirms-news-74746.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_are_going_global_the_company_confirms-news-74746.php</guid>
-      <pubDate>Thu, 24 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Vlad</author>
-      <category>Öne Çıkanlar</category><category>Xiaomi</category><category>Android</category>
-      <description>Dün Xiaomi, Çin'de 18 Pro ve 18 Pro Max'i tanıttı. 24 saatten kısa bir süre sonra şirket, &quot;Xiaomi 18 Pro serisinin&quot; (yani her iki telefonun da) gelecekte bir noktada küresel lansmanlar alacağını resmen doğruladı.</description>
-      <content:encoded><![CDATA[<p>Dün Xiaomi, Çin'de 18 Pro ve 18 Pro Max'i tanıttı. 24 saatten kısa bir süre sonra şirket, &quot;Xiaomi 18 Pro serisinin&quot; (yani her iki telefonun da) gelecekte bir noktada küresel lansmanlar alacağını resmen doğruladı.</p>
-<p>İşte Xiaomi'nin CMO'su Xu Fei, kısa bir videoda onlar hakkında konuşuyor:</p>
-<p>#Xiaomi18ProSeries bu yıl daha fazla sürprizle küreselleşiyor. #XiaomiLaunch pic.twitter.com/5pDq9oR6Of</p>
-<p>Bununla birlikte, ilginç bir bükülme var (ya da belki de sadece küçük ayrıntılara çok fazla okuyoruz - görülmeye devam ediyor). Xu Fei açıkça &quot;Xiaomi 18 Pro serisi&quot; olarak adlandırırken, her iki el cihazının da küresel olarak piyasaya sürüleceği gerçeğini güçlü bir şekilde ima ederken, X'teki Xiaomi Hindistan hesabı sadece 18 Pro'dan bahsediyor.</p>
-<p>Bu, 18 Pro Max'in Hindistan'da mevcut olmayacağı ve diğer küresel pazarlarda piyasaya sürüleceği anlamına gelebilir. Tabii ki, bu küresel lansman öncesinde kesinlikle netleşecek, ancak yine de akılda tutulması gereken bir şey.</p>
-<p>18 Pro, 1120x2436 çözünürlük, 120Hz yenileme hızı ve 4.000 nit tepe parlaklığına sahip 6,4 inç LTPO AMOLED ekrana ve 596x976 çözünürlük, 120Hz yenileme hızı ve 4.000 nit tepe parlaklığına sahip 2,7 inç LTPO AMOLED arka ekrana sahiptir.</p>
-<p>It's powered by the new Qualcomm Snapdragon 8 Elite Gen 6 chipset, paired with 12/16GB of RAM, and 256/512GB/1TB of storage. It has a 200MP main camera with OIS, a 200MP periscope telephoto with OIS and 3.2x optical zoom, a 50MP ultrawide, a 50MP selfie camera, and a 7,000 mAh battery with support for 100W wired and 50W wireless charging. It runs Android 17 with HyperOS 4 on top. It has an IP68 rating for dust and water resistance.</p>
-<p>The Xiaomi 18 Pro Max is bigger, with a 6.9-inch display boasting 1208x2624 resolution. Its rear screen is larger too, at 2.9&quot;, and it's powered by the Snapdragon 8 Elite Extreme Gen 6 SoC, while also sporting a beefier 8,500 mAh battery.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>

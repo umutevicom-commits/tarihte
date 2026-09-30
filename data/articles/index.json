@@ -1,33 +1,43 @@
 [
   {
-    "slug": "huawei_starts_teasing_the_mate90_series_and_reveals_the_launch_date_while_teleconverter_leaks-news-74820",
-    "url": "https://www.gsmarena.com/huawei_starts_teasing_the_mate90_series_and_reveals_the_launch_date_while_teleconverter_leaks-news-74820.php",
+    "slug": "our_redmi_note_17_5g_battery_life_and_charging_tests_are_ready-news-74819",
+    "url": "https://www.gsmarena.com/our_redmi_note_17_5g_battery_life_and_charging_tests_are_ready-news-74819.php",
+    "date": "30 September 2026",
+    "fetched_at": "2026-09-30T00:55:04.645173+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6b743f479e3701e87ba4af4f65add035f27d0bb5e3c28bd1c053fff294c48695"
+  },
+  {
+    "content_hash": "9503ed5ee41d2a6f27acd7dff1a73130c4fd5ec70d9d57ec3ee4a2f4e2aff087",
     "date": "29 September 2026",
     "fetched_at": "2026-09-29T21:52:19.979647+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9503ed5ee41d2a6f27acd7dff1a73130c4fd5ec70d9d57ec3ee4a2f4e2aff087"
+    "retries": 0,
+    "slug": "huawei_starts_teasing_the_mate90_series_and_reveals_the_launch_date_while_teleconverter_leaks-news-74820",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_starts_teasing_the_mate90_series_and_reveals_the_launch_date_while_teleconverter_leaks-news-74820.php"
   },
   {
-    "slug": "samsung_galaxy_z_fold8_ultra_vs_samsung_galaxy_z_fold7_battery_camera_price_compared-news-74074",
-    "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_vs_samsung_galaxy_z_fold7_battery_camera_price_compared-news-74074.php",
+    "content_hash": "b9a4198d9c0cd91c5a12b994c2f5af31345fbb4e26e61a7d985bfcbdd07155f8",
     "date": "29 September 2026",
     "fetched_at": "2026-09-29T21:41:45.168747+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b9a4198d9c0cd91c5a12b994c2f5af31345fbb4e26e61a7d985bfcbdd07155f8"
+    "retries": 0,
+    "slug": "samsung_galaxy_z_fold8_ultra_vs_samsung_galaxy_z_fold7_battery_camera_price_compared-news-74074",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_vs_samsung_galaxy_z_fold7_battery_camera_price_compared-news-74074.php"
   },
   {
-    "slug": "openai_agents_hacked_australian_government_sites_heres_what_happened-news-74824",
-    "url": "https://www.gsmarena.com/openai_agents_hacked_australian_government_sites_heres_what_happened-news-74824.php",
+    "content_hash": "a346f69219f541ac591f4f0e7c13250c7d4201f6845c1c9bf10e0b84cb48049d",
     "date": "29 September 2026",
     "fetched_at": "2026-09-29T21:41:18.268268+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a346f69219f541ac591f4f0e7c13250c7d4201f6845c1c9bf10e0b84cb48049d"
+    "retries": 0,
+    "slug": "openai_agents_hacked_australian_government_sites_heres_what_happened-news-74824",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/openai_agents_hacked_australian_government_sites_heres_what_happened-news-74824.php"
   },
   {
     "content_hash": "608dce75b34760c23d83ae40551774f48edbde337927155f613398378188ec3a",
