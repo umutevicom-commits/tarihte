@@ -4008,5 +4008,15 @@
     "slug": "samsung_galaxy_m08_and_f08_are_now_official-news-74863",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_m08_and_f08_are_now_official-news-74863.php"
+  },
+  "74869": {
+    "content_hash": "087be832b5132ff87b054d4366e833b2d428bbd336b6171517ee772d6a020eee",
+    "date": "01 October 2026",
+    "fetched_at": "2026-10-01T22:09:58.061900+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "tmobile_is_preparing_new_tmix_plans_here_are_the_details-news-74869",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tmobile_is_preparing_new_tmix_plans_here_are_the_details-news-74869.php"
   }
 }
