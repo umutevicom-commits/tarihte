@@ -1,13 +1,23 @@
 [
   {
-    "slug": "tmobile_is_preparing_new_tmix_plans_here_are_the_details-news-74869",
-    "url": "https://www.gsmarena.com/tmobile_is_preparing_new_tmix_plans_here_are_the_details-news-74869.php",
-    "date": "01 October 2026",
-    "fetched_at": "2026-10-01T22:09:58.061900+00:00",
+    "slug": "vivo_x_fold6_in_for_review-news-74862",
+    "url": "https://www.gsmarena.com/vivo_x_fold6_in_for_review-news-74862.php",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T03:17:17.495027+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "087be832b5132ff87b054d4366e833b2d428bbd336b6171517ee772d6a020eee"
+    "content_hash": "7c25d0e10761de0d26ccf726bf1cf15a2eeb7fb93b83a72e23fd9339dc88a88b"
+  },
+  {
+    "content_hash": "087be832b5132ff87b054d4366e833b2d428bbd336b6171517ee772d6a020eee",
+    "date": "01 October 2026",
+    "fetched_at": "2026-10-01T22:09:58.061900+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "tmobile_is_preparing_new_tmix_plans_here_are_the_details-news-74869",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tmobile_is_preparing_new_tmix_plans_here_are_the_details-news-74869.php"
   },
   {
     "content_hash": "b0ebd49e69d8cc2b84b365b9bb8bedba7150a0cb21648cf839b5fc0d81f2fcef",
