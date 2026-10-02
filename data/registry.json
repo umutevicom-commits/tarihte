@@ -4059,6 +4059,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/tmobile_is_preparing_new_tmix_plans_here_are_the_details-news-74869.php"
   },
+  "74870": {
+    "content_hash": "428091d8c18f273bd9f695f4b75efeaaa690317263f8331c1939bcd60a434ebd",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T21:37:59.954131+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "at_t_verizon_and_tmobile_officially_launch_joint_venture_to_end_dead_zones-news-74870",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/at_t_verizon_and_tmobile_officially_launch_joint_venture_to_end_dead_zones-news-74870.php"
+  },
   "74872": {
     "content_hash": "3664c2ae866c048a0d779a440efa1dfdbca34bc0bb26cbd015ab36f821bba7c3",
     "date": "02 October 2026",
@@ -4108,5 +4118,25 @@
     "slug": "nothing_will_let_you_play_with_its_upcoming_products_before_anyone_else_heres_how-news-74877",
     "status": "ok",
     "url": "https://www.gsmarena.com/nothing_will_let_you_play_with_its_upcoming_products_before_anyone_else_heres_how-news-74877.php"
+  },
+  "74879": {
+    "content_hash": "aa8e7f533515e062afd0976e8991ca63f08ebe8a44e36e03de6531662acef994",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T21:37:43.858290+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_starts_mass_producing_exynos_2700_chip_galaxy_s27_ultra_decision_still_up_in_the_air-news-74879",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_starts_mass_producing_exynos_2700_chip_galaxy_s27_ultra_decision_still_up_in_the_air-news-74879.php"
+  },
+  "74880": {
+    "content_hash": "d89a070e4106ff868c897c8dd8b29c933d9b376c4ae586ed5f82346e4181f1aa",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T21:37:22.574994+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_googlebook_appears_on_geekbench_with_a_snapdragon_x_elite_chipset-news-74880",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_googlebook_appears_on_geekbench_with_a_snapdragon_x_elite_chipset-news-74880.php"
   }
 }
