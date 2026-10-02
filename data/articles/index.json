@@ -1,33 +1,83 @@
 [
   {
-    "slug": "apples_homepad___home_hub_may_come_in_these_four_colors-news-74866",
-    "url": "https://www.gsmarena.com/apples_homepad___home_hub_may_come_in_these_four_colors-news-74866.php",
+    "slug": "iphone_duos_inner_display_cover_can_be_replaced-news-74873",
+    "url": "https://www.gsmarena.com/iphone_duos_inner_display_cover_can_be_replaced-news-74873.php",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T17:27:50.206274+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3fd449794bf3a1a140d86a2ffbde4dc4d6e7b3d6054c4788d6cdacc991b44a59"
+  },
+  {
+    "slug": "amazon_unveils_its_updated_kindle_lineup-news-74874",
+    "url": "https://www.gsmarena.com/amazon_unveils_its_updated_kindle_lineup-news-74874.php",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T17:23:14.566605+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c6291b0d40cc6af078bc35c335e8b80db4434a0ae0d86b2d740e05aa13759590"
+  },
+  {
+    "slug": "nothing_will_let_you_play_with_its_upcoming_products_before_anyone_else_heres_how-news-74877",
+    "url": "https://www.gsmarena.com/nothing_will_let_you_play_with_its_upcoming_products_before_anyone_else_heres_how-news-74877.php",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T17:21:33.028322+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "92f8edb82f0182bbe788baefd9a92ca9242a3e4d9e632689f21e67ec7f87e219"
+  },
+  {
+    "slug": "apple_commissions_awardwinning_photogs_to_showcase_the_iphone_duos_cameras-news-74875",
+    "url": "https://www.gsmarena.com/apple_commissions_awardwinning_photogs_to_showcase_the_iphone_duos_cameras-news-74875.php",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T17:19:42.775453+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9800c6ccd45be93278f3c4665d02be0843e85181fd7b0507d821d8611cb5aeb0"
+  },
+  {
+    "slug": "samsung_galaxy_z_fold8_ultra_vs_samsung_galaxy_s26_ultra_battery_camera_price_compared-news-74072",
+    "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_vs_samsung_galaxy_s26_ultra_battery_camera_price_compared-news-74072.php",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T17:06:05.358915+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9020401092f76a7b3cd5a077c0d4e0464afdae812ac706fd6aa4e32d421d8f95"
+  },
+  {
+    "content_hash": "a9b58c3739807b6e05373d742f598c9b80edb879e99f52d05cd3f5bfc72ad46e",
     "date": "02 October 2026",
     "fetched_at": "2026-10-02T10:11:10.040836+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a9b58c3739807b6e05373d742f598c9b80edb879e99f52d05cd3f5bfc72ad46e"
+    "retries": 0,
+    "slug": "apples_homepad___home_hub_may_come_in_these_four_colors-news-74866",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apples_homepad___home_hub_may_come_in_these_four_colors-news-74866.php"
   },
   {
-    "slug": "samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858",
-    "url": "https://www.gsmarena.com/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858.php",
+    "content_hash": "2f6fb838f361750405a675ffaf6e74d93f9e6b597484f006f648bc0e0475a951",
     "date": "02 October 2026",
     "fetched_at": "2026-10-02T10:10:47.132403+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2f6fb838f361750405a675ffaf6e74d93f9e6b597484f006f648bc0e0475a951"
+    "retries": 0,
+    "slug": "samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858.php"
   },
   {
-    "slug": "huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872",
-    "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872.php",
+    "content_hash": "3664c2ae866c048a0d779a440efa1dfdbca34bc0bb26cbd015ab36f821bba7c3",
     "date": "02 October 2026",
     "fetched_at": "2026-10-02T10:10:31.498310+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3664c2ae866c048a0d779a440efa1dfdbca34bc0bb26cbd015ab36f821bba7c3"
+    "retries": 0,
+    "slug": "huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872.php"
   },
   {
     "content_hash": "7c25d0e10761de0d26ccf726bf1cf15a2eeb7fb93b83a72e23fd9339dc88a88b",

@@ -1,0 +1,11 @@
+# Apple commissions award-winning photogs to showcase the iPhone Duo's cameras
+
+We've always enjoyed Apple's Shot on iPhone media stunts. It's the popular "give a professional a tool and get professional results" method, and it always works. A true pro in his field will always get amazing results, even with a phone.
+
+In this case, Apple gave the iPhone Duo to two photographers - Jake Michaels, who contributed one of the photos, and Jason Nocito.
+
+Both are award-winning photographers who have photographed celebrities like Woody Harrelson, Keith Richards, Future, ASAP Rocky, Ariana Grande, George Clooney, and others. Suffice it to say, these guys know their stuff and did a fine job with the iPhone Duo's cameras.
+
+The iPhone Duo is anything but a camera-focused flagship. Yet, it packs respectable imaging hardware: a 48MP 1/1.56-inch 26mm f/1.6 wide-angle camera and a 48MP 1/2.55-inch 13mm f/2.2 ultrawide, both capable of multi-frame processing and HDR. Photography has always been more about the photographer, the composition and the lighting than the hardware taking the photo.
+
+The iPhone Duo is going on sale soon, on October 16, and will ship on October 23.

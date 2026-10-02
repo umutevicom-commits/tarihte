@@ -1,0 +1,17 @@
+# Nothing will let you play with its upcoming products before anyone else, here's how
+
+Today Nothing has opened up submissions for a new Community Review Program. The company describes this as "your chance to get hands-on" with its latest products and software before anyone else, "and to show off your creativity by sharing your own take with a vibrant global community".
+
+If you are selected, you are promised to "get products in your hands first", as well as have "direct lines to speak with the Nothing team". You will also have "a real say" in shaping what the company will work on next.
+
+Nothing says it's looking for people who are passionate about technology or have "strong expertise in product reviews". If you are selected, you will need to sign a non-disclosure agreement and "maintain high standards of information security with the product before it is publicly released", and you also need to adhere to embargo dates and deadlines set by Nothing.
+
+If all of that sounds good to you, head on over to the Source link below, where the "Apply Now" link is located. You have until October 5 at 10 AM in London, which is 11 AM in Central Europe, 5 AM in New York, and 2 AM in Los Angeles.
+
+Here come the caveats. First off, for some reason this is not applicable to people in India. Second, you don't get to keep the product(s) you will review, they are sent on a loan basis. The good thing is that you won't have to pay for any shipping.
+
+---
+
+## Görseller
+
+![Nothing will let you play with its upcoming products before anyone else, here's how](https://umutevicom-commits.github.io/tarihte/data/images/nothing_will_let_you_play_with_its_upcoming_products_before_anyone_else_heres_how-news-74877/immaculate_001.jpg)

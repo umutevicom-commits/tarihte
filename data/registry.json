@@ -9,6 +9,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/oppo_watch_x3_review-news-73855.php"
   },
+  "74072": {
+    "content_hash": "9020401092f76a7b3cd5a077c0d4e0464afdae812ac706fd6aa4e32d421d8f95",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T17:06:05.358915+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_z_fold8_ultra_vs_samsung_galaxy_s26_ultra_battery_camera_price_compared-news-74072",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_z_fold8_ultra_vs_samsung_galaxy_s26_ultra_battery_camera_price_compared-news-74072.php"
+  },
   "74074": {
     "content_hash": "b9a4198d9c0cd91c5a12b994c2f5af31345fbb4e26e61a7d985bfcbdd07155f8",
     "date": "29 September 2026",
@@ -4058,5 +4068,45 @@
     "slug": "huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872",
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872.php"
+  },
+  "74873": {
+    "content_hash": "3fd449794bf3a1a140d86a2ffbde4dc4d6e7b3d6054c4788d6cdacc991b44a59",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T17:27:50.206274+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_duos_inner_display_cover_can_be_replaced-news-74873",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_duos_inner_display_cover_can_be_replaced-news-74873.php"
+  },
+  "74874": {
+    "content_hash": "c6291b0d40cc6af078bc35c335e8b80db4434a0ae0d86b2d740e05aa13759590",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T17:23:14.566605+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazon_unveils_its_updated_kindle_lineup-news-74874",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_unveils_its_updated_kindle_lineup-news-74874.php"
+  },
+  "74875": {
+    "content_hash": "9800c6ccd45be93278f3c4665d02be0843e85181fd7b0507d821d8611cb5aeb0",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T17:19:42.775453+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_commissions_awardwinning_photogs_to_showcase_the_iphone_duos_cameras-news-74875",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_commissions_awardwinning_photogs_to_showcase_the_iphone_duos_cameras-news-74875.php"
+  },
+  "74877": {
+    "content_hash": "92f8edb82f0182bbe788baefd9a92ca9242a3e4d9e632689f21e67ec7f87e219",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T17:21:33.028322+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "nothing_will_let_you_play_with_its_upcoming_products_before_anyone_else_heres_how-news-74877",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nothing_will_let_you_play_with_its_upcoming_products_before_anyone_else_heres_how-news-74877.php"
   }
 }
