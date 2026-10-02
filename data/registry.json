@@ -3989,6 +3989,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/poco_c95_pro_launches_with_a_7500mah_battery_and_69_inch_display-news-74856.php"
   },
+  "74858": {
+    "content_hash": "2f6fb838f361750405a675ffaf6e74d93f9e6b597484f006f648bc0e0475a951",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T10:10:47.132403+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858.php"
+  },
   "74861": {
     "content_hash": "ad298afc9dad95d3cd4b2ed55a716c2280e6ea9c99e893daaae9767066463d71",
     "date": "01 October 2026",
@@ -4019,6 +4029,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_m08_and_f08_are_now_official-news-74863.php"
   },
+  "74866": {
+    "content_hash": "a9b58c3739807b6e05373d742f598c9b80edb879e99f52d05cd3f5bfc72ad46e",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T10:11:10.040836+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apples_homepad___home_hub_may_come_in_these_four_colors-news-74866",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apples_homepad___home_hub_may_come_in_these_four_colors-news-74866.php"
+  },
   "74869": {
     "content_hash": "087be832b5132ff87b054d4366e833b2d428bbd336b6171517ee772d6a020eee",
     "date": "01 October 2026",
@@ -4028,5 +4048,15 @@
     "slug": "tmobile_is_preparing_new_tmix_plans_here_are_the_details-news-74869",
     "status": "ok",
     "url": "https://www.gsmarena.com/tmobile_is_preparing_new_tmix_plans_here_are_the_details-news-74869.php"
+  },
+  "74872": {
+    "content_hash": "3664c2ae866c048a0d779a440efa1dfdbca34bc0bb26cbd015ab36f821bba7c3",
+    "date": "02 October 2026",
+    "fetched_at": "2026-10-02T10:10:31.498310+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872.php"
   }
 }

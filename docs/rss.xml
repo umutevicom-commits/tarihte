@@ -6,7 +6,64 @@
     <atom:link href="https://www.gsmarena.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>GSMArena haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Fri, 02 Oct 2026 03:17:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 10:11:23 +0000</lastBuildDate>
+    <item>
+      <title>Apple'ın HomePad / Home Hub'ı bu dört renkte olabilir</title>
+      <link>https://www.gsmarena.com/apples_homepad___home_hub_may_come_in_these_four_colors-news-74866.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/apples_homepad___home_hub_may_come_in_these_four_colors-news-74866.php</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Vlad</author>
+      <category>Öne Çıkanlar</category><category>Apple</category><category>Akıllı ev</category><category>Söylentiler</category>
+      <description>Dün bir rapor bize Apple'ın 13 Ekim'de çok konuşulan Home Hub veya HomePad'i nihayet açıklayacağını söyledi. Bu rapor, &quot;Apple'ın standart gri alüminyum kaplaması&quot; olarak tanımlanan yalnızca bir renkte mevcut olacağını ima ediyordu.</description>
+      <content:encoded><![CDATA[<p>Dün bir rapor bize Apple'ın 13 Ekim'de çok konuşulan Home Hub veya HomePad'i nihayet açıklayacağını söyledi. Bu rapor, &quot;Apple'ın standart gri alüminyum kaplaması&quot; olarak tanımlanan yalnızca bir renkte mevcut olacağını ima ediyordu.</p>
+<p>Bununla birlikte, cihazın aslında dört renkte sunulabileceği ortaya çıktı: Gümüş, Uzay Grisi, Yıldız Işığı ve Gül Pembesi. Bu bilgi, Home Hub /HomePad'in dört rengine karşılık geleceği iddia edilen Photo Face kurulum ekranlarını ortaya çıkaran X'teki bir ihbarcıdan geliyor.</p>
+<p>Apple'ın Home cihazı dört kaplamaya sahip olabilir: Gümüş, Uzay Grisi, Yıldız Işığı ve Gül Pembesi. Photo Face kurulum ekranı, önizleme sanatını cihazın bildirdiği donanım rengine göre seçer. Cihazın muhafazası, cihaz varlıkları mevcut olduğunda kurulum ekranlarında da görünebilir.… https://t.co/8h4iF9OEsG pic.twitter.com/oRRTijUdkO</p>
+<p>Geçen ay, bir sızıntı bize 13 Ekim'de de tanıtılacağı söylenen HomePod Mini 2 'nin pembe, beyaz, yeşil, mavi ve &quot;gece yarısı&quot; (çok koyu gri) geleceğini söyledi. Bu yüzden Apple, yeni akıllı ev serisinin oldukça renkli olmasını istiyor gibi görünüyor. Bu kesinlikle bu cihazların ev dekorunuzla daha iyi eşleşmesine yardımcı olacaktır.</p>
+<p>HomePad/ Home Hub'a geri dönersek, bunun, iMac G4 'ten tamamen farklı olmayan bir tasarımda, hoparlörleri barındıran yuvarlak bir tabana bağlı metal bir kol üzerinde 6 inç kare ekrana sahip olması bekleniyor.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Samsung, SmartThings uygulamasını yeniden tasarlanan Ana Sayfa sekmesiyle güncelledi</title>
+      <link>https://www.gsmarena.com/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858.php</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Peter</author>
+      <category>Öne Çıkanlar</category><category>Samsung</category><category>Android</category><category>Akıllı ev</category>
+      <description>Samsung, 1.8.51.30 sürümü ile SmartThings uygulamasında büyük bir revizyon yapıyor. Bu güncelleme, Giriş sekmesini yeniden tasarlar ve Cihazlar sekmesini günceller. Bu sürüm zaten iOS'a yayıldı (aslında iPhone kullanıcıları ilk önce aldı) ve şimdi Google Play Store ve Galaxy Store'da mevcut.</description>
+      <content:encoded><![CDATA[<p>Samsung, 1.8.51.30 sürümü ile SmartThings uygulamasında büyük bir revizyon yapıyor. Bu güncelleme, Giriş sekmesini yeniden tasarlar ve Cihazlar sekmesini günceller. Bu sürüm zaten iOS'a yayıldı (aslında iPhone kullanıcıları ilk önce aldı) ve şimdi Google Play Store ve Galaxy Store'da mevcut.</p>
+<p>Giriş sekmesinde artık cihazlar ve rutinler için daha kompakt kartlar bulunuyor. Bir cihazı açmak veya kapatmak veya bir rutini tetiklemek için simgesine dokunabilirsiniz. Kartlar gerektiğinde yeniden boyutlandırılabilir ve yeniden düzenlenebilir.</p>
+<p>SmartThings uygulamasında yeniden tasarlanan Ana Sayfa sekmesi (v1.8.51.30)</p>
+<p>Ayrıca, Ana Sayfa sekmesinde sık kullanılan cihazların bulunmasını kolaylaştıran Sık Kullanılanların bir listesini bulacaksınız. Bu sekmede ayrıca hava durumu veya önerilen rutinler gibi bilgileri gösteren SmartThings Now da bulunur.</p>
+<p>Cihazlar ve rutinler sekmeleri</p>
+<p>Uygulama, her odanın boyutlarını ayarlayarak ve hatta çeşitli ekipman ve mobilyalar için 3D modeller indirerek evinizin 3D versiyonunu oluşturmanıza olanak tanır. Bu süreç yeni sürümde güncellendi.</p>
+<p>Uygulama, evinizin 3D haritasını çıkarmanızı sağlar</p>
+<p>Bu arada, Samsung birkaç ay önce &quot;Samsung Sound&quot; uygulamasını piyasaya sürdü – bu uygulama kullanıcıların Samsung'un Wi - Fi bağlantılı hoparlörlerini ve ses çubuklarını kontrol etmelerini sağlıyor. Bununla birlikte, uygulama kullanımdan kaldırılıyor ve işlevselliği bunun yerine SmartThings uygulamasına aktarılacak.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_001.jpg" alt="The redesigned Home tab on the SmartThings app (v1.8.51.30)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_002.jpg" alt="The redesigned Home tab on the SmartThings app (v1.8.51.30)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_003.jpg" alt="The redesigned Home tab on the SmartThings app (v1.8.51.30)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_004.jpg" alt="The redesigned Home tab on the SmartThings app (v1.8.51.30)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_005.jpg" alt="Devices and routines tabs" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_006.jpg" alt="Devices and routines tabs" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_007.jpg" alt="Devices and routines tabs" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_008.jpg" alt="Devices and routines tabs" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_009.jpg" alt="The app lets you make a 3D map of your home" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_010.jpg" alt="The app lets you make a 3D map of your home" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_011.jpg" alt="The app lets you make a 3D map of your home" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858/immaculate_012.jpg" alt="The app lets you make a 3D map of your home" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Huawei Mate 90 Pro Max, aynı anda üç SIM kullanmanıza izin verecek</title>
+      <link>https://www.gsmarena.com/huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872.php</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Siddharth</author>
+      <category>Öne Çıkanlar</category><category>Huawei</category><category>HarmonyOS</category>
+      <description>Hiç telefonunuzda aynı anda üç SIM kullanabilmeyi dilediniz mi? Bunu Huawei'nin en yeni amiral gemisi telefonu Mate 90 Pro Max ile yapabilirsiniz. Huawei, telefonu Mate 90, Mate 90 Pro ve Mate 90 RS'yi içeren Mate 90 serisinin geri kalanıyla birlikte Çin'de piyasaya sürdü.</description>
+      <content:encoded><![CDATA[<p>Hiç telefonunuzda aynı anda üç SIM kullanabilmeyi dilediniz mi? Bunu Huawei'nin en yeni amiral gemisi telefonu Mate 90 Pro Max ile yapabilirsiniz. Huawei, telefonu Mate 90, Mate 90 Pro ve Mate 90 RS'yi içeren Mate 90 serisinin geri kalanıyla birlikte Çin'de piyasaya sürdü.</p>
+<p>Bir X kullanıcısı, Huawei'nin Mate 90 Pro Max için resmi özellikler sayfasında da onaylanan özelliği vurguladı.</p>
+<p>Huawei Mate 90 Pro Max, iki fiziksel SIM kartı ve iki eSIM'i destekler, ancak kullanıcıların aynı anda iki fiziksel SIM ve bir eSIM'e sahip olmalarını sağlar. Ancak Huawei, üç aktif bağlantıdan ikisinin aynı Çinli taşıyıcıdan olması gerektiğini belirtiyor.</p>
+<p>Akıllı telefon Kirin 9050 Pro yonga seti tarafından desteklenmektedir, 6,9 inç ekrana, üç arka kamera kurulumuna ve 6.800 mAh bataryaya sahiptir.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872/immaculate_001.jpg" alt="Huawei Mate 90 Pro Max will let you use three SIMs simultaneously" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>vivo X Fold6 inceleme için</title>
       <link>https://www.gsmarena.com/vivo_x_fold6_in_for_review-news-74862.php</link>
@@ -1549,61 +1606,6 @@
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_hmd_106_pure_appears_out_of_nowhere__a_super_cheap_2g_phone_with_fm_radio-news-74795/immaculate_007.jpg" alt="HMD 106 Pure" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_hmd_106_pure_appears_out_of_nowhere__a_super_cheap_2g_phone_with_fm_radio-news-74795/immaculate_008.jpg" alt="HMD 106 Pure" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_hmd_106_pure_appears_out_of_nowhere__a_super_cheap_2g_phone_with_fm_radio-news-74795/immaculate_009.jpg" alt="HMD 106 Pure" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>iPhone 18 Pro ve Pro Max, ilk hafta Çin'de 17 Pro'yu geçerek 1,3 milyon adet sattı</title>
-      <link>https://www.gsmarena.com/iphone_18_pro_and_pro_max_sold_13_million_units_in_china_during_the_first_week_beating_the_17_pros-news-74799.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/iphone_18_pro_and_pro_max_sold_13_million_units_in_china_during_the_first_week_beating_the_17_pros-news-74799.php</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Peter</author>
-      <category>Öne Çıkanlar</category><category>Apple</category><category>iOS</category>
-      <description>Çin'deki ön sipariş döneminde, perakendecilerin mevcut iPhone 18 Pro serisi üniteleri hızla tükendi – tahminlere göre, 7 milyon adet ön sipariş verildi. Bazı mağazalar, geçen yıl piyasaya sürülen 17 Pro ve 17 Pro Max'e kıyasla gelirlerini iki katına çıkardı.</description>
-      <content:encoded><![CDATA[<p>Çin'deki ön sipariş döneminde, perakendecilerin mevcut iPhone 18 Pro serisi üniteleri hızla tükendi – tahminlere göre, 7 milyon adet ön sipariş verildi. Bazı mağazalar, geçen yıl piyasaya sürülen 17 Pro ve 17 Pro Max'e kıyasla gelirlerini iki katına çıkardı.</p>
-<p>Bu ivme gerçek satışlara da yansıdı. Blog yazarı RD Observation'ın bilgilerine göre, yeni iPhone 18 Pro ve iPhone 18 Pro Max, Çin'de kullanılabilirliğin ilk haftasında yaklaşık 1,3 milyon adet sattı.</p>
-<p>Bu, 17 Pro ve 17 Pro Max'in geçen yıl ilk haftalarında sattıklarından % 15 daha fazla birim anlamına geliyor. Tabii ki, vanilya iPhone 17 ve iPhone Air ile rekabet ediyorlardı.</p>
-<p>Ancak daha etkileyici bir istatistik var – iPhone 18 Pro ve 18 Pro Max'in satışları, tüm iPhone 2025 serisinin Çin'de ilk hafta boyunca sattıklarının % 90 'ını oluşturuyor. Görünen o ki, yeni bir vanilya ve yeni bir Air modelinin yokluğu Apple'ın alt çizgisine zarar vermiyor. Artık yeni bir iPhone isteyen herkes bir Pro almak zorunda. Ve eğer yapmazsanız, birkaç ay içinde Apple yeni vanilya (ve muhtemelen yeni Air) modelini piyasaya sürecek.</p>
-<p>İlginç bir şekilde, bu tahminler iPhone 18 Pro Max'i ikisinin en popüler modeli olarak gösteriyor – toplamın % 55,5 'ini sattı. Ön sipariş aşamasında tam tersi oldu – insanların % 60' ı daha küçük Pro'yu seçti.</p>
-<p>Apple yeni modellerinin fiyatlarını yükseltti, ancak bu konuda zekiydi. 256GB ve 512GB modelleri sadece 1.000 CNY (yaklaşık 150 $) arttı. Bu arada, halihazırda pahalı olan 1 TB ve 2 TB modellerinin fiyatları sırasıyla 2.500 CNY ve 3.500 CNY arttı. Bu, Apple'ın yavaş QLC çipleri kullanmasına rağmen böyle.</p>
-<p>Yeni iPhone 18 Pro ve 18 Pro Max, diğer bölgelerde olduğu kadar popüler olmayabilir. BigGo tarafından derlenen veriler, Çin'de 256 GB'lık bir modelin fiyatlarının yaklaşık % 11 oranında arttığını gösteriyor. ABD'de aynı kapasite için 100 $ fiyat artışı yaklaşık % 9 'a çıkıyor.</p>
-<p>Bununla birlikte, Japonya'da, 256GB iPhone 18 Pro 40.000 JPY daha pahalıdır – kayda değer bir % 22 artış. 18 Pro lansmanından önce Apple, iPhone 17 Pro fiyatını orijinal 179.800 JPY'den 194.800 JPY'ye yükseltti. Ancak 18 Pro 219.800 JPY'den piyasaya sürüldü, bu nedenle revize edilmiş 17 Pro fiyatına kıyasla bile, 18 Pro 20.000 JPY'den daha pahalı.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_and_pro_max_sold_13_million_units_in_china_during_the_first_week_beating_the_17_pros-news-74799/immaculate_001.jpg" alt="iPhone 18 Pro and iPhone 18 Pro Max" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_and_pro_max_sold_13_million_units_in_china_during_the_first_week_beating_the_17_pros-news-74799/immaculate_002.jpg" alt="Our iPhone 18 Pro and iPhone 18 Pro Max reviews are already out (linked below)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Honor MagicPad 4 (12.1) ve X10 Pro Max geliyor</title>
-      <link>https://www.gsmarena.com/honor_magicpad_4_121_and_x10_pro_max_arrive-news-74798.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/honor_magicpad_4_121_and_x10_pro_max_arrive-news-74798.php</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Michail</author>
-      <category>Öne Çıkanlar</category><category>Honor</category><category>Android</category><category>İlan</category>
-      <description>Yepyeni Magic9 serisi telefonların yanı sıra Honor, MagicPad 4 12.1 ve daha bütçe dostu X10 Pro Max ile bir çift yeni Android tablet duyurdu.</description>
-      <content:encoded><![CDATA[<p>Yepyeni Magic9 serisi telefonların yanı sıra Honor, MagicPad 4 12.1 ve daha bütçe dostu X10 Pro Max ile bir çift yeni Android tablet duyurdu.</p>
-<p>MagicPad 4 (12.1), Haziran ayında piyasaya sürülen MagicPad4 ile karıştırılmamalıdır. Bu, Snapdragon 8 5. Nesil çip ve 10.100 mAh pilin yanında 12,3 inçlik bir OLED ekran getiriyor.</p>
-<p>Adından da anlaşılacağı gibi, yeni MagicPad 4 (12.1), 1.872 x 3.000 piksel çözünürlüğe, 165Hz yenileme hızına ve 700 nit parlaklığa sahip marjinal olarak daha küçük 12,1 inç IPS LCD'ye sahiptir. 8/12GB RAM ve 256GB depolama alanının yanı sıra Snapdragon 8s Gen 4 yonga seti ile donatılmıştır. 66W şarjlı 12,3 inçlik modelle aynı 10,100mAh bataryaya sahip.</p>
-<p>Kameralar açısından, 8 MP öne bakan bir atıcı ve 13 MP arka modül elde edersiniz. Yazılım tarafı, Android 16 'ya dayalı MagicOS 10 ile kaplıdır.</p>
-<p>Honor MagicPad 4 (12.1), 8/256GB trim için 4.199 CNY'den (625 $) başlıyor ve 12/256GB trim için 4.699 CNY'ye (700 $) kadar çıkıyor. Her iki sürüm de yalnızca Wi - Fi'dir.</p>
-<p>Tablet X10 Pro Max, 2500x1560 piksel çözünürlüğe ve 120Hz yenileme hızına ve 700nit maksimum parlaklığa sahip 13 inçlik bir IPS LCD etrafında inşa edilmiştir. 8GB RAM ve 128/256GB depolama alanına sahip Snapdragon 6s 4G Gen 2 yongasına sahiptir.</p>
-<p>Honor Tablet X10 Pro Max</p>
-<p>Ayrıca 45W şarjlı 10.100mAh pil getiriyor. Yazılım tarafı, Android 16 'ya dayalı MagicOS 10 ile kaplıdır. Ayrıca 5MP ön ve arka kameralar</p>
-<p>Honor Tablet X10 Pro Max, Orman Yeşili ve Cangshan Gri renklerinde geliyor. Fiyatlandırma 2.599 CNY'den (387 $) başlar.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/honor_magicpad_4_121_and_x10_pro_max_arrive-news-74798/immaculate_001.jpg" alt="Honor MagicPad 4 (12.1) and X10 Pro Max arrive" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/honor_magicpad_4_121_and_x10_pro_max_arrive-news-74798/immaculate_003.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/honor_magicpad_4_121_and_x10_pro_max_arrive-news-74798/immaculate_002.jpg" alt="Honor Tablet X10 Pro Max" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/honor_magicpad_4_121_and_x10_pro_max_arrive-news-74798/immaculate_004.jpg" alt="Honor Tablet X10 Pro Max" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>vivo X Fold6 global ve Hindistan lansman tarihi sızdırıldı</title>
-      <link>https://www.gsmarena.com/vivo_x_fold6_global_and_india_launch_date_leaked-news-74790.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/vivo_x_fold6_global_and_india_launch_date_leaked-news-74790.php</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <author>Siddharth</author>
-      <category>Öne Çıkanlar</category><category>VIVO</category><category>Android</category>
-      <description>Vivo X Fold6, Haziran ayında Çin'de piyasaya sürüldü ve yakında küresel olarak piyasaya sürülmesi bekleniyor. Vivo henüz resmi bir lansman tarihi açıklamasa da, bir ihbarcı şirketin en son katlanabilir ürününün küresel ve Hindistan lansman tarihlerini sızdırdı.</description>
-      <content:encoded><![CDATA[<p>Vivo X Fold6, Haziran ayında Çin'de piyasaya sürüldü ve yakında küresel olarak piyasaya sürülmesi bekleniyor. Vivo henüz resmi bir lansman tarihi açıklamasa da, bir ihbarcı şirketin en son katlanabilir ürününün küresel ve Hindistan lansman tarihlerini sızdırdı.</p>
-<p>Dedikoducuya göre, VIVO X Fold6, Çin'deki lansmanından 4 ay sonra 1 Ekim'de dünya çapında ilk çıkışını yapacak.</p>
-<p>Bu arada, katlanabilir ürünün 6 Ekim'de Hindistan'da piyasaya sürülmesi bekleniyor. Vivo X Fold6 'nın Hindistan'da 12GB/256GB ve 12GB/512GB konfigürasyonlarında, Nebula Teal ve Prism Black renk seçenekleriyle sunulduğu söyleniyor.</p>
-<p>Çin'de VIVO X Fold6, 8,02 inç katlanır AMOLED ekrana ve 6,51 inç AMOLED kapak ekranına sahiptir. Ayrıca, 7.000mAh pil ve 80W kablolu ve 40W kablosuz şarj desteği ile birlikte 200MP birincil sensör tarafından yönetilen üçlü bir arka kamera kurulumuna sahiptir.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/vivo_x_fold6_global_and_india_launch_date_leaked-news-74790/immaculate_001.jpg" alt="vivo X Fold6 global and India launch date leaked" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
