@@ -3579,6 +3579,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/the_galaxy_s25_series_plus_the_galaxy_z_fold7_and_z_flip7_are_now_getting_stable_one_ui_9-news-74801.php"
   },
+  "74802": {
+    "content_hash": "8e5d5540245db7005bca2bd01577874b000030274c94821e9aabcfa72e9e18fb",
+    "date": "03 October 2026",
+    "fetched_at": "2026-10-03T12:53:18.980689+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_watch_gt_7_pro_review-news-74802",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_watch_gt_7_pro_review-news-74802.php"
+  },
   "74804": {
     "content_hash": "c411acbaf5a27ac5e879c03737f59616d7e1463da9c5ec7c9b59a2210c3bc87e",
     "date": "29 September 2026",
@@ -4158,6 +4168,16 @@
     "slug": "huawei_mate_90_pro_max_runs_geekbench_revealing_kirin_9050_pro_performance__-news-74881",
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_runs_geekbench_revealing_kirin_9050_pro_performance__-news-74881.php"
+  },
+  "74885": {
+    "content_hash": "3ee4f2414b725f6f081350aae56c4a910660f18778c30e73b810ec51ad2ad90d",
+    "date": "03 October 2026",
+    "fetched_at": "2026-10-03T12:55:34.477457+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_early_prime_day_deals_on_samsung_foldables_now_live_pixel_11_pro_and_galaxy_s26_ultra_discount-news-74885",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_early_prime_day_deals_on_samsung_foldables_now_live_pixel_11_pro_and_galaxy_s26_ultra_discount-news-74885.php"
   },
   "74886": {
     "content_hash": "7b5a266fa740234a77c25dcb1c0a6276acfce1fe609fdf9903db667017cd8f34",

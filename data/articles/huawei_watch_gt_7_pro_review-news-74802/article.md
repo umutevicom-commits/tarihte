@@ -1,0 +1,179 @@
+# Huawei Watch GT 7 Pro incelemesi
+
+Huawei'nin Watch GT serisi, üstün yapı kalitesi, kapsamlı sağlık ve aktivite takibi ve üst düzey pil dayanıklılığının bir karışımını sürekli olarak sundu ve Watch GT 7 Pro, spor izleme deneyimini elden geçirirken aynı formülü kullanıyor.
+
+Yeni renklerine ve revize edilmiş saat kayışı sistemine rağmen, Watch GT 7 Pro, donanım cephesindeki selefinden çoğunlukla değişmedi. Bu yinelemeyle Huawei, bisiklet, kayak ve golf için spor izleme özelliklerinin sayısını artırmaya odaklandı.
+
+Huawei ayrıca kayak modunda % 50 'den fazla iyileştirme ile elden geçirilmiş bir konumlandırma algoritması sunuyor. Tüm bunlar, yine de birkaç haftalık pil dayanıklılığı ve koşucular için 51 saatlik sürekli GPS takibi sunarken başarıldı.
+
+Ancak bu değişiklikler geçen yılki modelden yükseltmeyi hak etmek için yeterli mi? Kısa cevap hayır. Ancak daha eski bir Huawei saat veya günlük olarak şarj edilmesi gereken bir saat kullanıyorsanız, GT 7 Pro çekici bir paket haline gelir.
+
+Ekran: 1,47” AMOLED dokunmatik ekran, 466 x 466 piksel çözünürlük, 60Hz yenileme hızı, 3.000 nit HBM parlaklığı, Her Zaman Açık Ekran (AOD)
+
+Kayışlar: Çıkarılabilir 22mm saat kayışları, 140 -210mm ayarlanabilir uzunluk
+
+Özellikler: 5ATM derecesi (50m derinlik), IP69 derecesi, Dalışa dayanıklı (40 metreye kadar), Gerçek zamanlı kalp atış hızı monitörü, 7/24 Kan Oksijen seviyesi monitörü, Uyku takibi, Stres izleme, Spor takibi, Adım Sayacı, Meditasyon, Bildirimler, Rölanti Uyarısı, Telefon Bulucu, Hava Durumu, Müzik ve Kamera Kontrolü, Alarm, Kronometre, Doğrusal Titreşim Motoru, El Feneri.
+
+Spor Modları: Açık Hava Koşusu, Kapalı Alan Koşusu, Açık Alan Yürüyüşü, Bisiklet, Yürüyüş, Havuzda Yüzme, İp atlama, Serbest Stil (Huawei Health uygulamasında 150 'den fazla)
+
+Sensörler: Optik kalp atış hızı sensörü, İvmeölçer, Jiroskop, Manyetometre, Barometre, Cilt sıcaklığı sensörü, Ortam ışığı sensörü, EKG sensörü, Derinlik sensörü
+
+Bağlantı: Bluetooth 6.0, Android 9.0 ve iOS 13+ ile uyumlu, çift bantlı L1+L5 GNSS, NFC, mikrofon ve hoparlörler
+
+Pil: 867mAh
+
+Renkler: Sarı, Yeşil, Siyah
+
+Boyutlar: 45,6 mm × 45,6 mm × 11,25 mm
+
+Ağırlık (kayışsız): 55,5 gram (saat kayışı olmadan)
+
+Kutudan çıkardığınız anda Watch GT 7 Pro, yapım açısından sizi hayal kırıklığına uğratmıyor. Fırçalanmış titanyum alaşımlı kasa, geçen yılki modelde ve ondan önceki modelde olduğu kadar güzel. Huawei, Watch GT seri kimliğini oluşturdu ve GT 7 Pro bilekte harika hissettirdiği için burada bir kez daha övgüde bulunmalıyız.
+
+Bu hala bu noktada temel olarak standartlaştırılmış akıllı saat boyutu olan 46 mm'lik bir saat, ancak genellikle biraz fazla büyük olduğunu ve daha kompakt bir 43 veya 44 mm'lik versiyonu tercih edeceğimizi düşünüyoruz. Huawei, 41 mm'lik Pro olmayan Watch GT 7 'yi sunuyor, ancak bu özellikle estetiği ile kadın kitleleri hedefliyor.
+
+Watch GT 7 Pro'nun yeni tasarım ucu, ekranı çevreleyen nanokristal seramik çerçevedir. Çizilmelere karşı çok daha iyi dayanmalı ve titanyum kasaya güzel bir kontrast sunmalıdır.
+
+Yeşil bir çerçeveye ve saat kayışına sahip GT 7 Pro'nun Çam Yeşili varyantına sahibiz. Huawei ayrıca GT 7 Pro'yu uygun saat kayışı seçenekleri ve çerçeve vurgu renkleri ile Wild Yellow ve Carbon Black renklerinde sunuyor.
+
+Yeni saat kayışı bir toka mekanizmasını çıkarıyor ve bunun yerine daha sıkı bir uyum için altına giriyor. Çığır açan bir şey değil, ancak özellikle kayışın tokasının açılabileceği ve kanat çırpabileceği bisiklet ve diğer açık hava etkinlikleri sırasında seçiminizi takdir ediyoruz.
+
+Saat kayışları konusunda GT 7 Pro, ek bir metal pim elemanına sahip 22 mm boyutunda olanları kullanır, ancak kolayca uyan standart üçüncü taraf 22 mm kayışları kullanabilirsiniz.
+
+Ekrana geçildiğinde, Watch GT 7 Pro, safir cam korumalı dairesel 1.47” OLED dokunmatik ekrana sahip. Hala 60Hz'de yenileniyor ve tıpkı selefi gibi 3.000 nit'lik aynı iddia edilen en yüksek yerel maksimum parlaklığa sahip.
+
+Parlaklık ölçerimiz, iç mekan testimiz sırasında otomatik modda maksimum 1.040 nit okuma gösterdi. Reklamı yapılan 3.000 nit zirve kadar etkileyici olmasa da, bir akıllı saat ekranı için hala oldukça parlak.
+
+Ve doğru renk üretimi ve sert güneş ışığında bile okunabilecek kadar yumruk ile harika bir ekran. Ekran bir kez daha sağ üstteki taç düğmesi ve altındaki programlanabilir eylem düğmesi ile çevrelenir.
+
+GT 7 Pro, selefinin IP69 giriş korumasını ve 40m dalışa dayanıklı derecelerini korurken, aynı zamanda dalış aksesuarları için EN13319 standardına da uygundur. Bunun anlamı, onu şnorkelle dalmaya ve serbest dalışa götürebileceğiniz, ancak Watch Ultimate serisi saatler gibi tüplü dalış yapamayacağıdır.
+
+Watch GT 7 Pro'daki Harmony OS 6.1 tanıdık bir görünüme sahip ve önceki Huawei giyilebilir cihazlarla aynı kart tabanlı arayüze sahip. Daha önceki yinelemelerden işlevsellik açısından kesinlikle bazı ilerlemeler gördük, ancak Huawei'nin giyilebilir cihazları hala rakip Wear OS saatlerinden daha sınırlı.
+
+GT 7 Pro'yu Çin dışında kullanıyorsanız oldukça sınırlı sayıda üçüncü taraf uygulaması bulunmaktadır. Bu, önceki Watch GT modellerinde de böyleydi ve Huawei giyilebilir cihazlar için zayıf bir nokta olmaya devam ediyor.
+
+Yerleşik bir NFC modülü ile GT 7 Pro temassız ödeme yapabilir, ancak bir sorun var. Yalnızca telefonunuzda ayarlanması gereken Curve Pay'i kullanabilir ve ardından bu hesabı saatinize bağlayabilirsiniz. Ayarladıktan sonra, telefonunuzu evde bırakabilir ve Watch GT 7 Pro ile dokun - öde çılgınlığına katılabilirsiniz.
+
+Kullanıcı arayüzü açısından, saat ekranınız her zamanki gibi başlangıç noktasıdır. Aşağı kaydırmak sizi geçişleri yeniden sıralayabileceğiniz kontrol merkezine götürür.
+
+Ana ekrandan yukarı kaydırmak, sizi doğrudan saatin QWERTY klavyesi veya ses aracılığıyla mesajlara yanıt verme seçeneğinizin olduğu bildirimler bölmesine götürür, ancak bir uyarı vardır. Yanıtlama işlevi yalnızca Huawei ve Android telefonlarda çalışır ve bir iPhone ile eşleştirilirseniz çalışmaz. Bu, Huawei giyilebilir cihazlarda devam eden bir sınırlama olmuştur ve Amazfit gibi rakipler iOS cihazlarıyla eşleştirildiğinde bildirimlere yanıt verme yeteneği getirdiği için hayal kırıklığı yaratmaya devam etmektedir.
+
+Ana ekrandan sağ kaydırarak erişilebilen Akıllı yardım menüsü vardır ve sağlık bilgileri menüsüne, hava durumu uygulamasına ve müzik çalara hızlı erişim sağlar. Taç düğmesi, uygulama çekmecesi menüsünün anahtarıdır, iki kez dokunduğunuzda ise en çok kullandığınız uygulamalar arasında hızlıca gezinmek için sizi son uygulamalar ekranına götürür. Tacın altındaki hızlı başlatma düğmesi varsayılan olarak egzersiz uygulamasına ayarlıdır, ancak belirli bir egzersiz modunu veya başka bir uygulamayı başlatmak için yeniden programlayabilirsiniz.
+
+Huawei saatlerinde olduğu gibi, Watch GT 7 Pro'yu kurmak ve kullanmak için Huawei Health uygulamasını indirmeniz gerekir. Android ve iOS cihazlarla çalışır ve sağlık ve aktivite verilerinize ayrıntılı bir bakış sunarken, aynı zamanda bol miktarda saat ekranı da sunar. Karşılık gelen Her Zaman Açık Ekran (AOD) işlevselliği ile seçim yapabileceğiniz 100.000 'den fazla seçenek vardır, ancak daha önce olduğu gibi, daha cilalı seçenekler için ödeme yapılır.
+
+Saat ekranı özelleştirme seçenekleri
+
+GT 7 Pro'daki yerleşik saat ekranları, renklerden saat ekranı komplikasyonlarına ve saat ekranındaki yerleşimlerine kadar hemen hemen her şeyi uyarlamanıza olanak tanıyan birçok özelleştirme seçeneğiyle birlikte gelir. Huawei'nin yerel saat yüzlerindeki AOD modu, pilin korunmasına yardımcı olmak için siyah bir arka plana gider ve komplikasyon widget'larını hayati değerlerinize hızlı bir bakış için korur.
+
+Huawei Watch GT 7 Pro saat ekranları
+
+Watch GT 7 Pro, ayarlar uygulamasında programlanabilir güce sahip harika haptiklere sahiptir. Ayrıca saatinizde gelen aramaları almanıza izin veren bir mikrofon ve hoparlör alırsınız. Oldukça yetenekli bir hoparlördür ve daha gürültülü ortamlarda bile sesinizi algılayabilir, aynı zamanda yeterince yüksek ses çıkışı sağlar. Dahili mikrofon ayrıca doğrudan saatteki ses kayıtlarının kilidini açar, bu da fikirleri aceleyle not almak için kullanışlıdır.
+
+Sağlık takibi
+
+Selefi ile aynı TruSense sensörü ve algoritma paketi ile donatılan Watch GT 7 Pro, genel refahınızı ölçen uyku ve stres ölçümlerinin yanı sıra kalp atış hızı ve kan oksijeni (SpO2) takibi boyunca güvenilir sağlık takibi sunar. Watch GT 7 Pro'daki kalp atış hızı ve kan SpO2 verileri, GT 6 Pro'daki okumalarla tutarlıydı.
+
+Bunlar hiçbir şekilde tıbbi dereceli okumalar değildir, bu nedenle bunları her zaman dikkatli almalısınız. Yine de, trendlere ayak uydurmanın güzel bir yoludur ve daha uzun süre giyildiğinde, saat sizi herhangi bir kalp veya kan oksijen doygunluğu durumu için potansiyel olarak yararlı belirteçler olabilecek hayati değerlerinizdeki değişikliklere karşı uyarabilir.
+
+Ayrıca, elinizi 30 saniye boyunca sabit bir şekilde tutmanızı gerektiren ve test sırasında bileğinizi veya parmağınızı çok hafif hareket ettirirseniz size her zaman geçerli bir sonuç vermeyecek olan elektrokardiyogram (EKG) ölçümleri gibi daha gelişmiş ölçümler elde edersiniz.
+
+Saat ayrıca düzensiz kalp atışı ritimlerinin yanı sıra kalp atış hızı değişkenliğinizi (HRV) kontrol eden ve arteriyel sertliğinizi takip eden bir nabız dalgası aritmi analizi de yapabilir.
+
+Bu okumaların dışında GT 7 Pro, gerçekten kullanışlı olmayan bir cilt sıcaklığı sensörü ile birlikte gelir.
+
+Uyku takibi oldukça kapsamlıdır ve hareket paternleri, kalp atış hızı, SpO2 ve ortalama solunum hızının yanı sıra uyku aşamaları (hafif, derin, REM) gibi olağan ölçümleri sunar. Saat, gece boyunca ara sıra uyanma örneklerini kaçırsa da, sürekli olarak doğru uykuya dalma ve uyanma zamanlarını kaydetti.
+
+Watch GT 7 Pro'da görüldüğü gibi uyku takibi
+
+Saatin uzun süre takılması da size uyku düzenini verir ve uyku kalitenizdeki ve trendlerinizdeki değişiklikleri vurgular. Genel olarak, önceki nesil GT 6 Pro ile aynı sonuçlara yaklaşıyorsunuz.
+
+Etkinlik izleme
+
+Watch GT 7 Pro'daki "büyük" yeni değişikliklerden bazıları, etkinlik izleme özelliklerinde ve özellikle bisiklet, kayak/snowboard ve golf için. Hevesli golfçüler, golf izleme modunda pişmiş mesafe, atış mesafesi, özel yeşil iğne, otomatik dönen yeşil manzara ve tam renkli çok renkli puan kartları gibi oyunlar bulacaklar. Bu harika görünüyor, ancak bu özellikleri test edemedik.
+
+Huawei, topografik kontur çizgileri ve renk kodlu iz zorluğunun yanı sıra dönüş ve G - Force analizi, duruş tanıma ve aktif ve dinlenme süreleri arasında ayrım gibi özelliklerle saatteki kayak ve snowboard modlarına 3.000 'den fazla küresel kayak merkezi haritasını dahil etti. Huawei'nin sektörde ilk olduğunu söylediği yeni kapalı alan kayak ve snowboard modları da var. Ancak tıpkı yeni golf takip eklentileri gibi, bu özellikleri Eylül ayı sonlarında test edemedik.
+
+Bisikletçiler için GT 7 Pro artık şehir içi, yol ve uzun mesafeli bisiklet sürme için izlemeyi destekliyor. Güzergah yükseklik önizlemesi, tırmanma planlaması ve keskin dönüş uyarıları dahil olmak üzere daha kapsamlı istatistikler elde edersiniz. Bisiklet takibi ayrıca ciddi sporcular için önemli bir metrik olan laktat eşik verilerini de alır. Bu özellik daha önce açık havada koşmaya özeldi.
+
+Ve daha da önemlisi, Huawei, saat GPS uydu menzili dışındayken boşlukları doldurmaya yardımcı olmak için saatin jiroskop ve ivmeölçer sensörlerinden yararlanan yeni bir AI - XDR algoritmasına sahip.
+
+Bu daha doğru rota takibi anlamına mı geliyor? Aslında, özellikle alt geçitleri geçerken kentsel ortamlarda konumlandırma verilerinde gözle görülür bir iyileşme bulduk. Watch GT 7 Pro, geçen yılki modele ve eski bir Huawei Watch Fit 3 ünitesine kıyasla sürekli olarak daha doğru konumlandırma noktaları sundu.
+
+Watch GT 7 Pro, keskin viraj alma ve ince rota ayarlamaları yapabilir
+
+Huawei ayrıca doğrudan saate bir fiziksel hazırlık kartı ekledi. Antrenman stresi ve toparlanma istatistiklerinizin genel bir değerlendirmesini sunarak vücudunuzun antrenmanlarla başa çıkmaya ne kadar hazır olduğunu ölçer. Vücudunuzu ne kadar zorlayabileceğinize inandığına dair 1 ila 100 puan vermek için uyku puanınızın, son egzersizlerinizin, stres seviyelerinizin, kalp atış hızı ve kalp atış hızı değişkenliği (HRV) puanlarınızın bir karışımını dikkate alır.
+
+Bu derecelendirmeleri vücudumun gerçek zamanlı olarak nasıl hissettiğine göre oldukça doğru buldum. Egzersiz sonrası günler pek de yıldız olmayan uykuyla birleştiğinde, saat rutin olarak kendimi çok fazla zorlamamamı önerdi. Çığır açan bir özellik değil, ancak yine de puan tabanlı güzel bir metrik.
+
+Huawei saatleri her zaman pil dayanıklılıklarından etkilendi ve GT 7 Pro da bir istisna değil. GT 7 Pro'yu test ettiğimiz süre içinde, 16. gün % 2 pilden başlayarak 15 tam gün (!) aldık.
+
+Bu, Huawei'nin özellikler sayfasında iddia ettiğinden tam 3 gün daha fazla. Tüm sağlık ve aktivite ölçümleri açık, otomatik parlaklık açık, haftada 3 antrenman ve günde en az 100 bildirim ve 1 -3 kısa telefon görüşmesi ile rakamımıza ulaştık.
+
+AOD'yi açmak, toplam kullanımı 10 güne düşürdü, bu hala oldukça etkileyici ve yine Huawei'nin başarabileceğinizi iddia ettiğinden daha fazla (7 gün). Huawei, ışık kullanımı ile Watch GT 7 Pro'da 21 güne kadar pil ömrünün reklamını yapıyor, bu da aslında mümkün görünüyor. Saati yalnızca biraz bildirim ve alarm içeren temel bir saat olarak kullanırsanız, GT 7 Pro'yu ayda bir kez şarj ederek çok iyi bir performans elde edebilirsiniz.
+
+Şarj etmeniz gerektiğinde, tam % 0 -100 dolum yaklaşık 90 dakika sürer.
+
+Huawei Watch GT 7 Pro, günlük olarak giyilebilen ve sadece koşu ve spor salonu seanslarıyla sınırlı olmayan bir akıllı saatte birinci sınıf sağlık ve aktivite takibi isteyen kullanıcılar için mükemmel bir seçenektir. Huawei, GT 7 Pro'nun premium göründüğü ve parçayı hissettiği donanımı bir kez daha çiviledi. Bol miktarda parlak OLED ekrana, haftalarca pil ömrüne ve her türlü alanda hevesli sporcuları kapsaması gereken sağlam bir sağlık ve aktivite izleme metriklerine sahiptir.
+
+Android'ler, iPhone'lar ve Huawei cihazlarıyla uyumlu olsa da, Huawei'nin akıllı saat deneyiminin bir süredir sınırlamaları olduğunu ve GT 7 Pro'nun selefleriyle aynı sorunlardan muzdarip olduğunu belirtmemiz gerekiyor. Saatte NFC ödemelerinin ayarlanması hala karmaşıktır ve üçüncü taraf uygulama seçimi deneyimi, bir WearOS saatinde elde ettiğinizden çok daha sınırlıdır.
+
+Watch GT 7 Pro, zaten mükemmel olan Watch GT 6 Pro'ya göre yinelemeli bir yükseltmedir ve bileğinizde geçen yılın modeli varsa yükseltmek için fazla bir neden olduğunu söyleyemeyiz. Bisiklet, kayak ve golf için ek spor izleme özellikleri harika, ancak bunlara olmazsa olmazlar demeyiz.
+
+Ancak eski sürümlerdeki Huawei Watch kullanıcıları ve yeni bir şey denemek isteyen farklı bir platformdan gelenler GT 7 Pro'yu göz önünde bulundurmalı. Etkileyici batarya dayanıklılığının yanı sıra sağlık ve aktivite takibinin doğru karışımına ve sizi idare edecek kadar akıllı özelliklere sahiptir.
+
+---
+
+## Görseller
+
+![Huawei Watch GT 7 Pro review](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_001.jpg)
+
+![Huawei Watch GT 7 Pro review](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_002.jpg)
+
+![Huawei Watch GT 7 Pro review](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_005.jpg)
+
+![Huawei Watch GT 7 Pro review](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_004.jpg)
+
+![Huawei Watch GT 7 Pro review](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_003.jpg)
+
+![Huawei Watch GT 7 Pro review](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_010.jpg)
+
+![Huawei Watch GT 7 Pro UI](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_020.jpg)
+
+![Cool Jade watch face customization options](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_021.jpg)
+
+![Cool Jade watch face customization options](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_022.jpg)
+
+![Cool Jade watch face customization options](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_023.jpg)
+
+![Cool Jade watch face customization options](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_024.jpg)
+
+![Huawei Watch GT 7 Pro watch faces](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_011.jpg)
+
+![Huawei Watch GT 7 Pro watch faces](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_012.jpg)
+
+![Huawei Watch GT 7 Pro review](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_013.jpg)
+
+![Sleep tracking as seen on the Watch GT 7 Pro](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_025.jpg)
+
+![Sleep tracking as seen on the Watch GT 7 Pro](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_030.jpg)
+
+![Sleep tracking as seen on the Watch GT 7 Pro](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_026.jpg)
+
+![Sleep tracking as seen on the Watch GT 7 Pro](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_029.jpg)
+
+![Sleep tracking as seen on the Watch GT 7 Pro](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_027.jpg)
+
+![Sleep tracking as seen on the Watch GT 7 Pro](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_028.jpg)
+
+![Huawei Watch GT 7 Pro review](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_015.jpg)
+
+![Huawei Watch GT 7 Pro review](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_016.jpg)
+
+![Watch GT 7 Pro is able to map sharp cornering and subtle route adjustments](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_036.jpg)
+
+![Watch GT 7 Pro is able to map sharp cornering and subtle route adjustments](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_037.jpg)
+
+![Huawei Watch GT 7 Pro review](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_008.jpg)
+
+![Huawei Watch GT 7 Pro review](https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_gt_7_pro_review-news-74802/immaculate_041.jpg)
