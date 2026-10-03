@@ -4119,6 +4119,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/nothing_will_let_you_play_with_its_upcoming_products_before_anyone_else_heres_how-news-74877.php"
   },
+  "74878": {
+    "content_hash": "6b62eb0fad3e7f26894b3f5625202326fedef17a46ce2eebaeeb890578f74414",
+    "date": "03 October 2026",
+    "fetched_at": "2026-10-03T07:21:02.935616+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_and_find_x10_pro_max_leaked_european_prices_are_shocking-news-74878",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_pro_max_leaked_european_prices_are_shocking-news-74878.php"
+  },
   "74879": {
     "content_hash": "aa8e7f533515e062afd0976e8991ca63f08ebe8a44e36e03de6531662acef994",
     "date": "02 October 2026",
@@ -4138,5 +4148,25 @@
     "slug": "samsung_googlebook_appears_on_geekbench_with_a_snapdragon_x_elite_chipset-news-74880",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_googlebook_appears_on_geekbench_with_a_snapdragon_x_elite_chipset-news-74880.php"
+  },
+  "74881": {
+    "content_hash": "5b6bafa53d34555c9f83992dca9b1aabfd73b7e1b98baacab388925a7102a7f6",
+    "date": "03 October 2026",
+    "fetched_at": "2026-10-03T07:20:46.333325+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_mate_90_pro_max_runs_geekbench_revealing_kirin_9050_pro_performance__-news-74881",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_runs_geekbench_revealing_kirin_9050_pro_performance__-news-74881.php"
+  },
+  "74886": {
+    "content_hash": "7b5a266fa740234a77c25dcb1c0a6276acfce1fe609fdf9903db667017cd8f34",
+    "date": "03 October 2026",
+    "fetched_at": "2026-10-03T07:21:16.251651+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_when_honors_wide_foldable_is_now_rumored_to_launch-news-74886",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_when_honors_wide_foldable_is_now_rumored_to_launch-news-74886.php"
   }
 }
