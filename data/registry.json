@@ -4169,6 +4169,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_mate_90_pro_max_runs_geekbench_revealing_kirin_9050_pro_performance__-news-74881.php"
   },
+  "74882": {
+    "content_hash": "960a56eea4fef7e735abd8b59d47cf22b34a6ebdb050e4ee021ccedddf41a11e",
+    "date": "04 October 2026",
+    "fetched_at": "2026-10-04T07:38:03.530588+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_magic9_series_is_official_motorolas_wide_foldable_coming_week_40_in_review-news-74882",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_series_is_official_motorolas_wide_foldable_coming_week_40_in_review-news-74882.php"
+  },
   "74885": {
     "content_hash": "3ee4f2414b725f6f081350aae56c4a910660f18778c30e73b810ec51ad2ad90d",
     "date": "03 October 2026",
@@ -4189,6 +4199,26 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/heres_when_honors_wide_foldable_is_now_rumored_to_launch-news-74886.php"
   },
+  "74887": {
+    "content_hash": "51a342b843728f6842ddec3b2d0ca91eca77759eaeae790f66913e2fa4aba73f",
+    "date": "04 October 2026",
+    "fetched_at": "2026-10-04T07:36:02.711783+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "this_is_when_the_honor_magic9_series_is_landing_in_europe-news-74887",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/this_is_when_the_honor_magic9_series_is_landing_in_europe-news-74887.php"
+  },
+  "74888": {
+    "content_hash": "02e7cca0289edc4bed85c3deebea3bec1fbb9e683a1571c6f848800ecb0e1b74",
+    "date": "04 October 2026",
+    "fetched_at": "2026-10-04T07:36:36.406241+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_16_is_headed_to_india_but_at_what_price-news-74888",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_16_is_headed_to_india_but_at_what_price-news-74888.php"
+  },
   "74890": {
     "content_hash": "58d7332bb82bec3e95b9f762aa95799fe0f65fc018d080ba50c982ff380197c7",
     "date": "03 October 2026",
@@ -4208,5 +4238,15 @@
     "slug": "vivo_x_fold6_vivo_vision_india_launch_teaser-news-74891",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_x_fold6_vivo_vision_india_launch_teaser-news-74891.php"
+  },
+  "74892": {
+    "content_hash": "2d306d0dc70be83e8890240718891e5c7d4b92bb6c4182cf7baee7804fa8a54e",
+    "date": "04 October 2026",
+    "fetched_at": "2026-10-04T07:37:14.245014+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "whatsapp_restricted_chat_feature_android_ios_beta_rollout-news-74892",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_restricted_chat_feature_android_ios_beta_rollout-news-74892.php"
   }
 }

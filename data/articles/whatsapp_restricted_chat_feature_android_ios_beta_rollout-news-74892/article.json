@@ -1,0 +1,65 @@
+{
+  "url": "https://www.gsmarena.com/whatsapp_restricted_chat_feature_android_ios_beta_rollout-news-74892.php",
+  "slug": "whatsapp_restricted_chat_feature_android_ios_beta_rollout-news-74892",
+  "title": "WhatsApp's Restricted Chat feature is now available to beta users on Android and iOS",
+  "news_id": "74892",
+  "date": "04 October 2026",
+  "author": "Sagar",
+  "tags": [
+    "Featured",
+    "WhatsApp",
+    "Android",
+    "iOS",
+    "Apps",
+    "Online services",
+    "Social networks"
+  ],
+  "body_paragraphs": [
+    "Last month, we learned that WhatsApp was developing a feature called Restricted Chat as an upgrade to Advanced Chat Privacy. The feature is now rolling out to some Android and iOS users enrolled in WhatsApp's beta program.",
+    "WABetaInfo reports that Restricted Chat is available to some WhatsApp users on beta version 2.26.36.4 of WhatsApp for Android and 26.39.10.20 of WhatsApp for iOS.",
+    "For those unaware, the Restricted Chat feature - like Advanced Chat Privacy - is optional, so it's not enabled for all chats by default. It only works in conversations where the user manually turns it on. You can enable it from the chat info screen.",
+    "Once Restricted Chat is enabled, WhatsApp displays a message in the chat and applies four restrictions that limit what people in that conversation can do with the messages.",
+    "Those four restrictions are:",
+    "People in Restricted Chat can't automatically save media to their device.",
+    "People in Restricted Chat can't export the chat.",
+    "People in Restricted Chat can't use Meta AI features in the chat.",
+    "People in Restricted Chat can't use linked devices for the chat. WhatsApp says \"this helps to prevent people in the chat from using unofficial clients or AI agents to access it.\"",
+    "WhatsApp also assures that, whether Restricted Chat is enabled or not, all messages and calls in the chat are protected with end-to-end encryption.",
+    "It's unclear when WhatsApp will roll out Restricted Chat to all users publicly, so if you want to try it, you'll have to enroll in WhatsApp's beta program."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/whatsapp_restricted_chat_feature_android_ios_beta_rollout-news-74892/immaculate_001.jpg",
+      "alt": "Restricted Chat on WhatsApp for iOS"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/whatsapp_restricted_chat_feature_android_ios_beta_rollout-news-74892/immaculate_002.jpg",
+      "alt": "Restricted Chat on WhatsApp for Android"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-04T07:37:14.245014+00:00",
+  "title_tr": "WhatsApp'ın Kısıtlı Sohbet özelliği artık Android ve iOS'taki beta kullanıcıları tarafından kullanılabiliyor",
+  "body_paragraphs_tr": [
+    "Geçen ay, WhatsApp'ın Gelişmiş Sohbet Gizliliğine yükseltme olarak Kısıtlı Sohbet adlı bir özellik geliştirdiğini öğrendik. Bu özellik şimdi WhatsApp'ın beta programına kayıtlı bazı Android ve iOS kullanıcılarına sunuluyor.",
+    "WABetaInfo, Android için WhatsApp'ın 2.26.36.4 beta sürümünde ve iOS için WhatsApp'ın 26.39.10.20 beta sürümünde Kısıtlı Sohbet'in bazı WhatsApp kullanıcıları tarafından kullanılabildiğini bildiriyor.",
+    "Bilmeyenler için, Gelişmiş Sohbet Gizliliği gibi Kısıtlı Sohbet özelliği isteğe bağlıdır, bu nedenle varsayılan olarak tüm sohbetler için etkinleştirilmez. Yalnızca kullanıcının manuel olarak açtığı konuşmalarda çalışır. Sohbet bilgi ekranından etkinleştirebilirsiniz.",
+    "Kısıtlı Sohbet etkinleştirildiğinde, WhatsApp sohbette bir mesaj görüntüler ve bu konuşmadaki kişilerin mesajlarla yapabileceklerini sınırlayan dört kısıtlama uygular.",
+    "Bu dört kısıtlama şunlardır:",
+    "Kısıtlı Sohbet'teki kişiler medyayı cihazlarına otomatik olarak kaydedemez.",
+    "Kısıtlı Sohbet'teki kişiler sohbeti dışa aktaramaz.",
+    "Kısıtlı Sohbet'teki kişiler sohbette Meta AI özelliklerini kullanamaz.",
+    "Kısıtlı Sohbet'teki kişiler sohbet için bağlantılı cihazları kullanamaz. WhatsApp, \"Bu, sohbetteki kişilerin resmi olmayan müşterileri veya yapay zeka temsilcilerini kullanarak sohbete erişmesini önlemeye yardımcı oluyor\" diyor.",
+    "WhatsApp ayrıca, Kısıtlı Sohbet etkin olsun ya da olmasın, sohbetteki tüm mesajların ve çağrıların uçtan uca şifreleme ile korunmasını sağlar.",
+    "WhatsApp'ın Kısıtlı Sohbeti herkese açık olarak ne zaman sunacağı belli değil, bu yüzden denemek istiyorsanız WhatsApp'ın beta programına kaydolmanız gerekecek."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "WhatsApp",
+    "Android",
+    "iOS",
+    "Uygulamalar",
+    "Online Hizmetler",
+    "Sosyal ağlar"
+  ]
+}
