@@ -1,13 +1,13 @@
 [
   {
-    "slug": "samsung_galaxy_s25_series_one_ui_9_stable_update_usa-news-74890",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s25_series_one_ui_9_stable_update_usa-news-74890.php",
+    "content_hash": "58d7332bb82bec3e95b9f762aa95799fe0f65fc018d080ba50c982ff380197c7",
     "date": "03 October 2026",
     "fetched_at": "2026-10-03T20:23:44.212837+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "58d7332bb82bec3e95b9f762aa95799fe0f65fc018d080ba50c982ff380197c7"
+    "retries": 0,
+    "slug": "samsung_galaxy_s25_series_one_ui_9_stable_update_usa-news-74890",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s25_series_one_ui_9_stable_update_usa-news-74890.php"
   },
   {
     "content_hash": "2b0fce9eacb177f232bffec1622efb7f2ffe6cea9a5ddef4bc68716c2548ccb6",
