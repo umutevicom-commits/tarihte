@@ -3769,6 +3769,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_mate_90_series_key_specs_leaked_ahead_of_launch-news-74822.php"
   },
+  "74823": {
+    "content_hash": "968dfa4d38db4b546a9be160b213181cb215176b056359a03be1a53ef70ccdb9",
+    "date": "04 October 2026",
+    "fetched_at": "2026-10-04T13:34:59.985633+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "our_redmi_note_17_4g_battery_life_and_charging_tests_are_ready-news-74823",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/our_redmi_note_17_4g_battery_life_and_charging_tests_are_ready-news-74823.php"
+  },
   "74824": {
     "content_hash": "a346f69219f541ac591f4f0e7c13250c7d4201f6845c1c9bf10e0b84cb48049d",
     "date": "29 September 2026",
@@ -4118,6 +4128,16 @@
     "slug": "apple_commissions_awardwinning_photogs_to_showcase_the_iphone_duos_cameras-news-74875",
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_commissions_awardwinning_photogs_to_showcase_the_iphone_duos_cameras-news-74875.php"
+  },
+  "74876": {
+    "content_hash": "0f701cfe32a14c0f19f49c3e8f391f9db4e74854c392307221ad7c1dc1a84d0e",
+    "date": "04 October 2026",
+    "fetched_at": "2026-10-04T13:35:59.109740+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_amazons_early_prime_deals_slash_the_prices_of_foldables_and_flagships-news-74876",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_amazons_early_prime_deals_slash_the_prices_of_foldables_and_flagships-news-74876.php"
   },
   "74877": {
     "content_hash": "92f8edb82f0182bbe788baefd9a92ca9242a3e4d9e632689f21e67ec7f87e219",
