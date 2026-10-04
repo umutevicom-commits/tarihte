@@ -1,23 +1,33 @@
 [
   {
-    "slug": "deals_amazons_early_prime_deals_slash_the_prices_of_foldables_and_flagships-news-74876",
-    "url": "https://www.gsmarena.com/deals_amazons_early_prime_deals_slash_the_prices_of_foldables_and_flagships-news-74876.php",
+    "slug": "weekly_poll_results_pricing_will_decide_the_fate_of_the_xiaomi_18_pro_and_xiaomi_18_pro_max-news-74864",
+    "url": "https://www.gsmarena.com/weekly_poll_results_pricing_will_decide_the_fate_of_the_xiaomi_18_pro_and_xiaomi_18_pro_max-news-74864.php",
     "date": "04 October 2026",
-    "fetched_at": "2026-10-04T13:35:59.109740+00:00",
+    "fetched_at": "2026-10-04T17:57:38.096032+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "0f701cfe32a14c0f19f49c3e8f391f9db4e74854c392307221ad7c1dc1a84d0e"
+    "content_hash": "82394ca07cf56b12751cabd658029ba04ecaf51de4347aa76c0c19dd2a9f6330"
   },
   {
-    "slug": "our_redmi_note_17_4g_battery_life_and_charging_tests_are_ready-news-74823",
-    "url": "https://www.gsmarena.com/our_redmi_note_17_4g_battery_life_and_charging_tests_are_ready-news-74823.php",
+    "content_hash": "0f701cfe32a14c0f19f49c3e8f391f9db4e74854c392307221ad7c1dc1a84d0e",
+    "date": "04 October 2026",
+    "fetched_at": "2026-10-04T13:35:59.109740+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_amazons_early_prime_deals_slash_the_prices_of_foldables_and_flagships-news-74876",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_amazons_early_prime_deals_slash_the_prices_of_foldables_and_flagships-news-74876.php"
+  },
+  {
+    "content_hash": "968dfa4d38db4b546a9be160b213181cb215176b056359a03be1a53ef70ccdb9",
     "date": "04 October 2026",
     "fetched_at": "2026-10-04T13:34:59.985633+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "968dfa4d38db4b546a9be160b213181cb215176b056359a03be1a53ef70ccdb9"
+    "retries": 0,
+    "slug": "our_redmi_note_17_4g_battery_life_and_charging_tests_are_ready-news-74823",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/our_redmi_note_17_4g_battery_life_and_charging_tests_are_ready-news-74823.php"
   },
   {
     "content_hash": "960a56eea4fef7e735abd8b59d47cf22b34a6ebdb050e4ee021ccedddf41a11e",
