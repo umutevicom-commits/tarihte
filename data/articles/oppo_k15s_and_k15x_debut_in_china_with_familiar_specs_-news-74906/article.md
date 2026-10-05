@@ -1,0 +1,25 @@
+# Oppo K15s ve K15x, Çin'de tanıdık teknik özelliklerle tanıtıldı
+
+Oppo K15 serisinin Çin'de iki ek üyesi var: K15s ve K15x. İsmi yeni olsa da, ikili kilit donanımlarını daha önce piyasaya sürülen Oppo modelleriyle paylaşıyor. K15s, aynı temel özelliklere ve tasarıma sahip yeniden yapılandırılmış bir Oppo A7 Pro iken, K15x temelde bir Oppo K14 'tür, ancak 6.500 mAh'lik biraz daha küçük bir pil kapasitesine sahiptir.
+
+Oppo K15s ve temel özellikleri
+
+Oppo K15s, 6.57inç AMOLED (FHD+ 120Hz) ve MediaTek'in Dimensity 6360 Max yonga setinin yanı sıra 8 GB'a kadar RAM ve 256 GB depolama alanına sahiptir. Ayrıca arkada 50MP'lik bir ana kam ve öne bakan 8MP'lik bir atıcı getiriyor.
+
+Oppo K15x ve temel özellikleri
+
+Oppo K15x, HD+ çözünürlüğe ve 120Hz yenileme hızına sahip 6,75inç IPS LCD sunuyor. MediaTek'in Dimensity 6300 yongasının yanı sıra 8 GB'a kadar RAM ve 256 GB depolama alanına sahip. Kameralar açısından, 13MP ana ve 5MP öne bakan bir nişancı var. Her iki telefon da ColorOS 16 ile birlikte gelir.
+
+Oppo K15 'ler mor ve gri renklerde gelir ve 1.999 CNY'den (266 $) başlarken, K15x beyaz ve mor renklerde mevcuttur ve 1.699 CNY'den (226 $) başlar.
+
+---
+
+## Görseller
+
+![Oppo K15s and its key specs](https://umutevicom-commits.github.io/tarihte/data/images/oppo_k15s_and_k15x_debut_in_china_with_familiar_specs_-news-74906/immaculate_001.jpg)
+
+![Oppo K15s and its key specs](https://umutevicom-commits.github.io/tarihte/data/images/oppo_k15s_and_k15x_debut_in_china_with_familiar_specs_-news-74906/immaculate_002.jpg)
+
+![Oppo K15x and its key specs](https://umutevicom-commits.github.io/tarihte/data/images/oppo_k15s_and_k15x_debut_in_china_with_familiar_specs_-news-74906/immaculate_003.jpg)
+
+![Oppo K15x and its key specs](https://umutevicom-commits.github.io/tarihte/data/images/oppo_k15s_and_k15x_debut_in_china_with_familiar_specs_-news-74906/immaculate_004.jpg)
