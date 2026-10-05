@@ -1,0 +1,45 @@
+{
+  "url": "https://www.gsmarena.com/openai_is_adding_visual_ads_to_chatgpt-news-74908.php",
+  "slug": "openai_is_adding_visual_ads_to_chatgpt-news-74908",
+  "title": "OpenAI is adding visual ads to ChatGPT",
+  "news_id": "74908",
+  "date": "05 October 2026",
+  "author": "Peter",
+  "tags": [
+    "Featured",
+    "OpenAI",
+    "Online services"
+  ],
+  "body_paragraphs": [
+    "OpenAI introduced ads for free and Go users of ChatGPT back in February. Those were pretty simple ads that appeared between chat messages. Now the company is adding a new ad format, which it calls visual ads.",
+    "These feature larger images – either several thumbnails or one screen-width image. These aren’t live yet as OpenAI plans to introduce them later this month. This will start with a testing period where visual ads will only be shown when the user generates images with ChatGPT.",
+    "However, the visual ads will be presented separately from the generated images and will be clearly marked as an ad. Also, OpenAI says that the ads will have no influence over the AI’s response.",
+    "Additionally, the company has put guardrails in place to prevent ads from showing up in chats with “emotionally vulnerable, sensitive or otherwise unsuitable contexts.” There will be continuous monitoring to ensure that these guardrails work, including both automated checks and human oversight.",
+    "The press release makes no mention of it, but presumably only free and Go tier ChatGPT users will be seeing the new ads - just like the initial ad rollout.",
+    "OpenAI has worked on integrating its ad solutions with traditional advertising networks to make it easier for clients to work with. It has also built new tools to help advertisers measure the impact of their ads – if you are interested, you can read more in this OpenAI post.",
+    "Interestingly, OpenAI says that ChatGPT has 1.2 billion weekly users and labels itself “the world’s largest AI-native consumer platform.” Obviously, Google has a wider reach, but it is not an “AI-native” platform, despite the AI summaries that appear in most Google searches these days. At least that’s how OpenAI sees it."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/openai_is_adding_visual_ads_to_chatgpt-news-74908/immaculate_001.jpg",
+      "alt": "OpenAI is adding visual ads to ChatGPT"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-05T23:30:28.146751+00:00",
+  "title_tr": "OpenAI, ChatGPT'ye görsel reklamlar ekliyor",
+  "body_paragraphs_tr": [
+    "OpenAI, Şubat ayında ücretsiz reklamları ve Go ChatGPT kullanıcılarını tanıttı. Bunlar sohbet mesajları arasında görünen oldukça basit reklamlardı. Şimdi şirket, görsel reklamlar olarak adlandırdığı yeni bir reklam biçimi ekliyor.",
+    "Bunlar, birkaç küçük resim veya bir ekran genişliği görüntüsü gibi daha büyük görüntülere sahiptir. OpenAI bunları bu ayın ilerleyen günlerinde tanıtmayı planladığı için bunlar henüz yayınlanmadı. Bu, görsel reklamların yalnızca kullanıcı ChatGPT ile resim oluşturduğunda gösterileceği bir test dönemiyle başlayacaktır.",
+    "Ancak görsel reklamlar, oluşturulan görsellerden ayrı olarak sunulacak ve açıkça reklam olarak işaretlenecektir. Ayrıca OpenAI, reklamların yapay zekanın tepkisi üzerinde hiçbir etkisi olmayacağını söylüyor.",
+    "Ek olarak şirket, reklamların \"duygusal olarak savunmasız, hassas veya başka türlü uygun olmayan bağlamlarda\" sohbetlerde görünmesini önlemek için korkuluklar yerleştirdi. \"Hem otomatik kontroller hem de insan gözetimi dahil olmak üzere bu korkulukların çalışmasını sağlamak için sürekli izleme yapılacaktır.",
+    "Basın bülteni bundan bahsetmiyor, ancak muhtemelen yalnızca ücretsiz ve Go katmanlı ChatGPT kullanıcıları yeni reklamları görecek - tıpkı ilk reklam yayını gibi.",
+    "OpenAI, müşterilerin birlikte çalışmasını kolaylaştırmak için reklam çözümlerini geleneksel reklam ağlarıyla entegre etmek için çalıştı. Ayrıca, reklamverenlerin reklamlarının etkisini ölçmelerine yardımcı olacak yeni araçlar geliştirmiştir. İlgileniyorsanız bu OpenAI gönderisinde daha fazla bilgi edinebilirsiniz.",
+    "İlginç bir şekilde, OpenAI, ChatGPT'nin haftalık 1,2 milyar kullanıcıya sahip olduğunu ve kendisini \"dünyanın en büyük yapay zeka yerli tüketici platformu\" olarak nitelendirdiğini söylüyor. \"Açıkçası, Google'ın daha geniş bir erişimi var, ancak bugünlerde çoğu Google aramasında görünen yapay zeka özetlerine rağmen,\" yapay zekaya özgü \"bir platform değil. En azından OpenAI bunu böyle görüyor."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "OpenAI. ",
+    "Online Hizmetler"
+  ]
+}
