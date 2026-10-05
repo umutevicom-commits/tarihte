@@ -4288,5 +4288,25 @@
     "slug": "whatsapp_restricted_chat_feature_android_ios_beta_rollout-news-74892",
     "status": "ok",
     "url": "https://www.gsmarena.com/whatsapp_restricted_chat_feature_android_ios_beta_rollout-news-74892.php"
+  },
+  "74894": {
+    "content_hash": "82f08e25bc601f782945040bfe204868e5b317ba9da0f9bb834995bbd108ce39",
+    "date": "05 October 2026",
+    "fetched_at": "2026-10-05T07:59:39.540299+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "beats_360_review-news-74894",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/beats_360_review-news-74894.php"
+  },
+  "74895": {
+    "content_hash": "6c613e0495a6ad9f76402c46d78d67019610d054c453e4d40a9ff49c7dec5afa",
+    "date": "05 October 2026",
+    "fetched_at": "2026-10-05T07:59:07.076200+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_your_first_look_at_googles_next_fitness_tracker_the_fitbit_edge-news-74895",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_your_first_look_at_googles_next_fitness_tracker_the_fitbit_edge-news-74895.php"
   }
 }
