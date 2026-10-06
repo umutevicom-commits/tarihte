@@ -1,13 +1,53 @@
 [
   {
-    "slug": "vivo_v80_hands_on_review-news-74893",
-    "url": "https://www.gsmarena.com/vivo_v80_hands_on_review-news-74893.php",
+    "slug": "prime_day_deals_uk_tablets_and_watches-news-74927",
+    "url": "https://www.gsmarena.com/prime_day_deals_uk_tablets_and_watches-news-74927.php",
     "date": "06 October 2026",
-    "fetched_at": "2026-10-06T11:07:59.237765+00:00",
+    "fetched_at": "2026-10-06T17:40:26.041692+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "2181c0bf2f0e94c296489b88fa82e96c72ebb2d546daf8951b5358994db6266f"
+    "content_hash": "9def3b66b77e12cfbe35b79d1849ba33e25f18cba694deb06d57431242bcfefe"
+  },
+  {
+    "slug": "vivo_s2_fe_goes_official_with_a_massive_10000mah_battery-news-74923",
+    "url": "https://www.gsmarena.com/vivo_s2_fe_goes_official_with_a_massive_10000mah_battery-news-74923.php",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T17:40:03.947343+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e9795a22a00b6be7d616cfa6a7fe201b368aae5314f66e3f803994906c1326ac"
+  },
+  {
+    "slug": "deals_amazons_prime_day_sale_is_live_here_are_the_best_flagship_and_foldable_offers-news-74922",
+    "url": "https://www.gsmarena.com/deals_amazons_prime_day_sale_is_live_here_are_the_best_flagship_and_foldable_offers-news-74922.php",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T17:39:13.678573+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e1f4978b53954e39386f41766df934e405459d77d1b5a8794e52f207a4b770d9"
+  },
+  {
+    "slug": "apple_reportedly_planning_two_rounds_of_product_launches_in_october-news-74918",
+    "url": "https://www.gsmarena.com/apple_reportedly_planning_two_rounds_of_product_launches_in_october-news-74918.php",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T17:38:47.253487+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e924e0fd2ddb502ababfbfa1d0a487377f0d41422482cb0ad41fc8bc7058b3d1"
+  },
+  {
+    "content_hash": "2181c0bf2f0e94c296489b88fa82e96c72ebb2d546daf8951b5358994db6266f",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T11:07:59.237765+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_v80_hands_on_review-news-74893",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_v80_hands_on_review-news-74893.php"
   },
   {
     "content_hash": "e85db16a2b7bf3e16962b3ca3e4acea89d4e7cea8f5866a968b322a01685d504",

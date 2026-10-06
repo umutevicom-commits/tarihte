@@ -4448,5 +4448,45 @@
     "slug": "google_pixel_12_series_screen_resolutions_are_out_and_they_paint_an_interesting_picture-news-74911",
     "status": "ok",
     "url": "https://www.gsmarena.com/google_pixel_12_series_screen_resolutions_are_out_and_they_paint_an_interesting_picture-news-74911.php"
+  },
+  "74918": {
+    "content_hash": "e924e0fd2ddb502ababfbfa1d0a487377f0d41422482cb0ad41fc8bc7058b3d1",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T17:38:47.253487+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_reportedly_planning_two_rounds_of_product_launches_in_october-news-74918",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_reportedly_planning_two_rounds_of_product_launches_in_october-news-74918.php"
+  },
+  "74922": {
+    "content_hash": "e1f4978b53954e39386f41766df934e405459d77d1b5a8794e52f207a4b770d9",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T17:39:13.678573+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_amazons_prime_day_sale_is_live_here_are_the_best_flagship_and_foldable_offers-news-74922",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_amazons_prime_day_sale_is_live_here_are_the_best_flagship_and_foldable_offers-news-74922.php"
+  },
+  "74923": {
+    "content_hash": "e9795a22a00b6be7d616cfa6a7fe201b368aae5314f66e3f803994906c1326ac",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T17:40:03.947343+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_s2_fe_goes_official_with_a_massive_10000mah_battery-news-74923",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_s2_fe_goes_official_with_a_massive_10000mah_battery-news-74923.php"
+  },
+  "74927": {
+    "content_hash": "9def3b66b77e12cfbe35b79d1849ba33e25f18cba694deb06d57431242bcfefe",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T17:40:26.041692+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "prime_day_deals_uk_tablets_and_watches-news-74927",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/prime_day_deals_uk_tablets_and_watches-news-74927.php"
   }
 }
