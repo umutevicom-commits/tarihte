@@ -1,43 +1,53 @@
 [
   {
-    "slug": "samsung_makes_its_galaxy_a_series_devices_more_expensive_in_the_us_too-news-74909",
-    "url": "https://www.gsmarena.com/samsung_makes_its_galaxy_a_series_devices_more_expensive_in_the_us_too-news-74909.php",
+    "slug": "watch_the_vivo_v80_announcement_live_here-news-74901",
+    "url": "https://www.gsmarena.com/watch_the_vivo_v80_announcement_live_here-news-74901.php",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T04:00:14.388243+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e85db16a2b7bf3e16962b3ca3e4acea89d4e7cea8f5866a968b322a01685d504"
+  },
+  {
+    "content_hash": "3e02bbae3c94e23184ff5862f16cb3b7c911d3c00d9c5a13b60c9019f282e1df",
     "date": "05 October 2026",
     "fetched_at": "2026-10-05T23:31:19.455831+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3e02bbae3c94e23184ff5862f16cb3b7c911d3c00d9c5a13b60c9019f282e1df"
+    "retries": 0,
+    "slug": "samsung_makes_its_galaxy_a_series_devices_more_expensive_in_the_us_too-news-74909",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_makes_its_galaxy_a_series_devices_more_expensive_in_the_us_too-news-74909.php"
   },
   {
-    "slug": "google_pixel_12_series_screen_resolutions_are_out_and_they_paint_an_interesting_picture-news-74911",
-    "url": "https://www.gsmarena.com/google_pixel_12_series_screen_resolutions_are_out_and_they_paint_an_interesting_picture-news-74911.php",
+    "content_hash": "b73fe1f73e2dcaa2466557c4021b855ff60f801ad445ebff1bc7f7b387e64396",
     "date": "05 October 2026",
     "fetched_at": "2026-10-05T23:31:04.158220+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b73fe1f73e2dcaa2466557c4021b855ff60f801ad445ebff1bc7f7b387e64396"
+    "retries": 0,
+    "slug": "google_pixel_12_series_screen_resolutions_are_out_and_they_paint_an_interesting_picture-news-74911",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/google_pixel_12_series_screen_resolutions_are_out_and_they_paint_an_interesting_picture-news-74911.php"
   },
   {
-    "slug": "samsung_galaxy_z_fold7_and_flip7_one_ui_9_update_is_now_available_in_the_us-news-74904",
-    "url": "https://www.gsmarena.com/samsung_galaxy_z_fold7_and_flip7_one_ui_9_update_is_now_available_in_the_us-news-74904.php",
+    "content_hash": "189f1f94ffdbe4851acfa9f62c0bc52005558fb6f986faaf607bb15f0f28c155",
     "date": "05 October 2026",
     "fetched_at": "2026-10-05T23:30:50.840524+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "189f1f94ffdbe4851acfa9f62c0bc52005558fb6f986faaf607bb15f0f28c155"
+    "retries": 0,
+    "slug": "samsung_galaxy_z_fold7_and_flip7_one_ui_9_update_is_now_available_in_the_us-news-74904",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_z_fold7_and_flip7_one_ui_9_update_is_now_available_in_the_us-news-74904.php"
   },
   {
-    "slug": "openai_is_adding_visual_ads_to_chatgpt-news-74908",
-    "url": "https://www.gsmarena.com/openai_is_adding_visual_ads_to_chatgpt-news-74908.php",
+    "content_hash": "5bba1cd728ab5d60abc2677065a7f7aa2951f4cc5dd9525c3c0f673663cd95c2",
     "date": "05 October 2026",
     "fetched_at": "2026-10-05T23:30:28.146751+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5bba1cd728ab5d60abc2677065a7f7aa2951f4cc5dd9525c3c0f673663cd95c2"
+    "retries": 0,
+    "slug": "openai_is_adding_visual_ads_to_chatgpt-news-74908",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/openai_is_adding_visual_ads_to_chatgpt-news-74908.php"
   },
   {
     "content_hash": "b4170162b8ef315096306de85b479a3fa2942c9aebdab126cecba479727efae7",
