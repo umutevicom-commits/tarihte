@@ -1,13 +1,23 @@
 [
   {
-    "slug": "watch_the_vivo_v80_announcement_live_here-news-74901",
-    "url": "https://www.gsmarena.com/watch_the_vivo_v80_announcement_live_here-news-74901.php",
+    "slug": "vivo_v80_hands_on_review-news-74893",
+    "url": "https://www.gsmarena.com/vivo_v80_hands_on_review-news-74893.php",
     "date": "06 October 2026",
-    "fetched_at": "2026-10-06T04:00:14.388243+00:00",
+    "fetched_at": "2026-10-06T11:07:59.237765+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "e85db16a2b7bf3e16962b3ca3e4acea89d4e7cea8f5866a968b322a01685d504"
+    "content_hash": "2181c0bf2f0e94c296489b88fa82e96c72ebb2d546daf8951b5358994db6266f"
+  },
+  {
+    "content_hash": "e85db16a2b7bf3e16962b3ca3e4acea89d4e7cea8f5866a968b322a01685d504",
+    "date": "06 October 2026",
+    "fetched_at": "2026-10-06T04:00:14.388243+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "watch_the_vivo_v80_announcement_live_here-news-74901",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/watch_the_vivo_v80_announcement_live_here-news-74901.php"
   },
   {
     "content_hash": "3e02bbae3c94e23184ff5862f16cb3b7c911d3c00d9c5a13b60c9019f282e1df",

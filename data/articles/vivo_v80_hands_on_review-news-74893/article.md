@@ -1,0 +1,241 @@
+# vivo V80 uygulamalı inceleme
+
+vivo bugün Hindistan'ın Gurgaon kentinde V80 ve S2 FE'yi tanıttığı ve X Fold6 'yı Hindistan pazarına tanıttığı büyük bir etkinliğe ev sahipliği yaptı. VIVO V80' i birkaç gün kullandık ve şu şekilde performans gösterdik.
+
+VIVO V80, 1.25mm çerçevelerle çevrili 6.59"1,260p 144Hz AMOLED ekran etrafında inşa edilmiştir.
+
+Ekran, ZEISS ayarlı 50MP selfie kamerası için ortalanmış bir deliğe sahiptir.
+
+V80 'in ekranı ayrıca kullanımımız sırasında hızlı ve doğru olan gömülü bir 3D ultrasonik parmak izi tarayıcısına sahiptir. Kaydırma tabanlı parmak izi kaydını destekler ve telefon kilidini açma deneyimini kolaylaştırmak için alt çerçeveden uzağa yerleştirilmesini seviyoruz. Ancak, telefonun kilidini açtıktan sonra küçük bir gecikme yaşadığı zamanlar oldu. Kullanıcı deneyimini engellemez, ancak yine de bahsetmeye değer bir şeydir.
+
+V80 'i döndürün ve VIVO'nun "Yüzen Kamera Modülü" olarak adlandırdığı şeyi görün. VIVO, daha hafif, daha dengeli bir ifade için yuvarlak köşelerle yumuşatılmış klasik kare kamera düzenine çağdaş bir yaklaşım olduğunu söylüyor. "Marka ayrıca" şeffaf kaplamanın görsel derinlik kattığını, tasarımı modern, farklı ve zahmetsizce rafine edilmiş hissettirdiğini "söyledi.
+
+Bu kamera modülü bir LED flaş, Aura Light adı verilen dairesel bir ışık, bir ZEISS logosu ve üç ZEISS ayarlı kameraya sahiptir - 50MP birincil, 50MP telefoto ve 8MP ultra genişlik.
+
+V80 düz yüzeylerde kullanıldığında sallanır; bununla birlikte, paketlenmiş şeffaf kasa onu en aza indirmek için harika bir iş çıkarır.
+
+V80 'in arka tasarımı selefinden farklıdır, ancak Apple'ın iPhone Pro Max modellerinden bazılarını, özellikle de bu uygulamalı uygulamanın konusu olan ve aydınlatmaya ve ışığı yansıttığı açıya bağlı olarak farklı tonlar gösteren Sunrise Anthem modelini hatırlatabilir. Diğer iki renk ise Horizon Blue ve Stellar Black.
+
+V80 'in düz arka paneli ve kamera modülü cam kaplama ile kaplıdır ve kaplama VIVO X300 FE ile aynı hissi verir. Onlara bakmadan iki telefonu birbirinden ayıramazsın.
+
+vivo V80 'in Sunrise Anthem modeli, aydınlatmaya ve ışığı yansıttığı açıya bağlı olarak farklı tonlar gösterir
+
+VIVO V80 'in kaplamasını beğendik. Premium hissettirir, hoş bir el deneyimi sağlar ve arka paneli lekesiz tutar.
+
+V80 'in "yüksek mukavemetli alüminyum alaşımlı" çerçevesi mat bir yüzeye sahiptir ve telefonun arka paneli gibi lekesiz kalır. Sağ taraftaki çerçevede, her ikisi de iyi geri bildirime sahip olan ses düğmesi ve güç düğmesi bulunur. Altta bir SIM kart yuvası, bir mikrofon ve bir hoparlör ızgarası ile çevrili USB - C bağlantı noktası vardır. Üstte bir IR blaster ve başka bir hoparlör çıkışına sahip ikincil mikrofon bulunur.
+
+vivo V80 'in bağlantı noktaları ve kontrolleri
+
+VIVO V80 ayrıca IP68 ve IP69 derecelerine sahiptir. Genel tasarımını beğendik. Akıllı telefon sağlamdır, elinde birinci sınıf bir his verir ve hoş bir görünüme sahiptir. Ayrıca tek elle kullanmak da zor değildir.
+
+VIVO V80, 1.25mm çerçevelerle çevrili 6.59" AMOLED ekrana sahiptir. SCHOTT Xensation Core cam ile korunan ekran 2.750x1.260 piksel çözünürlüğe, 459 ppi piksel yoğunluğuna ve 1.07 milyar rengi destekliyor.
+
+Ayrıca HDR, HDR10+ ve HLG kodeklerini destekler ve uyumlu uygulamalarda 1080p video akışını sağlayan Widevine L1 sertifikalıdır. Yine de birimimiz YouTube'da HDR videoları oynatmadı.
+
+V80 'in ekranı 5.000 nit yerel tepe parlaklığına sahipken, HBM parlaklığı 1.800 nit. Ayrıca, düşük ışıkta rahat bir okuma deneyimi için 1 nit'e kadar kısılabilir. Ekran yeterince parlaktı ve güçlü güneş ışığı altında bile içerik izlerken sorun yaşamadık.
+
+Ayrıca, V80 'in ekranı 144Hz'e kadar yenileme hızını destekler. Oyunla sınırlı olan 60Hz, 90Hz, 120Hz ve 144Hz arasında geçiş yapabilir. Ekran ayarları menüsü üç yenileme hızı seçeneği sunar - Akıllı adaptasyon, Standart (60Hz) ve Yüksek (144Hz).
+
+Yüksek'i seçtiğinizde, o menüde 120Hz'de çalıştırmak istediğiniz uygulamaları seçmenizi sağlayan "Özel uygulama yenileme hızı" seçeneğini görürsünüz. OriginOS 6 'ya kadar, liste telefonda yüklü oyunları da içeriyordu, ancak OriginOS 7' de yalnızca uygulamaları görüyorsunuz. Oyunlar artık Ultra Oyun Modunda listeleniyor. Tüm uygulamaların ve oyunların tek bir yerde listelenmesi hem zaman kazandırıcı hem de kullanışlı olduğu için bunu biraz rahatsız edici buluyoruz.
+
+Standart mod seçildiğinde, her şey 60Hz'de yenilenir. Ancak Yüksek modda, yenileme hızı ekranla etkileşime girdiğinde 60Hz'den 120Hz'e fırladı ve geri kalan zamanda 60Hz'de kaldı. Bu davranış, Facebook, Instagram, YouTube, Google Play Store, Google Chrome ve Google Fotoğraflar dahil olmak üzere çoğu sistem menüsü ve uygulamasında tutarlıydı.
+
+Akıllı adaptasyon modu Yüksek mod gibi çalışır, ancak Facebook, Instagram, YouTube ve Google Chrome kullanırken maksimum yenileme hızını 90Hz ile sınırlar.
+
+Peki ya oyunlar? Sky Force: Reloaded, Dead Trigger 2 ve genellikle inceleme cihazlarımızın çoğunda oynadığımız oyunlar olan Call of Duty: Mobile, Yüksek modda 120Hz'de çalışıyordu. Akıllı adaptasyon modunda, yalnızca Call of Duty: Mobile 120Hz'de çalışır.
+
+Deneyimlerimize göre, Sky Force: Reloaded, Dead Trigger 2 ve Call of Duty: Mobile, Akıllı adaptasyon modunda 60 FPS'DE çalıştı. Yüksek modda, Call of Duty: Mobile ve Dead Trigger 2 60 FPS'DE çalışırken, Sky Force: Reloaded maksimum 101 fps'ye ulaştı.
+
+Bu nedenle, VIVO V80 'de mümkün olan en sorunsuz deneyimi istiyorsanız, Yüksek yenileme hızı modu en iyi seçeneğinizdir.
+
+VIVO V80, bu yılın başlarında piyasaya sürülen VIVO V70 ve geçen Ağustos ayında piyasaya sürülen V60 'a güç veren aynı çip olan Snapdragon 7 Gen 4 SoC tarafından desteklenmektedir. V80' in içinde daha yeni, daha güçlü bir çip olmasını isterdik, ancak bu telefonun fiyatını yükseltebilirdi, bu yüzden Vivo iki nesil eski bir telefonda kullandığı çiple sıkışmış olabilir.
+
+Bununla birlikte, VIVO V80, 8GB LPDDR4X RAM ve 512GB'a kadar UFS 3.1 depolama alanı ile birlikte geliyor. Ünitemiz 8GB RAM ve 256GB dahili depolama alanına sahiptir.
+
+Yazılım tarafında, Android 17 tabanlı OriginOS 7 'yi alıyorsunuz, bu da onu OriginOS 7' yi kutudan çıkaran ilk V serisi akıllı telefon haline getiriyor. Dört Android işletim sistemi yükseltmesi ve altı yıllık güvenlik güncellemeleri vaadiyle birlikte geliyor. vivo bize güvenlik güncellemelerinin ilk iki yıl boyunca her ay, 3. ve 4. yıllar için üç ayda bir ve 5. ve 6. yıllar için her altı ayda bir yayınlanacağını söyledi.
+
+Hintli bir model olan inceleme birimimizin yalnızca bir üçüncü taraf uygulaması olan Booking.com ile önceden yüklenmiş olduğunu da belirtmekte fayda var. Önceden yüklenmiş başka üçüncü taraf uygulamaları veya oyunları yoktu. Bu bir Çin markası için etkileyici! Diğer markaların da bunu takip etmesini istiyoruz.
+
+OriginOS 7 büyük bir tasarım yenilemesi ile gelmiyor, ancak Wiggle Theme, StickIt ve Snap Notes gibi yeni özellikler getiriyor. Tam incelememizde OriginOS 7 'ye ayrıntılı olarak bakacağız.
+
+Performans açısından, VIVO V80 günlük kullanımda güvenilir bir şekilde çalıştı. Elbette Vivo X300 Pro veya X300 Ultra kadar hızlı değildi ve birkaç kez kekeledi, ancak genel olarak hiçbir şikayetimiz yok. V80 'in oyun performansı da yeterince iyiydi ve Call of Duty: Mobile gibi oyunları bir saatten fazla oynadıktan sonra oldukça havalı kaldı.
+
+VIVO V80 'in sentetik kıyaslamalarda nasıl performans gösterdiğini görmek için aşağıdaki tabloları kontrol edebilirsiniz.
+
+Tek Çekirdekli
+
+Çok çekirdekli
+
+Vahşi Yaşam Aşırı (En Yüksek)
+
+Vahşi Yaşam Aşırı (En Düşük)
+
+Ve şimdi bir GPU stres testinde VIVO V80 'in sürekli performansını gösteren birkaç ekran görüntüsüne sahibiz.
+
+GPU testi
+
+Ayrıca, 1 saatlik bir CPU stres testinde nasıl performans göstereceğini görmek için V80 'de CPU Kısma Testi uygulamasını çalıştırdık, ancak telefon 15 dakikalık bir çalışmadan sonra çok ısındığı için test asla tamamlanmadı, sisteminden uygulamayı kapatmasını ve tekrar kullanmak için telefonun soğumasını beklemesini istedi. Telefon soğuyana kadar tüm uygulamaların açılmasını engelledi.
+
+VIVO V80 'de biri önde, üçü arkada olmak üzere dört kamera bulunuyor. Hepsi ZEISS ile birlikte geliştirilmiştir ve ZEISS optiğe sahiptir.
+
+Ön kamera VIVO tarafından "ZEISS Grup Selfie Kamerası" olarak adlandırılmıştır. 50MP sensör kullanır ve otomatik netleme, f/2.0 diyafram, 92° FOV ve 0.8x - 2x büyütme aralığına sahiptir. Ayrıca 60 fps'de 4K çözünürlüğe kadar video kaydedebilir. vivo, selfie kamerası için kullanılan sensörü ortaya çıkarmadı.
+
+Arkadaki üçlü kamera kurulumu 50MP "ZEISS OIS Ana Kamera ", 50MP" ZEISS Gece Telefoto Kamera "ve 8MP" ZEISS Ultra Geniş Açılı Kamera "içeriyor.
+
+Birincil kamera Sony LYTIA 700V sensörünü kullanır, f/1.88 diyafram açıklığına, OIS'ye, 84° FOV'ye sahiptir ve 60 FPS'DE 4K çözünürlükte video KAYDEDEBİLİR. OIS, f/2.65 diyafram, 3x optik zoom ve 100x dijital zoom özelliklerine sahip telefoto kamera Sony IMX882 sensörünü kullanıyor. Ultra geniş kameranın f/2,2 diyafram açıklığı ve 115° FOV'u var, ancak VIVO kullandığı sensörü açıklamadı.
+
+Ultra geniş kameranın 8MP çözünürlüğü, önceki iki nesil telefonla aynı ve bu bölümde yükseltmeler yapmamızın zamanı geldi.
+
+Bununla birlikte, VIVO V80 'in beraberinde getirdiği bazı kayda değer kamera özellikleri arasında 4K Sinematik Video, AI Yaratıcı Kamera ve AI Diwali Portrait 2.0 (Hindistan'a özel) yer alıyor. Ayrıca 23mm, 35mm, 50mm, 85mm ve 100mm olmak üzere beş odak uzaklığını destekleyen ZEISS Multifocal Portrait ile birlikte gelir.
+
+VIVO V80 'in kamera sisteminin ayrıntılı analizini tam incelememiz için bırakıyoruz, ancak aşağıda kontrol edebileceğiniz akıllı telefonla bazı resimlere tıkladık.
+
+Gün Işığı Fotoğrafları
+
+Önce VIVO V80 'in 8MP ultra geniş kamerası ve ardından 50MP birincil kamera ile çekilen gün ışığı resimlerini görelim.
+
+Ultrawide kamera, 8MP, 0.6x büyütme.
+
+Ultrawide kamera, 8MP, 0.6x büyütme
+
+Birincil kamera, 12.6MP, 1x büyütme.
+
+Birincil kamera, 12.6MP, 1x büyütme
+
+Birincil kamera, 50MP (Yüksek çözünürlük), 1x büyütme.
+
+Birincil kamera, 50MP (Yüksek çözünürlük), 1x büyütme
+
+Düşük Işıkta Fotoğraflar
+
+Ayrıca VIVO V80 'in kameralarıyla düşük ışıkta bazı fotoğraflar çektik.
+
+VIVO V80 'i çalışır durumda tutmak, V70' in 6.500 mAh bataryasına göre bir yükseltme olan 7.200 mAh Si/C bataryadır. Ancak batarya kapasitesi artarken, kablolu şarj hızı 90W'ta aynı kalıyor. Ayrıca korunan şey bypass şarjıdır.
+
+Standart pil testlerimizi VIVO V80 'de yapamadık, çünkü bunları yalnızca genel merkezimizde yapabiliyoruz ve telefon Hindistan'da test edildi. Bununla birlikte, akıllı telefon tek bir şarjla bir günü kolayca geçirmenizi sağlamalıdır.
+
+VIVO V80 'in pilinin, birlikte verilen 100W FlashCharger ile Hızlı Şarj Modunda 30 dakika içinde % 50' ye kadar şarj olacağı bildirildi. Ancak şarj testlerimizde durum böyle değildi.
+
+Testimizde VIVO V80, 15 dakikada % 1 'den % 21' e, 30 dakikada % 45 'e, 32 dakikada % 50' ye, 1 saatte % 94 'e ve 1 saat 2 dakikada % 100' e yüklendi. Pilin dolu durumunun ekranda görünmesi 5 dakika daha sürdü. VIVO V80 'i şarj ederken kilometrenizin büyük olasılıkla kullanıma ve ortam sıcaklığına bağlı olarak değişeceğini unutmayın.
+
+15 dakika içinde
+
+30 dakika içinde
+
+Tam şarj olma süresi (% 0 'dan itibaren)
+
+VIVO V80 parlak bir ekrana, güvenilir bir performansa, yeni bir yazılıma, büyük bir bataryaya ve sağlam bir yapıya sahiptir. Bazı kullanıcılara Android çalıştırmayan başka bir popüler akıllı telefonu hatırlatmasına rağmen, tasarımını da beğendik.
+
+Birincil kamera kötü fotoğraflar çekmez, ancak VIVO'nun özellikle düşük ışık koşullarında Fotoğraf ve Yüksek Çözünürlük modlarında daha tutarlı renkler için ince ayar yapmasını istiyoruz. Yüksek Çözünürlük modu, ardışık tıklamalar arasındaki işlem süresini azaltmak için de optimize edilebilir.
+
+VIVO V80, Sunrise Anthem, Horizon Blue ve Stellar Black renklerinde geliyor. Tüm modellerde üç bellek seçeneği vardır: 8GB/128GB, 8GB/256GB ve 8GB/512GB.
+
+---
+
+## Görseller
+
+![vivo V80 hands-on review](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_001.jpg)
+
+![vivo V80 hands-on review](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_002.jpg)
+
+![vivo V80 hands-on review](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_003.jpg)
+
+![vivo V80 hands-on review](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_004.jpg)
+
+![vivo V80](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_005.jpg)
+
+![vivo V80](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_006.jpg)
+
+![vivo V80's ports and controls](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_007.jpg)
+
+![vivo V80's ports and controls](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_008.jpg)
+
+![vivo V80's ports and controls](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_009.jpg)
+
+![vivo V80 hands-on review](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_010.jpg)
+
+![vivo V70](https://www.gsmarena.com/<#BasePicLoc#>bigpic/vivo-v70.jpg)
+
+![Realme 16 Pro+](https://www.gsmarena.com/<#BasePicLoc#>bigpic/realme-16-pro-plus.jpg)
+
+![Oppo Reno16](https://www.gsmarena.com/<#BasePicLoc#>bigpic/oppo-reno16.jpg)
+
+![vivo V80](https://www.gsmarena.com/<#BasePicLoc#>bigpic/vio-s80-.jpg)
+
+![vivo V60](https://www.gsmarena.com/<#BasePicLoc#>bigpic/vivo-v60.jpg)
+
+![GPU test](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_001-2e550c47.jpg)
+
+![GPU test](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_002-eb8a8eef.jpg)
+
+![vivo V80 hands-on review](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_011.jpg)
+
+![vivo V80 hands-on review](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_012.jpg)
+
+![Ultrawide camera, 8MP, 0.6x magnification (15mm, f/2.2, ISO 50, 1/139s, 3200x2400px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_001-acd2abbf.jpg)
+
+![Ultrawide camera, 8MP, 0.6x magnification (15mm, f/2.2, ISO 100, 1/100s, 3200x2400px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_002-b976027e.jpg)
+
+![Ultrawide camera, 8MP, 0.6x magnification (15mm, f/2.2, ISO 75, 1/400s, 3200x2400px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_003-7aac0ee1.jpg)
+
+![Ultrawide camera, 8MP, 0.6x magnification (15mm, f/2.2, ISO 50, 1/230s, 3200x2400px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_004-560888bd.jpg)
+
+![Ultrawide camera, 8MP, 0.6x magnification (15mm, f/2.2, ISO 50, 1/303s, 3200x2400px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_005-5464f224.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 50, 1/254s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_006-36bb4a4f.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 56, 1/100s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_007-06ce2389.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 50, 1/1789s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_008-e8c2ccae.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 50, 1/1747s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_009-0078d3c2.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 50, 1/1608s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_010-39a1af79.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 50, 1/148s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_011-f33f4797.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 113, 1/100s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_012-abb9eaed.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 50, 1/1226s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_013.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 50, 1/1241s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_014.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 50, 1/1027s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_015.jpg)
+
+![Ultrawide camera, 8MP, 0.6x magnification (15mm, f/2.2, ISO 1913, 1/10s, 3200x2400px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_016.jpg)
+
+![Ultrawide camera, 8MP, 0.6x magnification (15mm, f/2.2, ISO 995, 1/40s, 3200x2400px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_017.jpg)
+
+![Ultrawide camera, 8MP, 0.6x magnification (15mm, f/2.2, ISO 1795, 1/33s, 3200x2400px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_018.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 2156, 1/17s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_019.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 758, 1/50s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_020.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 1319, 1/50s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_021.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 514, 1/53s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_022.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 97, 1/100s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_023.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 135, 1/100s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_024.jpg)
+
+![Primary camera, 12.6MP, 1x magnification (23mm, f/1.9, ISO 571, 1/100s, 4096x3072px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_025.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 2447, 1/20s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_026.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 732, 1/48s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_027.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 1046, 1/50s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_028.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 539, 1/53s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_029.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 151, 1/100s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_030.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 209, 1/100s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_031.jpg)
+
+![Primary camera, 50MP (High resolution), 1x magnification (23mm, f/1.9, ISO 232, 1/100s, 8192x6144px)](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_032.jpg)
+
+![Oppo Reno16 Pro](https://www.gsmarena.com/<#BasePicLoc#>bigpic/oppo-reno16-pro.jpg)
+
+![vivo V80 hands-on review](https://umutevicom-commits.github.io/tarihte/data/images/vivo_v80_hands_on_review-news-74893/immaculate_013-22bb9d7b.jpg)
