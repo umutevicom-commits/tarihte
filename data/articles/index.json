@@ -1,53 +1,123 @@
 [
   {
-    "slug": "vivo_t6x_and_iqoo_z12x_are_coming_and_they_might_be_twins-news-74928",
-    "url": "https://www.gsmarena.com/vivo_t6x_and_iqoo_z12x_are_coming_and_they_might_be_twins-news-74928.php",
+    "slug": "slumping_budget_phone_shipments_in_europe_actually_benefited_carriers_in_q2-news-74934",
+    "url": "https://www.gsmarena.com/slumping_budget_phone_shipments_in_europe_actually_benefited_carriers_in_q2-news-74934.php",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:12:59.399129+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "41ca7eb6e953a80b9b57182fbfa056fc413b18a4363d2285e7bd3738540530ab"
+  },
+  {
+    "slug": "spotify_audiobooks_expansion-news-74935",
+    "url": "https://www.gsmarena.com/spotify_audiobooks_expansion-news-74935.php",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:12:35.071749+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4807d4549a19b1daa6535557e1a77e31857e3425db85ac9515866629f724508a"
+  },
+  {
+    "slug": "amazon_uk_prime_deals_get_nearflagship_performance_with_the_poco_f9_pro_at_onethird_off-news-74938",
+    "url": "https://www.gsmarena.com/amazon_uk_prime_deals_get_nearflagship_performance_with_the_poco_f9_pro_at_onethird_off-news-74938.php",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:12:15.232522+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f4c1f773cba3445ae0d282a2e5f716a90f1dd75ff50367a786eda6c22406cff0"
+  },
+  {
+    "slug": "ultrahuman_heart_scan-news-74939",
+    "url": "https://www.gsmarena.com/ultrahuman_heart_scan-news-74939.php",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:11:53.506840+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b1ed4e11c5c0e3d009fef255a02d1338227bda60b8e67948c1a07a3dd3b12124"
+  },
+  {
+    "slug": "amazon_uk_prime_deals_the_galaxy_z_flip7_is_450_cheaper_than_the_z_flip8-news-74942",
+    "url": "https://www.gsmarena.com/amazon_uk_prime_deals_the_galaxy_z_flip7_is_450_cheaper_than_the_z_flip8-news-74942.php",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:11:28.269456+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c391cd772a9907d073b8a6a453fcef61e33071b5a31db3735fa4886bd1d45bc5"
+  },
+  {
+    "slug": "amazon_us_prime_deals_the_samsung_galaxy_s26_ultra_is_30_off-news-74936",
+    "url": "https://www.gsmarena.com/amazon_us_prime_deals_the_samsung_galaxy_s26_ultra_is_30_off-news-74936.php",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:11:05.469077+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4a8a3d89c3b666f572ac4e0faf6a6caed5fd5cfd1a82b6f451b635b66ff3ed4d"
+  },
+  {
+    "slug": "apple_is_working_with_lg_on_new_smart_home_products_here_are_the_details-news-74943",
+    "url": "https://www.gsmarena.com/apple_is_working_with_lg_on_new_smart_home_products_here_are_the_details-news-74943.php",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:10:36.882537+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "388566d8d94a3a77588166cfeadaafb63cb36fe0e1bca458a7ee4b2001ad83a8"
+  },
+  {
+    "content_hash": "3bc847755519b7d62275d97eb776f68ebbc4dbf462709549bf5e3b8b2a338e65",
     "date": "07 October 2026",
     "fetched_at": "2026-10-07T10:47:13.590678+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3bc847755519b7d62275d97eb776f68ebbc4dbf462709549bf5e3b8b2a338e65"
+    "retries": 0,
+    "slug": "vivo_t6x_and_iqoo_z12x_are_coming_and_they_might_be_twins-news-74928",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_t6x_and_iqoo_z12x_are_coming_and_they_might_be_twins-news-74928.php"
   },
   {
-    "slug": "samsung_rolls_out_stable_one_ui_9_based_on_android_17_to_the_galaxy_s24_series_galaxy_z_fold6_and_fl-news-74932",
-    "url": "https://www.gsmarena.com/samsung_rolls_out_stable_one_ui_9_based_on_android_17_to_the_galaxy_s24_series_galaxy_z_fold6_and_fl-news-74932.php",
+    "content_hash": "2b51db32ec83c230939d3f82f7557b4ddb8c765e4b124a8696d65e629d2a1c07",
     "date": "07 October 2026",
     "fetched_at": "2026-10-07T10:46:55.735322+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2b51db32ec83c230939d3f82f7557b4ddb8c765e4b124a8696d65e629d2a1c07"
+    "retries": 0,
+    "slug": "samsung_rolls_out_stable_one_ui_9_based_on_android_17_to_the_galaxy_s24_series_galaxy_z_fold6_and_fl-news-74932",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_rolls_out_stable_one_ui_9_based_on_android_17_to_the_galaxy_s24_series_galaxy_z_fold6_and_fl-news-74932.php"
   },
   {
-    "slug": "oneplus_ace_7_specs_leak_again_this_could_be_the_16r-news-74925",
-    "url": "https://www.gsmarena.com/oneplus_ace_7_specs_leak_again_this_could_be_the_16r-news-74925.php",
+    "content_hash": "564a29f6a41b31f03463c2885e49acbf7fd818442c7aedfa9db79ff33b80252b",
     "date": "07 October 2026",
     "fetched_at": "2026-10-07T10:46:38.236320+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "564a29f6a41b31f03463c2885e49acbf7fd818442c7aedfa9db79ff33b80252b"
+    "retries": 0,
+    "slug": "oneplus_ace_7_specs_leak_again_this_could_be_the_16r-news-74925",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_ace_7_specs_leak_again_this_could_be_the_16r-news-74925.php"
   },
   {
-    "slug": "deals_prime_big_deal_days_brings_big_discounts_on_flagships_foldables_and_other_phones-news-74930",
-    "url": "https://www.gsmarena.com/deals_prime_big_deal_days_brings_big_discounts_on_flagships_foldables_and_other_phones-news-74930.php",
+    "content_hash": "958ee062291573c80eaf599fc814088b4e9c2b0054064b13a7315301be1aefff",
     "date": "07 October 2026",
     "fetched_at": "2026-10-07T10:44:57.371398+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "958ee062291573c80eaf599fc814088b4e9c2b0054064b13a7315301be1aefff"
+    "retries": 0,
+    "slug": "deals_prime_big_deal_days_brings_big_discounts_on_flagships_foldables_and_other_phones-news-74930",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_prime_big_deal_days_brings_big_discounts_on_flagships_foldables_and_other_phones-news-74930.php"
   },
   {
-    "slug": "prime_day_deals_samsung_and_pixel_flagships_are_now_cheaper-news-74933",
-    "url": "https://www.gsmarena.com/prime_day_deals_samsung_and_pixel_flagships_are_now_cheaper-news-74933.php",
+    "content_hash": "e7988ba068f6ba3be92c4c66bbe536dfc5b8f2f6e44944f34dab18c46c6315d2",
     "date": "07 October 2026",
     "fetched_at": "2026-10-07T10:43:39.285791+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e7988ba068f6ba3be92c4c66bbe536dfc5b8f2f6e44944f34dab18c46c6315d2"
+    "retries": 0,
+    "slug": "prime_day_deals_samsung_and_pixel_flagships_are_now_cheaper-news-74933",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/prime_day_deals_samsung_and_pixel_flagships_are_now_cheaper-news-74933.php"
   },
   {
     "content_hash": "b414c5162713aa0f1aa02992621e647e3a5d685872dc0a8c74b67281799858a8",

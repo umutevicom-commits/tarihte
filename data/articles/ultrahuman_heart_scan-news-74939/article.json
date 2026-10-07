@@ -1,0 +1,51 @@
+{
+  "url": "https://www.gsmarena.com/ultrahuman_heart_scan-news-74939.php",
+  "slug": "ultrahuman_heart_scan-news-74939",
+  "title": "Ultrahuman announces Heart Scan feature for Ring Air and Ring Pro users",
+  "news_id": "74939",
+  "date": "07 October 2026",
+  "author": "Sagar",
+  "tags": [
+    "Featured",
+    "Ultrahuman",
+    "Smart wearables"
+  ],
+  "body_paragraphs": [
+    "Ultrahuman's Ring Air gained atrial fibrillation (AFib) detection support in July 2024, and the Ring Pro, which launched in February this year, had it from the start. Today, Ultrahuman announced the Heart Scan feature, which builds on the AFib PowerPlug.",
+    "Heart Scan is powered by FibriCheck and lets eligible Ring Air and Ring Pro users run an on-demand heart rhythm check when they want, unlike the AFib screening that runs nightly in the background.",
+    "Heart Scan is part of the AFib Detection PowerPlug, and users can start a scan from within the Ultrahuman app. Each scan takes 60 seconds, during which the user should keep still. The Ultrahuman Ring reads the signal and analyses it using FibriCheck's algorithm.",
+    "The results appear in the Ultrahuman app. It also generates a FibriCheck PDF report that includes the pulse recording captured during the scan, a tachogram, and a Lorenz plot of the intervals between beats.",
+    "Ultrahuman states that a Heart Scan may return Regular, Possibly irregular, Possible atrial fibrillation, Signal quality too low, or Inconclusive. It also says FibriCheck does not detect heart attacks or ischemic conditions, and a regular result does not rule out a heart rhythm condition.",
+    "The Heart Scan feature requires Ultrahuman app version 4.3.0 for iOS and Android version 3.2.0.0. It's available in supported markets across the UK, Europe, the Middle East, and Asia-Pacific for Ultrahuman Ring Air and Ring Pro users, with eligible Ring users able to access free scans from the Ultrahuman dashboard.",
+    "Nighttime screening is available via AFib PowerPlug for £4.90/month or £49/year in the UK. Across the Eurozone, it costs €5.90/month or €49/year.",
+    "If you don't already have an Ultrahuman Ring Pro or Ring Air, you can pick one up from the official online store at ultrahuman.com."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/ultrahuman_heart_scan-news-74939/immaculate_002.jpg",
+      "alt": "Ultrahuman Ring Air"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/ultrahuman_heart_scan-news-74939/immaculate_001.jpg",
+      "alt": "Ultrahuman announces Heart Scan feature for Ring Air and Ring Pro users"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-07T18:11:53.506840+00:00",
+  "title_tr": "Ultrahuman, Ring Air ve Ring Pro kullanıcıları için Kalp Taraması özelliğini duyurdu",
+  "body_paragraphs_tr": [
+    "Ultrahuman'ın Ring Air'i Temmuz 2024 'te atriyal fibrilasyon (AFib) algılama desteği kazandı ve bu yıl şubat ayında piyasaya sürülen Ring Pro, en başından beri bu desteğe sahipti. Bugün Ultrahuman, AFib PowerPlug'a dayanan Kalp Taraması özelliğini duyurdu.",
+    "Kalp Taraması, FibriCheck tarafından desteklenmektedir ve uygun Ring Air ve Ring Pro kullanıcılarının, arka planda her gece çalışan AFib taramasının aksine, istedikleri zaman isteğe bağlı kalp ritmi kontrolü yapmalarını sağlar.",
+    "Kalp Taraması, AFib Detection PowerPlug'ın bir parçasıdır ve kullanıcılar Ultrahuman uygulamasından bir tarama başlatabilir. Her tarama 60 saniye sürer ve bu süre zarfında kullanıcının hareketsiz kalması gerekir. Ultrahuman Ring sinyali okur ve FibriCheck'in algoritmasını kullanarak analiz eder.",
+    "Sonuçlar Ultrahuman uygulamasında görünür. Ayrıca, tarama sırasında yakalanan darbe kaydını, bir takogramı ve atımlar arasındaki aralıkların bir Lorenz grafiğini içeren bir FibriCheck PDF raporu oluşturur.",
+    "Ultrahuman, Kalp Taramasının Düzenli, Muhtemelen düzensiz, Olası atriyal fibrilasyon, Sinyal kalitesi çok düşük veya Sonuçsuz dönebileceğini belirtir. Ayrıca, FibriCheck'in kalp krizlerini veya iskemik durumları tespit etmediğini ve düzenli bir sonucun kalp ritmi durumunu dışlamadığını söylüyor.",
+    "Kalp Taraması özelliği, iOS ve Android sürüm 3.2.0.0 için Ultrahuman uygulamasının 4.3.0 sürümünü gerektirir. Ultrahuman Ring Air ve Ring Pro kullanıcıları için İngiltere, Avrupa, Orta Doğu ve Asya - Pasifik'teki desteklenen pazarlarda mevcuttur ve uygun Ring kullanıcıları Ultrahuman panosundan ücretsiz taramalara erişebilir.",
+    "Gece taraması, AFib PowerPlug aracılığıyla İngiltere'de ayda 4,90 sterlin veya yılda 49 sterlin karşılığında yapılabiliyor. Euro Bölgesi genelinde aylık 5,90 € veya yıllık 49 €' dur.",
+    "Zaten bir Ultrahuman Ring Pro veya Ring Air'iniz yoksa, ultrahuman.com adresindeki resmi çevrimiçi mağazadan bir tane alabilirsiniz."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Ultrahuman",
+    "Akıllı giyilebilir cihazlar"
+  ]
+}

@@ -4568,5 +4568,75 @@
     "slug": "prime_day_deals_samsung_and_pixel_flagships_are_now_cheaper-news-74933",
     "status": "ok",
     "url": "https://www.gsmarena.com/prime_day_deals_samsung_and_pixel_flagships_are_now_cheaper-news-74933.php"
+  },
+  "74934": {
+    "content_hash": "41ca7eb6e953a80b9b57182fbfa056fc413b18a4363d2285e7bd3738540530ab",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:12:59.399129+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "slumping_budget_phone_shipments_in_europe_actually_benefited_carriers_in_q2-news-74934",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/slumping_budget_phone_shipments_in_europe_actually_benefited_carriers_in_q2-news-74934.php"
+  },
+  "74935": {
+    "content_hash": "4807d4549a19b1daa6535557e1a77e31857e3425db85ac9515866629f724508a",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:12:35.071749+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "spotify_audiobooks_expansion-news-74935",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/spotify_audiobooks_expansion-news-74935.php"
+  },
+  "74936": {
+    "content_hash": "4a8a3d89c3b666f572ac4e0faf6a6caed5fd5cfd1a82b6f451b635b66ff3ed4d",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:11:05.469077+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazon_us_prime_deals_the_samsung_galaxy_s26_ultra_is_30_off-news-74936",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_us_prime_deals_the_samsung_galaxy_s26_ultra_is_30_off-news-74936.php"
+  },
+  "74938": {
+    "content_hash": "f4c1f773cba3445ae0d282a2e5f716a90f1dd75ff50367a786eda6c22406cff0",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:12:15.232522+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazon_uk_prime_deals_get_nearflagship_performance_with_the_poco_f9_pro_at_onethird_off-news-74938",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_uk_prime_deals_get_nearflagship_performance_with_the_poco_f9_pro_at_onethird_off-news-74938.php"
+  },
+  "74939": {
+    "content_hash": "b1ed4e11c5c0e3d009fef255a02d1338227bda60b8e67948c1a07a3dd3b12124",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:11:53.506840+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ultrahuman_heart_scan-news-74939",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/ultrahuman_heart_scan-news-74939.php"
+  },
+  "74942": {
+    "content_hash": "c391cd772a9907d073b8a6a453fcef61e33071b5a31db3735fa4886bd1d45bc5",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:11:28.269456+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazon_uk_prime_deals_the_galaxy_z_flip7_is_450_cheaper_than_the_z_flip8-news-74942",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_uk_prime_deals_the_galaxy_z_flip7_is_450_cheaper_than_the_z_flip8-news-74942.php"
+  },
+  "74943": {
+    "content_hash": "388566d8d94a3a77588166cfeadaafb63cb36fe0e1bca458a7ee4b2001ad83a8",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T18:10:36.882537+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_is_working_with_lg_on_new_smart_home_products_here_are_the_details-news-74943",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_is_working_with_lg_on_new_smart_home_products_here_are_the_details-news-74943.php"
   }
 }

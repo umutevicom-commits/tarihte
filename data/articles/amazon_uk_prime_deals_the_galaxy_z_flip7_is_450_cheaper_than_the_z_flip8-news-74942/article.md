@@ -1,0 +1,25 @@
+# Amazon İngiltere Prime Fırsatları: Galaxy Z Flip7, Z Flip8 'den 450 £ daha ucuz
+
+Amazon Birleşik Krallık'ın Prime Big Deal Günleri, 2025 Galaxy amiral gemilerinde birçok teklif içeriyordu, ancak 2026 sürümlerinden neredeyse hiçbir şey içermiyordu. Örneğin, 600 £ (12/256 GB) için Galaxy S25 ve 900 £ (12/512 GB) için Galaxy S25 Ultra var. Bununla birlikte, Galaxy S26 Ultra 1.080 £ (aynı 12/512 GB yapılandırma için) ve S25 serisinin aksine bir Prime aboneliğine bile ihtiyacınız yok. Fiyat farkı, bir yıllık donanıma razı olmayı haklı çıkaracak kadar büyük gelmiyor.
+
+Bunun yerine Samsung Galaxy Z Flip7 'ye odaklandık. Evet, aynı zamanda 2025' ten de geliyor, ancak yeni Z Flip8 şu anda Amazon'da stokta bile değil, Samsung ise 12/256GB'lık temel model için 1.150 £ istiyor. Bir promosyon koduyla 150 £ indirim yapabilirsiniz, ancak yine de 300 £ daha ödeyecek ve depolamanın sadece yarısını alacaksınız.
+
+Mesele şu ki, Z Flip8 aslında 2025 modelinden çok fazla değişmedi. Yeni bir yonga seti ile birlikte gelen Exynos 2600, Exynos 2500 'ün yerini alıyor, ancak Samsung hala termal kısma konusunda bir tutuşa sahip değil. Diğer değişiklikler yinelemeli güncellemelerdir – örneğin, incelememizde, Z Flip7' nin iç ekranını 1.471 nit ve Z Flip8 'in iç ekranını 1.470 olarak ölçtük. Daha yakın olamazlardı.
+
+Her iki telefon da 4.300mAh bataryaya sahip ve 2026 telefonu Si/C batarya ile gelirken, bunun başardığı tek şey EPREL şarj döngüsü derecesini 2.000 'den 1.200 döngüye düşürmek. Telefon şarj olduğunda daha uzun süre dayanıyor ve selefini 2 saatten fazla geride bırakarak 14:14saatlik bir Aktif Kullanım Puanı elde etti. Bununla birlikte, bu çoğunlukla daha verimli yonga setidir. Kablolu şarj her iki telefon için de 25W olarak derecelendirilmiştir, ancak yenisi marjinal olarak daha hızlıdır – tam % 100 şarj 1 saat ve 31 dakika yerine 1 saat 19 dakika sürer.
+
+Yeni model, Galaxy Z Flip7 'ye kıyasla daha ince (13.1mm'ye karşı 13.7mm) ve biraz daha hafif (180g'ye karşı 188g). Ancak, farkı söylemek için yan yana bir karşılaştırma yapmanız gerekir. Bu nedenle, daha ucuz 2025 modelini satın almak ihtiyatlı bir satın alma olabilir.
+
+Galaxy Z Flip7 ve Galaxy Z Flip7 FE
+
+Bu arada, Galaxy Z Flip7 FE ile daha ucuz bir takla atabilirsiniz – 8/256GB'lık bir model, Prime Big Deal Days için % 45 'lik yüksek bir fiyat indiriminden sonra 500 £ tutarındadır. Ancak bu temelde ısınmış bir Z Flip6' dır, bu da 2026 'da tavsiye etmeyi zorlaştırır. Galaxy Z Flip7 vs. Z Flip7 FE makalemizi 200 £ tasarruf etmek isterseniz okuyabilirsiniz.
+
+---
+
+## Görseller
+
+![Amazon UK Prime Deals: the Galaxy Z Flip7 is £450 cheaper than the Z Flip8](https://umutevicom-commits.github.io/tarihte/data/images/amazon_uk_prime_deals_the_galaxy_z_flip7_is_450_cheaper_than_the_z_flip8-news-74942/immaculate_001.jpg)
+
+![Galaxy Z Flip7 and Galaxy Z Flip7 FE](https://umutevicom-commits.github.io/tarihte/data/images/amazon_uk_prime_deals_the_galaxy_z_flip7_is_450_cheaper_than_the_z_flip8-news-74942/immaculate_003.jpg)
+
+![Galaxy Z Flip7 and Galaxy Z Flip7 FE](https://umutevicom-commits.github.io/tarihte/data/images/amazon_uk_prime_deals_the_galaxy_z_flip7_is_450_cheaper_than_the_z_flip8-news-74942/immaculate_004.jpg)
