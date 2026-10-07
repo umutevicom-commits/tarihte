@@ -4499,6 +4499,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_s2_fe_goes_official_with_a_massive_10000mah_battery-news-74923.php"
   },
+  "74925": {
+    "content_hash": "564a29f6a41b31f03463c2885e49acbf7fd818442c7aedfa9db79ff33b80252b",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T10:46:38.236320+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_ace_7_specs_leak_again_this_could_be_the_16r-news-74925",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_ace_7_specs_leak_again_this_could_be_the_16r-news-74925.php"
+  },
   "74927": {
     "content_hash": "9def3b66b77e12cfbe35b79d1849ba33e25f18cba694deb06d57431242bcfefe",
     "date": "06 October 2026",
@@ -4509,6 +4519,26 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/prime_day_deals_uk_tablets_and_watches-news-74927.php"
   },
+  "74928": {
+    "content_hash": "3bc847755519b7d62275d97eb776f68ebbc4dbf462709549bf5e3b8b2a338e65",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T10:47:13.590678+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_t6x_and_iqoo_z12x_are_coming_and_they_might_be_twins-news-74928",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_t6x_and_iqoo_z12x_are_coming_and_they_might_be_twins-news-74928.php"
+  },
+  "74930": {
+    "content_hash": "958ee062291573c80eaf599fc814088b4e9c2b0054064b13a7315301be1aefff",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T10:44:57.371398+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_prime_big_deal_days_brings_big_discounts_on_flagships_foldables_and_other_phones-news-74930",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_prime_big_deal_days_brings_big_discounts_on_flagships_foldables_and_other_phones-news-74930.php"
+  },
   "74931": {
     "content_hash": "e6cc2dae01afad9bf2ac86b485a013551855ddbfd8853bc80eb48c5f0905ed4e",
     "date": "07 October 2026",
@@ -4518,5 +4548,25 @@
     "slug": "fitbit_edge_specs_and_colors_leak_along_with_pricing_for_the_eu_and_uk-news-74931",
     "status": "ok",
     "url": "https://www.gsmarena.com/fitbit_edge_specs_and_colors_leak_along_with_pricing_for_the_eu_and_uk-news-74931.php"
+  },
+  "74932": {
+    "content_hash": "2b51db32ec83c230939d3f82f7557b4ddb8c765e4b124a8696d65e629d2a1c07",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T10:46:55.735322+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_rolls_out_stable_one_ui_9_based_on_android_17_to_the_galaxy_s24_series_galaxy_z_fold6_and_fl-news-74932",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_rolls_out_stable_one_ui_9_based_on_android_17_to_the_galaxy_s24_series_galaxy_z_fold6_and_fl-news-74932.php"
+  },
+  "74933": {
+    "content_hash": "e7988ba068f6ba3be92c4c66bbe536dfc5b8f2f6e44944f34dab18c46c6315d2",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T10:43:39.285791+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "prime_day_deals_samsung_and_pixel_flagships_are_now_cheaper-news-74933",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/prime_day_deals_samsung_and_pixel_flagships_are_now_cheaper-news-74933.php"
   }
 }
