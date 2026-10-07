@@ -1,0 +1,487 @@
+# Apple iPhone 18 Pro Max vs. Samsung Galaxy S26 Ultra
+
+Akıllı telefon teriminin kendisi kadar eski bir kavga – Apple ve Samsung, reklam, hayran kitlesi, özellikler veya donanım olsun, her zaman bir gösteri olmuştur. İşte sizin için en sonuncusu – en son Apple iPhone 18 Pro Max'i en son Samsung Galaxy S26 Ultra'nın yanına koyduk.
+
+Yeni başlayanlar için, tüm özellik sayfalarını karşılaştırabilir veya aşağıdaki metinde doğrudan editörümüzün değerlendirmesine devam edebilirsiniz.
+
+İPhone 18 Pro Max, Apple'ın kendine özgü tasarım dilinin rafine bir yinelemesine sahiptir ve çok dokulu öğeleri uyumlu bir kasada birleştirir. Telefon, Ceramic Shield 2 ön, alüminyum yekpare ve arkadaki kablosuz şarj bobini üzerinden Ceramic Shield 1. Nesil ile birlikte geliyor. IP68 dereceli iPhone, ancak Apple, 6 metre derinliğindeki suda 30 dakika hayatta kalabileceğini vaat ediyor.
+
+Galaxy S26 Ultra, piyasadaki en temiz ve en şık tasarımlardan birine sahip, kesinlikle mantıklı bir yaklaşım benimsiyor. Önde düz Goril Zırhı 2 ve arkada düz Goril Camı Victus 2 'ye sahiptir. Çerçeve ve şasi alüminyumdan imal edilmiştir. Cihaz, 30 dakika boyunca 1,5 metreye kadar su direnci sağlayan standart bir IP68 derecesine sahiptir.
+
+Her iki akıllı telefon da ölçümleriyle açıkça görüldüğü gibi benzer ayak izlerine sahip, ancak Galaxy S26 Ultra 214g'de iPhone için canavarca 249g'ye kıyasla belirgin şekilde daha hafif.
+
+Kazanan: Temiz görünümü ve daha hafif gövdesi için Galaxy S26 Ultra.
+
+IPhone 18 Pro Max, 1320 x 2868 piksel (460ppi), dinamik 120Hz yenileme hızı, Dolby Vision ve HDR10 desteği ile 6,9 inç LTPO OLED ekrana sahiptir. Hap şeklinde bir çentiğe sahiptir ve oleofobik kaplamalı Seramik Kalkan 2 ile korunmaktadır.
+
+Galaxy S26 Ultra, 1440 x 3120 piksel veya 500ppi ile daha yüksek çözünürlüğe, dinamik 120Hz yenileme hızına ve HDR10+ desteğine sahip 6,9 inç LTPO OLED ekrana sahiptir. Panelde küçük bir zımba deliği, Gorilla Armor 2 koruması ve ayrıca DX yansıma önleyici kaplama ve Gizlilik Ekranı özelliği bulunuyor.
+
+Galaxy S26 Ultra, iPhone 18 Pro Max için 969 nit'e kıyasla 1.480 nit'te daha yüksek maksimum otomatik parlaklık sunar. Her iki cihazın tepe parlaklığı yaklaşık 2.800 nit'te oldukça benzerdir.
+
+Kazanan: Galaxy S26 Ultra. Her iki ekran da gözler için bir ziyafet olsa da, Galaxy'deki ekran daha yüksek çözünürlüğe, daha küçük bir kesime ve Gizlilik Ekranı özelliğine sahip.
+
+IPhone 18 Pro Max, 5,391mAh'lik bir pille çalışırken, Galaxy S26 Ultra 5.000mAh'lik bir pil hücresine sahip. Bununla birlikte, telefonlar farklı ekran panellerine ve yonga setlerine sahiptir, bu nedenle dayanıklılık tamamen kapasiteyle ilgili değildir.
+
+IPhone 18 Pro Max, 19:20saatlik bir Aktif Kullanım Derecesi elde ederken, Galaxy S26 Ultra 16:22saatlik bir skor yayınladı. iPhone, web'de gezinme, video akışı, oyun oynama gibi ekrandaki tüm testlerde daha başarılı oldu.
+
+IPhone 18 Pro Max, 54 W'a kadar kablolu şarjı ve 25 W'a kadar kablosuz şarjı destekler.
+
+Galaxy S26 Ultra, 60 W'a kadar kablolu ve 25 W'a kadar kablosuz şarjı destekler. Ayrıca, Apple'ın teslim edemediği ters kablosuz şarjı da destekliyor.
+
+IPhone ve Galaxy, 15 dakikada şarjın % 50 'sine ve 30 dakikada % 80' inin kuzeyine ulaşır. Bununla birlikte, Galaxy S26 Ultra'da tam şarj 12 dakika daha hızlı elde edilir.
+
+Kazanan: Berabere. Her iki telefon da ilk 30 dakikada eşit derecede hızlı şarj oluyor, ki bunlar en önemlileri.
+
+Hem iPhone 18 Pro Max hem de Galaxy S26 Ultra stereo hoparlörler sunuyor ve her ikisi de ses yüksekliği testimizde Çok İyi bir puan aldı.
+
+Ayrıca, her iki telefon da eşit derecede zengin ve derin ses çıkışı ile neredeyse aynı sese sahiptir.
+
+Kazanan: Galaxy S26 Ultra, ancak tam şarj sürelerini önemsiyorsanız.
+
+IPhone 18 Pro Max, 2nm işlem üzerine inşa edilmiş Apple A20 Pro yongası ile güçlendirilmiştir. Apple, masaüstü sınıfı CPU çekirdeklerini, daha güçlü bir GPU'yu, iki kat daha fazla Neural Engine çekirdeğini ve bellek bant genişliğinde % 50 'lik bir artışı duyurdu.
+
+A20 Pro, 4,93GHz hızında 2x Süper Çekirdekli ve 2,64GHz hızında 4x Verimli Çekirdekli 6 çekirdekli bir işlemciye sahiptir. Apple GPU artık 7 çekirdekli bir tasarıma sahip ve Apple, A19 Pro'ya kıyasla % 40 'a kadar daha hızlı performans vaat ediyor. Neural Engine şu anda A19 Pro'da 16' dan 32 çekirdeğe sahip ve yapay zeka performansında önemli bir artış vaat ediyor. Ve her şey çok daha büyük bir buhar odası sistemi tarafından soğutuluyor.
+
+IPhone 256GB, 512GB, 1TB ve 2TB depolama alanına sahiptir. Hepsi 12GB RAM İLE geliyor.
+
+Galaxy S26 Ultra, standart modele göre daha hızlı bir 8 çekirdekli CPU ve Adreno GPU ile Snapdragon 8 Elite Gen 5 'in overclock edilmiş bir versiyonunu kullanıyor ve bu yüzden Samsung, Galaxy için SM8850 - AD sürümünü SD 8 Elite Gen 5 olarak adlandırıyor. "AD" son eki, ana 2x Oryon V3 Phoenix L çekirdeklerinin 4,6 GHz yerine 4,74 GHz'de saatlendiğini gösterir. 6x Oryon V3 Phoenix M çekirdeğinin geri kalanı 3.62 GHz'de kalıyor.
+
+Adreno 840 GPU'nun da daha yüksek olduğu söyleniyor. SoC'nin AD sürümünde, vanilya AC sürümünde 1200 MHz'in aksine, Adreno 840 'ın saatinin 1300 MHz'de olması gerekir.
+
+Galaxy için mevcut bellek yapılandırmaları 12 GB/256 GB, 12 GB/512 GB ve 16 GB/1 TB'dir.
+
+Her şey düşünüldüğünde, bu iki cihazın bu yıl mümkün olan en iyi donanıma sahip olduğu görülüyor.
+
+Testlerimiz, ham CPU ve GPU performansında Apple yongası için küçük bir avantaj gösterdi. iPhone, güçlü Neural Engine'i sayesinde yapay zeka ölçütlerinde daha fazla yapay zeka puanı alıyor. Ve son olarak, Galaxy'den daha iyi sürdürülebilir performans sunuyor (incelemelerimize göre).
+
+Kazanan: iPhone 18 Pro Max.
+
+IPhone 18 Pro Max, önceki modele kıyasla kamera sisteminde pek bir değişiklik getirmiyor (değişken diyafram, Apple'ın inandığından daha az fark yaratıyor) ve 18 Pro Max, 17 Pro Max'e çok benziyor. Bu, selefi ile aşağı yukarı eşit olan Galaxy S26 Ultra için de geçerli. Yani, farklı ama aynı zamanda çok benzer olan iki kamera sistemi arasında başka bir yinelemeye veya aşağı yukarı aynı karşılaştırmaya bakıyoruz.
+
+Her ikisi de kabaca karşılaştırılabilir kameralara sahiptir - en önemlisi sensör boyutudur ve Galaxy'deki 1/1.3 "olarak belirtilirken, Apple Pro Max'leri 1/1.28" olarak listeler. Peki ya Samsung'unki 200MP ve Apple'ınki 48MP ise? Galaxy'nin değiştirilebilir bir diyaframı yoktur, bunun yerine f/1.4 'te' takılı 'kalırken, iPhone'un geniş açık ayarı f/1.48' dir ve f/4.0 'a kadar durabilir (f/1.8 ve f/2.8 de mevcuttur).
+
+Parite, her iki telefonun da benzer boyutlu sensörler (1/2.5") ve oldukça ekstrem lensler kullandığı ultrawidlerde devam ediyor. Her iki telefon da 100 mm işareti etrafında telefotolara sahip - Samsung'unki 111 mm ve buna 5 kat yakınlaştırma diyorlar, Apple ise 100 mm eşdeğeri ve 4 kat etiket kullanıyor. Galaxy ayrıca hiçbir zaman çok değerli olmayan 3x zoom kameraya da sahip.
+
+Her iki telefon da kanıtlanmış selfie kameralarına sahip, ancak iPhone'daki daha etkileyici geliyor - telefonu dikey olarak tuttuğunuzda manzara fotoğrafları çekebilen 18MP'lik çok yönlü bir sensör (tam tersi de çalışıyor), ayrıca geniş açılı, 20 mm'ye eşdeğer bir merceğe sahip. Galaxy, daha geleneksel bir 12MP sensöre ve 23 mm'lik bir merceğe (hala oldukça geniş) sahip.
+
+Gün Işığı
+
+Tahmin edilebileceği gibi, her iki telefon da farklılıkları olsa da, 1x'de mükemmel gündüz çekimleri elde edecek. Birincisi, iPhone varsayılan olarak 24MP'dir ve biraz daha gerçek ayrıntıyı çözebilir, ancak fark pek dramatik değildir ve Galaxy'nin 12MP görüntüleri hala çok fazla tanıma sahiptir. Her ikisi de hoş renklere sahip, iPhone beyaz dengesinde biraz sıcak ve Galaxy özellikle yeşillikte biraz ekstra doygunluğa sahip. Dinamik aralık her ikisinde de mükemmeldir. Burada neredeyse hiçbir nesnel kazanan yok.
+
+Gün ışığı karşılaştırması, ana kamera (1x): iPhone 18 Pro Max • Galaxy S26 Ultra
+
+2x, Galaxy'nin gücü değil, ama yine de iyi. Yine de iPhone burada üstündür - kesinlikle daha doğal bir şekilde ince ayrıntılar verir, ancak muhtemelen çözdüğü ayrıntı miktarında da.
+
+Gün ışığı karşılaştırması, ana kamera (2x): iPhone 18 Pro Max • Galaxy S26 Ultra
+
+Galaxy'nin 3x zoom kamerası en iyi ihtimalle iyi, ancak özellikle 2x ve 5x arasındaki boşluğu kapatmak istiyorsanız, özellikle 2x performansı hesaba kattığınızda, muhtemelen biraz kullanışlıdır.
+
+Gün ışığı örnekleri, telefoto kamera (3x): Galaxy S26 Ultra
+
+İPhone'un 4x zoom kamerasını ve Galaxy'nin 5x telefoto'sunu karşılaştırmak, biraz farklı odak uzaklığı ve 24MP'ye karşı 12MP çözünürlük nedeniyle biraz zor olabilir. iPhone, 4x'de 24MP'de piksel seviyesinde mükemmel değil ve Galaxy'nin görüntüleri 1:1 'de daha iyi görünüyor. Sonuçta, her ikisi de muhtemelen aynı miktarda ayrıntıyı yakalar, sadece S26 Ultra'nın çekimlerini beğenmek daha kolaydır.
+
+Gün ışığı karşılaştırması, telefoto kamera: iPhone 18 Pro Max (4x) • Galaxy S26 Ultra (5x)
+
+Nominal yakınlaştırma seviyesinin iki katında, Galaxy'nin parlak koşullarda 10x çekimleri iPhone'un 8x'lerinden önemli ölçüde daha iyi. Galaxy, daha sönük ortamlarda hızla dağılıyor - iç mekanlarda üstünlük iPhone'da.
+
+Gün ışığı karşılaştırması, telefoto kamera: iPhone 18 Pro Max (8x) • Galaxy S26 Ultra (10x)
+
+Ultra genişler, iPhone çekimi için iki kat daha fazla megapiksel kullanmakta ısrar etse de, esasen aynı ayrıntı seviyelerine sahip fotoğraflar döndürür. Galaxy'nin yeşillikleri bir kez daha iPhone'lardan daha gür, ancak satın alma kararını değiştiren bir fark değil.
+
+Gün ışığı karşılaştırması, ultra geniş kamera: iPhone 18 Pro Max (0,5x) • Galaxy S26 Ultra (0,6x)
+
+Düşük ışık
+
+Agresif Gece modu tarzı işlem, bu telefonlardan herhangi birinin karanlıkta yapmaya istekli olduğu şey değil ve bu muhafazakar yaklaşımlar, özellikle Galaxy'de, genel olarak görüntü kalitesine zarar verebilir.
+
+Buna rağmen, hem iPhone hem de Galaxy, tam otomatik olarak 1x'de iyi düşük ışıklı fotoğraflar elde etmenizi sağlayacak. iPhone'un varsayılan sonuçları Galaxy'den daha keskin ve daha ayrıntılı olma eğilimindedir, ancak bu çok büyük bir fark değildir.
+
+Düşük ışık karşılaştırması, ana kamera (1x), tam otomatik: iPhone 18 Pro Max • Galaxy S26 Ultra
+
+Galaxy'nin özel Gece modu çıkışını keskinleştirebilir, ancak beyaz dengesini değiştirdiğini ve genellikle renklerle garip şeyler yaptığını gördük, bu yüzden bunun daha iyi bir fikir olduğundan emin değiliz.
+
+Düşük ışık karşılaştırması, ana kamera (1x), Gece modu: Galaxy S26 Ultra
+
+2x yakınlaştırmada Galaxy, daha iyi aydınlatılmış sahnelerde iPHone'a ayak uyduruyor, ancak daha karanlık ayarlarda iPhone'un daha önemli bir avantajı var.
+
+Düşük ışık karşılaştırması, ana kamera (2x), tam otomatik: iPhone 18 Pro Max • Galaxy S26 Ultra
+
+Galaxy'yi Gece modunu kullanmaya zorlarsanız (veya telefon gerekli görürse), boşluk küçülür.
+
+Düşük ışık örnekleri, ana kamera (2x), Gece modu: Galaxy S26 Ultra
+
+Galaxy'nin 3x telefoto'su karanlıkta şaşırtıcı değil, tam otomatik olarak yumuşak ve kasvetli görüntüler yakalıyor, ancak Gece modunda canlanıyor. Yine de, bunu iPhone'a göre gerçek bir avantaj olarak görmüyoruz.
+
+Düşük ışık örnekleri, telefoto kamera (3x): Galaxy S26 Ultra
+
+Düşük ışık örnekleri, telefoto kamera (3x), Gece modu: Galaxy S26 Ultra
+
+Uygun telefotoları karşılaştırdığımızda, Galaxy'nin netlik ve tanımlamada bir avantaja sahip olma eğiliminde olduğunu iddia ediyoruz.
+
+Düşük ışık karşılaştırması, telefoto kamera, tam otomatik: iPhone 18 Pro Max (4x) • Galaxy S26 Ultra (5x)
+
+Galaxy'nin Gece modu, bu keskinliğin bir kısmını daha güçlü gürültü azaltma ile değiştiriyor ve bu mutlaka daha iyi bir görünüm değil.
+
+Düşük ışık örnekleri, telefoto kamera (5x), Gece modu: Galaxy S26 Ultra
+
+8x/10x yakınlaştırmada, muhtemelen küçük bir kenara sahip olan iPhone'dur, ancak bu gerçekten önemli olmak için yeterli olmamanın başka bir örneğidir.
+
+Düşük ışık karşılaştırması, telefoto kamera, tam otomatik: iPhone 18 Pro Max (8x) • Galaxy S26 Ultra (10x)
+
+Galaxy'nin zorunlu Gece modu işleri daha iyi hale getirmiyor, sadece farklı.
+
+Düşük ışık örnekleri, telefoto kamera (10x), Gece modu: Galaxy S26 Ultra
+
+Ultra geniş uçta, Galaxy'nin pozlamalarını daha çok seviyoruz - iPhone'un görüntüleri oldukça sönük ve kenarlara doğru önemli miktarda ışık düşüyor. Detaylar genel olarak karşılaştırılabilir, ancak Galaxy'nin yorumu biraz daha üstün.
+
+Düşük ışık karşılaştırması, ultra geniş kamera, tam otomatik: iPhone 18 Pro Max (0,5X) • Galaxy S26 Ultra (0,6X)
+
+Galaxy'nin Gece modu ek bir gölge artışı getiriyor ve muhtemelen biraz daha iyi görünüyor, ancak gördüğümüz bazı sahte renk sorunlarına eğilimli.
+
+Düşük ışık örnekleri, ultra geniş kamera (0,6x), Gece modu: Galaxy S26 Ultra
+
+Selfie'ler 
+
+The Galaxy's no-frills selfie camera captures excellent shots with some of the finest detail renditions out there. The iPhone isn't as great in terms of absolute quality, but it's still pretty good, plus you do get the convenience of shooting landscape selfies with a vertical phone.
+
+Selfies comparison: iPhone 18 Pro Max • Galaxy S26 Ultra
+
+Video capabilities are also wide-ranging on the two phones. You get 4K60 all around from both the Galaxy and the iPhone, and both can do 4K24 on all cameras too. 4K120 available on the main camera and the ultrawide on the Galaxy, while the iPhone's 4K120 is only available on the main camera on the back. For what it's worth, the S26 Ultra also allows for 8K30 capture at 0.6x, 1x, and 5x. Dolby Vision recording is possible on both phones and both offer pro-grade codecs and recording to external storage. Some serious stuff.
+
+The iPhone's 4K30 videos from the ultrawide camera are noticeably sharper than on the Galaxy. The Pro Max is also slightly sharper than the Ultra when comparing main camera 4K30 footage - both at 1x and at 2x. The iPhone maintains an advantage at 4x vs. the Galaxy's 5x camera - it captures a bit more detail and renders it in a nicer way. The 8x vs. 10x comparison also ends with an iPhone victory. In terms of global properties, it's hard to complain about anything on either phone - both have excellent dynamic range and pleasing colors.
+
+Daylight video screengrabs, iPhone 18 Pro Max: 0.5x • 1x • 2x • 4x • 8x
+
+Daylight video screengrabs, Galaxy S26 Ultra: 0.6x • 1x • 2x • 3x • 5x • 10x
+
+In the dark, the iPhone's ultrawide is trailing behind the Galaxy's in terms of sharpness and it runs underexposed next to the well-developed Galaxy rendition. Main camera footage is very similar from a global perspective, but the one on the iPhone is cleaner - the Galaxy has some pretty annoying chroma noise. The iPhone 4x footage is also at least a little bit sharper than the Galaxy's 5x zoomed clips, and the iPhone is less bad when examining 8x vs 10x videos.
+
+Low-light video screengrabs, iPhone 18 Pro Max: 0.5x • 1x • 2x • 4x • 8x
+
+Low-light video screengrabs, Galaxy S26 Ultra: 0.6x • 1x • 2x • 3x • 5x • 10x
+
+Winner: We'll let you call this one, depending on which aspects of the camera performance matter more to you
+
+We can hardly imagine many die-hard fans of either camp jumping ship for the competitor. The iPhone 18 Pro Max represents the best Apple has to offer, and it shows: the phone delivers a superb build, an outstanding display, the fastest chip on the market, class-leading battery life, and a versatile camera setup with consistently great video output.
+
+The Galaxy S26 Ultra does pretty much the same while adding an S-Pen into the mix. The Galaxy boasts a refined design, an exceptionally sharp OLED panel, the most capable Android processor, and some of the finest cameras around (selfies, too!). Its battery performance is not far behind the iPhone's, and its charging speed is equally fast.
+
+Ultimately, the choice comes down to personal workflow - pick whichever fits your needs best and ignore the brand rivalry.
+
+Dolby Vision display and Dynamic Island perks.
+
+More durable design.
+
+Longer battery life.
+
+Better sustained performance.
+
+Better video overall.
+
+Apple iOS.
+
+Higher-resolution screen, smaller cutout.
+
+Clean design.
+
+S-Pen.
+
+Nicest selfies in the segment
+
+Android OS.
+
+---
+
+## Görseller
+
+![Apple iPhone 18 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/apple-iphone18-pro-max.jpg)
+
+![Samsung Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/samsung-galaxy-s26-ultra-new.jpg)
+
+![Apple iPhone 18 Pro Max vs. Samsung Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_003.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro Max - 24mm, f/1.8, ISO 64, 1/1715s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1101.jpg)
+
+![Daylight comparison, main camera (1x): Galaxy S26 Ultra - 23mm, f/1.4, ISO 64, 1/4538s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1121.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro Max - 24mm, f/1.8, ISO 64, 1/2415s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1102.jpg)
+
+![Daylight comparison, main camera (1x): Galaxy S26 Ultra - 23mm, f/1.4, ISO 64, 1/4143s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1122.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro Max - 24mm, f/1.8, ISO 200, 1/175s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1103.jpg)
+
+![Daylight comparison, main camera (1x): Galaxy S26 Ultra - 23mm, f/1.4, ISO 32, 1/180s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1123.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro Max - 24mm, f/1.8, ISO 250, 1/121s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1104.jpg)
+
+![Daylight comparison, main camera (1x): Galaxy S26 Ultra - 23mm, f/1.4, ISO 100, 1/100s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1124.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 18 Pro Max - 48mm, f/1.8, ISO 64, 1/1410s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1201.jpg)
+
+![Daylight comparison, main camera (2x): Galaxy S26 Ultra - 46mm, f/1.4, ISO 32, 1/1343s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1221.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 18 Pro Max - 48mm, f/1.8, ISO 80, 1/2232s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1202.jpg)
+
+![Daylight comparison, main camera (2x): Galaxy S26 Ultra - 46mm, f/1.4, ISO 32, 1/2228s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1222.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 18 Pro Max - 48mm, f/1.8, ISO 125, 1/60s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1203.jpg)
+
+![Daylight comparison, main camera (2x): Galaxy S26 Ultra - 46mm, f/1.4, ISO 50, 1/180s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1223.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 18 Pro Max - 48mm, f/1.8, ISO 125, 1/60s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1204.jpg)
+
+![Daylight comparison, main camera (2x): Galaxy S26 Ultra - 46mm, f/1.4, ISO 80, 1/100s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1224.jpg)
+
+![Daylight samples, telephoto camera (3x): Galaxy S26 Ultra - 69mm, f/2.4, ISO 25, 1/398s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1321.jpg)
+
+![Daylight samples, telephoto camera (3x): Galaxy S26 Ultra - 69mm, f/2.4, ISO 25, 1/503s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1322.jpg)
+
+![Daylight samples, telephoto camera (3x): Galaxy S26 Ultra - 69mm, f/2.4, ISO 500, 1/359s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1323.jpg)
+
+![Daylight samples, telephoto camera (3x): Galaxy S26 Ultra - 69mm, f/2.4, ISO 250, 1/100s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1324.jpg)
+
+![Daylight comparison, telephoto camera: iPhone 18 Pro Max (4x) - 100mm, f/2.8, ISO 50, 1/638s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1401.jpg)
+
+![Daylight comparison, telephoto camera: Galaxy S26 Ultra (5x) - 115mm, f/2.9, ISO 50, 1/763s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1521.jpg)
+
+![Daylight comparison, telephoto camera: iPhone 18 Pro Max (4x) - 100mm, f/2.8, ISO 50, 1/279s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1402.jpg)
+
+![Daylight comparison, telephoto camera: Galaxy S26 Ultra (5x) - 115mm, f/2.9, ISO 50, 1/490s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1522.jpg)
+
+![Daylight comparison, telephoto camera: iPhone 18 Pro Max (4x) - 100mm, f/2.8, ISO 500, 1/102s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1403.jpg)
+
+![Daylight comparison, telephoto camera: Galaxy S26 Ultra (5x) - 115mm, f/2.9, ISO 400, 1/100s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1523.jpg)
+
+![Daylight comparison, telephoto camera: iPhone 18 Pro Max (4x) - 100mm, f/2.8, ISO 400, 1/118s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1404.jpg)
+
+![Daylight comparison, telephoto camera: Galaxy S26 Ultra (5x) - 115mm, f/2.9, ISO 320, 1/100s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1524.jpg)
+
+![Daylight comparison, telephoto camera: iPhone 18 Pro Max (8x) - 200mm, f/2.8, ISO 50, 1/577s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1801.jpg)
+
+![Daylight comparison, telephoto camera: Galaxy S26 Ultra (10x) - 230mm, f/2.9, ISO 25, 1/501s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1921.jpg)
+
+![Daylight comparison, telephoto camera: iPhone 18 Pro Max (8x) - 200mm, f/2.8, ISO 40, 1/121s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1802.jpg)
+
+![Daylight comparison, telephoto camera: Galaxy S26 Ultra (10x) - 230mm, f/2.9, ISO 25, 1/167s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1922.jpg)
+
+![Daylight comparison, telephoto camera: iPhone 18 Pro Max (8x) - 200mm, f/2.8, ISO 400, 1/104s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1803.jpg)
+
+![Daylight comparison, telephoto camera: Galaxy S26 Ultra (10x) - 230mm, f/2.9, ISO 160, 1/50s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1923.jpg)
+
+![Daylight comparison, telephoto camera: iPhone 18 Pro Max (8x) - 200mm, f/2.8, ISO 400, 1/99s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1804.jpg)
+
+![Daylight comparison, telephoto camera: Galaxy S26 Ultra (10x) - 230mm, f/2.9, ISO 320, 1/100s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1924.jpg)
+
+![Daylight comparison, ultrawide camera: iPhone 18 Pro Max (0.5x) - 14mm, f/2.2, ISO 25, 1/770s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1001.jpg)
+
+![Daylight comparison, ultrawide camera: Galaxy S26 Ultra (0.6x) - 13mm, f/1.9, ISO 32, 1/1395s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1021.jpg)
+
+![Daylight comparison, ultrawide camera: iPhone 18 Pro Max (0.5x) - 14mm, f/2.2, ISO 25, 1/770s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1002.jpg)
+
+![Daylight comparison, ultrawide camera: Galaxy S26 Ultra (0.6x) - 13mm, f/1.9, ISO 32, 1/1354s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1022.jpg)
+
+![Daylight comparison, ultrawide camera: iPhone 18 Pro Max (0.5x) - 14mm, f/2.2, ISO 100, 1/121s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1003.jpg)
+
+![Daylight comparison, ultrawide camera: Galaxy S26 Ultra (0.6x) - 13mm, f/1.9, ISO 32, 1/100s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1023.jpg)
+
+![Daylight comparison, ultrawide camera: iPhone 18 Pro Max (0.5x) - 14mm, f/2.2, ISO 320, 1/81s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1004.jpg)
+
+![Daylight comparison, ultrawide camera: Galaxy S26 Ultra (0.6x) - 13mm, f/1.9, ISO 160, 1/100s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_1024.jpg)
+
+![Low-light comparison, main camera (1x), full auto: iPhone 18 Pro Max - 24mm, f/1.5, ISO 500, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2101.jpg)
+
+![Low-light comparison, main camera (1x), full auto: Galaxy S26 Ultra - 23mm, f/1.4, ISO 1600, 1/100s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2121.jpg)
+
+![Low-light comparison, main camera (1x), full auto: iPhone 18 Pro Max - 24mm, f/1.5, ISO 1000, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2102.jpg)
+
+![Low-light comparison, main camera (1x), full auto: Galaxy S26 Ultra - 23mm, f/1.4, ISO 1000, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2122.jpg)
+
+![Low-light comparison, main camera (1x), full auto: iPhone 18 Pro Max - 24mm, f/1.5, ISO 2000, 1/15s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2103.jpg)
+
+![Low-light comparison, main camera (1x), full auto: Galaxy S26 Ultra - 23mm, f/1.4, ISO 800, 1/7s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2123.jpg)
+
+![Low-light comparison, main camera (1x), full auto: iPhone 18 Pro Max - 24mm, f/1.5, ISO 400, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2104.jpg)
+
+![Low-light comparison, main camera (1x), full auto: Galaxy S26 Ultra - 23mm, f/1.4, ISO 800, 1/100s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2124.jpg)
+
+![Low-light comparison, main camera (1x), Night mode: Galaxy S26 Ultra - 23mm, f/1.4, ISO 250, 1/20s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2131.jpg)
+
+![Low-light comparison, main camera (1x), Night mode: Galaxy S26 Ultra - 23mm, f/1.4, ISO 500, 1/17s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2132.jpg)
+
+![Low-light comparison, main camera (1x), Night mode: Galaxy S26 Ultra - 23mm, f/1.4, ISO 800, 1/7s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2133.jpg)
+
+![Low-light comparison, main camera (1x), Night mode: Galaxy S26 Ultra - 23mm, f/1.4, ISO 400, 1/50s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2134.jpg)
+
+![Low-light comparison, main camera (2x), full auto: iPhone 18 Pro Max - 48mm, f/1.5, ISO 400, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2201.jpg)
+
+![Low-light comparison, main camera (2x), full auto: Galaxy S26 Ultra - 46mm, f/1.4, ISO 320, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2221.jpg)
+
+![Low-light comparison, main camera (2x), full auto: iPhone 18 Pro Max - 48mm, f/1.5, ISO 800, 1/17s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2202.jpg)
+
+![Low-light comparison, main camera (2x), full auto: Galaxy S26 Ultra - 46mm, f/1.4, ISO 800, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2222.jpg)
+
+![Low-light comparison, main camera (2x), full auto: iPhone 18 Pro Max - 48mm, f/1.5, ISO 500, 1/13s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2203.jpg)
+
+![Low-light comparison, main camera (2x), full auto: Galaxy S26 Ultra - 46mm, f/1.4, ISO 1000, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2223.jpg)
+
+![Low-light comparison, main camera (2x), full auto: iPhone 18 Pro Max - 48mm, f/1.5, ISO 320, 1/33s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2204.jpg)
+
+![Low-light comparison, main camera (2x), full auto: Galaxy S26 Ultra - 46mm, f/1.4, ISO 250, 1/50s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2224.jpg)
+
+![Low-light samples, main camera (2x), Night mode: Galaxy S26 Ultra - 46mm, f/1.4, ISO 250, 1/25s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2231.jpg)
+
+![Low-light samples, main camera (2x), Night mode: Galaxy S26 Ultra - 46mm, f/1.4, ISO 400, 1/17s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2232.jpg)
+
+![Low-light samples, main camera (2x), Night mode: Galaxy S26 Ultra - 46mm, f/1.4, ISO 500, 1/17s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2233.jpg)
+
+![Low-light samples, main camera (2x), Night mode: Galaxy S26 Ultra - 46mm, f/1.4, ISO 250, 1/50s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2234.jpg)
+
+![Low-light samples, telephoto camera (3x): Galaxy S26 Ultra - 69mm, f/2.4, ISO 1000, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2321.jpg)
+
+![Low-light samples, telephoto camera (3x): Galaxy S26 Ultra - 69mm, f/2.4, ISO 3200, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2322.jpg)
+
+![Low-light samples, telephoto camera (3x): Galaxy S26 Ultra - 69mm, f/2.4, ISO 3200, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2323.jpg)
+
+![Low-light samples, telephoto camera (3x): Galaxy S26 Ultra - 69mm, f/2.4, ISO 640, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2324.jpg)
+
+![Low-light samples, telephoto camera (3x), Night mode: Galaxy S26 Ultra - 69mm, f/2.4, ISO 400, 1/14s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2331.jpg)
+
+![Low-light samples, telephoto camera (3x), Night mode: Galaxy S26 Ultra - 69mm, f/2.4, ISO 1250, 1/14s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2332.jpg)
+
+![Low-light samples, telephoto camera (3x), Night mode: Galaxy S26 Ultra - 69mm, f/2.4, ISO 1250, 1/14s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2333.jpg)
+
+![Low-light samples, telephoto camera (3x), Night mode: Galaxy S26 Ultra - 69mm, f/2.4, ISO 640, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2334.jpg)
+
+![Low-light comparison, telephoto camera, full auto: iPhone 18 Pro Max (4x) - 100mm, f/2.8, ISO 1600, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2401.jpg)
+
+![Low-light comparison, telephoto camera, full auto: Galaxy S26 Ultra (5x) - 115mm, f/2.9, ISO 1250, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2521.jpg)
+
+![Low-light comparison, telephoto camera, full auto: iPhone 18 Pro Max (4x) - 100mm, f/2.8, ISO 3200, 1/20s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2402.jpg)
+
+![Low-light comparison, telephoto camera, full auto: Galaxy S26 Ultra (5x) - 115mm, f/2.9, ISO 1600, 1/17s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2522.jpg)
+
+![Low-light comparison, telephoto camera, full auto: iPhone 18 Pro Max (4x) - 100mm, f/2.8, ISO 1600, 1/10s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2403.jpg)
+
+![Low-light comparison, telephoto camera, full auto: Galaxy S26 Ultra (5x) - 115mm, f/2.9, ISO 1600, 1/20s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2523.jpg)
+
+![Low-light comparison, telephoto camera, full auto: iPhone 18 Pro Max (4x) - 100mm, f/2.8, ISO 1250, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2404.jpg)
+
+![Low-light comparison, telephoto camera, full auto: Galaxy S26 Ultra (5x) - 115mm, f/2.9, ISO 1250, 1/50s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2524.jpg)
+
+![Low-light samples, telephoto camera (5x), Night mode: Galaxy S26 Ultra - 115mm, f/2.9, ISO 640, 1/14s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2531.jpg)
+
+![Low-light samples, telephoto camera (5x), Night mode: Galaxy S26 Ultra - 115mm, f/2.9, ISO 1600, 1/14s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2532.jpg)
+
+![Low-light samples, telephoto camera (5x), Night mode: Galaxy S26 Ultra - 115mm, f/2.9, ISO 1250, 1/14s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2533.jpg)
+
+![Low-light samples, telephoto camera (5x), Night mode: Galaxy S26 Ultra - 115mm, f/2.9, ISO 800, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2534.jpg)
+
+![Low-light comparison, telephoto camera, full auto: iPhone 18 Pro Max (8x) - 200mm, f/2.8, ISO 1250, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2801.jpg)
+
+![Low-light comparison, telephoto camera, full auto: Galaxy S26 Ultra (10x) - 230mm, f/2.9, ISO 1000, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2921.jpg)
+
+![Low-light comparison, telephoto camera, full auto: iPhone 18 Pro Max (8x) - 200mm, f/2.8, ISO 2500, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2802.jpg)
+
+![Low-light comparison, telephoto camera, full auto: Galaxy S26 Ultra (10x) - 230mm, f/2.9, ISO 2000, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2922.jpg)
+
+![Low-light comparison, telephoto camera, full auto: iPhone 18 Pro Max (8x) - 200mm, f/2.8, ISO 1250, 1/15s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2803.jpg)
+
+![Low-light comparison, telephoto camera, full auto: Galaxy S26 Ultra (10x) - 230mm, f/2.9, ISO 2000, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2923.jpg)
+
+![Low-light comparison, telephoto camera, full auto: iPhone 18 Pro Max (8x) - 200mm, f/2.8, ISO 800, 1/33s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2804.jpg)
+
+![Low-light comparison, telephoto camera, full auto: Galaxy S26 Ultra (10x) - 230mm, f/2.9, ISO 800, 1/50s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2924.jpg)
+
+![Low-light samples, telephoto camera (10x), Night mode: Galaxy S26 Ultra - 230mm, f/2.9, ISO 1000, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2931.jpg)
+
+![Low-light samples, telephoto camera (10x), Night mode: Galaxy S26 Ultra - 230mm, f/2.9, ISO 800, 1/14s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2932.jpg)
+
+![Low-light samples, telephoto camera (10x), Night mode: Galaxy S26 Ultra - 230mm, f/2.9, ISO 800, 1/14s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2933.jpg)
+
+![Low-light samples, telephoto camera (10x), Night mode: Galaxy S26 Ultra - 230mm, f/2.9, ISO 500, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2934.jpg)
+
+![Low-light comparison, ultrawide camera, full auto: iPhone 18 Pro Max (0.5x) - 14mm, f/2.2, ISO 1600, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2001.jpg)
+
+![Low-light comparison, ultrawide camera, full auto: Galaxy S26 Ultra (0.6x) - 13mm, f/1.9, ISO 1000, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2021.jpg)
+
+![Low-light comparison, ultrawide camera, full auto: iPhone 18 Pro Max (0.5x) - 14mm, f/2.2, ISO 2500, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2002.jpg)
+
+![Low-light comparison, ultrawide camera, full auto: Galaxy S26 Ultra (0.6x) - 13mm, f/1.9, ISO 1250, 1/25s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2022.jpg)
+
+![Low-light comparison, ultrawide camera, full auto: iPhone 18 Pro Max (0.5x) - 14mm, f/2.2, ISO 2000, 1/4s (4032x3024px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2003.jpg)
+
+![Low-light comparison, ultrawide camera, full auto: Galaxy S26 Ultra (0.6x) - 13mm, f/1.9, ISO 1600, 1/6s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2023.jpg)
+
+![Low-light comparison, ultrawide camera, full auto: iPhone 18 Pro Max (0.5x) - 14mm, f/2.2, ISO 1250, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2004.jpg)
+
+![Low-light comparison, ultrawide camera, full auto: Galaxy S26 Ultra (0.6x) - 13mm, f/1.9, ISO 1000, 1/33s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2024.jpg)
+
+![Low-light samples, ultrawide camera (0.6x), Night mode: Galaxy S26 Ultra - 13mm, f/1.9, ISO 640, 1/20s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2031.jpg)
+
+![Low-light samples, ultrawide camera (0.6x), Night mode: Galaxy S26 Ultra - 13mm, f/1.9, ISO 1000, 1/17s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2032.jpg)
+
+![Low-light samples, ultrawide camera (0.6x), Night mode: Galaxy S26 Ultra - 13mm, f/1.9, ISO 1600, 1/7s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2033.jpg)
+
+![Low-light samples, ultrawide camera (0.6x), Night mode: Galaxy S26 Ultra - 13mm, f/1.9, ISO 640, 1/20s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_2034.jpg)
+
+![Selfies comparison: iPhone 18 Pro Max - 20mm, f/1.9, ISO 80, 1/73s (3672x4896px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_3001.jpg)
+
+![Selfies comparison: Galaxy S26 Ultra - 23mm, f/2.2, ISO 100, 1/120s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_3021.jpg)
+
+![Selfies comparison: iPhone 18 Pro Max - 20mm, f/1.9, ISO 80, 1/90s (3672x4896px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_3002.jpg)
+
+![Selfies comparison: Galaxy S26 Ultra - 23mm, f/2.2, ISO 125, 1/100s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_3022.jpg)
+
+![Selfies comparison: iPhone 18 Pro Max - 20mm, f/1.9, ISO 1600, 1/17s (3672x4896px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_3003.jpg)
+
+![Selfies comparison: Galaxy S26 Ultra - 23mm, f/2.2, ISO 1600, 1/11s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_3023.jpg)
+
+![Selfies comparison: iPhone 18 Pro Max - 20mm, f/1.9, ISO 800, 1/8s (3024x4032px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_3004.jpg)
+
+![Selfies comparison: Galaxy S26 Ultra - 23mm, f/2.2, ISO 1600, 1/11s (4000x3000px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_3024.jpg)
+
+![Daylight video screengrabs, iPhone 18 Pro Max: 0.5x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_101.jpg)
+
+![Daylight video screengrabs, iPhone 18 Pro Max: 1x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_102.jpg)
+
+![Daylight video screengrabs, iPhone 18 Pro Max: 2x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_103.jpg)
+
+![Daylight video screengrabs, iPhone 18 Pro Max: 4x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_104.jpg)
+
+![Daylight video screengrabs, iPhone 18 Pro Max: 8x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_105.jpg)
+
+![Daylight video screengrabs, Galaxy S26 Ultra: 0.6x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_121.jpg)
+
+![Daylight video screengrabs, Galaxy S26 Ultra: 1x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_122.jpg)
+
+![Daylight video screengrabs, Galaxy S26 Ultra: 2x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_123.jpg)
+
+![Daylight video screengrabs, Galaxy S26 Ultra: 3x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_124.jpg)
+
+![Daylight video screengrabs, Galaxy S26 Ultra: 5x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_125.jpg)
+
+![Daylight video screengrabs, Galaxy S26 Ultra: 10x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_126.jpg)
+
+![Low-light video screengrabs, iPhone 18 Pro Max: 0.5x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_201.jpg)
+
+![Low-light video screengrabs, iPhone 18 Pro Max: 1x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_202.jpg)
+
+![Low-light video screengrabs, iPhone 18 Pro Max: 2x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_203.jpg)
+
+![Low-light video screengrabs, iPhone 18 Pro Max: 4x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_204.jpg)
+
+![Low-light video screengrabs, iPhone 18 Pro Max: 8x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_205.jpg)
+
+![Low-light video screengrabs, Galaxy S26 Ultra: 0.6x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_221.jpg)
+
+![Low-light video screengrabs, Galaxy S26 Ultra: 1x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_222.jpg)
+
+![Low-light video screengrabs, Galaxy S26 Ultra: 2x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_223.jpg)
+
+![Low-light video screengrabs, Galaxy S26 Ultra: 3x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_224.jpg)
+
+![Low-light video screengrabs, Galaxy S26 Ultra: 5x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_225.jpg)
+
+![Low-light video screengrabs, Galaxy S26 Ultra: 10x -  (3840x2160px) - iPhone 18 Pro Max vs. Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/immaculate_226.jpg)
+
+![Samsung Galaxy S26 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789/samsung-galaxy-s26-ultra-new-545b1b41.jpg)

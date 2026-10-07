@@ -3459,6 +3459,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_homepod_mini_2_design_colors-news-74786.php"
   },
+  "74789": {
+    "content_hash": "b414c5162713aa0f1aa02992621e647e3a5d685872dc0a8c74b67281799858a8",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T03:28:43.476120+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_18_pro_max_vs_galaxy_s26_ultra_battery_camera_price_compared-news-74789.php"
+  },
   "74790": {
     "content_hash": "18d480406b35c6613643a05079adae8e17bd1759bc75f42dc3f106e6169b4dd2",
     "date": "28 September 2026",
@@ -4459,6 +4469,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_reportedly_planning_two_rounds_of_product_launches_in_october-news-74918.php"
   },
+  "74920": {
+    "content_hash": "ff6451a5c9c8fcc202fcd872c12794f67d98ea8e8cda8a040d96ee8a742c6eee",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T03:28:28.568165+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "developers_are_now_free_to_submit_iphone_duocompatible_apps_to_the_app_store-news-74920",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/developers_are_now_free_to_submit_iphone_duocompatible_apps_to_the_app_store-news-74920.php"
+  },
   "74922": {
     "content_hash": "e1f4978b53954e39386f41766df934e405459d77d1b5a8794e52f207a4b770d9",
     "date": "06 October 2026",
@@ -4488,5 +4508,15 @@
     "slug": "prime_day_deals_uk_tablets_and_watches-news-74927",
     "status": "ok",
     "url": "https://www.gsmarena.com/prime_day_deals_uk_tablets_and_watches-news-74927.php"
+  },
+  "74931": {
+    "content_hash": "e6cc2dae01afad9bf2ac86b485a013551855ddbfd8853bc80eb48c5f0905ed4e",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T03:28:08.051796+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "fitbit_edge_specs_and_colors_leak_along_with_pricing_for_the_eu_and_uk-news-74931",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/fitbit_edge_specs_and_colors_leak_along_with_pricing_for_the_eu_and_uk-news-74931.php"
   }
 }
