@@ -1,33 +1,43 @@
 [
   {
-    "slug": "garmin_announces_the_enduro_4_with_more_ram_storage_and_features_the_approach_s72_tags_along-news-74945",
-    "url": "https://www.gsmarena.com/garmin_announces_the_enduro_4_with_more_ram_storage_and_features_the_approach_s72_tags_along-news-74945.php",
+    "slug": "samsung_galaxy_f70_is_on_its_way_and_could_be_a_rebrand_job-news-74944",
+    "url": "https://www.gsmarena.com/samsung_galaxy_f70_is_on_its_way_and_could_be_a_rebrand_job-news-74944.php",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T04:11:46.670361+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "070674893effc93077da03a4ac37365f8bc63e68355584ea1fc57d24b248c3f3"
+  },
+  {
+    "content_hash": "3eef4d97676f33f4112619a4d05d6a392c0497f7fbdf2b057a6672ab49b7524d",
     "date": "07 October 2026",
     "fetched_at": "2026-10-07T23:59:28.739310+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3eef4d97676f33f4112619a4d05d6a392c0497f7fbdf2b057a6672ab49b7524d"
+    "retries": 0,
+    "slug": "garmin_announces_the_enduro_4_with_more_ram_storage_and_features_the_approach_s72_tags_along-news-74945",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/garmin_announces_the_enduro_4_with_more_ram_storage_and_features_the_approach_s72_tags_along-news-74945.php"
   },
   {
-    "slug": "deals_apple_airpods_pro_3_are_70_off-news-74940",
-    "url": "https://www.gsmarena.com/deals_apple_airpods_pro_3_are_70_off-news-74940.php",
+    "content_hash": "c990f5558bc4e96913cf4ad8f03defee26d05b422de290d835ef92f41a86ac03",
     "date": "07 October 2026",
     "fetched_at": "2026-10-07T23:59:19.589197+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c990f5558bc4e96913cf4ad8f03defee26d05b422de290d835ef92f41a86ac03"
+    "retries": 0,
+    "slug": "deals_apple_airpods_pro_3_are_70_off-news-74940",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_apple_airpods_pro_3_are_70_off-news-74940.php"
   },
   {
-    "slug": "samsung_galaxy_s26_fe_vs_galaxy_s25_fe_battery_camera_price_compared-news-74772",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_vs_galaxy_s25_fe_battery_camera_price_compared-news-74772.php",
+    "content_hash": "46a1ed2db5f44f954e0c06c49d14316f665851487aed47137440ba2395b8ca4e",
     "date": "07 October 2026",
     "fetched_at": "2026-10-07T23:56:45.990314+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "46a1ed2db5f44f954e0c06c49d14316f665851487aed47137440ba2395b8ca4e"
+    "retries": 0,
+    "slug": "samsung_galaxy_s26_fe_vs_galaxy_s25_fe_battery_camera_price_compared-news-74772",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_vs_galaxy_s25_fe_battery_camera_price_compared-news-74772.php"
   },
   {
     "content_hash": "41ca7eb6e953a80b9b57182fbfa056fc413b18a4363d2285e7bd3738540530ab",
