@@ -4699,6 +4699,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/motorola_rolls_out_android_17_to_the_razr_ultra_2026-news-74949.php"
   },
+  "74950": {
+    "content_hash": "0b3b9ae9ebc464b237da79b1e5ca98ca150d75aa7d640b0f7d04a92baa553664",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T19:37:05.751077+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "whatsapp_is_creating_a_new_contacts_tab_in_its_app-news-74950",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_is_creating_a_new_contacts_tab_in_its_app-news-74950.php"
+  },
   "74951": {
     "content_hash": "bc643db40cb52d4f3c61bc641480906a5e8e6948d937d88da5752b33d5f060fc",
     "date": "08 October 2026",
@@ -4708,6 +4718,16 @@
     "slug": "everyone_can_now_check_if_an_image_video_or_audio_file_was_made_with_ai-news-74951",
     "status": "ok",
     "url": "https://www.gsmarena.com/everyone_can_now_check_if_an_image_video_or_audio_file_was_made_with_ai-news-74951.php"
+  },
+  "74952": {
+    "content_hash": "08a762cdea89c8cd1ee3fd9d58fcb7f6785441db2460edb379418e4c6a8c54d5",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T19:36:25.322910+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_how_thin_the_iphone_air_2_will_be_despite_having_better_battery_life_than_its_predecessor-news-74952",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_how_thin_the_iphone_air_2_will_be_despite_having_better_battery_life_than_its_predecessor-news-74952.php"
   },
   "74953": {
     "content_hash": "2576fb93403841bbb231d362bd3113e5c08bcecd8bac421c932bb32da7d2c535",
@@ -4758,5 +4778,45 @@
     "slug": "heres_when_the_oppo_find_x10_and_find_x10_pro_max_will_launch_globally-news-74957",
     "status": "ok",
     "url": "https://www.gsmarena.com/heres_when_the_oppo_find_x10_and_find_x10_pro_max_will_launch_globally-news-74957.php"
+  },
+  "74959": {
+    "content_hash": "6d23a533ece936eb70776121e442e6e67ab9c45e5909c4c1ef57a5b5f83f0173",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T19:36:38.726453+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_and_pro_max_unboxing_and_handson-news-74959",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_and_pro_max_unboxing_and_handson-news-74959.php"
+  },
+  "74960": {
+    "content_hash": "5d3b59c0576d31eabc9cb249d2fc390934517a0390c958d1d1beec262407427e",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T19:35:23.922544+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_oled_macbook_pro_may_not_be_much_thinner_than_the_current_model-news-74960",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_oled_macbook_pro_may_not_be_much_thinner_than_the_current_model-news-74960.php"
+  },
+  "74964": {
+    "content_hash": "37470558602911f99a20954229ffadacfede93590ba873cb75b741f21ccb4fe7",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T19:34:56.404682+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazon_kids_tablets_are_now_official_in_two_sizes-news-74964",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_kids_tablets_are_now_official_in_two_sizes-news-74964.php"
+  },
+  "74965": {
+    "content_hash": "2583cea2bcc21baad7b3bcc1fad0ac6a89af80e1ea41194e86c4e050e03d4733",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T19:35:37.277984+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazons_new_alexa_tablets_use_the_google_play_store_and_are_more_capable_than_fire_tablets-news-74965",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazons_new_alexa_tablets_use_the_google_play_store_and_are_more_capable_than_fire_tablets-news-74965.php"
   }
 }

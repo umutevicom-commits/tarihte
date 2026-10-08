@@ -1,0 +1,43 @@
+{
+  "url": "https://www.gsmarena.com/whatsapp_is_creating_a_new_contacts_tab_in_its_app-news-74950.php",
+  "slug": "whatsapp_is_creating_a_new_contacts_tab_in_its_app-news-74950",
+  "title": "WhatsApp is creating a new Contacts tab in its app",
+  "news_id": "74950",
+  "date": "08 October 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "WhatsApp",
+    "Android",
+    "Online services",
+    "Mobile software"
+  ],
+  "body_paragraphs": [
+    "WhatsApp is now testing a dedicated Contacts tab in its Android app. It shows up in the latest beta version which is available through the Google Play Store for those who are enrolled in the beta program. Thus, it's still a work in progress and not available to everyone yet.",
+    "As you can see in the screenshot below, Contacts is now a new tab in the Android app's navigation bar. It shows your contacts, unsurprisingly, and shows you which of them are currently online with a green dot.",
+    "The Contacts list will also show birthday reminders and let you invite new people to WhatsApp (provided there still are any people on the planet who don't have the app installed, of course). For those who have birthdays today, you'll see a cake emoji and \"Birthday today\" next to the contact's name. The birthday information is automatically pulled from your phone’s contacts.",
+    "There's a search bar at the top too, letting you find someone by name, number, or username. The list of contacts can be sorted by activity (showing those who are online first), or alphabetically. People who have disabled their last seen status will obviously not show up as online."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/whatsapp_is_creating_a_new_contacts_tab_in_its_app-news-74950/immaculate_001.jpg",
+      "alt": "WhatsApp is creating a new Contacts tab in its app"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-08T19:37:05.751077+00:00",
+  "title_tr": "WhatsApp, uygulamasında yeni bir Kişiler sekmesi oluşturuyor",
+  "body_paragraphs_tr": [
+    "WhatsApp şimdi Android uygulamasında özel bir Kişiler sekmesini test ediyor. Beta programına kayıtlı olanlar için Google Play Store'da bulunan en son beta sürümünde görünür. Bu nedenle, hala devam eden bir çalışmadır ve henüz herkes için mevcut değildir.",
+    "Aşağıdaki ekran görüntüsünde görebileceğiniz gibi Kişiler artık Android uygulamasının gezinme çubuğunda yeni bir sekme. Kişilerinizi şaşırtıcı olmayan bir şekilde gösterir ve şu anda hangilerinin yeşil bir nokta ile çevrimiçi olduğunu gösterir.",
+    "Kişiler listesi ayrıca doğum günü hatırlatıcılarını gösterecek ve yeni kişileri WhatsApp'a davet etmenize olanak tanıyacaktır (tabii ki gezegende uygulamayı yüklememiş kişilerin olması şartıyla). Bugün doğum günü olanlar için, kişinin adının yanında bir pasta emojisi ve \"Bugün doğum günü\" göreceksiniz. Doğum günü bilgileri telefonundaki kişilerden otomatik olarak alınır.",
+    "En üstte de birini ada, numaraya veya kullanıcı adına göre bulmanı sağlayan bir arama çubuğu var. Kişilerin listesi etkinliğe göre (önce çevrimiçi olanları gösteren) veya alfabetik olarak sıralanabilir. Son görülme durumunu devre dışı bırakan kişilerin çevrimiçi görünmeyeceği açıktır."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "WhatsApp",
+    "Android",
+    "Online Hizmetler",
+    "MOBİL YAZILIMLAR"
+  ]
+}
