@@ -1,13 +1,93 @@
 [
   {
-    "slug": "samsung_galaxy_f70_is_on_its_way_and_could_be_a_rebrand_job-news-74944",
-    "url": "https://www.gsmarena.com/samsung_galaxy_f70_is_on_its_way_and_could_be_a_rebrand_job-news-74944.php",
+    "slug": "you_can_now_preorder_xreals_aura_android_xr_glasses_heres_how_much_they_cost-news-74948",
+    "url": "https://www.gsmarena.com/you_can_now_preorder_xreals_aura_android_xr_glasses_heres_how_much_they_cost-news-74948.php",
     "date": "08 October 2026",
-    "fetched_at": "2026-10-08T04:11:46.670361+00:00",
+    "fetched_at": "2026-10-08T12:32:57.088972+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "070674893effc93077da03a4ac37365f8bc63e68355584ea1fc57d24b248c3f3"
+    "content_hash": "695e5c40bf064bb3eafb08bb5b421ff38127c1ca9cd3ccb35cdc9eed5d52df25"
+  },
+  {
+    "slug": "motorola_rolls_out_android_17_to_the_razr_ultra_2026-news-74949",
+    "url": "https://www.gsmarena.com/motorola_rolls_out_android_17_to_the_razr_ultra_2026-news-74949.php",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T12:32:44.733236+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c30dbee385adabbf74b554e753f57a5fdcc1b8ceb50bc751a22c075ed33c02a3"
+  },
+  {
+    "slug": "everyone_can_now_check_if_an_image_video_or_audio_file_was_made_with_ai-news-74951",
+    "url": "https://www.gsmarena.com/everyone_can_now_check_if_an_image_video_or_audio_file_was_made_with_ai-news-74951.php",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T12:32:33.187896+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "bc643db40cb52d4f3c61bc641480906a5e8e6948d937d88da5752b33d5f060fc"
+  },
+  {
+    "slug": "redmagic_12_pro_design_and_color_options_revealed_ahead_of_launch-news-74954",
+    "url": "https://www.gsmarena.com/redmagic_12_pro_design_and_color_options_revealed_ahead_of_launch-news-74954.php",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T12:32:17.861234+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b02caa61025a7cf5501fde073ecf0721e86f2081d3df072c9b765b62626460b3"
+  },
+  {
+    "slug": "microsoft_reveals_surface_laptop_ultra_price_and_availability-news-74953",
+    "url": "https://www.gsmarena.com/microsoft_reveals_surface_laptop_ultra_price_and_availability-news-74953.php",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T12:31:59.115319+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2576fb93403841bbb231d362bd3113e5c08bcecd8bac421c932bb32da7d2c535"
+  },
+  {
+    "slug": "samsung_q3_2026_earnings_guidance-news-74956",
+    "url": "https://www.gsmarena.com/samsung_q3_2026_earnings_guidance-news-74956.php",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T12:31:45.117456+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "149b2a9f29d9577414fe711b0202a4cbe6290f3b15713acb5593fcfe43b6f8ea"
+  },
+  {
+    "slug": "heres_when_the_oppo_find_x10_and_find_x10_pro_max_will_launch_globally-news-74957",
+    "url": "https://www.gsmarena.com/heres_when_the_oppo_find_x10_and_find_x10_pro_max_will_launch_globally-news-74957.php",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T12:31:31.819617+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "63190bf8ceeb86e004cfca0d4e94d0bcd3436e93e4c3c51056843db99f3b0fb0"
+  },
+  {
+    "slug": "report_samsung_is_cutting_up_to_30_of_its_smartphone_production_in_q4_-news-74955",
+    "url": "https://www.gsmarena.com/report_samsung_is_cutting_up_to_30_of_its_smartphone_production_in_q4_-news-74955.php",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T12:31:17.578711+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4deaafcbdf35f4b8efa35648c336b3b04ce9d05999e8a7cbc45262054763ce9c"
+  },
+  {
+    "content_hash": "070674893effc93077da03a4ac37365f8bc63e68355584ea1fc57d24b248c3f3",
+    "date": "08 October 2026",
+    "fetched_at": "2026-10-08T04:11:46.670361+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_f70_is_on_its_way_and_could_be_a_rebrand_job-news-74944",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_f70_is_on_its_way_and_could_be_a_rebrand_job-news-74944.php"
   },
   {
     "content_hash": "3eef4d97676f33f4112619a4d05d6a392c0497f7fbdf2b057a6672ab49b7524d",
