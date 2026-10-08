@@ -3349,6 +3349,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/google_pixel_11_pro_vs_pixel_11_pro_xl_battery_camera_price_compared-news-74771.php"
   },
+  "74772": {
+    "content_hash": "46a1ed2db5f44f954e0c06c49d14316f665851487aed47137440ba2395b8ca4e",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T23:56:45.990314+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_s26_fe_vs_galaxy_s25_fe_battery_camera_price_compared-news-74772",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s26_fe_vs_galaxy_s25_fe_battery_camera_price_compared-news-74772.php"
+  },
   "74773": {
     "content_hash": "e00ad789805d5c4c353f30000a4242ea828de7ecbeccd2b152faf23058596701",
     "date": "27 September 2026",
@@ -4619,6 +4629,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/ultrahuman_heart_scan-news-74939.php"
   },
+  "74940": {
+    "content_hash": "c990f5558bc4e96913cf4ad8f03defee26d05b422de290d835ef92f41a86ac03",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T23:59:19.589197+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_apple_airpods_pro_3_are_70_off-news-74940",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_apple_airpods_pro_3_are_70_off-news-74940.php"
+  },
   "74942": {
     "content_hash": "c391cd772a9907d073b8a6a453fcef61e33071b5a31db3735fa4886bd1d45bc5",
     "date": "07 October 2026",
@@ -4638,5 +4658,15 @@
     "slug": "apple_is_working_with_lg_on_new_smart_home_products_here_are_the_details-news-74943",
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_is_working_with_lg_on_new_smart_home_products_here_are_the_details-news-74943.php"
+  },
+  "74945": {
+    "content_hash": "3eef4d97676f33f4112619a4d05d6a392c0497f7fbdf2b057a6672ab49b7524d",
+    "date": "07 October 2026",
+    "fetched_at": "2026-10-07T23:59:28.739310+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "garmin_announces_the_enduro_4_with_more_ram_storage_and_features_the_approach_s72_tags_along-news-74945",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/garmin_announces_the_enduro_4_with_more_ram_storage_and_features_the_approach_s72_tags_along-news-74945.php"
   }
 }
