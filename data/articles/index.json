@@ -1,5 +1,35 @@
 [
   {
+    "slug": "iqoo_neo12s_display_could_be_very_special-news-74967",
+    "url": "https://www.gsmarena.com/iqoo_neo12s_display_could_be_very_special-news-74967.php",
+    "date": "09 October 2026",
+    "fetched_at": "2026-10-09T08:13:15.099281+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3347af1c4e1f11b129fcf913860f9511b5c84eab389365aaba65226646b9b648"
+  },
+  {
+    "slug": "gurman_apple_to_announce_its_touchscreen_macbook_on_october_27-news-74969",
+    "url": "https://www.gsmarena.com/gurman_apple_to_announce_its_touchscreen_macbook_on_october_27-news-74969.php",
+    "date": "09 October 2026",
+    "fetched_at": "2026-10-09T08:12:58.081855+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3d0cd26d4e29c03050aed384b7244702713ff9c76f45030b354fa641c390e42a"
+  },
+  {
+    "slug": "new_details_about_oppos_widescreen_phone_surface-news-74970",
+    "url": "https://www.gsmarena.com/new_details_about_oppos_widescreen_phone_surface-news-74970.php",
+    "date": "09 October 2026",
+    "fetched_at": "2026-10-09T08:12:35.241389+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a4de84fb6f82c788772f164e6f1fc5abc491b1e80ac8165b98584a5a4f326344"
+  },
+  {
     "content_hash": "0b3b9ae9ebc464b237da79b1e5ca98ca150d75aa7d640b0f7d04a92baa553664",
     "date": "08 October 2026",
     "fetched_at": "2026-10-08T19:37:05.751077+00:00",
