@@ -4848,5 +4848,75 @@
     "slug": "new_details_about_oppos_widescreen_phone_surface-news-74970",
     "status": "ok",
     "url": "https://www.gsmarena.com/new_details_about_oppos_widescreen_phone_surface-news-74970.php"
+  },
+  "74971": {
+    "content_hash": "5af424072467abc82f477a0e3af9d997d746dd5e5d4716523d0d8a7544bf4526",
+    "date": "09 October 2026",
+    "fetched_at": "2026-10-09T16:45:12.408618+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_reportedly_cuts_iphone_18_pro_series_component_orders_amid_weak_demand-news-74971",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_reportedly_cuts_iphone_18_pro_series_component_orders_amid_weak_demand-news-74971.php"
+  },
+  "74972": {
+    "content_hash": "5ed06d9aa444588f2207160fa3bbd4ee856f8dafafbb37c2755ad2eb0ef0bce5",
+    "date": "09 October 2026",
+    "fetched_at": "2026-10-09T16:44:55.850618+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_16_display_specs_confirmed-news-74972",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_16_display_specs_confirmed-news-74972.php"
+  },
+  "74973": {
+    "content_hash": "957c34fb0e5d1fb8fb97db6ad7b6c6b2f100beaf9a9700cd02b962588204ac98",
+    "date": "09 October 2026",
+    "fetched_at": "2026-10-09T16:44:42.400660+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_15_receives_coloros_17_open_beta_just_days_before_the_official_os_launch-news-74973",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_15_receives_coloros_17_open_beta_just_days_before_the_official_os_launch-news-74973.php"
+  },
+  "74974": {
+    "content_hash": "7d24854baacf995c6f09fcd9b697bb6da0d68e56367821e44abf7ed89adcdec1",
+    "date": "09 October 2026",
+    "fetched_at": "2026-10-09T16:43:26.273998+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_iphone_18_pro_max_ios_27_2_beta_72_0_3_att_carrier_update-news-74974",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_iphone_18_pro_max_ios_27_2_beta_72_0_3_att_carrier_update-news-74974.php"
+  },
+  "74976": {
+    "content_hash": "3b169aead5f66bb07b6ecfd036e4685447b8484be6937e9b7d0f9745979534c4",
+    "date": "09 October 2026",
+    "fetched_at": "2026-10-09T16:44:06.403504+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "computer_market_shipments_fell_20_between_july_and_september-news-74976",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/computer_market_shipments_fell_20_between_july_and_september-news-74976.php"
+  },
+  "74977": {
+    "content_hash": "24d1ecc0964f4835a70bbec26a4a038408e0ea0055aa5881c37039fa1cd6f094",
+    "date": "09 October 2026",
+    "fetched_at": "2026-10-09T16:44:25.232979+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "global_xiaomi_18_pro_max_has_its_chipset_and_ram_amount_confirmed_by_a_benchmark-news-74977",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/global_xiaomi_18_pro_max_has_its_chipset_and_ram_amount_confirmed_by_a_benchmark-news-74977.php"
+  },
+  "74978": {
+    "content_hash": "022ecb8f367c1014dc66337835241ca9fa11aa066d59dc314a49dbc416d93165",
+    "date": "09 October 2026",
+    "fetched_at": "2026-10-09T16:43:46.453251+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_redmagic_12_pro_is_shaping_up_to_be_an_rgb_lovers_dream-news-74978",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_redmagic_12_pro_is_shaping_up_to_be_an_rgb_lovers_dream-news-74978.php"
   }
 }
