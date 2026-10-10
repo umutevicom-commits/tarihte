@@ -1,13 +1,23 @@
 [
   {
-    "slug": "hmd_pulse_2t_pro_specs_and_images_leak_showing_a_dot_matrix_rear_display-news-74986",
-    "url": "https://www.gsmarena.com/hmd_pulse_2t_pro_specs_and_images_leak_showing_a_dot_matrix_rear_display-news-74986.php",
-    "date": "09 October 2026",
-    "fetched_at": "2026-10-09T22:02:33.358781+00:00",
+    "slug": "oneplus_plans_on_launching_two_flagships_in_india_heres_when-news-74985",
+    "url": "https://www.gsmarena.com/oneplus_plans_on_launching_two_flagships_in_india_heres_when-news-74985.php",
+    "date": "10 October 2026",
+    "fetched_at": "2026-10-10T03:31:17.871756+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "3b1f189caf6d39f2912e853152855e3d6e6f26abad6eea388978d277c3eddca1"
+    "content_hash": "42731bb423776a06b112bf26c676333b8b45db2fd8bc12674b0c265aa57e773d"
+  },
+  {
+    "content_hash": "3b1f189caf6d39f2912e853152855e3d6e6f26abad6eea388978d277c3eddca1",
+    "date": "09 October 2026",
+    "fetched_at": "2026-10-09T22:02:33.358781+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "hmd_pulse_2t_pro_specs_and_images_leak_showing_a_dot_matrix_rear_display-news-74986",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/hmd_pulse_2t_pro_specs_and_images_leak_showing_a_dot_matrix_rear_display-news-74986.php"
   },
   {
     "content_hash": "5af424072467abc82f477a0e3af9d997d746dd5e5d4716523d0d8a7544bf4526",
