@@ -1,0 +1,23 @@
+# Fırsatlar: Bazı Galaxy ve Pixel telefonlar Prime Day fiyatlarını korudu - ancak şimdi Prime gerekmez
+
+Amazon'un Prime Big Deal Günleri sadece iki gün sürdü ve Prime aboneleri için gerçekten iyi fırsatlar vardı. Ama o iş bitti, bu yüzden bugün Prime olmayan fırsatlara bakacağız ve görünüşe göre birçok telefon Prime Day fiyatlarını korudu. İyi haber şu ki, bu anlaşmalar Prime aboneliği gerektirmiyor. Kötü haber şu ki, bazı telefonların fiyatı tekrar yükseldi.
+
+Samsung Galaxy Z Fold8 Ultra'dan başlayarak, 256GB model için 1.700 $ ve 512GB model için 1.900 $ karşılığında geliyor. Bunlar, Prime Big Deal Günleri sırasında gördüğümüz fiyatların aynısı, ancak şimdi Prime'a bile ihtiyacın yok. Bir Z Fold8 Ultra mı yoksa bir S26 Ultra mı almanız gerektiğini düşünmeye değer, ancak belki de önce S26 Ultra fiyatını görene kadar bekleyin.
+
+Samsung Galaxy Z Fold8 şimdi Prime satışında olduğundan 100 $ daha fazla – söylediğimiz gibi, sadece bazı telefonlar düşük fiyatlarını korudu, ancak bu onlardan biri değildi. Bu ilginç bir durum yaratıyor – Samsung'un geniş katlanabilirliğini daha geleneksel kitap tarzı modelden ayıran sadece 50 $ var. İşte ikisi arasında karar vermenize yardımcı olacak kafa kafaya bir karşılaştırma.
+
+Samsung Galaxy Z Flip8 de Prime fiyatını korudu, bu yüzden şimdi 1000 $ 'ın altında başlıyor. Üç Z modelinden en küçük indirime sahiptir ve aşağıda göreceğimiz gibi, bu fiyata bir S26 Ultra'ya sahip olabilirsiniz. Kompakt form faktörüne ne kadar değer veriyorsunuz?
+
+Samsung kapaklı kabuğu fiyatını korurken, Motorola Razr Ultra 2025 ve Razr Ultra 2026, Salı - Çarşamba satışından 100 $ daha fazla. 2026 yükseltmesi oldukça küçük olduğu için 2025 modeli hala daha iyi bir para değeri seçimidir – yonga setini bile yükseltmez. Bu arada, her iki Razr'daki Snapdragon 8 Elite, Galaxy'nin içindeki 8 Elite Gen 5 'ten bir yaş daha büyük.
+
+Samsung Galaxy S26 Ultra aslında Prime satışında olduğundan daha ucuz. Bunun bir yıldızı var – aşağıda listelenen fiyatlar yalnızca belirli renkler, 256 GB katman için sıkıcı Siyah renk ve 512 GB katman için güzel Gök Mavisi renk için geçerlidir. Diğer renkler $ 40/$ 90 daha fazla. Galaxy S26 Ultra ve iPhone 18 Pro Max arasında karar veriyorsanız, versus makalemiz her seçim için artılara ve eksilere giriyor.
+
+Samsung Galaxy S26 ve S26+ da Prime fiyatlarını korudu. Galaxy S26+, S26 Ultra ile iyi bir karşılaştırma yapmıyor, ancak S25+ 'ya göre sağlam performans ve pil yükseltmeleri getiriyor. Galaxy S26, performans ve pil dayanıklılığı açısından selefini geride bıraktığı için benzer.
+
+Nedir bu – gözlerimiz bizi aldatıyor mu? Samsung Galaxy S26 FE nihayet ilk indirimini aldı ve bu iyi bir indirim. FE, ADRP'sinde kolay bir atlamaydı, ancak şimdi 600 $ altı başlangıç fiyatı size düşünecek bir şey veriyor.
+
+Daha büyük 6.7” ekrana ihtiyacınız yoksa, muhtemelen Galaxy S26 için biraz ekstra ödeme yapmanız daha iyi olacaktır – size mevcut bir amiral gemisi çipi (Snapdragon 8 Elite Gen 5 vs. Exynos 2500) ve 6.3” ekranı bir LTPO paneli. S26+, S26 FE'den daha iyi, ancak fiyat etiketi 185 $ daha yüksek. 2025 modeli kabaca aynı kullanıcı deneyimini sunduğundan, her zaman artık Galaxy S25 FE ünitelerini aramayı deneyebilirsiniz. DeX'i önemsiyorsanız, Samsung'un USB - C bağlantı noktasından DisplayPort video çıkışını kestiği için S26 FE'den kablolu seçeneğini kaldırdığını bilmelisiniz (kablosuz DeX hala desteklenmektedir).
+
+Bir alternatif Samsung Galaxy A57 'dir. Hayır, DeX'i yok, ancak S26 FE'den 100 $ daha ucuz. Yonga seti performansını (Exynos 1680 ve Exynos 2500), 8MP 3x/69mm telefoto kamerayı ve 15W kablosuz şarjı kaybedersiniz. Gerisi o kadar da farklı değil.
+
+Son olarak, Google Pixel 11 serisi, satış etkinliği sona erdikten sonra bile Prime Day fiyatlarını korudu. Büyük ve küçük modeller arasında karar vermek için yardıma ihtiyacınız varsa, size yardımcı olacak bir Pixel 11 Pro XL ve Pixel 11 Pro makalemiz var. Küçük 6,3 inç modeller için Pixel 11 'e karşı Pixel 11 Pro ve Pixel 11 Pro'ya karşı Pixel 10 Pro'muz var.
