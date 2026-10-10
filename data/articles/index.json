@@ -1,13 +1,33 @@
 [
   {
-    "slug": "oneplus_plans_on_launching_two_flagships_in_india_heres_when-news-74985",
-    "url": "https://www.gsmarena.com/oneplus_plans_on_launching_two_flagships_in_india_heres_when-news-74985.php",
+    "slug": "oppo_find_x10_pro_max_hasselblad_teleconverter_kit_unboxing_and_handson-news-74979",
+    "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_hasselblad_teleconverter_kit_unboxing_and_handson-news-74979.php",
     "date": "10 October 2026",
-    "fetched_at": "2026-10-10T03:31:17.871756+00:00",
+    "fetched_at": "2026-10-10T10:18:12.844688+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "42731bb423776a06b112bf26c676333b8b45db2fd8bc12674b0c265aa57e773d"
+    "content_hash": "0954cd68dccdfa8d685315988f0baf61e29d9be27f917418822ab1da2f056d10"
+  },
+  {
+    "slug": "deals_vivo_x_fold6_arrives_galaxy_s26_ultra_price_remains_low_iphone_17_series_on_sale-news-74980",
+    "url": "https://www.gsmarena.com/deals_vivo_x_fold6_arrives_galaxy_s26_ultra_price_remains_low_iphone_17_series_on_sale-news-74980.php",
+    "date": "10 October 2026",
+    "fetched_at": "2026-10-10T10:17:30.418904+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a7a72b35528a76c74eaad55b74aba3fc4a749492edb7d16f2a041cb76472b1d7"
+  },
+  {
+    "content_hash": "42731bb423776a06b112bf26c676333b8b45db2fd8bc12674b0c265aa57e773d",
+    "date": "10 October 2026",
+    "fetched_at": "2026-10-10T03:31:17.871756+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_plans_on_launching_two_flagships_in_india_heres_when-news-74985",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_plans_on_launching_two_flagships_in_india_heres_when-news-74985.php"
   },
   {
     "content_hash": "3b1f189caf6d39f2912e853152855e3d6e6f26abad6eea388978d277c3eddca1",
