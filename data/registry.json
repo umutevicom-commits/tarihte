@@ -4958,5 +4958,35 @@
     "slug": "hmd_pulse_2t_pro_specs_and_images_leak_showing_a_dot_matrix_rear_display-news-74986",
     "status": "ok",
     "url": "https://www.gsmarena.com/hmd_pulse_2t_pro_specs_and_images_leak_showing_a_dot_matrix_rear_display-news-74986.php"
+  },
+  "74988": {
+    "content_hash": "1c01318fcb2ed83739b4535020753ae5666613cb3fd73a1eb77ef76204d2e2b0",
+    "date": "10 October 2026",
+    "fetched_at": "2026-10-10T16:40:00.000317+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "this_is_when_the_infinix_gt_50_pro_is_finally_launching_in_india-news-74988",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/this_is_when_the_infinix_gt_50_pro_is_finally_launching_in_india-news-74988.php"
+  },
+  "74989": {
+    "content_hash": "45e818ed8a66bc2672a9f6b36551bc4d7e416766317425a0c6b4a2a90a8a1f0d",
+    "date": "10 October 2026",
+    "fetched_at": "2026-10-10T16:39:25.675570+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "google_starts_teasing_the_fitbit_edge_reveals_its_launch_date-news-74989",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/google_starts_teasing_the_fitbit_edge_reveals_its_launch_date-news-74989.php"
+  },
+  "74991": {
+    "content_hash": "5796da78acc62b3f2ce91fb8d606ae46d4d3c7c0040d9870c6b3700671e6d4a4",
+    "date": "10 October 2026",
+    "fetched_at": "2026-10-10T16:39:45.468099+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_n7_camera_display_details_tipped-news-74991",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_n7_camera_display_details_tipped-news-74991.php"
   }
 }

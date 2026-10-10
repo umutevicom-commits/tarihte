@@ -1,23 +1,53 @@
 [
   {
-    "slug": "oppo_find_x10_pro_max_hasselblad_teleconverter_kit_unboxing_and_handson-news-74979",
-    "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_hasselblad_teleconverter_kit_unboxing_and_handson-news-74979.php",
+    "slug": "this_is_when_the_infinix_gt_50_pro_is_finally_launching_in_india-news-74988",
+    "url": "https://www.gsmarena.com/this_is_when_the_infinix_gt_50_pro_is_finally_launching_in_india-news-74988.php",
     "date": "10 October 2026",
-    "fetched_at": "2026-10-10T10:18:12.844688+00:00",
+    "fetched_at": "2026-10-10T16:40:00.000317+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "0954cd68dccdfa8d685315988f0baf61e29d9be27f917418822ab1da2f056d10"
+    "content_hash": "1c01318fcb2ed83739b4535020753ae5666613cb3fd73a1eb77ef76204d2e2b0"
   },
   {
-    "slug": "deals_vivo_x_fold6_arrives_galaxy_s26_ultra_price_remains_low_iphone_17_series_on_sale-news-74980",
-    "url": "https://www.gsmarena.com/deals_vivo_x_fold6_arrives_galaxy_s26_ultra_price_remains_low_iphone_17_series_on_sale-news-74980.php",
+    "slug": "oppo_find_n7_camera_display_details_tipped-news-74991",
+    "url": "https://www.gsmarena.com/oppo_find_n7_camera_display_details_tipped-news-74991.php",
     "date": "10 October 2026",
-    "fetched_at": "2026-10-10T10:17:30.418904+00:00",
+    "fetched_at": "2026-10-10T16:39:45.468099+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "a7a72b35528a76c74eaad55b74aba3fc4a749492edb7d16f2a041cb76472b1d7"
+    "content_hash": "5796da78acc62b3f2ce91fb8d606ae46d4d3c7c0040d9870c6b3700671e6d4a4"
+  },
+  {
+    "slug": "google_starts_teasing_the_fitbit_edge_reveals_its_launch_date-news-74989",
+    "url": "https://www.gsmarena.com/google_starts_teasing_the_fitbit_edge_reveals_its_launch_date-news-74989.php",
+    "date": "10 October 2026",
+    "fetched_at": "2026-10-10T16:39:25.675570+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "45e818ed8a66bc2672a9f6b36551bc4d7e416766317425a0c6b4a2a90a8a1f0d"
+  },
+  {
+    "content_hash": "0954cd68dccdfa8d685315988f0baf61e29d9be27f917418822ab1da2f056d10",
+    "date": "10 October 2026",
+    "fetched_at": "2026-10-10T10:18:12.844688+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_pro_max_hasselblad_teleconverter_kit_unboxing_and_handson-news-74979",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_hasselblad_teleconverter_kit_unboxing_and_handson-news-74979.php"
+  },
+  {
+    "content_hash": "a7a72b35528a76c74eaad55b74aba3fc4a749492edb7d16f2a041cb76472b1d7",
+    "date": "10 October 2026",
+    "fetched_at": "2026-10-10T10:17:30.418904+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_vivo_x_fold6_arrives_galaxy_s26_ultra_price_remains_low_iphone_17_series_on_sale-news-74980",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_vivo_x_fold6_arrives_galaxy_s26_ultra_price_remains_low_iphone_17_series_on_sale-news-74980.php"
   },
   {
     "content_hash": "42731bb423776a06b112bf26c676333b8b45db2fd8bc12674b0c265aa57e773d",
