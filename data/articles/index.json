@@ -1,13 +1,33 @@
 [
   {
-    "slug": "xiaomi_watch_s5_review-news-73952",
-    "url": "https://www.gsmarena.com/xiaomi_watch_s5_review-news-73952.php",
+    "slug": "weekly_poll_results_the_vivo_x_fold6_is_hot_but_its_price_can_singe_your_wallet-news-74962",
+    "url": "https://www.gsmarena.com/weekly_poll_results_the_vivo_x_fold6_is_hot_but_its_price_can_singe_your_wallet-news-74962.php",
     "date": "11 October 2026",
-    "fetched_at": "2026-10-11T00:35:53.799439+00:00",
+    "fetched_at": "2026-10-11T08:04:22.277861+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "74d6fd39ec608b93c35dc38893d816a7f5ad2be28c46370f8a4015e2904a3216"
+    "content_hash": "3e026370cc43ab1e01d63434a52f647ea41e032b186ac4314f4ceb250c2b2d85"
+  },
+  {
+    "slug": "the_vivo_x_fold6_powers_advanced_productivity_features_with_indias_biggest_battery_in_a_foldable-news-74841",
+    "url": "https://www.gsmarena.com/the_vivo_x_fold6_powers_advanced_productivity_features_with_indias_biggest_battery_in_a_foldable-news-74841.php",
+    "date": "11 October 2026",
+    "fetched_at": "2026-10-11T08:03:11.566375+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b48a632fbd79279ea4a8cb535762688f5f8204f8f20e3536b484f6259b26e6fc"
+  },
+  {
+    "content_hash": "74d6fd39ec608b93c35dc38893d816a7f5ad2be28c46370f8a4015e2904a3216",
+    "date": "11 October 2026",
+    "fetched_at": "2026-10-11T00:35:53.799439+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_watch_s5_review-news-73952",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_watch_s5_review-news-73952.php"
   },
   {
     "content_hash": "132c648eed37fa1370c823a8e50c2ecb0e776265dcbebf1069643162f0afc452",
