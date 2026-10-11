@@ -1,0 +1,13 @@
+# İçeriden gelen yeni ipucu, Samsung Galaxy S27 Ultra'nın yalnızca Qualcomm yonga setiyle kullanılabileceğini iddia ediyor
+
+Hemen hemen her yeni Galaxy S cihaz ailesi ufukta göründüğü için bu her zaman acil bir soru gibi görünüyor – hangi yonga setlerini kullanacaklar? Exynos 2700 'ün ilk hesaplara göre mükemmel bir çip olduğunu zaten biliyoruz. Exynos 2700, Samsung'un ikinci nesil 2nm Gate - All - Around (GAA) düğümü olan SF2P'de üretilecek. Exynos 2600 için kullanılan birinci nesil düğüme (SF2) kıyasla SF2P, % 12 performans artışı, güç kullanımında % 25 azalma ve çip alanında % 8 azalma sunuyor. Ayrıca, muhtemelen C2 CPU çekirdeklerini kollayın. Ayrıca çipi tasarlayan Samsung System LSI'nin en iyi S amiral gemisinde benimsenmesi için bastırdığını da biliyoruz. Bununla birlikte, üretim verimi ve kapasitesi söz konusu olduğunda hala bazı sorular var. Raporlar zaten Samsung'un Exynos 2700 üretimini Exynos 2600 'den "% 10' dan daha fazla "artırdığını söylüyor, bu da yeni S27 Pro modeli için yeterli tedarik olsa bile mantıklı. Öte yandan, Samsung'un Qualcomm ile korumak için uzun süredir devam eden stratejik bir ilişkisi var. Karmaşık bir durum.
+
+İçeriden gelen yeni bir ipucu artık konuyla ilgili birkaç şey iddia ediyor. Görünüşe göre, Exynos 2700 'deki verim gerçekten iyi, ancak yine de S27 Ultra'da görme şansı çok az. Görünüşe göre henüz nihai bir karar verilmedi, ancak bu en olası sonuç gibi görünüyor. Bu nedenle, her S27 Ultra, Snapdragon 8 Elite Extreme Gen 6 'yı alırken, S27, S27+ ve yeni S27 Pro, Avrupa ve Kore'de Exynos'u ve Çin ve ABD'de Snapdragon'u kullanacak.
+
+Kaynak (Korece) | Üzerinden | Görüntü kaynağı
+
+---
+
+## Görseller
+
+![New insider tip claims the Samsung Galaxy S27 Ultra will only be available with a Qualcomm chipset](https://umutevicom-commits.github.io/tarihte/data/images/new_insider_tip_claims_the_samsung_galaxy_s27_ultra_will_only_be_available_with_a_qualcomm_chipset-news-74995/immaculate_002.jpg)
