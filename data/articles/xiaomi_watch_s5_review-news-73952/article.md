@@ -1,0 +1,149 @@
+# Xiaomi Watch S5 incelemesi
+
+İnsanlar Xiaomi Watch S modellerini seviyorlar ve bunun iyi bir nedeni var. Uygun fiyatlılar (Amazon'dan 150 €), zengin özelliklere sahipler ve yetenekliler, ancak muhtemelen her şeyden daha önemli, harika görünüyorlar.
+
+Bu editör, beşinci modelin de farklı olmadığını ve öncekinden daha güzel olduğunu ve onu daha da cazip hale getirdiğini savunuyor. Bu yılki modelde incelik, algılanan kalite ve dayanıklılıkta gözle görülür bir artış var. Önceki modelin değiştirilebilir çerçevesini terk etti, bu da en azından onu kaybetmeyeceğiniz anlamına geliyor. Ancak endişelenmeyin, seçtiğiniz farklı renge bağlı olarak farklı çerçeveler (dördü) vardır.
+
+İncelememiz gereken Xiaomi Watch S5, 46mm model ve Siyah, Gümüş, Orman Yeşili (bizimki) ve Seramik Mavisi renklerinde geliyor. Fiyatlar Siyah ve Gümüş için 180 €' dan, Orman Yeşili ve Seramik Mavisi için 200 €' dan başlıyor.
+
+Daha önce olduğu gibi, saat bir USB - A bağlantı noktasında biten bir kayış ve iki pimli manyetik şarj cihazı ile bir kutuda gönderilir (utanç!). Evrensel olmayan şarj diski, saatin şarj olacak şekilde ayarlanması anlamına gelir, ancak neyse ki mükemmel pil ömrü, bunu her zamankinden daha az yapacağınız anlamına gelir.
+
+Xiaomi Watch S5 bir malzeme karışımı kullanıyor. Ekranı, safir olmasa da bir tür çizilmeye dayanıklı kristaldir. Kasa tüm modellerde 316L paslanmaz çelikten imal edilmiştir. Siyah ve Gümüş modellerde çerçeve için de paslanmaz çelik kullanılırken, Seramik Mavi modelde (tahmin edebileceğiniz gibi) seramik çerçeve, Jungle Green modelinde ise dövme karbon çerçeve kullanılıyor.
+
+Watch S5, selefine kıyasla rafine bir yapıya sahip. 46 mm'de biraz daha küçük ve 11 mm'de daha az kalındır. Bunun çoğu, çerçeveleri % 40 oranında azaltarak elde edildi; bu, eski modelde biraz daha büyük bir ekrana (1,48inç) izin verme avantajına sahipti. Bu, bilekte daha küçük ve daha büyük bir ekrana sahip daha ince bir saatiniz olduğu anlamına gelir.
+
+Selefleri gibi, Watch S5 de standart 22 mm kayışları monte eden her iki tarafta belirgin tırnaklara sahip klasik bir tasarıma sahiptir - başa çıkılması gereken özel mekanizmalar yoktur.
+
+İncelememiz için elimizdeki model, parlak bir orta (çerçeve, düğmeler ve pabuçlar) ve mat bir çerçeve ile iki tonlu bir kasa kaplamasına sahiptir. Çerçeve, herkesin zevkine göre olmasa da etkileyici ve benzersiz görünen katmanlı bir tasarıma sahiptir. Aynı zamanda gömülü bir iç çerçeveye sahip eşmerkezli bir dairedir.
+
+Bu iç çerçevenin kenarında bazı saat meraklıları için olmazsa olmaz olan küçük işaretler var.
+
+Kayış, flororubber ve dokuma naylonun güzel bir yeşil renkte bir kombinasyonudur.
+
+46 mm'lik model, GSMArena'daki birkaçımız için doğru geldi. Normal bilekler için en uygunudur ve hem eğlence hem de spor aktiviteleri için giyilmesi çok rahattır.
+
+Xiaomi, kasayı ve kayışı varsayılan saat ekranıyla güzel bir şekilde eşleştirdi. Saat S5 'in görünümü doğru hissettiriyor.
+
+Altında bir düğmenin yanı sıra itilebilen dönen bir taç elde edersiniz. Özelleştirilemezler, ki bu utanç verici. Tacın kendisi, bu durumda yeşil olan saatle renk eşleştirmesidir. Tasarımı daha uyumlu hale getiren zevkli bir dokunuş.
+
+İki düğmenin hemen altında bir hoparlör ızgarası ve diğer tarafta bir mikrofon deliği var.
+
+Düğmeler ve hoparlör
+
+Ekran premium. 480x480 piksel çözünürlüğe (323ppi'de de keskin), 1.500 nit'lik yüksek parlaklık moduna ve 2.500 nit'lik tepe parlaklığına sahip 1,48inçlik bir AMOLED.
+
+En aydınlık günlerde bile ekranla ilgili bir sorun yaşamadık. Kolayca okunabilir.
+
+Ancak ekran özellikleri kadar önemli olan saat ekranıdır. Xiaomi'nin Watch S5 için varsayılan modeli bu editörün en sevdiği seçimdi. Şık, klasik ve benim için en önemli bilgilere (saat, tarih, pil ve özelleştirilebilir bir yuva) sahip.
+
+Mi Fitness uygulamasında yüzlerce başka yüz var. Yüzler Çevrimiçi ve Yerel olarak düzgün bir şekilde düzenlenmiştir ve temelde hepsi ücretsizdir. Telefonunuzda yüzlere göz atabilirsiniz ve birine dokunmak, özelleştirilebilir olup olmadığını ve hangi komplikasyonları değiştirebileceğinizi gösterir. Güzel ve geniş.
+
+Tabii ki, her saat ekranı için her zaman açık bir ekran var.
+
+Arayüz Xiaomi Watch S5, özellikler açısından ihtiyacınız olan her şeye sahip özel bir yazılım olan HyperOS 3 'ü çalıştırır. Telefonunuzun müziğini kontrol edebilir, bildirimleri alabilir ve yanıtlayabilirsiniz ve hatta uzaktan kumandalı bir deklanşör uygulaması bile vardır (ancak önce kamera uygulamasını açmanız gerekir). Saati çalıştırmak yeterince basittir. Yukarıdan kaydırmak bildirimleri indirir ve aşağıdan yukarı kaydırmak farklı widget'ları (veya kartları) (hava durumu, adımlar, kalp atış hızı, uyku vb.) getirir. Widget'lardan daha fazla kaydırmak, uygulamalar ızgarasını getirir, ancak bunu taca basarak da yapabilirsiniz. Soldan kaydırmak hiçbir işe yaramazken, sağdan kaydırmak saat ekranı menüsünü açar. Xiaomi Watch S5 'te parmaklarınızı çimdiklemek ve şıklatmak gibi bazı ayrıntılı hareketler var. Dürüst olmak gerekirse, çok yararlı değil. Parmaklarını şıklatarak yakalama hareketini ayarlaman gerekiyor (duh). Eh, saat 20 snap'ten ikisini tanıdı - ve bunlar bazı güçlü snap'lerdi. Sadece çok hassas ve iyi düşünülmüş değil. Bir dizi uygulama simgesine sahip olabilir, simgenin altına metin ekleyebilir veya sadece bir uygulama listesi kullanabilirsiniz. Alt düğmeye basıldığında, yeniden düzenlenebilir hızlı geçişler açılır. Her iki düğmeyi de farklı bir şey yapacak şekilde özelleştirmenin bir yolu yoktur, bu da çok sınırlayıcıdır. Xiaomi Watch S5, bileğinizde NFC ödemeleri bile sunuyor. Güvenlik için saati sabitlemeniz ve kartları telefonunuzdaki Mi Fitness uygulaması aracılığıyla eklemeniz gerekir. Şu anda Visa ve Mastercard desteklenmektedir ve bölgenizde hangi bankaların desteklendiğini kontrol edebilirsiniz. Sağlık ve fitness takibi Xiaomi saatleri fitness takibinde her zaman mükemmel olmuştur ve Watch S5 de farklı değildir. Birden fazla koşu ve yüzme, dans, dövüş sporları ve hatta kart, satranç ve dama gibi masa oyunları gibi ayrıntılı seçeneklerle 150 'den fazla spor moduna sahipsiniz. Bu editörün favorileri olan bir koşu antrenörü ve bir kayak modu var. Önceki model gibi, Xiaomi Watch S5 de GPS, Galileo, Glonass, BeiDou ve QZSS desteği ile çift bantlı konumlandırmaya sahiptir. Xiaomi, yeni saatin hem bir sinyale kilitlenmesinin daha hızlı hem de daha doğru olduğunu iddia ediyor. Testlerimde GPS kilidi yaklaşık 6 -7 saniye sürdü ve harita verileri son derece doğruydu. Xiaomi, yeni dört LED'li, dört PD kalp atış hızı ve kan oksijen sensörünün, yükseltilmiş bir algoritma ile birlikte % 98,40 kalp atış hızı doğruluğu sağladığını söylüyor. Saat ayrıca gün boyunca kan oksijeninizi izleyebilir, stres seviyelerinize dikkat edebilir, nefes egzersizleri sunabilir ve kadınların döngülerini izleyebilir. Xiaomi Smart Band 10 Pro gibi, Watch S5 de yükseltilmiş bir uyku izleme algoritması sayesinde nihayet daha iyi uyku takibine sahip. Bu, Xiaomi giyilebilir cihazlardan aşırı tahmin edilen derin uyku sayılarını aldığım bu editörün daha önce bir şikayeti oldu. Smart Band 10 Pro ve Watch S5 ile Samsung ve Huawei'den diğer giyilebilir cihazlarla uyumlu numaralar alıyorum. Uyku takibi ve egzersizler Batarya ömrü, şarj etme Muhtemelen Watch S5 'teki en büyük gelişme bataryadır. Yeni model, Watch S4' teki 486mAh'den 815mAh'ye çıktı - bu % 67,7 'lik bir kapasite artışı. Xiaomi bunu yeni Dalgalanma Bataryasına silikon (% 15 silikon içeriği) ekleyerek başardı. İddia edilen maksimum dayanıklılık, 14 günlük normal kullanımla 21 gün ve her zaman açık ekran etkin durumdayken 9 güne kadardır. Testlerim arasında aktif uyanma, haftada beş antrenman (futbol sezonu), günlük uyku takibi ve tüm gün işte ve evde saat takmak vardı. Saatin bileğimde olmasının üzerinden 20 saatten fazla zaman geçti. Tek bir şarjla 15 günlük etkileyici bir dayanıklılık elde ettim! Pil ömrünü gerçekten unutun ve (bu editörün görüşüne göre) akıllı olsun ya da olmasın, herhangi bir saat için sahip olunması gereken bir şey. Not yok! Karar Objektif olarak, burada şikayet edilecek çok az şey var. Xiaomi Watch S5 'in görünümünü seviyoruz ve çok iyi inşa edilmiş. Evet, benzersiz bir satış noktası olan değiştirilebilir çerçeveleri kaybetti, ancak herkesin zevkini karşılaması gereken dört farklı kaplamaya sahip. Jungle Green modeline aşığım. Tabii ki, bu normalden büyük bileklere en uygun büyük bir 46mm saat; Xiaomi acele etmeli ve Watch S4 serisinde yaptığına benzer daha küçük, muhtemelen 41mm Watch S5 modelini piyasaya sürmelidir. Hem bu saati hem de selefini kullandıktan sonra, yeni modelin yapı kalitesi ve hissinde algılanabilir bir iyileşme olduğunu söyleyebilirim. Değişmeyen şey, kapsamlı özellik ve yetenek listesidir - bu saatin yapamayacağı ve iyi yapamayacağı hiçbir şey yoktur. Xiaomi, pil ömründeki iyileşme için dünyadaki tüm övgüleri almalı! Saat S5, gözle görülür bir şekilde daha fazla ağırlığa sahip olmadan % 70 'e yakın daha fazla pil kapasitesine sahiptir - etkileyici! Ve beklendiği gibi, daha büyük pil daha iyi dayanıklılık sağlar, bu da memnuniyetle karşılanır! Artıları Selefinden daha iyi inşa edilmiş ve daha güzel hissediyor; çıkarılamayan çerçeve burada bir artı olabilir Dört model seçeneği - her zevke uygun bir şey Makul bir fiyata mükemmel paket Ekran parlak ve okunaklı Pil ömrünü unutun - takip ve bildirimlerle 14 günden fazla. Kapsamlı sağlık ve fitness izleme yetenekleri. Görünüşe göre selefinden daha doğru sağlık takibi. Standart 22mm bantlar Saat tüm telefonlar, NFC ödemeleri (bölgeye ve bankaya bağlı) ile çalışır. Eksiler (henüz) daha küçük bir model yok. Bazıları değiştirilemeyen çerçevelere (bize değil) ağıt yakabilir. Özelleştirilemeyen düğmeler. İki pimli tasarıma sahip USB - A şarj kablosu 2026 'da sinir bozucu.
+
+Xiaomi Watch S5, özellikler açısından ihtiyacınız olan her şeye sahip özel bir yazılım olan HyperOS 3 'ü çalıştırıyor. Telefonunuzun müziğini kontrol edebilir, bildirimleri alabilir ve yanıtlayabilirsiniz ve hatta uzaktan kumandalı bir deklanşör uygulaması bile vardır (ancak önce kamera uygulamasını açmanız gerekir).
+
+Saati çalıştırmak yeterince basittir. Yukarıdan kaydırmak bildirimleri indirir ve aşağıdan yukarı kaydırmak farklı widget'ları (veya kartları) (hava durumu, adımlar, kalp atış hızı, uyku vb.) getirir. Widget'lardan daha fazla kaydırmak, uygulamalar ızgarasını getirir, ancak bunu taca basarak da yapabilirsiniz.
+
+Soldan kaydırmak hiçbir işe yaramazken, sağdan kaydırmak saat ekranı menüsünü açar.
+
+Xiaomi Watch S5 'te parmaklarınızı çimdiklemek ve şıklatmak gibi bazı ayrıntılı hareketler var. Dürüst olmak gerekirse, çok yararlı değil. Parmaklarını şıklatarak yakalama hareketini ayarlaman gerekiyor (duh). Eh, saat 20 snap'ten ikisini tanıdı - ve bunlar bazı güçlü snap'lerdi. Sadece çok hassas ve iyi düşünülmüş değil.
+
+Bir dizi uygulama simgesine sahip olabilir, simgenin altına metin ekleyebilir veya sadece bir uygulama listesi kullanabilirsiniz.
+
+Alt düğmeye basıldığında, yeniden düzenlenebilir hızlı geçişler açılır. Her iki düğmeyi de farklı bir şey yapacak şekilde özelleştirmenin bir yolu yoktur, bu da çok sınırlayıcıdır.
+
+Xiaomi Watch S5, bileğinizde NFC ödemeleri bile sunuyor. Güvenlik için saati sabitlemeniz ve kartları telefonunuzdaki Mi Fitness uygulaması aracılığıyla eklemeniz gerekir. Şu anda Visa ve Mastercard desteklenmektedir ve bölgenizde hangi bankaların desteklendiğini kontrol edebilirsiniz.
+
+Sağlık ve fitness takibi Xiaomi saatleri fitness takibinde her zaman mükemmel olmuştur ve Watch S5 de farklı değildir. Birden fazla koşu ve yüzme, dans, dövüş sporları ve hatta kart, satranç ve dama gibi masa oyunları gibi ayrıntılı seçeneklerle 150 'den fazla spor moduna sahipsiniz. Bu editörün favorileri olan bir koşu antrenörü ve bir kayak modu var. Önceki model gibi, Xiaomi Watch S5 de GPS, Galileo, Glonass, BeiDou ve QZSS desteği ile çift bantlı konumlandırmaya sahiptir. Xiaomi, yeni saatin hem bir sinyale kilitlenmesinin daha hızlı hem de daha doğru olduğunu iddia ediyor. Testlerimde GPS kilidi yaklaşık 6 -7 saniye sürdü ve harita verileri son derece doğruydu. Xiaomi, yeni dört LED'li, dört PD kalp atış hızı ve kan oksijen sensörünün, yükseltilmiş bir algoritma ile birlikte % 98,40 kalp atış hızı doğruluğu sağladığını söylüyor. Saat ayrıca gün boyunca kan oksijeninizi izleyebilir, stres seviyelerinize dikkat edebilir, nefes egzersizleri sunabilir ve kadınların döngülerini izleyebilir. Xiaomi Smart Band 10 Pro gibi, Watch S5 de yükseltilmiş bir uyku izleme algoritması sayesinde nihayet daha iyi uyku takibine sahip. Bu, Xiaomi giyilebilir cihazlardan aşırı tahmin edilen derin uyku sayılarını aldığım bu editörün daha önce bir şikayeti oldu. Smart Band 10 Pro ve Watch S5 ile Samsung ve Huawei'den diğer giyilebilir cihazlarla uyumlu numaralar alıyorum. Uyku takibi ve egzersizler Batarya ömrü, şarj etme Muhtemelen Watch S5 'teki en büyük gelişme bataryadır. Yeni model, Watch S4' teki 486mAh'den 815mAh'ye çıktı - bu % 67,7 'lik bir kapasite artışı. Xiaomi bunu yeni Dalgalanma Bataryasına silikon (% 15 silikon içeriği) ekleyerek başardı. İddia edilen maksimum dayanıklılık, 14 günlük normal kullanımla 21 gün ve her zaman açık ekran etkin durumdayken 9 güne kadardır. Testlerim arasında aktif uyanma, haftada beş antrenman (futbol sezonu), günlük uyku takibi ve tüm gün işte ve evde saat takmak vardı. Saatin bileğimde olmasının üzerinden 20 saatten fazla zaman geçti. Tek bir şarjla 15 günlük etkileyici bir dayanıklılık elde ettim! Pil ömrünü gerçekten unutun ve (bu editörün görüşüne göre) akıllı olsun ya da olmasın, herhangi bir saat için sahip olunması gereken bir şey. Not yok! Karar Objektif olarak, burada şikayet edilecek çok az şey var. Xiaomi Watch S5 'in görünümünü seviyoruz ve çok iyi inşa edilmiş. Evet, benzersiz bir satış noktası olan değiştirilebilir çerçeveleri kaybetti, ancak herkesin zevkini karşılaması gereken dört farklı kaplamaya sahip. Jungle Green modeline aşığım. Tabii ki, bu normalden büyük bileklere en uygun büyük bir 46mm saat; Xiaomi acele etmeli ve Watch S4 serisinde yaptığına benzer daha küçük, muhtemelen 41mm Watch S5 modelini piyasaya sürmelidir. Hem bu saati hem de selefini kullandıktan sonra, yeni modelin yapı kalitesi ve hissinde algılanabilir bir iyileşme olduğunu söyleyebilirim. Değişmeyen şey, kapsamlı özellik ve yetenek listesidir - bu saatin yapamayacağı ve iyi yapamayacağı hiçbir şey yoktur. Xiaomi, pil ömründeki iyileşme için dünyadaki tüm övgüleri almalı! Saat S5, gözle görülür bir şekilde daha fazla ağırlığa sahip olmadan % 70 'e yakın daha fazla pil kapasitesine sahiptir - etkileyici! Ve beklendiği gibi, daha büyük pil daha iyi dayanıklılık sağlar, bu da memnuniyetle karşılanır! Artıları Selefinden daha iyi inşa edilmiş ve daha güzel hissediyor; çıkarılamayan çerçeve burada bir artı olabilir Dört model seçeneği - her zevke uygun bir şey Makul bir fiyata mükemmel paket Ekran parlak ve okunaklı Pil ömrünü unutun - takip ve bildirimlerle 14 günden fazla. Kapsamlı sağlık ve fitness izleme yetenekleri. Görünüşe göre selefinden daha doğru sağlık takibi. Standard 22mm bands The watch works with all phones, NFC payments (region and bank dependent). Cons There's no smaller model (yet). Some might lament the non-swappable bezels (not us). Non-customizable buttons. USB-A charging cable with two-pin design is annoying in 2026.
+
+Xiaomi watches have always been stellar at fitness tracking, and the Watch S5 is no different. You've got more than 150 sports modes, with detailed options like multiple types of running and swimming, dance, combat sports, and even board games like cards, chess, and checkers. There's a running coach and a ski mode, favorites of this editor.
+
+Like the model before it, the Xiaomi Watch S5 has dual-band positioning with support for GPS, Galileo, Glonass, BeiDou, and QZSS. Xiaomi claims the new watch is both faster to lock onto a signal and more accurate. In my testing, GPS lock took around 6-7 seconds, and map data was extremely accurate.
+
+Xiaomi says its new four-LED, four-PD heart rate and blood oxygen sensor, combined with an upgraded algorithm, provides a 98.40% heart rate accuracy. The watch can also monitor your blood oxygen throughout the day, watch out for your stress levels, offer breathing exercises, and track women's cycles.
+
+Like the Xiaomi Smart Band 10 Pro, the Watch S5 finally has better sleep tracking, thanks to an upgraded sleep tracking algorithm. This has been a gripe of this editor before, where I'd get over-estimated deep sleep numbers from Xiaomi wearables. Whereas with the Smart Band 10 Pro and the Watch S5, I'm getting numbers that are in line with other wearables from Samsung and Huawei.
+
+Sleep tracking and workouts
+
+Battery life, charging Probably the biggest improvement on the Watch S5 is to the battery. The new model has gone from a 486mAh on the Watch S4 to 815mAh - that's a 67.7% uptick in capacity. Xiaomi achieved this by adding silicon (15% silicon content) to the new Surge Battery. Claimed maximum endurance is 21 days, with 14 days of normal use, and up to 9 days with the always-on display enabled. My testing included raise-to-wake active, five workouts per week (it's football season), daily sleep tracking, and wearing the watch all day at work and at home. Basically 20+ hours of having the watch on my wrist. I got an impressive 15 days of endurance from a single charge! It's true forget-about-it battery life, and it's (in this editor's opinion) a must-have for any watch, be it smart or not. No notes! Verdict Objectively, there's very little to complain about here. We like the way the Xiaomi Watch S5 looks, and it's built very well. Yes, it lost the swappable bezels, which were a unique selling point, but it comes in four distinct finishes that should cover everybody's tastes. I'm in love with the Jungle Green model. Of course, this is a large 46mm watch best suited for normal-to-large wrists; Xiaomi should hurry up and release a smaller, possibly 41mm Watch S5 model, similar to what it did with the Watch S4 series. Having used both this watch and its predecessor, I can say that the new model has a perceivable improvement in build quality and feel. What hasn't changed is its exhaustive list of features and abilities - there's hardly anything this watch can't do, and nothing it can't do well. Xiaomi should get all the praise in the world for the improvement in battery life! The Watch S5 has close to 70% more battery capacity without weighing noticeably more - impressive! And, as expected, the bigger battery yields better endurance, which is more than welcome! Pros Feels better built and nicer than its predecessor; non-removable bezel may be a plus here Four model choices - something for any taste Excellent package for a reasonable price Display is bright and legible Forget-about-it battery life - more than 14 days with tracking and notifications. Extensive health and fitness tracking capabilities. Seemingly more accurate health tracking than predecessor. Standard 22mm bands The watch works with all phones, NFC payments (region and bank dependent). Cons There's no smaller model (yet). Some might lament the non-swappable bezels (not us). Non-customizable buttons. USB-A charging cable with two-pin design is annoying in 2026.
+
+Probably the biggest improvement on the Watch S5 is to the battery. The new model has gone from a 486mAh on the Watch S4 to 815mAh - that's a 67.7% uptick in capacity. Xiaomi achieved this by adding silicon (15% silicon content) to the new Surge Battery.
+
+Claimed maximum endurance is 21 days, with 14 days of normal use, and up to 9 days with the always-on display enabled. My testing included raise-to-wake active, five workouts per week (it's football season), daily sleep tracking, and wearing the watch all day at work and at home. Basically 20+ hours of having the watch on my wrist. I got an impressive 15 days of endurance from a single charge! It's true forget-about-it battery life, and it's (in this editor's opinion) a must-have for any watch, be it smart or not. No notes!
+
+Verdict Objectively, there's very little to complain about here. We like the way the Xiaomi Watch S5 looks, and it's built very well. Yes, it lost the swappable bezels, which were a unique selling point, but it comes in four distinct finishes that should cover everybody's tastes. I'm in love with the Jungle Green model. Of course, this is a large 46mm watch best suited for normal-to-large wrists; Xiaomi should hurry up and release a smaller, possibly 41mm Watch S5 model, similar to what it did with the Watch S4 series. Having used both this watch and its predecessor, I can say that the new model has a perceivable improvement in build quality and feel. What hasn't changed is its exhaustive list of features and abilities - there's hardly anything this watch can't do, and nothing it can't do well. Xiaomi should get all the praise in the world for the improvement in battery life! The Watch S5 has close to 70% more battery capacity without weighing noticeably more - impressive! And, as expected, the bigger battery yields better endurance, which is more than welcome! Pros Feels better built and nicer than its predecessor; non-removable bezel may be a plus here Four model choices - something for any taste Excellent package for a reasonable price Display is bright and legible Forget-about-it battery life - more than 14 days with tracking and notifications. Extensive health and fitness tracking capabilities. Seemingly more accurate health tracking than predecessor. Standard 22mm bands The watch works with all phones, NFC payments (region and bank dependent). Cons There's no smaller model (yet). Some might lament the non-swappable bezels (not us). Non-customizable buttons. USB-A charging cable with two-pin design is annoying in 2026.
+
+Objectively, there's very little to complain about here. We like the way the Xiaomi Watch S5 looks, and it's built very well. Yes, it lost the swappable bezels, which were a unique selling point, but it comes in four distinct finishes that should cover everybody's tastes. I'm in love with the Jungle Green model. Of course, this is a large 46mm watch best suited for normal-to-large wrists; Xiaomi should hurry up and release a smaller, possibly 41mm Watch S5 model, similar to what it did with the Watch S4 series.
+
+Having used both this watch and its predecessor, I can say that the new model has a perceivable improvement in build quality and feel. What hasn't changed is its exhaustive list of features and abilities - there's hardly anything this watch can't do, and nothing it can't do well.
+
+Xiaomi should get all the praise in the world for the improvement in battery life! The Watch S5 has close to 70% more battery capacity without weighing noticeably more - impressive! And, as expected, the bigger battery yields better endurance, which is more than welcome!
+
+Pros Feels better built and nicer than its predecessor; non-removable bezel may be a plus here Four model choices - something for any taste Excellent package for a reasonable price Display is bright and legible Forget-about-it battery life - more than 14 days with tracking and notifications. Extensive health and fitness tracking capabilities. Seemingly more accurate health tracking than predecessor. Standard 22mm bands The watch works with all phones, NFC payments (region and bank dependent). Cons There's no smaller model (yet). Some might lament the non-swappable bezels (not us). Non-customizable buttons. USB-A charging cable with two-pin design is annoying in 2026.
+
+Feels better built and nicer than its predecessor; non-removable bezel may be a plus here
+
+Four model choices - something for any taste
+
+Excellent package for a reasonable price
+
+Display is bright and legible
+
+Forget-about-it battery life - more than 14 days with tracking and notifications.
+
+Extensive health and fitness tracking capabilities.
+
+Seemingly more accurate health tracking than predecessor.
+
+Standard 22mm bands
+
+The watch works with all phones, NFC payments (region and bank dependent).
+
+Cons There's no smaller model (yet). Some might lament the non-swappable bezels (not us). Non-customizable buttons. USB-A charging cable with two-pin design is annoying in 2026.
+
+There's no smaller model (yet).
+
+Some might lament the non-swappable bezels (not us).
+
+Non-customizable buttons.
+
+USB-A charging cable with two-pin design is annoying in 2026.
+
+---
+
+## Görseller
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_001.jpg)
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_002.jpg)
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_003.jpg)
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_004.jpg)
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_005.jpg)
+
+![Buttons and a speaker](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_006.jpg)
+
+![Buttons and a speaker](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_007.jpg)
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_008.jpg)
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_009.jpg)
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_010.jpg)
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_011.jpg)
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_013.jpg)
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_012.jpg)
+
+![Sleep tracking and workouts](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_014.jpg)
+
+![Sleep tracking and workouts](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_015.jpg)
+
+![Xiaomi Watch S5 review](https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_review-news-73952/immaculate_016.jpg)
