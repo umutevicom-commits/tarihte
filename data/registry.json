@@ -5078,5 +5078,25 @@
     "slug": "new_insider_tip_claims_the_samsung_galaxy_s27_ultra_will_only_be_available_with_a_qualcomm_chipset-news-74995",
     "status": "ok",
     "url": "https://www.gsmarena.com/new_insider_tip_claims_the_samsung_galaxy_s27_ultra_will_only_be_available_with_a_qualcomm_chipset-news-74995.php"
+  },
+  "74996": {
+    "content_hash": "2544e7507956aa75a78d830753fa019652cbfb8285bfaebeace045954332ec17",
+    "date": "12 October 2026",
+    "fetched_at": "2026-10-12T08:20:24.815851+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x_fold6_nebula_teal_hands_on-news-74996",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x_fold6_nebula_teal_hands_on-news-74996.php"
+  },
+  "74997": {
+    "content_hash": "e375becf5c448ef568d3a8db460f3b65e9b652fa9bdf8ada253a86bd59eed85c",
+    "date": "12 October 2026",
+    "fetched_at": "2026-10-12T08:19:39.375284+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_win_2_series_with_active_cooling_fan_to_be_unveiled_next_week-news-74997",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_win_2_series_with_active_cooling_fan_to_be_unveiled_next_week-news-74997.php"
   }
 }
