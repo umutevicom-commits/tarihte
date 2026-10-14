@@ -5308,5 +5308,35 @@
     "slug": "oppo_teases_truetolife_imaging_on_the_new_find_x10_series-news-75039",
     "status": "ok",
     "url": "https://www.gsmarena.com/oppo_teases_truetolife_imaging_on_the_new_find_x10_series-news-75039.php"
+  },
+  "75040": {
+    "content_hash": "1c92149fc0e5978139cfd44fc69cf87edecef675299ffc26d51a14f2bf88315f",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T19:52:33.758966+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "nothing_is_reportedly_working_on_smart_glasses__ones_with_a_camera_and_ones_without-news-75040",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nothing_is_reportedly_working_on_smart_glasses__ones_with_a_camera_and_ones_without-news-75040.php"
+  },
+  "75041": {
+    "content_hash": "1e36dd4993f88cc4c13bad7b7d4fc592b16225d9570d02aae5d20e411494e7f4",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T19:52:19.827906+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a58_camera_specs_surface-news-75041",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a58_camera_specs_surface-news-75041.php"
+  },
+  "75047": {
+    "content_hash": "935ff070c50d05c5e73cfddcd1381e17dd7b6f6f3d3764df17b74c43e63ac840",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T19:51:51.340204+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "jury_sides_with_qualcomm_in_its_legal_fight_with_arm_and_awards_it_2_in_damages-news-75047",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/jury_sides_with_qualcomm_in_its_legal_fight_with_arm_and_awards_it_2_in_damages-news-75047.php"
   }
 }

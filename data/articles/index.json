@@ -1,63 +1,93 @@
 [
   {
-    "slug": "samsung_health_update_improves_sleep_coaching_and_running_coach-news-75037",
-    "url": "https://www.gsmarena.com/samsung_health_update_improves_sleep_coaching_and_running_coach-news-75037.php",
+    "slug": "nothing_is_reportedly_working_on_smart_glasses__ones_with_a_camera_and_ones_without-news-75040",
+    "url": "https://www.gsmarena.com/nothing_is_reportedly_working_on_smart_glasses__ones_with_a_camera_and_ones_without-news-75040.php",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T19:52:33.758966+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1c92149fc0e5978139cfd44fc69cf87edecef675299ffc26d51a14f2bf88315f"
+  },
+  {
+    "slug": "samsung_galaxy_a58_camera_specs_surface-news-75041",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a58_camera_specs_surface-news-75041.php",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T19:52:19.827906+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1e36dd4993f88cc4c13bad7b7d4fc592b16225d9570d02aae5d20e411494e7f4"
+  },
+  {
+    "slug": "jury_sides_with_qualcomm_in_its_legal_fight_with_arm_and_awards_it_2_in_damages-news-75047",
+    "url": "https://www.gsmarena.com/jury_sides_with_qualcomm_in_its_legal_fight_with_arm_and_awards_it_2_in_damages-news-75047.php",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T19:51:51.340204+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "935ff070c50d05c5e73cfddcd1381e17dd7b6f6f3d3764df17b74c43e63ac840"
+  },
+  {
+    "content_hash": "e392cab4e294770eda2e712799daa70c07a669f68bf783777dd961bce8f2e610",
     "date": "14 October 2026",
     "fetched_at": "2026-10-14T14:49:24.765992+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e392cab4e294770eda2e712799daa70c07a669f68bf783777dd961bce8f2e610"
+    "retries": 0,
+    "slug": "samsung_health_update_improves_sleep_coaching_and_running_coach-news-75037",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_health_update_improves_sleep_coaching_and_running_coach-news-75037.php"
   },
   {
-    "slug": "vivo_x500_e_specs_design_google_play_console-news-75034",
-    "url": "https://www.gsmarena.com/vivo_x500_e_specs_design_google_play_console-news-75034.php",
+    "content_hash": "acaa9eaf9825f7dae62af0186b60a6f8e8713a7e6dc22758249841aa7293eaf9",
     "date": "14 October 2026",
     "fetched_at": "2026-10-14T14:49:08.276470+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "acaa9eaf9825f7dae62af0186b60a6f8e8713a7e6dc22758249841aa7293eaf9"
+    "retries": 0,
+    "slug": "vivo_x500_e_specs_design_google_play_console-news-75034",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_e_specs_design_google_play_console-news-75034.php"
   },
   {
-    "slug": "samsung_adds_support_for_new_languages_across_galaxy_ai_features_and_bixby-news-75036",
-    "url": "https://www.gsmarena.com/samsung_adds_support_for_new_languages_across_galaxy_ai_features_and_bixby-news-75036.php",
+    "content_hash": "3d256548a8f84f48d4709a27337f541f75c46fce2df4f28ecf8df5372923d488",
     "date": "14 October 2026",
     "fetched_at": "2026-10-14T14:48:52.003633+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3d256548a8f84f48d4709a27337f541f75c46fce2df4f28ecf8df5372923d488"
+    "retries": 0,
+    "slug": "samsung_adds_support_for_new_languages_across_galaxy_ai_features_and_bixby-news-75036",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_adds_support_for_new_languages_across_galaxy_ai_features_and_bixby-news-75036.php"
   },
   {
-    "slug": "honor_win2_and_win_rt2_battery_capacities_revealed_and_theyre_massive-news-75033",
-    "url": "https://www.gsmarena.com/honor_win2_and_win_rt2_battery_capacities_revealed_and_theyre_massive-news-75033.php",
+    "content_hash": "c1c11cc67ad3f018050fa0a3a20041927641239dcdbdf1b126a3221ff584eeda",
     "date": "14 October 2026",
     "fetched_at": "2026-10-14T14:48:35.682305+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c1c11cc67ad3f018050fa0a3a20041927641239dcdbdf1b126a3221ff584eeda"
+    "retries": 0,
+    "slug": "honor_win2_and_win_rt2_battery_capacities_revealed_and_theyre_massive-news-75033",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_win2_and_win_rt2_battery_capacities_revealed_and_theyre_massive-news-75033.php"
   },
   {
-    "slug": "oppo_teases_truetolife_imaging_on_the_new_find_x10_series-news-75039",
-    "url": "https://www.gsmarena.com/oppo_teases_truetolife_imaging_on_the_new_find_x10_series-news-75039.php",
+    "content_hash": "82b5d3bbd9d8c19bda67c9c05d3b16ceec1ff9ebf3b6f43f4c74e41c02670fb7",
     "date": "14 October 2026",
     "fetched_at": "2026-10-14T14:48:10.023480+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "82b5d3bbd9d8c19bda67c9c05d3b16ceec1ff9ebf3b6f43f4c74e41c02670fb7"
+    "retries": 0,
+    "slug": "oppo_teases_truetolife_imaging_on_the_new_find_x10_series-news-75039",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_teases_truetolife_imaging_on_the_new_find_x10_series-news-75039.php"
   },
   {
-    "slug": "google_play_for_cars_brings_firefox_background_playback_for_youtube_and_more-news-75038",
-    "url": "https://www.gsmarena.com/google_play_for_cars_brings_firefox_background_playback_for_youtube_and_more-news-75038.php",
+    "content_hash": "4dc2797345b4d55e046c3011843ce97d881d9a1ee1adee1525d9a581172e90dc",
     "date": "14 October 2026",
     "fetched_at": "2026-10-14T14:47:42.798064+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4dc2797345b4d55e046c3011843ce97d881d9a1ee1adee1525d9a581172e90dc"
+    "retries": 0,
+    "slug": "google_play_for_cars_brings_firefox_background_playback_for_youtube_and_more-news-75038",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/google_play_for_cars_brings_firefox_background_playback_for_youtube_and_more-news-75038.php"
   },
   {
     "content_hash": "03bbf630038c982a4e2898dc6bbaa8dcf9080adb0b34a115f18af373cc3bc727",
