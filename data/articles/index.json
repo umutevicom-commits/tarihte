@@ -1,13 +1,33 @@
 [
   {
-    "slug": "poco_x8s_receives_another_certification_ahead_of_its_launch-news-75029",
-    "url": "https://www.gsmarena.com/poco_x8s_receives_another_certification_ahead_of_its_launch-news-75029.php",
+    "slug": "realme_phone_with_oneplus_16rlike_specs_leaks_contradicts_earlier_camera_rumor-news-75032",
+    "url": "https://www.gsmarena.com/realme_phone_with_oneplus_16rlike_specs_leaks_contradicts_earlier_camera_rumor-news-75032.php",
     "date": "14 October 2026",
-    "fetched_at": "2026-10-14T02:50:54.786497+00:00",
+    "fetched_at": "2026-10-14T09:10:36.841099+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "7c3d8409bc45d9f9477bee653572d41dd7aca2734cc7dd22a0f8ed9d05b1ec06"
+    "content_hash": "03bbf630038c982a4e2898dc6bbaa8dcf9080adb0b34a115f18af373cc3bc727"
+  },
+  {
+    "slug": "oppo_find_x10_pro_max_and_find_x10_camera_samples-news-75035",
+    "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_and_find_x10_camera_samples-news-75035.php",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T09:09:40.666847+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "740392f26c6f74e98d32c26dd16749364092a1a47ae049a64e4df5737e7d62a4"
+  },
+  {
+    "content_hash": "7c3d8409bc45d9f9477bee653572d41dd7aca2734cc7dd22a0f8ed9d05b1ec06",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T02:50:54.786497+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "poco_x8s_receives_another_certification_ahead_of_its_launch-news-75029",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/poco_x8s_receives_another_certification_ahead_of_its_launch-news-75029.php"
   },
   {
     "content_hash": "dd8d24e45990ddbf79e5e029119e674519f2dccfe50de084e862e62cd048e1b0",
