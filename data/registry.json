@@ -5218,5 +5218,15 @@
     "slug": "watch_the_coloros_17_launch_event_livestream-news-75017",
     "status": "ok",
     "url": "https://www.gsmarena.com/watch_the_coloros_17_launch_event_livestream-news-75017.php"
+  },
+  "75029": {
+    "content_hash": "7c3d8409bc45d9f9477bee653572d41dd7aca2734cc7dd22a0f8ed9d05b1ec06",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T02:50:54.786497+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "poco_x8s_receives_another_certification_ahead_of_its_launch-news-75029",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/poco_x8s_receives_another_certification_ahead_of_its_launch-news-75029.php"
   }
 }

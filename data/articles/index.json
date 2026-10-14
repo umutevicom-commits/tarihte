@@ -1,13 +1,23 @@
 [
   {
-    "slug": "apples_get_ready_service_is_now_available_for_iphone_duo_preorders-news-75012",
-    "url": "https://www.gsmarena.com/apples_get_ready_service_is_now_available_for_iphone_duo_preorders-news-75012.php",
-    "date": "13 October 2026",
-    "fetched_at": "2026-10-13T22:07:17.216960+00:00",
+    "slug": "poco_x8s_receives_another_certification_ahead_of_its_launch-news-75029",
+    "url": "https://www.gsmarena.com/poco_x8s_receives_another_certification_ahead_of_its_launch-news-75029.php",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T02:50:54.786497+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "dd8d24e45990ddbf79e5e029119e674519f2dccfe50de084e862e62cd048e1b0"
+    "content_hash": "7c3d8409bc45d9f9477bee653572d41dd7aca2734cc7dd22a0f8ed9d05b1ec06"
+  },
+  {
+    "content_hash": "dd8d24e45990ddbf79e5e029119e674519f2dccfe50de084e862e62cd048e1b0",
+    "date": "13 October 2026",
+    "fetched_at": "2026-10-13T22:07:17.216960+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apples_get_ready_service_is_now_available_for_iphone_duo_preorders-news-75012",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apples_get_ready_service_is_now_available_for_iphone_duo_preorders-news-75012.php"
   },
   {
     "content_hash": "1cd305af347f9d4aecdb1df1942e2724cbe2cbb63b27efe36da920ec090ff20a",
