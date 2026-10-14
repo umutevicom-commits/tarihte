@@ -1,23 +1,83 @@
 [
   {
-    "slug": "realme_phone_with_oneplus_16rlike_specs_leaks_contradicts_earlier_camera_rumor-news-75032",
-    "url": "https://www.gsmarena.com/realme_phone_with_oneplus_16rlike_specs_leaks_contradicts_earlier_camera_rumor-news-75032.php",
+    "slug": "samsung_health_update_improves_sleep_coaching_and_running_coach-news-75037",
+    "url": "https://www.gsmarena.com/samsung_health_update_improves_sleep_coaching_and_running_coach-news-75037.php",
     "date": "14 October 2026",
-    "fetched_at": "2026-10-14T09:10:36.841099+00:00",
+    "fetched_at": "2026-10-14T14:49:24.765992+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "03bbf630038c982a4e2898dc6bbaa8dcf9080adb0b34a115f18af373cc3bc727"
+    "content_hash": "e392cab4e294770eda2e712799daa70c07a669f68bf783777dd961bce8f2e610"
   },
   {
-    "slug": "oppo_find_x10_pro_max_and_find_x10_camera_samples-news-75035",
-    "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_and_find_x10_camera_samples-news-75035.php",
+    "slug": "vivo_x500_e_specs_design_google_play_console-news-75034",
+    "url": "https://www.gsmarena.com/vivo_x500_e_specs_design_google_play_console-news-75034.php",
     "date": "14 October 2026",
-    "fetched_at": "2026-10-14T09:09:40.666847+00:00",
+    "fetched_at": "2026-10-14T14:49:08.276470+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "740392f26c6f74e98d32c26dd16749364092a1a47ae049a64e4df5737e7d62a4"
+    "content_hash": "acaa9eaf9825f7dae62af0186b60a6f8e8713a7e6dc22758249841aa7293eaf9"
+  },
+  {
+    "slug": "samsung_adds_support_for_new_languages_across_galaxy_ai_features_and_bixby-news-75036",
+    "url": "https://www.gsmarena.com/samsung_adds_support_for_new_languages_across_galaxy_ai_features_and_bixby-news-75036.php",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T14:48:52.003633+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3d256548a8f84f48d4709a27337f541f75c46fce2df4f28ecf8df5372923d488"
+  },
+  {
+    "slug": "honor_win2_and_win_rt2_battery_capacities_revealed_and_theyre_massive-news-75033",
+    "url": "https://www.gsmarena.com/honor_win2_and_win_rt2_battery_capacities_revealed_and_theyre_massive-news-75033.php",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T14:48:35.682305+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c1c11cc67ad3f018050fa0a3a20041927641239dcdbdf1b126a3221ff584eeda"
+  },
+  {
+    "slug": "oppo_teases_truetolife_imaging_on_the_new_find_x10_series-news-75039",
+    "url": "https://www.gsmarena.com/oppo_teases_truetolife_imaging_on_the_new_find_x10_series-news-75039.php",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T14:48:10.023480+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "82b5d3bbd9d8c19bda67c9c05d3b16ceec1ff9ebf3b6f43f4c74e41c02670fb7"
+  },
+  {
+    "slug": "google_play_for_cars_brings_firefox_background_playback_for_youtube_and_more-news-75038",
+    "url": "https://www.gsmarena.com/google_play_for_cars_brings_firefox_background_playback_for_youtube_and_more-news-75038.php",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T14:47:42.798064+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4dc2797345b4d55e046c3011843ce97d881d9a1ee1adee1525d9a581172e90dc"
+  },
+  {
+    "content_hash": "03bbf630038c982a4e2898dc6bbaa8dcf9080adb0b34a115f18af373cc3bc727",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T09:10:36.841099+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "realme_phone_with_oneplus_16rlike_specs_leaks_contradicts_earlier_camera_rumor-news-75032",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/realme_phone_with_oneplus_16rlike_specs_leaks_contradicts_earlier_camera_rumor-news-75032.php"
+  },
+  {
+    "content_hash": "740392f26c6f74e98d32c26dd16749364092a1a47ae049a64e4df5737e7d62a4",
+    "date": "14 October 2026",
+    "fetched_at": "2026-10-14T09:09:40.666847+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_pro_max_and_find_x10_camera_samples-news-75035",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_pro_max_and_find_x10_camera_samples-news-75035.php"
   },
   {
     "content_hash": "7c3d8409bc45d9f9477bee653572d41dd7aca2734cc7dd22a0f8ed9d05b1ec06",
