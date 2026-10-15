@@ -1,23 +1,23 @@
 [
   {
-    "slug": "googles_play_store_is_now_selling_pixel_and_samsung_devices_in_some_regions-news-75050",
-    "url": "https://www.gsmarena.com/googles_play_store_is_now_selling_pixel_and_samsung_devices_in_some_regions-news-75050.php",
+    "content_hash": "50f81db696435a7c58e4119685d0e00a571cc6960c453d9ed3474f358a9f7c44",
     "date": "14 October 2026",
     "fetched_at": "2026-10-14T22:53:12.122386+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "50f81db696435a7c58e4119685d0e00a571cc6960c453d9ed3474f358a9f7c44"
+    "retries": 0,
+    "slug": "googles_play_store_is_now_selling_pixel_and_samsung_devices_in_some_regions-news-75050",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/googles_play_store_is_now_selling_pixel_and_samsung_devices_in_some_regions-news-75050.php"
   },
   {
-    "slug": "at_t_is_selling_its_mexican_business_for_2_billion-news-75051",
-    "url": "https://www.gsmarena.com/at_t_is_selling_its_mexican_business_for_2_billion-news-75051.php",
+    "content_hash": "99cd79e5696f04b1778071ea0bf21e36930ce1f34c1fe0047da052dad614c4c8",
     "date": "14 October 2026",
     "fetched_at": "2026-10-14T22:52:56.392534+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "99cd79e5696f04b1778071ea0bf21e36930ce1f34c1fe0047da052dad614c4c8"
+    "retries": 0,
+    "slug": "at_t_is_selling_its_mexican_business_for_2_billion-news-75051",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/at_t_is_selling_its_mexican_business_for_2_billion-news-75051.php"
   },
   {
     "content_hash": "1c92149fc0e5978139cfd44fc69cf87edecef675299ffc26d51a14f2bf88315f",
