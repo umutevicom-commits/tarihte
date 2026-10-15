@@ -1,0 +1,15 @@
+# Verizon, ücretsiz güvenlik, aile ve yapay zeka avantajlarını vurguluyor
+
+Verizon, müşterilerinin ağ erişiminden daha fazlasını aldıklarını bilmelerini istiyor ve bugün planlarıyla birlikte gelen tüm avantajları hiçbir ek ücret ödemeden listeledi. Bunlar güvenlik, aile, yapay zeka ve sadakat ödüllerini kapsar ve bazıları şu ana kadar fark etmemiş olabilirsiniz.
+
+Güvenlik açısından, Verizon Digital Secure'un ücretsiz katmanı, bağlı cihazları kötü amaçlı web sitelerinden ve güvenlik açıklarından korur. Verizon şu anda bir aylık Verizon Digital Secure Premium'u ücretsiz olarak sunuyor, böylece ekstra güvenlik araçlarını deneyebilirsiniz. Konum paylaşımı ve Güvenli Yürüyüş özellikli Verizon Ailesi ve istenmeyen aramaları belirleyen ve engelleyen Çağrı Filtresi de dahildir. Taşıyıcı, bunu "akıllı telefonunuz için kişisel bir fedai" olarak adlandırır.
+
+Uygun müşteriler ayrıca altı aylık Google AI Pro'yu ücretsiz olarak edinebilir. Ardından, tüm telefon ve bağlı cihaz planlarındaki tüm faturalı müşterilerin katılabileceği Verizon Loyalty programı var. Etkinleştirme ve yükseltme ücretlerinden feragat eder, bu da cihaz başına 40 $ 'a kadar tasarruf etmenizi sağlar. Ayrıca, cihazlar (en son akıllı telefonlar dahil), aksesuarlar, hediye kartları veya otel ödülleri için kullanabileceğiniz Verizon Dollars'da her ay % 3 geri ödeme sağlar. My Verizon uygulaması aracılığıyla tek adımda Verizon Dollars'a katılırsınız.
+
+Son olarak, Verizon Shine, konser ve spor etkinliği biletleri, özel ürünler, hediye kartları ve daha fazlasını içeren günlük indirimlerin yanı sıra, müşterilerin hayatta bir kez karşılaşabilecekleri deneyimler kazanma şansı için haftalık giriş yapmalarına olanak tanır. Yaklaşan deneyimler arasında Walt Disney Stüdyoları'na bir ziyaret (19 Ekim), bir Radio City Rockettes deneyimi (26 Ekim), Caleb Pressley ile bir konuşma (2 Kasım) ve Joe ile takılabileceğiniz bir Jonas Brothers gösterisi (9 Kasım) yer alıyor.
+
+---
+
+## Görseller
+
+![Verizon emphasizes its free safety, family, and AI perks](https://umutevicom-commits.github.io/tarihte/data/images/verizon_emphasizes_its_free_safety_family_and_ai_perks-news-75054/immaculate_001.jpg)

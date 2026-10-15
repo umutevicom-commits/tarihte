@@ -1,53 +1,93 @@
 [
   {
-    "slug": "apple_intelligence_is_finally_coming_to_china_but_without_siri_ai-news-75058",
-    "url": "https://www.gsmarena.com/apple_intelligence_is_finally_coming_to_china_but_without_siri_ai-news-75058.php",
+    "slug": "heres_when_iphone_18_production_is_rumored_to_start-news-75053",
+    "url": "https://www.gsmarena.com/heres_when_iphone_18_production_is_rumored_to_start-news-75053.php",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T19:35:42.404127+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b841fbc7409471720e7433256e49cf9ebc10c9c344b1cc78b37e37f4a5d4e314"
+  },
+  {
+    "slug": "report_samsung_is_expanding_its_display_driver_chip_supplier_pool-news-75059",
+    "url": "https://www.gsmarena.com/report_samsung_is_expanding_its_display_driver_chip_supplier_pool-news-75059.php",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T19:35:29.392268+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "82edfbfdc8a8af596afdc5499602af6754922ca1b5072a9d59748391f15949b4"
+  },
+  {
+    "slug": "youtube_music_will_now_tell_you_if_a_song_was_made_using_ai-news-75062",
+    "url": "https://www.gsmarena.com/youtube_music_will_now_tell_you_if_a_song_was_made_using_ai-news-75062.php",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T19:35:16.336697+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "10ee947a5ae7c3ec4b903c53b1f7bd92f8d89476f9072a7b0b2baf2021e8d41f"
+  },
+  {
+    "slug": "verizon_emphasizes_its_free_safety_family_and_ai_perks-news-75054",
+    "url": "https://www.gsmarena.com/verizon_emphasizes_its_free_safety_family_and_ai_perks-news-75054.php",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T19:34:58.001554+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "05961c501a9bef30aa81962bc556e02820a2154a5404906821f5a5633cf40367"
+  },
+  {
+    "content_hash": "772cc2e79e37f6b54f5512f724d3721c8f98d0996df329df17000e8558d4ee9e",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T14:34:51.055140+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "772cc2e79e37f6b54f5512f724d3721c8f98d0996df329df17000e8558d4ee9e"
+    "retries": 0,
+    "slug": "apple_intelligence_is_finally_coming_to_china_but_without_siri_ai-news-75058",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_intelligence_is_finally_coming_to_china_but_without_siri_ai-news-75058.php"
   },
   {
-    "slug": "rumor_claims_the_oppo_reno17_series_wont_include_a_pro_model-news-75057",
-    "url": "https://www.gsmarena.com/rumor_claims_the_oppo_reno17_series_wont_include_a_pro_model-news-75057.php",
+    "content_hash": "476969e116a3c51c393b608c036f2caae586e99407b7cbf55743c9ab3a445c85",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T14:34:35.417235+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "476969e116a3c51c393b608c036f2caae586e99407b7cbf55743c9ab3a445c85"
+    "retries": 0,
+    "slug": "rumor_claims_the_oppo_reno17_series_wont_include_a_pro_model-news-75057",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/rumor_claims_the_oppo_reno17_series_wont_include_a_pro_model-news-75057.php"
   },
   {
-    "slug": "iqoo_neo12_display_details-news-75060",
-    "url": "https://www.gsmarena.com/iqoo_neo12_display_details-news-75060.php",
+    "content_hash": "f429a66c4ca279221ba9a896ec0b82161df3b4730ac3d1ab9a417de23aabdb6b",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T14:34:20.850822+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f429a66c4ca279221ba9a896ec0b82161df3b4730ac3d1ab9a417de23aabdb6b"
+    "retries": 0,
+    "slug": "iqoo_neo12_display_details-news-75060",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_neo12_display_details-news-75060.php"
   },
   {
-    "slug": "whatsapps_new_guest_calling_feature_lets_you_invite_anyone_to_a_call-news-75055",
-    "url": "https://www.gsmarena.com/whatsapps_new_guest_calling_feature_lets_you_invite_anyone_to_a_call-news-75055.php",
+    "content_hash": "27df876136022db17fee8d9e80c1a756926d35ee8f9efb49162ac5a5a4fa1fbe",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T14:34:04.677126+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "27df876136022db17fee8d9e80c1a756926d35ee8f9efb49162ac5a5a4fa1fbe"
+    "retries": 0,
+    "slug": "whatsapps_new_guest_calling_feature_lets_you_invite_anyone_to_a_call-news-75055",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapps_new_guest_calling_feature_lets_you_invite_anyone_to_a_call-news-75055.php"
   },
   {
-    "slug": "samsung_galaxy_a27_galaxy_a37_one_ui_9_stable_update-news-75056",
-    "url": "https://www.gsmarena.com/samsung_galaxy_a27_galaxy_a37_one_ui_9_stable_update-news-75056.php",
+    "content_hash": "a59d2a53be0407d6b486e25659cac3f761de5f09cb0df9dbcc613a6eea9372be",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T14:33:42.216441+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a59d2a53be0407d6b486e25659cac3f761de5f09cb0df9dbcc613a6eea9372be"
+    "retries": 0,
+    "slug": "samsung_galaxy_a27_galaxy_a37_one_ui_9_stable_update-news-75056",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a27_galaxy_a37_one_ui_9_stable_update-news-75056.php"
   },
   {
     "content_hash": "8a69f616a0a8c9bb8da25eef3da03b576b00b2f144863a5017f86e39c2532046",
