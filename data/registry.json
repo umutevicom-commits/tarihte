@@ -5329,6 +5329,36 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_a58_camera_specs_surface-news-75041.php"
   },
+  "75043": {
+    "content_hash": "8a69f616a0a8c9bb8da25eef3da03b576b00b2f144863a5017f86e39c2532046",
+    "date": "15 Оctober 2026",
+    "fetched_at": "2026-10-15T08:43:29.356050+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "leaked_oneplus_ace_7_schematic_shows_its_dualairflow_cooling_setup-news-75043",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/leaked_oneplus_ace_7_schematic_shows_its_dualairflow_cooling_setup-news-75043.php"
+  },
+  "75045": {
+    "content_hash": "2bcd70544b792ff0ec0daefeb24109d5f4a05ce1cba717f7e10eca6b72a688ae",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T08:43:17.246531+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "tecno_spark_50s_5g_launch_date_confirmed_-news-75045",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tecno_spark_50s_5g_launch_date_confirmed_-news-75045.php"
+  },
+  "75046": {
+    "content_hash": "c6b75cacf94391d29963454439efe9a995453be90d08372a7015c6a02f7ee372",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T08:43:05.652896+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppos_reno17_series_could_launch_next_month_with_200mp_rear_camera-news-75046",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppos_reno17_series_could_launch_next_month_with_200mp_rear_camera-news-75046.php"
+  },
   "75047": {
     "content_hash": "935ff070c50d05c5e73cfddcd1381e17dd7b6f6f3d3764df17b74c43e63ac840",
     "date": "14 October 2026",
@@ -5338,6 +5368,16 @@
     "slug": "jury_sides_with_qualcomm_in_its_legal_fight_with_arm_and_awards_it_2_in_damages-news-75047",
     "status": "ok",
     "url": "https://www.gsmarena.com/jury_sides_with_qualcomm_in_its_legal_fight_with_arm_and_awards_it_2_in_damages-news-75047.php"
+  },
+  "75048": {
+    "content_hash": "0051983bc50be28c6d679bec3cb20e7c18b4969fa01e04d7d8a337e904ff3ea3",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T08:42:39.910772+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "hmd_is_going_to_withdraw_from_select_markets_rumor_claims-news-75048",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/hmd_is_going_to_withdraw_from_select_markets_rumor_claims-news-75048.php"
   },
   "75050": {
     "content_hash": "50f81db696435a7c58e4119685d0e00a571cc6960c453d9ed3474f358a9f7c44",
@@ -5358,5 +5398,15 @@
     "slug": "at_t_is_selling_its_mexican_business_for_2_billion-news-75051",
     "status": "ok",
     "url": "https://www.gsmarena.com/at_t_is_selling_its_mexican_business_for_2_billion-news-75051.php"
+  },
+  "75052": {
+    "content_hash": "ee44dce2ad5ca791e52c9a7531d39b663c85b2ccb5d924f40b7a745c9c64f6be",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T08:42:54.786639+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_ace_7_and_ace_7_pro_names_confirmed_by_google-news-75052",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_names_confirmed_by_google-news-75052.php"
   }
 }
