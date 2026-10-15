@@ -1,53 +1,103 @@
 [
   {
-    "slug": "leaked_oneplus_ace_7_schematic_shows_its_dualairflow_cooling_setup-news-75043",
-    "url": "https://www.gsmarena.com/leaked_oneplus_ace_7_schematic_shows_its_dualairflow_cooling_setup-news-75043.php",
+    "slug": "apple_intelligence_is_finally_coming_to_china_but_without_siri_ai-news-75058",
+    "url": "https://www.gsmarena.com/apple_intelligence_is_finally_coming_to_china_but_without_siri_ai-news-75058.php",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T14:34:51.055140+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "772cc2e79e37f6b54f5512f724d3721c8f98d0996df329df17000e8558d4ee9e"
+  },
+  {
+    "slug": "rumor_claims_the_oppo_reno17_series_wont_include_a_pro_model-news-75057",
+    "url": "https://www.gsmarena.com/rumor_claims_the_oppo_reno17_series_wont_include_a_pro_model-news-75057.php",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T14:34:35.417235+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "476969e116a3c51c393b608c036f2caae586e99407b7cbf55743c9ab3a445c85"
+  },
+  {
+    "slug": "iqoo_neo12_display_details-news-75060",
+    "url": "https://www.gsmarena.com/iqoo_neo12_display_details-news-75060.php",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T14:34:20.850822+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f429a66c4ca279221ba9a896ec0b82161df3b4730ac3d1ab9a417de23aabdb6b"
+  },
+  {
+    "slug": "whatsapps_new_guest_calling_feature_lets_you_invite_anyone_to_a_call-news-75055",
+    "url": "https://www.gsmarena.com/whatsapps_new_guest_calling_feature_lets_you_invite_anyone_to_a_call-news-75055.php",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T14:34:04.677126+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "27df876136022db17fee8d9e80c1a756926d35ee8f9efb49162ac5a5a4fa1fbe"
+  },
+  {
+    "slug": "samsung_galaxy_a27_galaxy_a37_one_ui_9_stable_update-news-75056",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a27_galaxy_a37_one_ui_9_stable_update-news-75056.php",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T14:33:42.216441+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a59d2a53be0407d6b486e25659cac3f761de5f09cb0df9dbcc613a6eea9372be"
+  },
+  {
+    "content_hash": "8a69f616a0a8c9bb8da25eef3da03b576b00b2f144863a5017f86e39c2532046",
     "date": "15 Оctober 2026",
     "fetched_at": "2026-10-15T08:43:29.356050+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8a69f616a0a8c9bb8da25eef3da03b576b00b2f144863a5017f86e39c2532046"
+    "retries": 0,
+    "slug": "leaked_oneplus_ace_7_schematic_shows_its_dualairflow_cooling_setup-news-75043",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/leaked_oneplus_ace_7_schematic_shows_its_dualairflow_cooling_setup-news-75043.php"
   },
   {
-    "slug": "tecno_spark_50s_5g_launch_date_confirmed_-news-75045",
-    "url": "https://www.gsmarena.com/tecno_spark_50s_5g_launch_date_confirmed_-news-75045.php",
+    "content_hash": "2bcd70544b792ff0ec0daefeb24109d5f4a05ce1cba717f7e10eca6b72a688ae",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T08:43:17.246531+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2bcd70544b792ff0ec0daefeb24109d5f4a05ce1cba717f7e10eca6b72a688ae"
+    "retries": 0,
+    "slug": "tecno_spark_50s_5g_launch_date_confirmed_-news-75045",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tecno_spark_50s_5g_launch_date_confirmed_-news-75045.php"
   },
   {
-    "slug": "oppos_reno17_series_could_launch_next_month_with_200mp_rear_camera-news-75046",
-    "url": "https://www.gsmarena.com/oppos_reno17_series_could_launch_next_month_with_200mp_rear_camera-news-75046.php",
+    "content_hash": "c6b75cacf94391d29963454439efe9a995453be90d08372a7015c6a02f7ee372",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T08:43:05.652896+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c6b75cacf94391d29963454439efe9a995453be90d08372a7015c6a02f7ee372"
+    "retries": 0,
+    "slug": "oppos_reno17_series_could_launch_next_month_with_200mp_rear_camera-news-75046",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppos_reno17_series_could_launch_next_month_with_200mp_rear_camera-news-75046.php"
   },
   {
-    "slug": "oneplus_ace_7_and_ace_7_pro_names_confirmed_by_google-news-75052",
-    "url": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_names_confirmed_by_google-news-75052.php",
+    "content_hash": "ee44dce2ad5ca791e52c9a7531d39b663c85b2ccb5d924f40b7a745c9c64f6be",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T08:42:54.786639+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ee44dce2ad5ca791e52c9a7531d39b663c85b2ccb5d924f40b7a745c9c64f6be"
+    "retries": 0,
+    "slug": "oneplus_ace_7_and_ace_7_pro_names_confirmed_by_google-news-75052",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_names_confirmed_by_google-news-75052.php"
   },
   {
-    "slug": "hmd_is_going_to_withdraw_from_select_markets_rumor_claims-news-75048",
-    "url": "https://www.gsmarena.com/hmd_is_going_to_withdraw_from_select_markets_rumor_claims-news-75048.php",
+    "content_hash": "0051983bc50be28c6d679bec3cb20e7c18b4969fa01e04d7d8a337e904ff3ea3",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T08:42:39.910772+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "0051983bc50be28c6d679bec3cb20e7c18b4969fa01e04d7d8a337e904ff3ea3"
+    "retries": 0,
+    "slug": "hmd_is_going_to_withdraw_from_select_markets_rumor_claims-news-75048",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/hmd_is_going_to_withdraw_from_select_markets_rumor_claims-news-75048.php"
   },
   {
     "content_hash": "50f81db696435a7c58e4119685d0e00a571cc6960c453d9ed3474f358a9f7c44",
