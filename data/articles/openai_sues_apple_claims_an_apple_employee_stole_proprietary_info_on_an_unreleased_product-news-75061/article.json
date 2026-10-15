@@ -1,0 +1,43 @@
+{
+  "url": "https://www.gsmarena.com/openai_sues_apple_claims_an_apple_employee_stole_proprietary_info_on_an_unreleased_product-news-75061.php",
+  "slug": "openai_sues_apple_claims_an_apple_employee_stole_proprietary_info_on_an_unreleased_product-news-75061",
+  "title": "OpenAI sues Apple, claims an Apple employee stole proprietary info on an unreleased product",
+  "news_id": "75061",
+  "date": "15 October 2026",
+  "author": "Peter",
+  "tags": [
+    "Featured",
+    "OpenAI",
+    "Apple"
+  ],
+  "body_paragraphs": [
+    "Back in July, Apple filed a lawsuit against OpenAI, claiming that two of its former employees stole proprietary IP from Apple and handed it over to OpenAI. Now the tables have turned – OpenAI claims that an unidentified employee left Apple, worked at OpenAI for six months and then returned to Apple with stolen details on OpenAI’s hardware projects.",
+    "In its lawsuit, OpenAI alleges that this IP theft is related to the newly announced Apple HomeView hub. As you may have heard, earlier this year rumors started up that OpenAI is building a smart speaker that was developed in partnership with Jony Ive’s LoveFrom. There may or may not be AI-powered earbuds too.",
+    "The lawsuit alleges that the unnamed employee walked away with 100+ files related to OpenAI’s hardware project(s) and presented them to Apple executives. This allegedly happened months ago, though that wouldn’t be enough time to heavily influence the design of the HomeView.",
+    "For its part, Apple claims that it has procedures that prevent new employees from using confidential information from their previous company. It also denies that the presentation happened and says that there is no evidence of the stolen files on its servers.",
+    "OpenAI doesn’t buy it, though. In its filing, it writes: “OpenAI is very concerned ​that its trade secret and confidential information is now circulating inside Apple, where Apple engineers can shape ⁠Apple’s upcoming products based on OpenAI’s confidential and innovative work.”",
+    "This case is likely to go to trial – possibly in October of next year, though it could be sooner as OpenAI says that it could be in June."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/openai_sues_apple_claims_an_apple_employee_stole_proprietary_info_on_an_unreleased_product-news-75061/immaculate_001.jpg",
+      "alt": "The new Apple HomeView finds itself at the center of a lawsuit"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-15T22:48:13.530187+00:00",
+  "title_tr": "OpenAI, bir Apple çalışanının piyasaya sürülmemiş bir ürünün özel bilgilerini çaldığını iddia ederek Apple'a dava açtı",
+  "body_paragraphs_tr": [
+    "Temmuzda Apple, eski çalışanlarından ikisinin Apple'ın tescilli IP'sini çalıp OpenAI'a teslim ettiğini iddia ederek OpenAI'a karşı dava açmıştı. Şimdi işler değişti. OpenAI, kimliği belirsiz bir çalışanın Apple'dan ayrıldığını, OpenAI'de 6 ay çalıştığını ve ardından OpenAI'nin donanım projeleriyle ilgili çalınan ayrıntılarla Apple'a geri döndüğünü iddia ediyor.",
+    "OpenAI davasında, bu IP hırsızlığının yeni duyurulan Apple HomeView merkezi ile ilgili olduğunu iddia ediyor. Duymuş olabileceğiniz gibi, bu yılın başlarında OpenAI'nin Jony Ive'ın LoveFrom'uyla ortaklaşa geliştirilen akıllı bir hoparlör geliştirdiğine dair söylentiler başladı. Yapay zeka destekli kulaklıklar da olabilir veya olmayabilir.",
+    "Dava, isimsiz çalışanın OpenAI'nin donanım projesiyle/projeleriyle ilgili 100 'denfazla dosyayı alıp Apple yöneticilerine sunduğunu iddia ediyor. İddiaya göre bu aylar önce oldu, ancak bu HomeView'un tasarımını büyük ölçüde etkilemek için yeterli zaman olmayacak.",
+    "Apple, kendi adına, yeni çalışanların önceki şirketlerinden gizli bilgileri kullanmasını engelleyen prosedürlere sahip olduğunu iddia ediyor. Ayrıca sunumun gerçekleştiğini reddediyor ve sunucularında çalınan dosyalara dair hiçbir kanıt bulunmadığını söylüyor.",
+    "Yine de OpenAI bunu satın almıyor. Dosyalamasında şöyle yazıyor: \"OpenAI, ticari sırrının ve gizli bilgilerinin artık Apple mühendislerinin OpenAI'nin gizli ve yenilikçi çalışmalarına dayanarak Apple'ın yaklaşan ürünlerini şekillendirebileceği Apple içinde dolaştığından çok endişeli .\"",
+    "Her ne kadar OpenAI haziranda olabileceğini söylese de, bu davanın muhtemelen gelecek yılın ekim ayında yargılanması muhtemel."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "OpenAI. ",
+    "Apple"
+  ]
+}

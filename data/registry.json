@@ -5489,6 +5489,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/iqoo_neo12_display_details-news-75060.php"
   },
+  "75061": {
+    "content_hash": "657d489a17c2a541cdf987324024ec82ec3fb8b29ca0bac411929c0c96e95ca1",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T22:48:13.530187+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "openai_sues_apple_claims_an_apple_employee_stole_proprietary_info_on_an_unreleased_product-news-75061",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/openai_sues_apple_claims_an_apple_employee_stole_proprietary_info_on_an_unreleased_product-news-75061.php"
+  },
   "75062": {
     "content_hash": "10ee947a5ae7c3ec4b903c53b1f7bd92f8d89476f9072a7b0b2baf2021e8d41f",
     "date": "15 October 2026",
@@ -5498,5 +5508,25 @@
     "slug": "youtube_music_will_now_tell_you_if_a_song_was_made_using_ai-news-75062",
     "status": "ok",
     "url": "https://www.gsmarena.com/youtube_music_will_now_tell_you_if_a_song_was_made_using_ai-news-75062.php"
+  },
+  "75064": {
+    "content_hash": "7cc8596b973f016a5b5ed461f2fdb2a69480a2c693667f8dbc99d108d46b3c48",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T22:47:54.180190+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "youtube_is_planning_to_add_audiobooks_to_its_premium_subscription_the_wsj_reports-news-75064",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/youtube_is_planning_to_add_audiobooks_to_its_premium_subscription_the_wsj_reports-news-75064.php"
+  },
+  "75071": {
+    "content_hash": "c2ce2993d47ad593275c25ec1872c489cd85a20eb9b45fb31a8a53e37c050f14",
+    "date": "15 October 2026",
+    "fetched_at": "2026-10-15T22:47:37.338638+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "boost_mobile_teams_up_with_mike_tyson_for_its_new_ad_campaign-news-75071",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/boost_mobile_teams_up_with_mike_tyson_for_its_new_ad_campaign-news-75071.php"
   }
 }
