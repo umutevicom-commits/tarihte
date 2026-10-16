@@ -1,5 +1,65 @@
 [
   {
+    "slug": "redmagic_12_pro_launches_with_rgb_liquid_cooling_and_a_185hz_screen-news-75070",
+    "url": "https://www.gsmarena.com/redmagic_12_pro_launches_with_rgb_liquid_cooling_and_a_185hz_screen-news-75070.php",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:38:27.805260+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5253e292b1e3dfa695c8c43f19f02134a5381bbc38eaf0101a6983c7219f7d59"
+  },
+  {
+    "slug": "samsung_galaxy_a38_camera_details_surface-news-75063",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a38_camera_details_surface-news-75063.php",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:38:14.048500+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1cdac1c9b047efebbd5afa66a4fc208ff076ad52062ddd37289430c788548e8c"
+  },
+  {
+    "slug": "xreal_1_pro_launches_with_brighter_display_and_same_price_as_predecessor-news-75072",
+    "url": "https://www.gsmarena.com/xreal_1_pro_launches_with_brighter_display_and_same_price_as_predecessor-news-75072.php",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:38:00.341163+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0c78d607ddd211a431bfc6dc06f0a33c8960fcaea094775823dfc196306f0d3e"
+  },
+  {
+    "slug": "samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066",
+    "url": "https://www.gsmarena.com/samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066.php",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:37:46.366258+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f2d6ca0bd543034dac773ed525dcfa169f91eb099e7019bb9c5edf6d1366e3e4"
+  },
+  {
+    "slug": "iqoo_pad_pro_is_joining_the_iqoo_pad_ultra_soon_heres_whats_different-news-75075",
+    "url": "https://www.gsmarena.com/iqoo_pad_pro_is_joining_the_iqoo_pad_ultra_soon_heres_whats_different-news-75075.php",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:37:34.672963+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0f280e1153154da3608469060833277a31d56260d314a54e543ebbc3823df3cb"
+  },
+  {
+    "slug": "honor_win2_shows_up_on_geekbench_confirming_its_chipset-news-75074",
+    "url": "https://www.gsmarena.com/honor_win2_shows_up_on_geekbench_confirming_its_chipset-news-75074.php",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:37:19.398848+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e0d464758661dcdae4ce65572068bb58fcbbd7c2f2c50591b3f3f00a1e3ce68c"
+  },
+  {
     "content_hash": "657d489a17c2a541cdf987324024ec82ec3fb8b29ca0bac411929c0c96e95ca1",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T22:48:13.530187+00:00",

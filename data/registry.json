@@ -5509,6 +5509,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/youtube_music_will_now_tell_you_if_a_song_was_made_using_ai-news-75062.php"
   },
+  "75063": {
+    "content_hash": "1cdac1c9b047efebbd5afa66a4fc208ff076ad52062ddd37289430c788548e8c",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:38:14.048500+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a38_camera_details_surface-news-75063",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a38_camera_details_surface-news-75063.php"
+  },
   "75064": {
     "content_hash": "7cc8596b973f016a5b5ed461f2fdb2a69480a2c693667f8dbc99d108d46b3c48",
     "date": "15 October 2026",
@@ -5519,6 +5529,26 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/youtube_is_planning_to_add_audiobooks_to_its_premium_subscription_the_wsj_reports-news-75064.php"
   },
+  "75066": {
+    "content_hash": "f2d6ca0bd543034dac773ed525dcfa169f91eb099e7019bb9c5edf6d1366e3e4",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:37:46.366258+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066.php"
+  },
+  "75070": {
+    "content_hash": "5253e292b1e3dfa695c8c43f19f02134a5381bbc38eaf0101a6983c7219f7d59",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:38:27.805260+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "redmagic_12_pro_launches_with_rgb_liquid_cooling_and_a_185hz_screen-news-75070",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmagic_12_pro_launches_with_rgb_liquid_cooling_and_a_185hz_screen-news-75070.php"
+  },
   "75071": {
     "content_hash": "c2ce2993d47ad593275c25ec1872c489cd85a20eb9b45fb31a8a53e37c050f14",
     "date": "15 October 2026",
@@ -5528,5 +5558,35 @@
     "slug": "boost_mobile_teams_up_with_mike_tyson_for_its_new_ad_campaign-news-75071",
     "status": "ok",
     "url": "https://www.gsmarena.com/boost_mobile_teams_up_with_mike_tyson_for_its_new_ad_campaign-news-75071.php"
+  },
+  "75072": {
+    "content_hash": "0c78d607ddd211a431bfc6dc06f0a33c8960fcaea094775823dfc196306f0d3e",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:38:00.341163+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xreal_1_pro_launches_with_brighter_display_and_same_price_as_predecessor-news-75072",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xreal_1_pro_launches_with_brighter_display_and_same_price_as_predecessor-news-75072.php"
+  },
+  "75074": {
+    "content_hash": "e0d464758661dcdae4ce65572068bb58fcbbd7c2f2c50591b3f3f00a1e3ce68c",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:37:19.398848+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_win2_shows_up_on_geekbench_confirming_its_chipset-news-75074",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_win2_shows_up_on_geekbench_confirming_its_chipset-news-75074.php"
+  },
+  "75075": {
+    "content_hash": "0f280e1153154da3608469060833277a31d56260d314a54e543ebbc3823df3cb",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T08:37:34.672963+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_pad_pro_is_joining_the_iqoo_pad_ultra_soon_heres_whats_different-news-75075",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_pad_pro_is_joining_the_iqoo_pad_ultra_soon_heres_whats_different-news-75075.php"
   }
 }
