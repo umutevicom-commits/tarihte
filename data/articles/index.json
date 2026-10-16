@@ -1,63 +1,113 @@
 [
   {
-    "slug": "redmagic_12_pro_launches_with_rgb_liquid_cooling_and_a_185hz_screen-news-75070",
-    "url": "https://www.gsmarena.com/redmagic_12_pro_launches_with_rgb_liquid_cooling_and_a_185hz_screen-news-75070.php",
+    "slug": "apple_iphone_duo_pre_orders_begin-news-75077",
+    "url": "https://www.gsmarena.com/apple_iphone_duo_pre_orders_begin-news-75077.php",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T14:26:54.127438+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0dc29ec8a2d2a613686366f97a77a4983d9bccf475b5fd2c73be95ac0d74cd98"
+  },
+  {
+    "slug": "redmi_k100_confirmed_to_launch_this_month_redmi_clip_neo_to_tag_along-news-75079",
+    "url": "https://www.gsmarena.com/redmi_k100_confirmed_to_launch_this_month_redmi_clip_neo_to_tag_along-news-75079.php",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T14:26:36.192725+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7c6903f3e7435791eeb89da901016b9d37f78fbf24950a03b97931e9e98a1b1f"
+  },
+  {
+    "slug": "tecno_spark_50s_spark_50c_features_price_sale_date-news-75083",
+    "url": "https://www.gsmarena.com/tecno_spark_50s_spark_50c_features_price_sale_date-news-75083.php",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T14:26:06.793683+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c638c7ef458f10eee91b661b35630e989c380dad5ea3c0db29e5a79cc7a88897"
+  },
+  {
+    "slug": "sony_bails_on_xperia_10_vis_android_17_update_-news-75080",
+    "url": "https://www.gsmarena.com/sony_bails_on_xperia_10_vis_android_17_update_-news-75080.php",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T14:25:54.210012+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b652625ce0509c4dc606d9f22bd6ed94122b3ac2e31a70bd6defe5b0d075444e"
+  },
+  {
+    "slug": "vivo_x500_pro_and_x500_pro_max_european_prices_leak-news-75082",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_and_x500_pro_max_european_prices_leak-news-75082.php",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T14:25:32.725061+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ede0db6fd3200b293af219f7825f8aca2daeeeb2a43f20610b97d6f3b555a5b5"
+  },
+  {
+    "content_hash": "5253e292b1e3dfa695c8c43f19f02134a5381bbc38eaf0101a6983c7219f7d59",
     "date": "16 October 2026",
     "fetched_at": "2026-10-16T08:38:27.805260+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5253e292b1e3dfa695c8c43f19f02134a5381bbc38eaf0101a6983c7219f7d59"
+    "retries": 0,
+    "slug": "redmagic_12_pro_launches_with_rgb_liquid_cooling_and_a_185hz_screen-news-75070",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmagic_12_pro_launches_with_rgb_liquid_cooling_and_a_185hz_screen-news-75070.php"
   },
   {
-    "slug": "samsung_galaxy_a38_camera_details_surface-news-75063",
-    "url": "https://www.gsmarena.com/samsung_galaxy_a38_camera_details_surface-news-75063.php",
+    "content_hash": "1cdac1c9b047efebbd5afa66a4fc208ff076ad52062ddd37289430c788548e8c",
     "date": "16 October 2026",
     "fetched_at": "2026-10-16T08:38:14.048500+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1cdac1c9b047efebbd5afa66a4fc208ff076ad52062ddd37289430c788548e8c"
+    "retries": 0,
+    "slug": "samsung_galaxy_a38_camera_details_surface-news-75063",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a38_camera_details_surface-news-75063.php"
   },
   {
-    "slug": "xreal_1_pro_launches_with_brighter_display_and_same_price_as_predecessor-news-75072",
-    "url": "https://www.gsmarena.com/xreal_1_pro_launches_with_brighter_display_and_same_price_as_predecessor-news-75072.php",
+    "content_hash": "0c78d607ddd211a431bfc6dc06f0a33c8960fcaea094775823dfc196306f0d3e",
     "date": "16 October 2026",
     "fetched_at": "2026-10-16T08:38:00.341163+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "0c78d607ddd211a431bfc6dc06f0a33c8960fcaea094775823dfc196306f0d3e"
+    "retries": 0,
+    "slug": "xreal_1_pro_launches_with_brighter_display_and_same_price_as_predecessor-news-75072",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xreal_1_pro_launches_with_brighter_display_and_same_price_as_predecessor-news-75072.php"
   },
   {
-    "slug": "samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066",
-    "url": "https://www.gsmarena.com/samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066.php",
+    "content_hash": "f2d6ca0bd543034dac773ed525dcfa169f91eb099e7019bb9c5edf6d1366e3e4",
     "date": "16 October 2026",
     "fetched_at": "2026-10-16T08:37:46.366258+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f2d6ca0bd543034dac773ed525dcfa169f91eb099e7019bb9c5edf6d1366e3e4"
+    "retries": 0,
+    "slug": "samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066.php"
   },
   {
-    "slug": "iqoo_pad_pro_is_joining_the_iqoo_pad_ultra_soon_heres_whats_different-news-75075",
-    "url": "https://www.gsmarena.com/iqoo_pad_pro_is_joining_the_iqoo_pad_ultra_soon_heres_whats_different-news-75075.php",
+    "content_hash": "0f280e1153154da3608469060833277a31d56260d314a54e543ebbc3823df3cb",
     "date": "16 October 2026",
     "fetched_at": "2026-10-16T08:37:34.672963+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "0f280e1153154da3608469060833277a31d56260d314a54e543ebbc3823df3cb"
+    "retries": 0,
+    "slug": "iqoo_pad_pro_is_joining_the_iqoo_pad_ultra_soon_heres_whats_different-news-75075",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_pad_pro_is_joining_the_iqoo_pad_ultra_soon_heres_whats_different-news-75075.php"
   },
   {
-    "slug": "honor_win2_shows_up_on_geekbench_confirming_its_chipset-news-75074",
-    "url": "https://www.gsmarena.com/honor_win2_shows_up_on_geekbench_confirming_its_chipset-news-75074.php",
+    "content_hash": "e0d464758661dcdae4ce65572068bb58fcbbd7c2f2c50591b3f3f00a1e3ce68c",
     "date": "16 October 2026",
     "fetched_at": "2026-10-16T08:37:19.398848+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e0d464758661dcdae4ce65572068bb58fcbbd7c2f2c50591b3f3f00a1e3ce68c"
+    "retries": 0,
+    "slug": "honor_win2_shows_up_on_geekbench_confirming_its_chipset-news-75074",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_win2_shows_up_on_geekbench_confirming_its_chipset-news-75074.php"
   },
   {
     "content_hash": "657d489a17c2a541cdf987324024ec82ec3fb8b29ca0bac411929c0c96e95ca1",
