@@ -1,33 +1,33 @@
 [
   {
-    "slug": "openai_sues_apple_claims_an_apple_employee_stole_proprietary_info_on_an_unreleased_product-news-75061",
-    "url": "https://www.gsmarena.com/openai_sues_apple_claims_an_apple_employee_stole_proprietary_info_on_an_unreleased_product-news-75061.php",
+    "content_hash": "657d489a17c2a541cdf987324024ec82ec3fb8b29ca0bac411929c0c96e95ca1",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T22:48:13.530187+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "657d489a17c2a541cdf987324024ec82ec3fb8b29ca0bac411929c0c96e95ca1"
+    "retries": 0,
+    "slug": "openai_sues_apple_claims_an_apple_employee_stole_proprietary_info_on_an_unreleased_product-news-75061",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/openai_sues_apple_claims_an_apple_employee_stole_proprietary_info_on_an_unreleased_product-news-75061.php"
   },
   {
-    "slug": "youtube_is_planning_to_add_audiobooks_to_its_premium_subscription_the_wsj_reports-news-75064",
-    "url": "https://www.gsmarena.com/youtube_is_planning_to_add_audiobooks_to_its_premium_subscription_the_wsj_reports-news-75064.php",
+    "content_hash": "7cc8596b973f016a5b5ed461f2fdb2a69480a2c693667f8dbc99d108d46b3c48",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T22:47:54.180190+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7cc8596b973f016a5b5ed461f2fdb2a69480a2c693667f8dbc99d108d46b3c48"
+    "retries": 0,
+    "slug": "youtube_is_planning_to_add_audiobooks_to_its_premium_subscription_the_wsj_reports-news-75064",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/youtube_is_planning_to_add_audiobooks_to_its_premium_subscription_the_wsj_reports-news-75064.php"
   },
   {
-    "slug": "boost_mobile_teams_up_with_mike_tyson_for_its_new_ad_campaign-news-75071",
-    "url": "https://www.gsmarena.com/boost_mobile_teams_up_with_mike_tyson_for_its_new_ad_campaign-news-75071.php",
+    "content_hash": "c2ce2993d47ad593275c25ec1872c489cd85a20eb9b45fb31a8a53e37c050f14",
     "date": "15 October 2026",
     "fetched_at": "2026-10-15T22:47:37.338638+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c2ce2993d47ad593275c25ec1872c489cd85a20eb9b45fb31a8a53e37c050f14"
+    "retries": 0,
+    "slug": "boost_mobile_teams_up_with_mike_tyson_for_its_new_ad_campaign-news-75071",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/boost_mobile_teams_up_with_mike_tyson_for_its_new_ad_campaign-news-75071.php"
   },
   {
     "content_hash": "b841fbc7409471720e7433256e49cf9ebc10c9c344b1cc78b37e37f4a5d4e314",
