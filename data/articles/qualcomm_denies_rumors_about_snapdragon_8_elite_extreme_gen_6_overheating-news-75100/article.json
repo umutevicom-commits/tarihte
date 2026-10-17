@@ -1,0 +1,45 @@
+{
+  "url": "https://www.gsmarena.com/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100.php",
+  "slug": "qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100",
+  "title": "Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating",
+  "news_id": "75100",
+  "date": "17 October 2026",
+  "author": "Ro",
+  "tags": [
+    "Featured",
+    "Qualcomm",
+    "Android",
+    "Mobile hardware"
+  ],
+  "body_paragraphs": [
+    "Yesterday, a Korean news outlet shared some concerning news about the upcoming Samsung Galaxy S27 Ultra. According to the report, Samsung is thinking about going all Exynos next year, as internal testing has shown that the newly released Snapdragon 8 Elite Extreme Gen 6 chipset is running too hot, resulting in thermal throttling. In contrast, the Exynos 2700 is doing just fine.",
+    "But after the rumor did its rounds on the internet, Qualcomm's CMO responded to a thread on X saying that these rumors were inaccurate. Here's what he had to say:",
+    "He further clarifies that there are no systemic thermal issues with the SoC, and the rumors about Samsung's internal testing findings are likely inaccurate because OEM partners fine-tune their platforms to strike a balance between performance and power depending on the different use cases. So the information coming from Samsung's labs could be inaccurate or misleading.",
+    "We still haven't tested any device running on Qualcomm's latest and greatest, so we can't contribute to the conversation, but if history is any indication, it's not hard to believe that the SD 8 EE Gen 6 chip is running a little too hot.",
+    "Mobile chips have become so powerful lately that they are theoretically capable of running PC-level games. The current Snapdragon 8 Elite Gen 6 series chipsets have two Prime cores clocked at 5.0 GHz while the six Performance cores are running at 4.0 GHz. That's quite a lot for a system with a passive cooling solution.",
+    "Ever since the launch of the first Snapdragon 8 Elite, we've noticed a significant dip in sustained performance when performing stress tests on modern flagships. That doesn't mean they overheat during normal use, but it's an indication that mobile chipsets are becoming too powerful for their own good."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100/immaculate_000.jpg",
+      "alt": "Qualcomm denies rumors about Snapdragon 8 Elite Extreme Gen 6 overheating"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-17T21:54:08.755711+00:00",
+  "title_tr": "Qualcomm, Snapdragon 8 Elite Extreme 6. Nesil'in aşırı ısındığına dair söylentileri yalanladı",
+  "body_paragraphs_tr": [
+    "Dün, Koreli bir haber kaynağı yaklaşmakta olan Samsung Galaxy S27 Ultra hakkında bazı endişe verici haberler paylaştı. Rapora göre, dahili testler yeni piyasaya sürülen Snapdragon 8 Elite Extreme Gen 6 yonga setinin çok sıcak çalıştığını ve termal kısmaya neden olduğunu gösterdiğinden, Samsung gelecek yıl tüm Exynos'ları kullanmayı düşünüyor. Buna karşılık, Exynos 2700 gayet iyi gidiyor.",
+    "Ancak söylenti internette dolaştıktan sonra Qualcomm'un CMO'su, X'te bu söylentilerin yanlış olduğunu söyleyen bir iletiye yanıt verdi. Söyledikleri şöyleydi:",
+    "Ayrıca, SoC ile ilgili sistemik bir termal sorun olmadığını ve Samsung'un dahili test bulguları hakkındaki söylentilerin muhtemelen yanlış olduğunu, çünkü OEM ortaklarının farklı kullanım durumlarına bağlı olarak performans ve güç arasında bir denge kurmak için platformlarında ince ayar yaptıklarını açıklıyor. Dolayısıyla Samsung'un laboratuvarlarından gelen bilgiler yanlış veya yanıltıcı olabilir.",
+    "Qualcomm'un en yeni ve en iyi cihazında çalışan herhangi bir cihazı hala test etmedik, bu nedenle konuşmaya katkıda bulunamıyoruz, ancak geçmiş herhangi bir gösterge ise, SD 8 EE Gen 6 çipinin biraz fazla sıcak çalıştığına inanmak zor değil.",
+    "Mobil çipler son zamanlarda o kadar güçlü hale geldi ki teorik olarak PC düzeyinde oyunlar çalıştırabiliyorlar. Mevcut Snapdragon 8 Elite Gen 6 serisi yonga setleri, 5.0 GHz'de çalışan iki Prime çekirdeğe sahipken, altı Performans çekirdeği 4.0 GHz'de çalışıyor. Pasif soğutma çözümü olan bir sistem için bu oldukça fazla.",
+    "İlk Snapdragon 8 Elite'in piyasaya sürülmesinden bu yana, modern amiral gemilerinde stres testleri yaparken sürekli performansta önemli bir düşüş fark ettik. Bu, normal kullanım sırasında aşırı ısındıkları anlamına gelmez, ancak mobil yonga setlerinin kendi iyiliği için çok güçlü hale geldiğinin bir göstergesidir."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Qualcomm",
+    "Android",
+    "Mobil donanım"
+  ]
+}

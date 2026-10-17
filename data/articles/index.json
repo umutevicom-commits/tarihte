@@ -1,13 +1,23 @@
 [
   {
-    "slug": "apples_official_silicone_case_for_the_iphone_duo_requires_adhesive-news-75099",
-    "url": "https://www.gsmarena.com/apples_official_silicone_case_for_the_iphone_duo_requires_adhesive-news-75099.php",
+    "slug": "qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100",
+    "url": "https://www.gsmarena.com/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100.php",
     "date": "17 October 2026",
-    "fetched_at": "2026-10-17T19:53:35.323609+00:00",
+    "fetched_at": "2026-10-17T21:54:08.755711+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "64097fe546c292f4f19935496ba902af28aafcc26901f5c38e97002bd9ecd9b9"
+    "content_hash": "b620a9411e6eb1e5d1be0619ee6acf3d54cddf1e1e4b7a0ef6b48c256f4c60f5"
+  },
+  {
+    "content_hash": "64097fe546c292f4f19935496ba902af28aafcc26901f5c38e97002bd9ecd9b9",
+    "date": "17 October 2026",
+    "fetched_at": "2026-10-17T19:53:35.323609+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apples_official_silicone_case_for_the_iphone_duo_requires_adhesive-news-75099",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apples_official_silicone_case_for_the_iphone_duo_requires_adhesive-news-75099.php"
   },
   {
     "content_hash": "ad8da3987a52cf33677983dc51aa005e66dbe1906a82fd3e65a7264f08d20aa7",
