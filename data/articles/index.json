@@ -1,23 +1,33 @@
 [
   {
-    "slug": "if_you_havent_preordered_an_iphone_duo_yet_but_want_one_youre_in_for_a_long_long_wait-news-75091",
-    "url": "https://www.gsmarena.com/if_you_havent_preordered_an_iphone_duo_yet_but_want_one_youre_in_for_a_long_long_wait-news-75091.php",
-    "date": "16 October 2026",
-    "fetched_at": "2026-10-16T22:21:20.477992+00:00",
+    "slug": "honor_reveals_which_global_devices_are_getting_magicos_11-news-75093",
+    "url": "https://www.gsmarena.com/honor_reveals_which_global_devices_are_getting_magicos_11-news-75093.php",
+    "date": "17 October 2026",
+    "fetched_at": "2026-10-17T02:16:49.845622+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "1649b6bbede023decc8a9a9444c65c1f79122c1c45edb61d1c9257fb21ffc2c8"
+    "content_hash": "4c1a0e2f1bbf584e0b1f1e0724edb2233717f1e4bc1829511fa6ee0279b2d649"
   },
   {
-    "slug": "moto_g47_power_is_coming_with_a_much_larger_battery_than_the_g47-news-75089",
-    "url": "https://www.gsmarena.com/moto_g47_power_is_coming_with_a_much_larger_battery_than_the_g47-news-75089.php",
+    "content_hash": "1649b6bbede023decc8a9a9444c65c1f79122c1c45edb61d1c9257fb21ffc2c8",
+    "date": "16 October 2026",
+    "fetched_at": "2026-10-16T22:21:20.477992+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "if_you_havent_preordered_an_iphone_duo_yet_but_want_one_youre_in_for_a_long_long_wait-news-75091",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/if_you_havent_preordered_an_iphone_duo_yet_but_want_one_youre_in_for_a_long_long_wait-news-75091.php"
+  },
+  {
+    "content_hash": "c6f52a633fabdd16bc2c5c07f0c37440fa693a0f3137268ade710511067c7aee",
     "date": "16 October 2026",
     "fetched_at": "2026-10-16T22:21:04.491466+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c6f52a633fabdd16bc2c5c07f0c37440fa693a0f3137268ade710511067c7aee"
+    "retries": 0,
+    "slug": "moto_g47_power_is_coming_with_a_much_larger_battery_than_the_g47-news-75089",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/moto_g47_power_is_coming_with_a_much_larger_battery_than_the_g47-news-75089.php"
   },
   {
     "content_hash": "0dc29ec8a2d2a613686366f97a77a4983d9bccf475b5fd2c73be95ac0d74cd98",
