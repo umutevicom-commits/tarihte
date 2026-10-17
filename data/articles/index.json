@@ -1,33 +1,43 @@
 [
   {
-    "slug": "deals_iphone_duo_preorders_begin_as_galaxy_z_fold8_gets_a_price_cut-news-75096",
-    "url": "https://www.gsmarena.com/deals_iphone_duo_preorders_begin_as_galaxy_z_fold8_gets_a_price_cut-news-75096.php",
+    "slug": "honor_win2_teased_once_again_with_worlds_first_2k_185hz_display-news-75098",
+    "url": "https://www.gsmarena.com/honor_win2_teased_once_again_with_worlds_first_2k_185hz_display-news-75098.php",
+    "date": "17 October 2026",
+    "fetched_at": "2026-10-17T16:45:17.473284+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ad8da3987a52cf33677983dc51aa005e66dbe1906a82fd3e65a7264f08d20aa7"
+  },
+  {
+    "content_hash": "d64ed8873f0162a2cee351ca12472e4854f28cdca382492e7a2ac7d0b0c96577",
     "date": "17 October 2026",
     "fetched_at": "2026-10-17T13:23:05.141984+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d64ed8873f0162a2cee351ca12472e4854f28cdca382492e7a2ac7d0b0c96577"
+    "retries": 0,
+    "slug": "deals_iphone_duo_preorders_begin_as_galaxy_z_fold8_gets_a_price_cut-news-75096",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_iphone_duo_preorders_begin_as_galaxy_z_fold8_gets_a_price_cut-news-75096.php"
   },
   {
-    "slug": "honor_win2_runs_antutu_too_its_cooling_fan_helps_it_achieve_a_top_score-news-75095",
-    "url": "https://www.gsmarena.com/honor_win2_runs_antutu_too_its_cooling_fan_helps_it_achieve_a_top_score-news-75095.php",
+    "content_hash": "3bd171baaf3728bef155a0aae94e70d612f7665e8d53645857b947c7ee2f7c70",
     "date": "17 October 2026",
     "fetched_at": "2026-10-17T13:22:53.708823+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3bd171baaf3728bef155a0aae94e70d612f7665e8d53645857b947c7ee2f7c70"
+    "retries": 0,
+    "slug": "honor_win2_runs_antutu_too_its_cooling_fan_helps_it_achieve_a_top_score-news-75095",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_win2_runs_antutu_too_its_cooling_fan_helps_it_achieve_a_top_score-news-75095.php"
   },
   {
-    "slug": "insider_reveals_samsungs_plans_to_completely_overhaul_one_ui_10-news-75097",
-    "url": "https://www.gsmarena.com/insider_reveals_samsungs_plans_to_completely_overhaul_one_ui_10-news-75097.php",
+    "content_hash": "4515596f2c158196e453f4cff45188d7fd2a8d9954c71152139172bc8adecdd6",
     "date": "17 October 2026",
     "fetched_at": "2026-10-17T13:22:25.443246+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4515596f2c158196e453f4cff45188d7fd2a8d9954c71152139172bc8adecdd6"
+    "retries": 0,
+    "slug": "insider_reveals_samsungs_plans_to_completely_overhaul_one_ui_10-news-75097",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/insider_reveals_samsungs_plans_to_completely_overhaul_one_ui_10-news-75097.php"
   },
   {
     "content_hash": "7aacae16266fa8dace915b241978a5085e82f3ed17438c95ff9002ba851c2daf",
