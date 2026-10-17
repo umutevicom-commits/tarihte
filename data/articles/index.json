@@ -1,13 +1,33 @@
 [
   {
-    "slug": "honor_reveals_which_global_devices_are_getting_magicos_11-news-75093",
-    "url": "https://www.gsmarena.com/honor_reveals_which_global_devices_are_getting_magicos_11-news-75093.php",
+    "slug": "iqoo_16r_z12_turbos_chipset_leaks_along_with_its_screen_size-news-75094",
+    "url": "https://www.gsmarena.com/iqoo_16r_z12_turbos_chipset_leaks_along_with_its_screen_size-news-75094.php",
     "date": "17 October 2026",
-    "fetched_at": "2026-10-17T02:16:49.845622+00:00",
+    "fetched_at": "2026-10-17T08:09:29.689194+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "4c1a0e2f1bbf584e0b1f1e0724edb2233717f1e4bc1829511fa6ee0279b2d649"
+    "content_hash": "7aacae16266fa8dace915b241978a5085e82f3ed17438c95ff9002ba851c2daf"
+  },
+  {
+    "slug": "vivo_v80_goes_global-news-75090",
+    "url": "https://www.gsmarena.com/vivo_v80_goes_global-news-75090.php",
+    "date": "17 October 2026",
+    "fetched_at": "2026-10-17T08:09:14.686464+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "67c0d53c227e74e02a680e7478998525ef528d3349fbf2cd2f24d280386ec133"
+  },
+  {
+    "content_hash": "4c1a0e2f1bbf584e0b1f1e0724edb2233717f1e4bc1829511fa6ee0279b2d649",
+    "date": "17 October 2026",
+    "fetched_at": "2026-10-17T02:16:49.845622+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_reveals_which_global_devices_are_getting_magicos_11-news-75093",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_reveals_which_global_devices_are_getting_magicos_11-news-75093.php"
   },
   {
     "content_hash": "1649b6bbede023decc8a9a9444c65c1f79122c1c45edb61d1c9257fb21ffc2c8",
