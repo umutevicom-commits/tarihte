@@ -1,23 +1,53 @@
 [
   {
-    "slug": "iqoo_16r_z12_turbos_chipset_leaks_along_with_its_screen_size-news-75094",
-    "url": "https://www.gsmarena.com/iqoo_16r_z12_turbos_chipset_leaks_along_with_its_screen_size-news-75094.php",
+    "slug": "deals_iphone_duo_preorders_begin_as_galaxy_z_fold8_gets_a_price_cut-news-75096",
+    "url": "https://www.gsmarena.com/deals_iphone_duo_preorders_begin_as_galaxy_z_fold8_gets_a_price_cut-news-75096.php",
     "date": "17 October 2026",
-    "fetched_at": "2026-10-17T08:09:29.689194+00:00",
+    "fetched_at": "2026-10-17T13:23:05.141984+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "7aacae16266fa8dace915b241978a5085e82f3ed17438c95ff9002ba851c2daf"
+    "content_hash": "d64ed8873f0162a2cee351ca12472e4854f28cdca382492e7a2ac7d0b0c96577"
   },
   {
-    "slug": "vivo_v80_goes_global-news-75090",
-    "url": "https://www.gsmarena.com/vivo_v80_goes_global-news-75090.php",
+    "slug": "honor_win2_runs_antutu_too_its_cooling_fan_helps_it_achieve_a_top_score-news-75095",
+    "url": "https://www.gsmarena.com/honor_win2_runs_antutu_too_its_cooling_fan_helps_it_achieve_a_top_score-news-75095.php",
     "date": "17 October 2026",
-    "fetched_at": "2026-10-17T08:09:14.686464+00:00",
+    "fetched_at": "2026-10-17T13:22:53.708823+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "67c0d53c227e74e02a680e7478998525ef528d3349fbf2cd2f24d280386ec133"
+    "content_hash": "3bd171baaf3728bef155a0aae94e70d612f7665e8d53645857b947c7ee2f7c70"
+  },
+  {
+    "slug": "insider_reveals_samsungs_plans_to_completely_overhaul_one_ui_10-news-75097",
+    "url": "https://www.gsmarena.com/insider_reveals_samsungs_plans_to_completely_overhaul_one_ui_10-news-75097.php",
+    "date": "17 October 2026",
+    "fetched_at": "2026-10-17T13:22:25.443246+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4515596f2c158196e453f4cff45188d7fd2a8d9954c71152139172bc8adecdd6"
+  },
+  {
+    "content_hash": "7aacae16266fa8dace915b241978a5085e82f3ed17438c95ff9002ba851c2daf",
+    "date": "17 October 2026",
+    "fetched_at": "2026-10-17T08:09:29.689194+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_16r_z12_turbos_chipset_leaks_along_with_its_screen_size-news-75094",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_16r_z12_turbos_chipset_leaks_along_with_its_screen_size-news-75094.php"
+  },
+  {
+    "content_hash": "67c0d53c227e74e02a680e7478998525ef528d3349fbf2cd2f24d280386ec133",
+    "date": "17 October 2026",
+    "fetched_at": "2026-10-17T08:09:14.686464+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_v80_goes_global-news-75090",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_v80_goes_global-news-75090.php"
   },
   {
     "content_hash": "4c1a0e2f1bbf584e0b1f1e0724edb2233717f1e4bc1829511fa6ee0279b2d649",
