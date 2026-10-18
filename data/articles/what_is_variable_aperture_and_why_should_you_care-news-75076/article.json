@@ -1,0 +1,250 @@
+{
+  "url": "https://www.gsmarena.com/what_is_variable_aperture_and_why_should_you_care-news-75076.php",
+  "slug": "what_is_variable_aperture_and_why_should_you_care-news-75076",
+  "title": "What is variable aperture and why should you care?",
+  "news_id": "75076",
+  "date": "18 October 2026",
+  "author": "Prasad",
+  "tags": [
+    "Featured",
+    "Apple",
+    "Digital cameras"
+  ],
+  "body_paragraphs": [
+    "The iPhone 18 Pro is the first iPhone model to feature a variable aperture, a headlining feature for this year's Pro models. An adjustable aperture has been an invaluable tool for photographers on professional and prosumer camera systems, and its absence from mobile cameras has become increasingly conspicuous as everything else on these devices has leveled up.",
+    "There have been a handful of phones over the years that featured a variable aperture system for their main camera. However, the feature never stuck around long enough to enter the lexicon of the average smartphone user, as most manufacturers who experimented with it abandoned it shortly after in favor of the fixed-aperture systems phone cameras have traditionally used.",
+    "There is an argument to be made that the iPhone getting a feature might be the quickest way for it to enter the mainstream consciousness. However, variable aperture for the camera might just be nerdy enough that people who have it on their phone might not know how it works or even that it exists. Which would be a shame, as you could do some cool things with it.",
+    "So here's something that will get you up to speed on a technique photographers and cinematographers have relied upon for decades to get the perfect shot, and how you can get the most out of that new iPhone 18 Pro that you just purchased.",
+    "But first…",
+    "Aperture is a common photographic term, but English speakers would know that the word simply means a hole or an opening. An aperture on a camera or a lens is the opening through which light enters the camera system and exposes the film or the image sensor. A variable aperture is one where you control the diameter of the aperture and thus the amount of light entering the system.",
+    "The aperture system usually works by having a ring of blades that move in or out to adjust the size of the opening, and this can be done electronically with motors or mechanically on certain camera lenses. This adjusts the diameter of the aperture, the same way the iris of the eye expands or contracts to adjust the size of the pupil. The principle is the same; the aperture gets wider to let more light in when it's dark and narrower when it's bright.",
+    "The aperture size is not typically stated in conventional distance units but rather as a ratio between the lens's focal length and the diameter of the aperture, in a value known as the F-number or the F-stop. This is why aperture sizes are traditionally found written as f/1.8, f/2.5, f/11, etc., and since they are ratios, the smaller the number, the bigger the actual aperture diameter is. It also allows the numbers to be comparable across different camera systems, as f/2.8 on one system will allow the same amount of light in as f/2.8 on a different camera system, with different sensor and lens sizes.",
+    "However, aperture is only one of the four main ways you can adjust the light capture of your camera; the other three being shutter speed, ISO, and a physical filter over the lens. For the time being, we will ignore filters — even though they are certainly an option for iPhones — and focus on the other two.",
+    "The shutter speed of the camera is how long the film or the image sensor is exposed to light. Typically, the shutter is only open for a fraction of a second, so you'll see it being written as 1/250 or 1/8, which is a measure of how much of a second it's open for. For smartphone cameras without a mechanical shutter, the sensor is technically always exposed to light (which is also how the viewfinder works), so the shutter speed instead denotes the time for which it is actively exposing for the image. A longer shutter speed allows more light to be captured, but increases motion blur in case the camera or the subject moves. On the other hand, reducing the shutter speed to capture a perfectly still image will create a darker image, with everything else being equal.",
+    "ISO (pronounced aye-sow) tells you the sensitivity of the image sensor. Back in the day, ISO value denoted the light sensitivity of the photographic film, but in the digital world it refers more to how much gain is being applied to the sensor. The image sensor has a base native ISO, optimized for the best signal-to-noise ratio. By boosting the ISO value, you increase the gain, which indiscriminately increases both the signal and the noise. This is why increasing ISO does make the image brighter, but also increases the noise in the image.",
+    "ISO is usually denoted in values like ISO 80, ISO 160, ISO 320, etc., with the lowest number usually being the base ISO. The numbers don't mean much themselves but rather tell you how much the sensitivity has increased relative to each other. So ISO 200 means it's twice as sensitive as ISO 100.",
+    "The reason for this digression is that aperture is part of a three-way dance between it, shutter speed, and ISO that the camera has to do each time to expose the shot correctly. Understanding and utilizing aperture settings requires understanding how it relates to shutter speed and ISO, and how they affect each other.",
+    "Now, let's look at what controlling aperture on your iPhone 18 Pro, or any camera with this option, can do.",
+    "Motion",
+    "One of the critical factors for deciding the look of a video is how motion appears in it, and it's decided primarily by the frame rate and shutter speed. There is an established relationship between them, defined by the 180-degree shutter rule that cinematographers typically follow. According to the rule, the denominator of your shutter speed should typically be twice the number of your frame rate, so for 24fps, you should ideally use 1/48 or 1/50 shutter speed, whichever is available.",
+    "However, picking this ideal shutter speed for video isn't always feasible, as depending on the light, it could make the video too bright. This is where other things like ISO, filters, and, of course, aperture come in. With an adjustable aperture, you can reduce the amount of light hitting the sensor, and thus maintain your ideal shutter speed.",
+    "First, let's look at this sample clip, where a moving object is first shot with a high shutter speed and later with a more appropriate shutter speed. You can see how the motion in the first segment is jittery, typical of smartphone-shot footage, while the second one looks much more natural and, dare I say (for a clip of a fidget spinner), cinematic.",
+    "Seeing still frames from both shots shows this more clearly. The difference between the two is that the first is shot with an f/1.46 aperture and a short shutter speed, and the second with f/4 and a longer shutter speed. With the aperture narrowed, the phone automatically picked a longer shutter speed to compensate, creating smoother motion. In other words, the difference in motion is coming from the shutter speed being different as a result of the aperture, and not due to the aperture itself.",
+    "f/1.46 • f/4",
+    "Unlike photos, you want some motion blur in videos for a more natural look, which is why films, despite their relatively low 24fps frame rate, tend to look so smooth and natural. The jittery, high shutter speed video looks very unnatural, but it has been the norm for smartphone videos shot in bright lighting, as the only knobs they could adjust in the past were shutter speed and ISO to maintain exposure. But when you throw variable aperture into the mix, there is now another knob for you or the phone to adjust. Unlike shutter speed, aperture does not have any direct effect on how motion appears in the shot, so you can turn it down instead of shutter speed to get your desired look, and still maintain correct exposure.",
+    "Of course, in very bright lighting, you'd still need to use a neutral density or ND filter, which further blocks harsh light from overwhelming the sensor and lets you keep both your shutter speed and aperture values for the intended look. However, that's only for serious shoots and super bright scenarios, and in most cases now, you can get away with just making the aperture smaller on the iPhone 18 Pro.",
+    "Bottom line: You can pick smaller aperture sizes and use slower shutter speeds to get smoother, more cinematic videos without overexposing them.",
+    "Depth of field",
+    "Depth of field is the space around the plane of focus, within which things remain in focus. A shallow depth of field will cause anything immediately behind or ahead of the plane of focus to remain unfocused. On the other hand, a deeper depth of field allows more objects ahead and behind to remain in focus. A shallow depth of field can be more pleasing but can severely constrict the area of focus around the subject. A deeper depth of field may not look as nice but is more practical for keeping more of the subject in focus.",
+    "Depth of field is affected by the distance of the subject to the camera, focal length, sensor size, and yes, aperture. With all else being the same, changing the aperture size lets you capture the same overall frame, but the angle at which light enters the camera changes dramatically. A wider aperture makes light enter at broader angles, thereby vastly constricting the depth of field and requiring more precise focus. A narrower aperture causes light to enter at shallower angles, stretching out the depth of field and making it easier to focus.",
+    "f/1.46 • f/1.8 • f/2.8 • f/4",
+    "This one is a bit obvious, but it's still worth showing it in action on the iPhone 18 Pro. The main camera doesn't have the closest focusing distance to show this effectively, but you can still see it well enough in these samples. In the first set, you can see how very little of the can is in focus at f/1.46, but it gets gradually sharper as the focus plane expands and covers more area. This set also shows why the iPhone 18 Pro defaults to f/1.8 for most shots, as f/1.46 can be very soft for close-ups due to its minuscule focusing plane.",
+    "This is another area where dialing a setting down instead of up can be the recommended option. A shallow depth of field can look cool, but not if half of the subject is out of focus, and you can't even tell what part is in focus anymore. Phone cameras have had this happening to them for a while now as sensor and aperture sizes both keep getting larger in unison, and close-up shots essentially have 2mm of the subject in focus with heavy fringing around it. Manual aperture control can provide some relief in this instance.",
+    "Bottom line: You can pick smaller apertures for better detail and less fringing on close-up shots, or larger apertures for shallower depth of field and better background separation.",
+    "Detail",
+    "One downside of a wide aperture and the resulting shallower depth of field is that the image as a whole can get softer. Landscape photographers know that for maximum sharpness, you don't go for the maximum aperture size, but rather head in the other direction and stop it down aggressively.",
+    "A good thing about variable aperture on a phone is not just that you can make it wider, but more importantly, smaller. This can, in theory, make the image sharper and get more out of the resolution of the sensor.",
+    "Image Detail: f/1.46 vs. f/4",
+    "In practice, things didn't change dramatically on the iPhone 18 Pro while shooting on either end of the aperture spectrum, and comparing images shot at f/1.46 and f/4 felt like splitting hairs, as the differences were minimal. We even shot the images in RAW before exporting them to JPEG in Lightroom to avoid the iPhone software potentially compensating for the different apertures. At best, the f/4 image had better corner sharpness (where you'd notice the differences anyway) and less purple fringing around high-contrast subjects. On the other hand, they also exhibited starburst patterns around bright specular highlights, as is typical of small apertures with fewer blades.",
+    "This means you can choose the smaller aperture sizes if you value maximum corner-to-corner sharpness in your images, especially when shooting in RAW at full 48MP resolution. However, if light levels aren't sufficient, or if the starburst pattern isn't desirable, you can get away with shooting in the wider apertures without losing a meaningful amount of detail.",
+    "Bottom line: You can pick smaller apertures for slightly more detail while shooting landscapes at higher resolutions.",
+    "Exposure",
+    "The most obvious use of aperture control is adjusting the amount of light captured by the camera. It's also the least interesting or meaningful use for it.",
+    "Adjusting aperture simply to make the image brighter or darker isn't a particularly good use for the feature on the iPhone 18 Pro. For one, there doesn't seem to make much sense to reduce the light coming in if it's not for one of the aforementioned reasons. You'll always be better off with a wider aperture in that case, which is why most phones just ship with a wide aperture by default.",
+    "Second, the 18 Pro aperture can go wider than previous iPhones (f/1.46 vs f/1.8), but the difference usually isn't massive for light levels. The reason for that is that the software can deftly control ISO and shutter speed values to compensate. Moreover, unlike regular cameras, smartphones like the iPhone have night mode, which takes long exposures and stacks multiple images to further improve image quality in low light. So in practice, you never really have to mess with the aperture setting for this specific purpose.",
+    "The images above were captured with the four available aperture settings to demonstrate the difference. To make the difference actually visible, the shutter speed was locked and the night mode was manually disabled. The quality is obviously bad, but this way, you can see a difference between the four aperture sizes; in typical usage, this difference won't be as obvious.",
+    "As an aside, the iPhone Camera app exposes only four aperture values of f/1.46, f/1.8, f/2.8, and f/4. However, that doesn't mean the variable aperture system is limited to those values. Third-party camera apps like Optika have as many as nine different aperture settings available, all of which offer much more fine-grained control over the aperture blades. Having to download a third-party app to get full control over the hardware doesn't feel great. But then again, you probably should, because the iPhone Camera app still doesn't offer ISO control, which you get in other apps, and it significantly improves your control over the photographic process.",
+    "Bottom line: The larger apertures can be brighter and have less noise, but the phone will do this automatically anyway so you don't need to bother with it.",
+    "The variable aperture feature on the iPhone 18 Pro may not be new or revolutionary. However, it can still be a useful tool in your arsenal if you know how to use it, which hopefully you now do if you made it this far into the article. The times where it is at its most effective, it can make a substantial difference to how things look, and videographers will especially appreciate how much nicer it can make motion appear in their shots without having to reach for their NDs.",
+    "It's also yet another thing for users to experiment and learn with, which is never a bad thing. This could very well be how you learn how photography on proper cameras works, and decide to get into the hobby.",
+    "Having said that, there are a few things Apple can improve to make things better for everyone. For one, the variable aperture feature is only available on the main camera on the 18 Pro, which is a bummer. At the very least, the telephoto camera also deserves to get this feature, which we hope happens in the future.",
+    "Second, the iPhone Camera app UI is starting to get increasingly cluttered; Apple keeps adding more camera options, which is a good thing, but the features sort of just all get lumped together into a single menu, which is starting to get rather long and makes sorting the useful stuff from the non-essential stuff hard. You also have to go back and forth through the menu to adjust different settings, and the quick toggles only become available once a setting has been changed, and disappear once it goes back to default. What the iPhone Camera app needs desperately is a Pro mode with all the relevant options on a separate screen so it stops being cumbersome to serious photographers and overwhelming to casual users.",
+    "That aside, it was fun to experiment with this feature on the iPhone 18 Pro, and hopefully Apple keeps it around and improves upon it on future models. We also hope other manufacturers bring this feature back, at least on their flagship devices, as it's always nice to have more options available for consumers."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_001.jpg",
+      "alt": "What is variable aperture and why should you care?"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_030.gif",
+      "alt": "Image source: iFixit"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_003.jpg",
+      "alt": "What is variable aperture and why should you care?"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_004.jpg",
+      "alt": "What is variable aperture and why should you care?"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_005.jpg",
+      "alt": "What is variable aperture and why should you care?"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_006.jpg",
+      "alt": "f/1.46"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_007.jpg",
+      "alt": "f/4"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_029.jpg",
+      "alt": "Image source: 1st Vision"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_008.jpg",
+      "alt": "f/1.46"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_009.jpg",
+      "alt": "f/1.8"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_010.jpg",
+      "alt": "f/2.8"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_011.jpg",
+      "alt": "f/4"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_012.jpg",
+      "alt": "f/1.46"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_013.jpg",
+      "alt": "f/1.8"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_014.jpg",
+      "alt": "f/2.8"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_015.jpg",
+      "alt": "f/4"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_016.jpg",
+      "alt": "f/1.46"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_017.jpg",
+      "alt": "f/4"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_018.jpg",
+      "alt": "f/1.46"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_019.jpg",
+      "alt": "f/4"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_020.jpg",
+      "alt": "f/1.46"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_021.jpg",
+      "alt": "f/4"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_022.jpg",
+      "alt": "f/1.46"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_023.jpg",
+      "alt": "f/4"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_024.jpg",
+      "alt": "f/1.46"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_025.jpg",
+      "alt": "f/1.8"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_026.jpg",
+      "alt": "f/2.8"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_027.jpg",
+      "alt": "f/4"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/what_is_variable_aperture_and_why_should_you_care-news-75076/immaculate_028.jpg",
+      "alt": "What is variable aperture and why should you care?"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-variable-aperture-test/Fidget.mp4",
+      "title": ""
+    },
+    {
+      "url": "https://fdn.gsmarena.com/imgroot/news/26/10/iphone-variable-aperture-test/Ducks.mp4",
+      "title": ""
+    }
+  ],
+  "fetched_at": "2026-10-18T22:05:40.428381+00:00",
+  "title_tr": "Değişken diyafram nedir ve neden önemsemelisiniz?",
+  "body_paragraphs_tr": [
+    "IPhone 18 Pro, bu yılın Pro modelleri için bir başlık özelliği olan değişken diyafram özelliğine sahip ilk iPhone modelidir. Ayarlanabilir bir diyafram, profesyonel ve prosumer kamera sistemlerinde fotoğrafçılar için paha biçilmez bir araç olmuştur ve bu cihazlardaki diğer her şey düzleştikçe mobil kameralardan yoksunluğu giderek daha belirgin hale gelmiştir.",
+    "Yıllar boyunca, ana kameraları için değişken bir diyafram sistemine sahip bir avuç telefon oldu. Bununla birlikte, bu özellik hiçbir zaman ortalama akıllı telefon kullanıcısının sözlüğüne girecek kadar uzun sürmedi, çünkü onunla deney yapan çoğu üretici kısa bir süre sonra telefon kameralarının geleneksel olarak kullandığı sabit diyaframlı sistemler lehine onu terk etti.",
+    "IPhone'un bir özelliğe sahip olmasının ana akım bilincine girmesinin en hızlı yolu olabileceğine dair bir argüman var. Bununla birlikte, kamera için değişken diyafram açıklığı, telefonlarında bulunan kişilerin nasıl çalıştığını ve hatta var olduğunu bilemeyecek kadar inekçe olabilir. Bu utanç verici olurdu, çünkü onunla harika şeyler yapabilirdin.",
+    "İşte size fotoğrafçıların ve sinematografların mükemmel çekimi elde etmek için onlarca yıldır güvendikleri bir teknik ve yeni satın aldığınız yeni iPhone 18 Pro'dan en iyi şekilde nasıl yararlanabileceğiniz konusunda hız kazandıracak bir şey.",
+    "Ama önce... ",
+    "Diyafram yaygın bir fotoğrafik terimdir, ancak İngilizce konuşanlar kelimenin basitçe bir delik veya açıklık anlamına geldiğini bilirler. Bir kamera veya mercek üzerindeki bir açıklık, ışığın kamera sistemine girdiği ve filmi veya görüntü sensörünü ortaya çıkardığı açıklıktır. Değişken diyafram, diyaframın çapını ve dolayısıyla sisteme giren ışık miktarını kontrol ettiğiniz diyaframdır.",
+    "Açıklık sistemi genellikle açıklığın boyutunu ayarlamak için içeri veya dışarı hareket eden bir bıçak halkasına sahip olarak çalışır ve bu, motorlarla elektronik olarak veya belirli kamera lenslerinde mekanik olarak yapılabilir. Bu, göz açıklığının çapını ayarlar, aynı şekilde gözün irisi göz bebeğinin boyutunu ayarlamak için genişler veya daralır. Prensip aynıdır; açıklık, karanlık olduğunda daha fazla ışığın içeri girmesine izin vermek için genişler ve parlak olduğunda daha dardır.",
+    "Açıklık boyutu tipik olarak geleneksel mesafe birimlerinde değil, lensin odak uzaklığı ile açıklığın çapı arasındaki bir oran olarak, F sayısı veya F durağı olarak bilinen bir değerde belirtilir. Bu nedenle açıklık boyutları geleneksel olarak f/1.8, f/2.5, f/11 vb. olarak yazılır ve oranlar olduğundan, sayı ne kadar küçükse, gerçek açıklık çapı o kadar büyüktür. Ayrıca, bir sistemdeki f/2.8, farklı sensör ve lens boyutlarına sahip farklı bir kamera sisteminde f/2.8 ile aynı miktarda ışığa izin vereceğinden, sayıların farklı kamera sistemlerinde karşılaştırılabilir olmasını sağlar.",
+    "Bununla birlikte, diyafram, kameranızın ışık yakalamasını ayarlayabileceğiniz dört ana yoldan sadece biridir; diğer üçü deklanşör hızı, ISO ve lens üzerindeki fiziksel filtredir. Şimdilik, iPhone'lar için kesinlikle bir seçenek olmasına rağmen filtreleri görmezden geleceğiz ve diğer ikisine odaklanacağız.",
+    "Kameranın enstantane hızı, filmin veya görüntü sensörünün ışığa maruz kaldığı süredir. Tipik olarak, deklanşör sadece bir saniyenin bir kesri kadar açıktır, bu nedenle 1/250 veya 1/8 olarak yazıldığını göreceksiniz, bu da ne kadar açık olduğunun bir ölçüsüdür. Mekanik deklanşörsüz akıllı telefon kameraları için, sensör teknik olarak her zaman ışığa maruz kalır (bu aynı zamanda vizörün nasıl çalıştığıdır), bu nedenle deklanşör hızı bunun yerine görüntü için aktif olarak maruz kaldığı süreyi gösterir. Daha uzun bir deklanşör hızı, daha fazla ışığın yakalanmasını sağlar, ancak kamera veya konunun hareket etmesi durumunda hareket bulanıklığını artırır. Öte yandan, mükemmel bir sabit görüntü yakalamak için deklanşör hızını azaltmak, diğer her şey eşitken daha koyu bir görüntü oluşturacaktır.",
+    "ISO (aye - sw olarak telaffuz edilir) size görüntü sensörünün hassasiyetini söyler. Geçmişte, ISO değeri fotoğraf filminin ışık hassasiyetini gösterirdi, ancak dijital dünyada daha çok sensöre ne kadar kazanç uygulandığını ifade eder. Görüntü sensörü, en iyi sinyal - gürültü oranı için optimize edilmiş bir temel yerel ISO'ya sahiptir. ISO değerini artırarak, hem sinyali hem de gürültüyü rastgele artıran kazancı artırırsınız. Bu nedenle ISO'yu artırmak görüntüyü daha parlak hale getirir, ancak aynı zamanda görüntüdeki gürültüyü de artırır.",
+    "ISO genellikle ISO 80, ISO 160, ISO 320 vb. gibi değerlerle gösterilir ve en düşük sayı genellikle temel ISO'dur. Rakamlar kendi başlarına pek bir şey ifade etmiyor, aksine hassasiyetin birbirine göre ne kadar arttığını söylüyor. Yani ISO 200, ISO 100 'den iki kat daha hassas olduğu anlamına gelir.",
+    "Bu ayrışmanın nedeni, diyaframın, çekim hızını ve ISO'yu doğru bir şekilde ortaya çıkarmak için kameranın her seferinde yapması gereken üç yönlü bir dansın parçası olmasıdır. Diyafram ayarlarını anlamak ve kullanmak, deklanşör hızı ve ISO ile nasıl ilişkili olduğunu ve birbirlerini nasıl etkilediklerini anlamayı gerektirir.",
+    "Şimdi, iPhone 18 Pro'nuzdaki veya bu seçeneğe sahip herhangi bir kameradaki diyaframı kontrol etmenin neler yapabileceğine bakalım.",
+    "Hareket",
+    "Bir videonun görünümüne karar vermenin kritik faktörlerinden biri, içinde hareketin nasıl göründüğüdür ve buna öncelikle kare hızı ve enstantane hızı karar verir. Aralarında, sinematografların tipik olarak izlediği 180 derecelik deklanşör kuralıyla tanımlanan yerleşik bir ilişki vardır. Kurala göre, deklanşör hızınızın paydası genellikle kare hızınızın iki katı olmalıdır, bu nedenle 24 fps için ideal olarak 1/48 veya 1/50 deklanşör hızı kullanmalısınız (hangisi uygunsa).",
+    "Bununla birlikte, video için bu ideal deklanşör hızını seçmek her zaman mümkün değildir, çünkü ışığa bağlı olarak videoyu çok parlak hale getirebilir. ISO, filtreler ve tabii ki açıklık gibi diğer şeylerin devreye girdiği yer burasıdır. Ayarlanabilir bir diyafram ile sensöre çarpan ışık miktarını azaltabilir ve böylece ideal obtüratör hızınızı koruyabilirsiniz.",
+    "Öncelikle hareketli bir nesnenin önce yüksek obtüratör hızıyla, daha sonra daha uygun obtüratör hızıyla çekildiği bu örnek klibe bakalım. İlk bölümdeki hareketin nasıl gergin olduğunu, akıllı telefon çekimlerinde tipik olduğunu görebilirsiniz, ikincisi ise çok daha doğal ve (bir kıpır kıpır dönen bir klip için) sinematik görünüyor.",
+    "Her iki kareden de hareketsiz kareler görmek bunu daha net gösterir. İkisi arasındaki fark, birincisinin f/1.46 diyafram ve kısa deklanşör hızıyla, ikincisinin ise f/4 ve daha uzun deklanşör hızıyla çekilmesidir. Diyafram açıklığı daraldığında, telefon telafi etmek için otomatik olarak daha uzun bir deklanşör hızı seçerek daha yumuşak bir hareket yarattı. Başka bir deyişle, hareket farkı, açıklığın kendisinden değil, açıklığın bir sonucu olarak deklanşör hızının farklı olmasından kaynaklanmaktadır.",
+    "f/1.46 • f/4",
+    "Fotoğrafların aksine, daha doğal bir görünüm için videolarda biraz hareket bulanıklığı istersiniz, bu nedenle filmler nispeten düşük 24 fps kare hızına rağmen bu kadar pürüzsüz ve doğal görünme eğilimindedir. Gergin, yüksek deklanşör hızlı video çok doğal görünmüyor, ancak geçmişte ayarlayabildikleri tek düğme deklanşör hızı ve pozlamayı korumak için ISO olduğu için parlak ışıkta çekilen akıllı telefon videoları için norm olmuştur. Ancak karışıma değişken diyafram açıklığı eklediğinizde, artık sizin veya telefonun ayarlaması için başka bir düğme var. Obtüratör hızının aksine, diyaframın çekimde hareketin nasıl göründüğü üzerinde doğrudan bir etkisi yoktur, bu nedenle istediğiniz görünümü elde etmek için obtüratör hızı yerine onu kısabilir ve yine de doğru pozlamayı koruyabilirsiniz.",
+    "Tabii ki, çok parlak ışıkta, yine de sert ışığın sensörü bastırmasını engelleyen ve hem deklanşör hızınızı hem de diyafram değerlerinizi amaçlanan görünüm için korumanıza izin veren nötr bir yoğunluk veya ND filtresi kullanmanız gerekir. Bununla birlikte, bu yalnızca ciddi çekimler ve süper parlak senaryolar içindir ve çoğu durumda, diyaframı iPhone 18 Pro'da daha küçük hale getirebilirsiniz.",
+    "Sonuç: Daha küçük diyafram boyutları seçebilir ve aşırı pozlama yapmadan daha pürüzsüz, daha sinematik videolar elde etmek için daha yavaş deklanşör hızları kullanabilirsiniz.",
+    "Alan derinliği",
+    "Alan derinliği, şeylerin odakta kaldığı odak düzleminin etrafındaki alandır. Sığ bir alan derinliği, odak düzleminin hemen arkasındaki veya ilerisindeki herhangi bir şeyin odaklanmamasına neden olacaktır. Öte yandan, daha derin bir alan derinliği, ileride ve arkada daha fazla nesnenin odakta kalmasını sağlar. Sığ bir alan derinliği daha hoş olabilir, ancak konunun etrafındaki odak alanını ciddi şekilde daraltabilir. Daha derin bir alan derinliği hoş görünmeyebilir, ancak konuyu daha fazla odakta tutmak için daha pratiktir.",
+    "Alan derinliği, nesnenin kameraya olan mesafesinden, odak uzunluğundan, sensör boyutundan ve evet diyaframdan etkilenir. Diğer her şey aynıyken, diyafram boyutunu değiştirmek aynı genel kareyi yakalamanıza olanak tanır, ancak ışığın kameraya girdiği açı önemli ölçüde değişir. Daha geniş bir diyafram, ışığın daha geniş açılardan girmesini sağlar, böylece alan derinliğini büyük ölçüde daraltır ve daha hassas odaklama gerektirir. Daha dar bir açıklık, ışığın daha sığ açılarda girmesine neden olarak alan derinliğini uzatır ve odaklanmayı kolaylaştırır.",
+    "f/1,46 • f/1,8 • f/2,8 • f/4",
+    "Bu biraz açık, ancak yine de iPhone 18 Pro'da gösterilmeye değer. Ana kamera bunu etkili bir şekilde göstermek için en yakın odaklama mesafesine sahip değildir, ancak yine de bu örneklerde yeterince iyi görebilirsiniz. İlk sette, f/1.46 'da tenekenin ne kadar azının odakta olduğunu görebilirsiniz, ancak odak düzlemi genişledikçe ve daha fazla alanı kapladıkça giderek keskinleşir. Bu set ayrıca, f/1.46 'nın küçük odaklama düzlemi nedeniyle yakın çekimler için çok yumuşak olabileceğinden, iPhone 18 Pro'nun çoğu çekim için neden f/1.8' e varsayılan olduğunu da gösterir.",
+    "Bu, yukarı yerine bir ayarı aşağı çevirmenin önerilen seçenek olabileceği başka bir alandır. Sığ bir alan derinliği harika görünebilir, ancak konunun yarısı odak dışıysa ve artık hangi bölümün odakta olduğunu bile söyleyemiyorsanız. Telefon kameraları, sensör ve diyafram boyutlarının her ikisi de birlikte büyümeye devam ettiğinden ve yakın çekim çekimlerde esasen konunun 2 mm'lik kısmı odakta olduğundan, bir süredir bu durum yaşanıyor. Manuel diyafram kontrolü bu durumda bir miktar rahatlama sağlayabilir.",
+    "Sonuç: Yakın çekimlerde daha iyi ayrıntı ve daha az saçaklanma için daha küçük açıklıklar veya daha sığ alan derinliği ve daha iyi arka plan ayrımı için daha büyük açıklıklar seçebilirsiniz.",
+    "Detay",
+    "Geniş bir açıklığın ve bunun sonucunda ortaya çıkan daha sığ alan derinliğinin bir dezavantajı, görüntünün bir bütün olarak daha yumuşak hale gelebilmesidir. Manzara fotoğrafçıları, maksimum netlik için maksimum diyafram boyutuna gitmediğinizi, bunun yerine diğer yöne yönelip agresif bir şekilde durdurduğunuzu bilir.",
+    "Bir telefondaki değişken diyafram açıklığıyla ilgili iyi bir şey, sadece onu daha geniş değil, daha da önemlisi daha küçük hale getirebilmenizdir. Bu, teoride, görüntüyü daha keskin hale getirebilir ve sensörün çözünürlüğünden daha fazla yararlanabilir.",
+    "Görüntü Detayı: f/1.46 vs. f/4",
+    "Uygulamada, diyafram spektrumunun her iki ucunda çekim yaparken iPhone 18 Pro'da işler önemli ölçüde değişmedi ve f/1.46 ve f/4 'te çekilen görüntüleri karşılaştırmak, farklılıklar minimum olduğu için tüyleri ayırmak gibi hissettirdi. İPhone yazılımının farklı diyaframları potansiyel olarak telafi etmesini önlemek için görüntüleri Lightroom'da JPEG'e aktarmadan önce RAW olarak bile çektik. En iyi ihtimalle, f/4 görüntüsü daha iyi köşe keskinliğine (farklılıkları zaten fark edeceğiniz yerde) ve yüksek kontrastlı nesnelerin etrafında daha az mor saçağa sahipti. Öte yandan, daha az kanatlı küçük açıklıklarda tipik olduğu gibi, parlak speküler vurgular etrafında yıldız patlaması desenleri de sergilediler.",
+    "Bu, resimlerinizde maksimum köşeden köşeye netliğe değer veriyorsanız, özellikle tam 48 MP çözünürlükte RAW çekim yaparken daha küçük diyafram boyutlarını seçebileceğiniz anlamına gelir. Bununla birlikte, ışık seviyeleri yeterli değilse veya yıldız patlaması deseni istenmiyorsa, anlamlı miktarda ayrıntı kaybetmeden daha geniş diyaframlarda çekim yapabilirsiniz.",
+    "Sonuç: Manzaraları daha yüksek çözünürlüklerde çekerken biraz daha fazla ayrıntı için daha küçük diyaframlar seçebilirsiniz.",
+    "Maruz kalma / Maruziyet",
+    "Diyafram kontrolünün en belirgin kullanımı, kameranın yakaladığı ışık miktarını ayarlamaktır. Aynı zamanda bunun en az ilginç veya anlamlı kullanımıdır.",
+    "Görüntüyü daha parlak veya daha koyu hale getirmek için diyaframı ayarlamak, iPhone 18 Pro'daki özellik için özellikle iyi bir kullanım değildir. Birincisi, yukarıda belirtilen nedenlerden biri değilse, gelen ışığı azaltmak pek mantıklı görünmüyor. Bu durumda daha geniş bir diyafram açıklığıyla her zaman daha iyi durumda olursunuz, bu nedenle çoğu telefon varsayılan olarak geniş bir diyafram açıklığıyla gelir.",
+    "İkincisi, 18 Pro diyafram açıklığı önceki iPhone'lardan daha geniş olabilir (f/1.46 'ya karşı f/1.8), ancak fark genellikle ışık seviyeleri için büyük değildir. Bunun nedeni, yazılımın telafi etmek için ISO ve obtüratör hızı değerlerini ustaca kontrol edebilmesidir. Dahası, normal kameraların aksine, iPhone gibi akıllı telefonlar gece moduna sahiptir, bu da uzun pozlamalar gerektirir ve düşük ışıkta görüntü kalitesini daha da iyileştirmek için birden fazla görüntü yığar. Bu nedenle, pratikte, bu özel amaç için asla diyafram ayarını bozmak zorunda kalmazsınız.",
+    "Yukarıdaki görüntüler, farkı göstermek için mevcut dört diyafram ayarıyla çekilmiştir. Farkı gerçekten görünür kılmak için deklanşör hızı kilitlendi ve gece modu manuel olarak devre dışı bırakıldı. Kalite açıkça kötüdür, ancak bu şekilde, dört diyafram boyutu arasında bir fark görebilirsiniz; tipik kullanımda, bu fark o kadar belirgin olmayacaktır.",
+    "Ayrıca, iPhone Kamera uygulaması f/1,46, f/1,8, f/2,8 ve f/4 olmak üzere yalnızca dört diyafram değeri gösterir. Ancak bu, değişken açıklık sisteminin bu değerlerle sınırlı olduğu anlamına gelmez. Optika gibi üçüncü taraf kamera uygulamaları, hepsi diyafram bıçakları üzerinde çok daha ince taneli kontrol sunan dokuz farklı diyafram ayarına sahiptir. Donanım üzerinde tam kontrol sahibi olmak için üçüncü taraf bir uygulama indirmek zorunda kalmak iyi hissettirmiyor. Ama yine de, muhtemelen yapmalısınız, çünkü iPhone Kamera uygulaması hala diğer uygulamalarda elde ettiğiniz ISO kontrolünü sunmuyor ve fotoğrafik süreç üzerindeki kontrolünüzü önemli ölçüde artırıyor.",
+    "Sonuç: Daha büyük diyaframlar daha parlak olabilir ve daha az gürültüye sahip olabilir, ancak telefon bunu yine de otomatik olarak yapacaktır, böylece bununla uğraşmanıza gerek kalmaz.",
+    "IPhone 18 Pro'daki değişken diyafram özelliği yeni veya devrim niteliğinde olmayabilir. Bununla birlikte, nasıl kullanılacağını biliyorsanız, cephaneliğinizde hala yararlı bir araç olabilir, ki umarım şimdi makalenin bu kadar içine girdiyseniz bunu yaparsınız. En etkili olduğu zamanlarda, işlerin nasıl göründüğü konusunda önemli bir fark yaratabilir ve videograflar, ND'lerine ulaşmak zorunda kalmadan hareketin çekimlerinde ne kadar güzel görünmesini sağlayabileceğini özellikle takdir edeceklerdir.",
+    "It's also yet another thing for users to experiment and learn with, which is never a bad thing. This could very well be how you learn how photography on proper cameras works, and decide to get into the hobby.",
+    "Having said that, there are a few things Apple can improve to make things better for everyone. For one, the variable aperture feature is only available on the main camera on the 18 Pro, which is a bummer. At the very least, the telephoto camera also deserves to get this feature, which we hope happens in the future.",
+    "Second, the iPhone Camera app UI is starting to get increasingly cluttered; Apple keeps adding more camera options, which is a good thing, but the features sort of just all get lumped together into a single menu, which is starting to get rather long and makes sorting the useful stuff from the non-essential stuff hard. You also have to go back and forth through the menu to adjust different settings, and the quick toggles only become available once a setting has been changed, and disappear once it goes back to default. What the iPhone Camera app needs desperately is a Pro mode with all the relevant options on a separate screen so it stops being cumbersome to serious photographers and overwhelming to casual users.",
+    "That aside, it was fun to experiment with this feature on the iPhone 18 Pro, and hopefully Apple keeps it around and improves upon it on future models. We also hope other manufacturers bring this feature back, at least on their flagship devices, as it's always nice to have more options available for consumers."
+  ],
+  "tags_tr": [
+    "Featured",
+    "Apple",
+    "Digital cameras"
+  ]
+}
