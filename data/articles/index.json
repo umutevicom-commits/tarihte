@@ -1,33 +1,43 @@
 [
   {
-    "slug": "vivo_v80_in_for_review-news-75087",
-    "url": "https://www.gsmarena.com/vivo_v80_in_for_review-news-75087.php",
+    "slug": "weekly_poll_would_you_get_a_oneplus_16_if_you_could-news-75067",
+    "url": "https://www.gsmarena.com/weekly_poll_would_you_get_a_oneplus_16_if_you_could-news-75067.php",
+    "date": "18 October 2026",
+    "fetched_at": "2026-10-18T13:41:25.302782+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f39013229828c12070704b0be965845296352ab29422d69cf91a0baa426c90ab"
+  },
+  {
+    "content_hash": "e1904e250dff94e4666cd31733ab2b52529f0f2bf53f6df7f99e8f2fb49fb524",
     "date": "18 October 2026",
     "fetched_at": "2026-10-18T08:27:18.288982+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e1904e250dff94e4666cd31733ab2b52529f0f2bf53f6df7f99e8f2fb49fb524"
+    "retries": 0,
+    "slug": "vivo_v80_in_for_review-news-75087",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_v80_in_for_review-news-75087.php"
   },
   {
-    "slug": "weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069",
-    "url": "https://www.gsmarena.com/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069.php",
+    "content_hash": "f1a82c8dd0ea1ba46e67f4318ea3a4b126324775340dca90bed6e14989e24f29",
     "date": "18 October 2026",
     "fetched_at": "2026-10-18T08:26:52.432548+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f1a82c8dd0ea1ba46e67f4318ea3a4b126324775340dca90bed6e14989e24f29"
+    "retries": 0,
+    "slug": "weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069.php"
   },
   {
-    "slug": "deals_galaxy_z_fold8_is_on_sale_as_the_iphone_duo_launches_other_foldables_also_discounted-news-75088",
-    "url": "https://www.gsmarena.com/deals_galaxy_z_fold8_is_on_sale_as_the_iphone_duo_launches_other_foldables_also_discounted-news-75088.php",
+    "content_hash": "f207f4919f0aed2e607b2ae086edfb73d9fbf444eb7ca3a5f7495a16483dce8f",
     "date": "18 October 2026",
     "fetched_at": "2026-10-18T08:26:16.735249+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f207f4919f0aed2e607b2ae086edfb73d9fbf444eb7ca3a5f7495a16483dce8f"
+    "retries": 0,
+    "slug": "deals_galaxy_z_fold8_is_on_sale_as_the_iphone_duo_launches_other_foldables_also_discounted-news-75088",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_galaxy_z_fold8_is_on_sale_as_the_iphone_duo_launches_other_foldables_also_discounted-news-75088.php"
   },
   {
     "content_hash": "b620a9411e6eb1e5d1be0619ee6acf3d54cddf1e1e4b7a0ef6b48c256f4c60f5",
