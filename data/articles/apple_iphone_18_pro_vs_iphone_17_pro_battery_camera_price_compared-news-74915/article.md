@@ -1,0 +1,423 @@
+# Apple iPhone 18 Pro ve iPhone 17 Pro karşılaştırması
+
+Şehirde yeni bir iPhone'umuz var, ancak asırlık soru devam ediyor: yeni iPhone'u alabilir miyim, yoksa geçen yılki model de aynı derecede iyi mi? Apple iPhone 18 Pro piyasaya sürüldüğünde, Apple modeli durdurduğu için Apple iPhone 17 Pro stoğu azalıyor. Bununla birlikte, hızlı hareket ederseniz, yeni iPhone gibi hissedecek, ancak daha düşük bir fiyata bir tane bulabilirsiniz. Ne de olsa, bu yılki güncellemeler oldukça mütevazı.
+
+Spesifikasyonların ötesine bakıldığında, iPhone 18 Pro belirli yönlerde bazı iyileştirmeler vaat ediyor, bu yüzden daha yakından bakalım ve nüansları bulmaya çalışalım.
+
+Yeni başlayanlar için, tüm özellik sayfalarını karşılaştırabilir veya aşağıdaki metinde doğrudan editörümüzün değerlendirmesine devam edebilirsiniz.
+
+Önceki iPhone nesli, gelecek nesiller için bir temel oluşturacak yeni tasarım dilini tanıtan nesildi, bu nedenle iki telefonun görünümünde neredeyse hiçbir değişiklik olmaması şaşırtıcı değil. Boyutlar bile, eski modelden bir örneği yenisine koyabileceğiniz nokta ile aynıdır.
+
+Ancak, dikkat etmiyorsanız, eskisinden daha dar olan ve böylece daha az ekran gayrimenkulü alan yeni Dinamik Ada'yı kaçırmak kolaydır. Bu, Apple'ın Dinamik Ada'da devam eden üç faaliyete katılmasını sağlıyor.
+
+Tabii ki yeni renkler de var. iPhone 18 Pro şimdi Siyah, Gümüş, Buzul ve Burgonya renklerinde geliyor ve ikincisi bu yıl kahraman rengi. 17 Pro ise Gümüş, Kozmik Turuncu ve Derin Mavi renklerde sunuluyor.
+
+Yeni iPhone Pro, selefi ile aynı 6,3 inç LTPO OLED ekrana sahip. Testlerimiz bunu doğruluyor ve desteklenen özellikler de bunu doğruluyor. Her iki durumda da, yansıtma önleyici özelliklere sahip parlak, özellik dolu bir ekran elde edersiniz.
+
+IPhone 18 Pro, önceki modele göre göz ardı edilebilir bir pil kapasitesi artışı sunuyor, bu nedenle başlangıçta herhangi bir dayanıklılık artışı beklemiyorduk, ancak hoş bir sürpriz yaşadık. Yeni Pro, tüm ekrandaki testlerimizde daha iyi sonuçlar elde etti ve sonuç olarak daha yüksek bir Aktif Kullanım Puanı aldı. Ayrıca, pil ömrü iyileştirmelerinin en iyi ihtimalle önemsiz olduğu iddia edilebilir.
+
+Bu testlerin fiziksel SIM kart yuvası olan ünitelerde yapıldığını belirtmek önemlidir, bu da yalnızca eSIM ünitelerinin daha büyük piller taşıdıkları için muhtemelen biraz daha yüksek puan alacağı anlamına gelir. Deneyimlerimize göre, fark pek de büyük değil.
+
+Apple, marjinal şarj hızı iyileştirmelerinin reklamını yaptı ve testlerimizden elde edilen sonuçlar şirketin iddialarını doğruladı. iPhone 18 Pro, 15 dakikalık kontrol noktasında sadece yüzde 2, 30 dakikada ise yüzde 4 daha hızlı görünüyor. Yine de, yeni Pro son turda öne geçiyor ve bitiş çizgisini yaklaşık 16 dakika daha hızlı geçiyor. Çok değil ama bir şey.
+
+Yeni modeldeki hoparlörlerin genel ayarında anlamlı bir değişiklik bulmakta zorlanıyoruz, bu yüzden kulağa eskisi kadar harika geliyorlar. Ancak ses yüksekliği söz konusu olduğunda, 18 Pro oldukça yüksek.
+
+Genellikle, bunun gibi küçük hoparlörlerin sesini artırdığınızda, daha kötü ses kalitesi elde edersiniz, ancak Apple ses yüksekliğini artırırken mükemmel çıkışı korumayı başardı, bu yüzden tebrik ederiz.
+
+Dürüst olmak gerekirse, bu yıl yeni iPhone'larla elde ettiğimiz nesillere layık tek yükseltme yonga seti. Yeni Apple A20 Pro SoC, iPhone 17 Pro'ya güç veren A19 Pro'dan önemli ölçüde daha güçlü görünüyor. Aynı zamanda daha verimli bir 2nm üretim sürecine dayanır ve yapay zeka ile ilgili görevlerden sorumlu iki kat daha fazla Neural Engine çekirdeği kullanır.
+
+Bununla birlikte, bağımsız testlerin, iPhone 18 Pro'nun 1 TB ve 2 TB sürümlerinin, depolama alanı % 60 'tan fazla dolduğunda yazma hızlarında önemli bir düşüş yaşayan QLC depolama alanı kullandığını ortaya çıkardığını unutmayın.
+
+Yeni A20 Pro çip, CPU ağırlıklı iş yüklerinde yaklaşık % 27 ve GPU testlerinde yaklaşık % 13 daha iyi performans gösteriyor. Bu performans kazanımları önemsiz olmaktan uzaktır, ancak kullanıcıların büyük çoğunluğu tarafından kolayca fark edilmeyebilirler. Amiral gemisi yonga setleri bugünlerde yeterince güçlü hale geldi.
+
+Apple geçen yıl birkaç önemli donanım değişikliği yaptı (yeni telefoto ve yeni selfie kamerası), bu nedenle 18 Pro yükseltmeleri minimumda tutuyor. Ana kamera, 17 Pro'dakine kıyasla geniş açık uçta daha parlak olan değişken diyafram lensine sahip. Aralık, iki ara ayar (f/1.8 ve f/2.8) ile f/1.48 ila f/4.0 'dır. 17 Artıların diyaframı f/1.78' e sabitlenmiştir.
+
+Teardowns, ana kamerada yeni bir sensör modelinin kullanıldığını, ancak yine de aynı temel özelliklere sahip olduğunu ortaya koydu: 1/1.28" optik format ve 48MP çözünürlük. Kamera, daha önce olduğu gibi sensör kaydırma görüntü sabitleme kullanır.
+
+Telefoto kamera, 4x optik zoom sağlayan 100 mm eşdeğer lensiyle geçen yılkiyle aynı kalıyor, ancak yakın odaklama eksikliği bir sorun olmaya devam ediyor. Ultra genişlik yaklaşık 13 mm eşdeğerindedir - yine değişmeden. Tüm bu sensörler 1/2.55 " optik formata ve 48MP nominal çözünürlüğe sahiptir.
+
+Geçen yıl olduğu gibi, her üç arka kamera da 24MP çekim yeteneği sunuyor ve bu da varsayılan ayar - bunu 0.5x, 1x ve 4x olarak elde ederken, 2x ve 8x yakınlaştırma seviyeleri 12MP'ye bağlı kalıyor. Yerel yakınlaştırma seviyelerinde, 48MP seçeneği de elde edersiniz.
+
+Selfie kamerası da değişmedi. Kare şeklindeki 18MP sensörü, telefonun kendisini döndürmek zorunda kalmadan dikey veya yatay yönde selfie çekmek için yeterli görüntü alanı sağlar.
+
+Bu yıl en önemlisi olabilecek yeni bir gelişme ve 18 Artıları ile 17 Artıları arasındaki gerçek önemli fark, kılık değiştirmiş manuel moddur. Ana kameranın diyaframına ek olarak deklanşör hızını ve beyaz dengesini ayarlama seçeneğiniz vardır, ancak manuel ISO ayarı hala eksiktir. Bu özel bir mod değildir ve her parametreyi bağlamsal ayarlar bölmesinden kendi alt menüsünden ayrı olarak ayarlamanız gerekir, ancak yine de 17 Artı'nın sahip olmadığı bir şeydir.
+
+Gün Işığı
+
+Ayrıca yeni neslin detay yorumunu daha çok seviyoruz - daha ince ve daha iyi tanımlanmış ve tutarlı bir şekilde. Yeni lens, yeni işlemci ve muhtemelen yeni sensör arasında, biraz daha iyi çekimler yapmak için yeterli iyileştirmeler olabilir.
+
+Gün ışığı karşılaştırması, ana kamera (1x): iPhone 18 Pro • iPhone 17 Pro
+
+Şimdi, sahnelerin büyük çoğunluğu için gün ışığında iPhone 18 Pro'daki geniş açık f/1.48 diyaframı manuel olarak seçmek için pek bir kullanım durumu görmüyoruz. Evet, bazı ekstra arka plan bulanıklığı elde etmek için duruyorsunuz, bu da yakındaki konuları izole etmeye çalışırken yararlı olabilir. Ayrıca, yeni modelin f/1.8 sonuçları eski modelin f/1.78 fotoğraflarından daha yumuşak görünüyor ve oradan f/1.48 'e geçiş biraz daha az fark ediliyor.
+
+Gün ışığı karşılaştırması, ana kamera (1x): iPhone 18 Pro, f/1.8 • iPhone 18 Pro, f/1.48 • iPhone 17 Pro, f/1.78
+
+2x'te, yeni nesil modeller de biraz daha keskin, ancak bir şekilde evrensel değil - bazen görüntüler ikisi arasında hemen hemen aynı görünüyor.
+
+Gün ışığı karşılaştırması, ana kamera (2 adet): iPhone 18 Pro • iPhone 17 Pro
+
+4x yakınlaştırmada, bu daha sıcak renk yorumunun bir kısmı da devam ediyor. Eski modellerin gürültü performansı daha sönük iç mekan sahnelerinde biraz daha kötü olsa da, çok fazla keskinlik veya ayrıntı farkı olduğunu söyleyemeyiz, bu nedenle bunu nesiller boyu bir gelişme olarak saymayı da deneyebilirsiniz - bu noktada umut edebileceğiniz iyileştirmelerin büyüklüğü budur.
+
+Gün ışığı karşılaştırması, telefoto kamera (4x): iPhone 18 Pro • iPhone 17 Pro
+
+8x'te durum biraz daha farklı.
+
+Gün ışığı karşılaştırması, telefoto kamera (8x): iPhone 18 Pro • iPhone 17 Pro
+
+Ultra çizimlerden elde edilen fotoğraflar karşılaştırıldığında, yeni neslin daha sıcak renk yorumu devam ediyor. Ve bu, tespit edebileceğimiz tüm farkla ilgili - ikisini piksel düzeyinde bölecek çok şey yok, detay açısından değil, gürültü performansı açısından da değil.
+
+Gün ışığı karşılaştırması, ultra geniş kamera (0,5x): iPhone 18 Pro • iPhone 17 Pro
+
+Düşük ışık
+
+Karanlıkta, iPhone 18 Pro'nun ana kamerası, tam otomatik olarak bırakıldığında esasen yalnızca f/1.48 'de çekim yapacak, ki bu anlaşılabilir bir durumdur. Bununla birlikte, f/1.48' de f/1.8 'den önemli ölçüde daha iyi değil - aslında, daha iyi olduğundan emin olduğumuzu söyleyemeyiz. Elbette mucizeler ve büyük farklılıklar beklemiyorduk, ancak fazladan ışığın kanıtlandığından daha faydalı olacağını umuyorduk.
+
+Bunu akılda tutarak, bir önceki nesle kıyasla, eğer varsa, çok fazla gelişme göstermiyor.
+
+Düşük ışık karşılaştırması, ana kamera (1x): iPhone 18 Pro • iPhone 17 Pro
+
+İşte iPhone 18 Pro'nun hem f/1.48 hem de f/1.8 'de, iPhone 17 Pro'nun ilgili f/1.78 çekiminin yanında - daha hızlı karşılaştırma için birkaç sahne.
+
+Düşük ışık karşılaştırması, ana kamera (1x): iPhone 18 Pro, f/1.48 • iPhone 18 Pro, f/1.8 • iPhone 17 Pro, f/1.78
+
+Daha sonra, 2x yakınlaştırmada önceki neslin aslında biraz daha keskin olduğu ve sadece ara sıra değil, her seferinde olduğu gibi biraz rahatsız edici bir gerçekle karşı karşıyayız. Bu dramatik bir farktan başka bir şey değil, ancak avantajın yeni modelin lehine olması gerekiyordu ve öyle değil.
+
+Düşük ışık karşılaştırması, ana kamera (2 adet): iPhone 18 Pro • iPhone 17 Pro
+
+Her iki telefondan gelen 4x görüntüler oldukça grenli ve her iki kameranın da sonuçları özellikle keskin değil. Görünüşe göre Gece modunun devreye girmesi için biraz farklı eşikler var - üçüncü sahne onu 17 Pro'da değil 18 Pro'da tetikledi - ve fotoğrafın iPhone 18 Pro'dan daha iyi görünmesi muhtemelen bunu bir gelişme haline getiriyor.
+
+Düşük ışık karşılaştırması, telefoto kamera (4x): iPhone 18 Pro • iPhone 17 Pro
+
+Şimdi, iPhone 17 Pro, iPhone 18 Pro'dan 8 kat daha parlak ve gürültülü mü? Evet. Peki iPhone 17 Pro, iPhone 18 Pro'dan daha fazla ayrıntı yakalamada biraz daha iyi mi? Şey, belki evet de.
+
+Düşük ışık karşılaştırması, telefoto kamera (8x): iPhone 18 Pro • iPhone 17 Pro
+
+İki ultrawid aşağı yukarı aynı fotoğrafları çekiyor ve çok heyecan verici değiller - oldukça yumuşak ve gürültülüler, loş ve kasvetli olmalarından bahsetmiyorum bile.
+
+Düşük ışık karşılaştırması, ultra geniş kamera (0,5x): iPhone 18 Pro • iPhone 17 Pro
+
+Selfie'ler 
+
+Selfie kamerası donanımında herhangi bir değişiklik yoktur ve her iki telefondan da alacağınız fotoğraflar temelde aynıdır.
+
+Özçekim karşılaştırması: iPhone 18 Pro • iPhone 17 Pro
+
+Aşağıda, her odak uzaklığında iki telefon tarafından çekilen videolardan birkaç kare görüntü var, böylece birbirleriyle karşılaştırmak daha kolay.
+
+Bu yıl iPhone Pro'nun video kayıt özelliklerinde pek bir değişiklik olmadı. Böylece, buradaki her iki telefon da tüm kameralarıyla (üç arka kamera ve öne bakan kamera) 60, 30 veya 24 fps'de 4K'ya kadar video kaydedebilir ve arkadaki birincil kameralar da hem 1x hem de 2x yakınlaştırmada 4K120 yapabilir.
+
+Tüm modlarda Dolby Vision kayıt özelliğinin yanı sıra ProRes ve Apple Log 2 seçeneklerine de sahip olursunuz, ancak daha yüksek fps modlarından bazılarının çalışabilmesi için harici depolamaya kaydetmeniz gerekir.
+
+18 Pro'daki küçük bir değişiklik, Sinematik modun artık 17 Pro'daki 4K30 'dan 4K60' a çıkmasıdır. Yeni modelin diğer bir avantajı, manuel kontrollerin (deklanşör hızı, beyaz dengesi, diyafram) videoda da mevcut olmasıdır - bunları 17 Pro'da bulamazsınız.
+
+Son sonuçlar söz konusu olduğunda, iki telefonun görüntüleri arasında anlamlı bir fark bulmakta zorlanırdık. Belki de kliplerin aynı görünmediği bir örnek, iPhone 18 Pro'nun keskinlikte küçük bir avantaja sahip olduğu gün ışığında 2x'tir - kliplerin geri kalanı aynı kadar iyidir.
+
+Gün ışığı video ekran görüntüleri, iPhone 18 Pro: 0.5x • 1x • 2x • 4x • 8x
+
+Gün ışığı video ekran görüntüleri, iPhone 17 Pro: 0.5x • 1x • 2x • 4x • 8x
+
+Bu, düşük ışıklı videolara dönüşmüyor gibi görünüyor - geceleri, iPhone 18 Pro 2 kat avantajını kaybediyor. Gece videoları bir yazı tura. Videoların farklı telefonlar tarafından çekildiğini söylemek zor.
+
+Düşük ışıklı video ekran görüntüleri, iPhone 18 Pro: 0.5x • 1x • 2x • 4x • 8x
+
+Düşük ışıklı video ekran görüntüleri, iPhone 17 Pro: 0.5x • 1x • 2x • 4x • 8x
+
+Tipik bir yılda, önerimiz oldukça basit olurdu: iPhone 17 Pro kadar yeni bir şeyden yükseltme yapmıyorsanız, yeni iPhone'u tercih edin. Bununla birlikte, bu yılki fiyat artışı, özellikle iPhone 18 Pro'nun bazı pazarlarda selefinden 150 € daha fazla piyasaya sürüldüğü Avrupa'da işleri karmaşıklaştırıyor.
+
+18 Pro, biraz daha iyi pil ömrüne, biraz daha hızlı şarja, biraz daha yüksek hoparlöre ve önemli ölçüde daha güçlü bir yonga setine sahiptir, bu da normal günlük kullanımda fark edeceğiniz bir şey değildir. Ayrıca daha küçük bir Dinamik Ada'ya ve ana kamerada değişken diyaframa sahip, ancak bulgularımıza göre ikincisi gerçek dünyada pek bir şey yapmıyor. Ve bunun için, Avrupa'daki iPhone 17 Pro ile 18 Pro arasındaki 300 € fiyat farkı pek haklı değil.
+
+Ancak ABD'deyseniz, iPhone 18 Pro tek seçeneğiniz olabilir. Birkaç çevrimiçi mağazaya göz attık ve yepyeni, açılmamış 17 Artıyı bulmak zaten zordu. Ancak şanslıysanız, 17 Pro ile daha iyi durumda olabilirsiniz ve sonunda birkaç dolar tasarruf edersiniz.
+
+Biraz daha uzun pil ömrü.
+
+Biraz daha hızlı şarj.
+
+Daha yüksek sesli hoparlörler.
+
+Çok daha güçlü yonga seti.
+
+Oldukça düşük fiyat etiketi.
+
+Neredeyse aynı kullanıcı deneyimi.
+
+---
+
+## Görseller
+
+![Apple iPhone 18 Pro](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/apple-iphone18-pro.jpg)
+
+![Apple iPhone 17 Pro](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/apple-iphone-17-pro.jpg)
+
+![Apple iPhone 18 Pro vs. Apple iPhone 17 Pro](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_002.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro - 24mm, f/1.8, ISO 80, 1/2667s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1101.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 17 Pro - 24mm, f/1.8, ISO 80, 1/3021s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1121.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro - 24mm, f/1.8, ISO 64, 1/2273s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1102.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 17 Pro - 24mm, f/1.8, ISO 80, 1/3021s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1122.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro - 24mm, f/1.8, ISO 160, 1/190s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1103.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 17 Pro - 24mm, f/1.8, ISO 200, 1/182s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1123.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro - 24mm, f/1.8, ISO 200, 1/100s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1104.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 17 Pro - 24mm, f/1.8, ISO 200, 1/108s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1124.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro, f/1.8 - 24mm, f/1.5, ISO 64, 1/2865s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1111.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro, f/1.48 - 24mm, f/1.8, ISO 80, 1/2667s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1101-3521f1f2.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 17 Pro, f/1.78 - 24mm, f/1.8, ISO 80, 1/3021s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1121-938c0e27.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro, f/1.8 - 24mm, f/1.5, ISO 80, 1/2762s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1112.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro, f/1.48 - 24mm, f/1.8, ISO 64, 1/2273s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1102-357c0d4e.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 17 Pro, f/1.78 - 24mm, f/1.8, ISO 80, 1/3021s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1122-c1cdbd2f.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro, f/1.8 - 24mm, f/1.5, ISO 160, 1/222s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1113.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro, f/1.48 - 24mm, f/1.8, ISO 160, 1/190s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1103-0fb09f77.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 17 Pro, f/1.78 - 24mm, f/1.8, ISO 200, 1/182s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1123-7b7b830b.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro, f/1.8 - 24mm, f/1.5, ISO 160, 1/121s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1114.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro, f/1.48 - 24mm, f/1.8, ISO 200, 1/100s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1104-93bc021e.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 17 Pro, f/1.78 - 24mm, f/1.8, ISO 200, 1/108s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1124-c96d8ba9.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro, f/1.8 - 24mm, f/1.5, ISO 50, 1/148s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1115.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 18 Pro, f/1.48 - 24mm, f/1.8, ISO 64, 1/121s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1105.jpg)
+
+![Daylight comparison, main camera (1x): iPhone 17 Pro, f/1.78 - 24mm, f/1.8, ISO 80, 1/121s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1125.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 18 Pro - 48mm, f/1.8, ISO 64, 1/2445s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1201.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 17 Pro - 48mm, f/1.8, ISO 64, 1/2494s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1221.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 18 Pro - 48mm, f/1.8, ISO 80, 1/2169s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1202.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 17 Pro - 48mm, f/1.8, ISO 64, 1/1931s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1222.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 18 Pro - 48mm, f/1.8, ISO 125, 1/60s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1203.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 17 Pro - 48mm, f/1.8, ISO 160, 1/97s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1223.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 18 Pro - 48mm, f/1.8, ISO 80, 1/48s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1204.jpg)
+
+![Daylight comparison, main camera (2x): iPhone 17 Pro - 48mm, f/1.8, ISO 80, 1/50s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1224.jpg)
+
+![Daylight comparison, telephoto camera (4x): iPhone 18 Pro - 100mm, f/2.8, ISO 32, 1/638s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1401.jpg)
+
+![Daylight comparison, telephoto camera (4x): iPhone 17 Pro - 100mm, f/2.8, ISO 32, 1/638s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1421.jpg)
+
+![Daylight comparison, telephoto camera (4x): iPhone 18 Pro - 100mm, f/2.8, ISO 50, 1/214s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1402.jpg)
+
+![Daylight comparison, telephoto camera (4x): iPhone 17 Pro - 100mm, f/2.8, ISO 50, 1/233s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1422.jpg)
+
+![Daylight comparison, telephoto camera (4x): iPhone 18 Pro - 100mm, f/2.8, ISO 500, 1/100s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1403.jpg)
+
+![Daylight comparison, telephoto camera (4x): iPhone 17 Pro - 100mm, f/2.8, ISO 500, 1/101s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1423.jpg)
+
+![Daylight comparison, telephoto camera (4x): iPhone 18 Pro - 100mm, f/2.8, ISO 500, 1/101s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1404.jpg)
+
+![Daylight comparison, telephoto camera (4x): iPhone 17 Pro - 100mm, f/2.8, ISO 500, 1/103s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1424.jpg)
+
+![Daylight comparison, telephoto camera (8x): iPhone 18 Pro - 200mm, f/2.8, ISO 32, 1/639s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1801.jpg)
+
+![Daylight comparison, telephoto camera (8x): iPhone 17 Pro - 200mm, f/2.8, ISO 32, 1/639s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1821.jpg)
+
+![Daylight comparison, telephoto camera (8x): iPhone 18 Pro - 200mm, f/2.8, ISO 40, 1/147s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1802.jpg)
+
+![Daylight comparison, telephoto camera (8x): iPhone 17 Pro - 200mm, f/2.8, ISO 40, 1/155s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1822.jpg)
+
+![Daylight comparison, telephoto camera (8x): iPhone 18 Pro - 200mm, f/2.8, ISO 400, 1/101s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1803.jpg)
+
+![Daylight comparison, telephoto camera (8x): iPhone 17 Pro - 200mm, f/2.8, ISO 400, 1/105s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1823.jpg)
+
+![Daylight comparison, telephoto camera (8x): iPhone 18 Pro - 200mm, f/2.8, ISO 500, 1/87s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1804.jpg)
+
+![Daylight comparison, telephoto camera (8x): iPhone 17 Pro - 200mm, f/2.8, ISO 500, 1/91s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1824.jpg)
+
+![Daylight comparison, ultrawide camera (0.5x): iPhone 18 Pro - 14mm, f/2.2, ISO 25, 1/770s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1001.jpg)
+
+![Daylight comparison, ultrawide camera (0.5x): iPhone 17 Pro - 14mm, f/2.2, ISO 20, 1/770s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1021.jpg)
+
+![Daylight comparison, ultrawide camera (0.5x): iPhone 18 Pro - 14mm, f/2.2, ISO 32, 1/770s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1002.jpg)
+
+![Daylight comparison, ultrawide camera (0.5x): iPhone 17 Pro - 14mm, f/2.2, ISO 25, 1/770s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1022.jpg)
+
+![Daylight comparison, ultrawide camera (0.5x): iPhone 18 Pro - 14mm, f/2.2, ISO 100, 1/121s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1003.jpg)
+
+![Daylight comparison, ultrawide camera (0.5x): iPhone 17 Pro - 14mm, f/2.2, ISO 125, 1/121s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1023.jpg)
+
+![Daylight comparison, ultrawide camera (0.5x): iPhone 18 Pro - 14mm, f/2.2, ISO 200, 1/50s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1004.jpg)
+
+![Daylight comparison, ultrawide camera (0.5x): iPhone 17 Pro - 14mm, f/2.2, ISO 200, 1/50s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_1024.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro - 24mm, f/1.5, ISO 500, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2101.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 17 Pro - 24mm, f/1.8, ISO 1000, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2121.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro - 24mm, f/1.5, ISO 500, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2102.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 17 Pro - 24mm, f/1.8, ISO 800, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2122.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro - 24mm, f/1.5, ISO 2000, 1/16s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2103.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 17 Pro - 24mm, f/1.8, ISO 1600, 1/9s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2123.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro - 24mm, f/1.5, ISO 500, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2104.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 17 Pro - 24mm, f/1.8, ISO 640, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2124.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro, f/1.48 - 24mm, f/1.5, ISO 500, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2101-5e02f98b.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro, f/1.8 - 24mm, f/1.8, ISO 640, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2111.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 17 Pro, f/1.78 - 24mm, f/1.8, ISO 1000, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2121-1423c3a2.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro, f/1.48 - 24mm, f/1.5, ISO 500, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2102-ecd7122b.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro, f/1.8 - 24mm, f/1.8, ISO 640, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2112.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 17 Pro, f/1.78 - 24mm, f/1.8, ISO 800, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2122-8837c0df.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro, f/1.48 - 24mm, f/1.5, ISO 2000, 1/16s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2103-f679e011.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro, f/1.8 - 24mm, f/1.8, ISO 1600, 1/9s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2113.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 17 Pro, f/1.78 - 24mm, f/1.8, ISO 1600, 1/9s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2123-984b3aae.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro, f/1.48 - 24mm, f/1.5, ISO 500, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2104-fb0a6255.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 18 Pro, f/1.8 - 24mm, f/1.8, ISO 640, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2114.jpg)
+
+![Low-light comparison, main camera (1x): iPhone 17 Pro, f/1.78 - 24mm, f/1.8, ISO 640, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2124-8fb8908b.jpg)
+
+![Low-light comparison, main camera (2x): iPhone 18 Pro - 48mm, f/1.5, ISO 400, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2201.jpg)
+
+![Low-light comparison, main camera (2x): iPhone 17 Pro - 48mm, f/1.8, ISO 640, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2221.jpg)
+
+![Low-light comparison, main camera (2x): iPhone 18 Pro - 48mm, f/1.5, ISO 400, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2202.jpg)
+
+![Low-light comparison, main camera (2x): iPhone 17 Pro - 48mm, f/1.8, ISO 640, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2222.jpg)
+
+![Low-light comparison, main camera (2x): iPhone 18 Pro - 48mm, f/1.5, ISO 500, 1/13s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2203.jpg)
+
+![Low-light comparison, main camera (2x): iPhone 17 Pro - 48mm, f/1.8, ISO 800, 1/18s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2223.jpg)
+
+![Low-light comparison, main camera (2x): iPhone 18 Pro - 48mm, f/1.5, ISO 320, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2204.jpg)
+
+![Low-light comparison, main camera (2x): iPhone 17 Pro - 48mm, f/1.8, ISO 500, 1/33s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2224.jpg)
+
+![Low-light comparison, telephoto camera (4x): iPhone 18 Pro - 100mm, f/2.8, ISO 1600, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2401.jpg)
+
+![Low-light comparison, telephoto camera (4x): iPhone 17 Pro - 100mm, f/2.8, ISO 1600, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2421.jpg)
+
+![Low-light comparison, telephoto camera (4x): iPhone 18 Pro - 100mm, f/2.8, ISO 2000, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2402.jpg)
+
+![Low-light comparison, telephoto camera (4x): iPhone 17 Pro - 100mm, f/2.8, ISO 1600, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2422.jpg)
+
+![Low-light comparison, telephoto camera (4x): iPhone 18 Pro - 100mm, f/2.8, ISO 1600, 1/10s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2403.jpg)
+
+![Low-light comparison, telephoto camera (4x): iPhone 17 Pro - 100mm, f/2.8, ISO 3200, 1/22s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2423.jpg)
+
+![Low-light comparison, telephoto camera (4x): iPhone 18 Pro - 100mm, f/2.8, ISO 1250, 1/40s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2404.jpg)
+
+![Low-light comparison, telephoto camera (4x): iPhone 17 Pro - 100mm, f/2.8, ISO 1250, 1/33s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2424.jpg)
+
+![Low-light comparison, telephoto camera (8x): iPhone 18 Pro - 200mm, f/2.8, ISO 1600, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2801.jpg)
+
+![Low-light comparison, telephoto camera (8x): iPhone 17 Pro - 200mm, f/2.8, ISO 1600, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2821.jpg)
+
+![Low-light comparison, telephoto camera (8x): iPhone 18 Pro - 200mm, f/2.8, ISO 2000, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2802.jpg)
+
+![Low-light comparison, telephoto camera (8x): iPhone 17 Pro - 200mm, f/2.8, ISO 2000, 1/25s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2822.jpg)
+
+![Low-light comparison, telephoto camera (8x): iPhone 18 Pro - 200mm, f/2.8, ISO 1600, 1/15s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2803.jpg)
+
+![Low-light comparison, telephoto camera (8x): iPhone 17 Pro - 200mm, f/2.8, ISO 2500, 1/30s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2823.jpg)
+
+![Low-light comparison, telephoto camera (8x): iPhone 18 Pro - 200mm, f/2.8, ISO 1000, 1/40s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2804.jpg)
+
+![Low-light comparison, telephoto camera (8x): iPhone 17 Pro - 200mm, f/2.8, ISO 800, 1/33s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2824.jpg)
+
+![Low-light comparison, ultrawide camera (0.5x): iPhone 18 Pro - 14mm, f/2.2, ISO 1600, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2001.jpg)
+
+![Low-light comparison, ultrawide camera (0.5x): iPhone 17 Pro - 14mm, f/2.2, ISO 1250, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2021.jpg)
+
+![Low-light comparison, ultrawide camera (0.5x): iPhone 18 Pro - 14mm, f/2.2, ISO 1600, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2002.jpg)
+
+![Low-light comparison, ultrawide camera (0.5x): iPhone 17 Pro - 14mm, f/2.2, ISO 1250, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2022.jpg)
+
+![Low-light comparison, ultrawide camera (0.5x): iPhone 18 Pro - 14mm, f/2.2, ISO 2000, 1/4s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2003.jpg)
+
+![Low-light comparison, ultrawide camera (0.5x): iPhone 17 Pro - 14mm, f/2.2, ISO 1600, 1/4s (4032x3024px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2023.jpg)
+
+![Low-light comparison, ultrawide camera (0.5x): iPhone 18 Pro - 14mm, f/2.2, ISO 1250, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2004.jpg)
+
+![Low-light comparison, ultrawide camera (0.5x): iPhone 17 Pro - 14mm, f/2.2, ISO 1250, 1/25s (5712x4284px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_2024.jpg)
+
+![Selfies comparison: iPhone 18 Pro - 19mm, f/1.9, ISO 80, 1/68s (3672x4896px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_3001.jpg)
+
+![Selfies comparison: iPhone 17 Pro - 20mm, f/1.9, ISO 80, 1/83s (3672x4896px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_3021.jpg)
+
+![Selfies comparison: iPhone 18 Pro - 20mm, f/1.9, ISO 32, 1/717s (3672x4896px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_3002.jpg)
+
+![Selfies comparison: iPhone 17 Pro - 20mm, f/1.9, ISO 32, 1/876s (3672x4896px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_3022.jpg)
+
+![Selfies comparison: iPhone 18 Pro - 20mm, f/1.9, ISO 1000, 1/14s (3024x4032px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_3003.jpg)
+
+![Selfies comparison: iPhone 17 Pro - 20mm, f/1.9, ISO 1000, 1/14s (3024x4032px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_3023.jpg)
+
+![Selfies comparison: iPhone 18 Pro - 20mm, f/1.9, ISO 800, 1/8s (3024x4032px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_3004.jpg)
+
+![Selfies comparison: iPhone 17 Pro - 20mm, f/1.9, ISO 800, 1/8s (3024x4032px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_3024.jpg)
+
+![Daylight video screengrabs, iPhone 18 Pro: 0.5x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_101.jpg)
+
+![Daylight video screengrabs, iPhone 18 Pro: 1x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_102.jpg)
+
+![Daylight video screengrabs, iPhone 18 Pro: 2x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_103.jpg)
+
+![Daylight video screengrabs, iPhone 18 Pro: 4x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_104.jpg)
+
+![Daylight video screengrabs, iPhone 18 Pro: 8x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_105.jpg)
+
+![Daylight video screengrabs, iPhone 17 Pro: 0.5x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_121.jpg)
+
+![Daylight video screengrabs, iPhone 17 Pro: 1x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_122.jpg)
+
+![Daylight video screengrabs, iPhone 17 Pro: 2x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_123.jpg)
+
+![Daylight video screengrabs, iPhone 17 Pro: 4x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_124.jpg)
+
+![Daylight video screengrabs, iPhone 17 Pro: 8x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_125.jpg)
+
+![Low-light video screengrabs, iPhone 18 Pro: 0.5x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_201.jpg)
+
+![Low-light video screengrabs, iPhone 18 Pro: 1x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_202.jpg)
+
+![Low-light video screengrabs, iPhone 18 Pro: 2x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_203.jpg)
+
+![Low-light video screengrabs, iPhone 18 Pro: 4x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_204.jpg)
+
+![Low-light video screengrabs, iPhone 18 Pro: 8x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_205.jpg)
+
+![Low-light video screengrabs, iPhone 17 Pro: 0.5x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_221.jpg)
+
+![Low-light video screengrabs, iPhone 17 Pro: 1x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_222.jpg)
+
+![Low-light video screengrabs, iPhone 17 Pro: 2x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_223.jpg)
+
+![Low-light video screengrabs, iPhone 17 Pro: 4x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_224.jpg)
+
+![Low-light video screengrabs, iPhone 17 Pro: 8x -  (3840x2160px) - iPhone 18 Pro Max vs. iPhone 17 Pro Max](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/immaculate_225.jpg)
+
+![Apple iPhone 17 Pro](https://umutevicom-commits.github.io/tarihte/data/images/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915/apple-iphone-17-pro-9bd6b5f7.jpg)

@@ -1,13 +1,23 @@
 [
   {
-    "slug": "weekly_poll_would_you_get_a_oneplus_16_if_you_could-news-75067",
-    "url": "https://www.gsmarena.com/weekly_poll_would_you_get_a_oneplus_16_if_you_could-news-75067.php",
+    "slug": "apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915",
+    "url": "https://www.gsmarena.com/apple_iphone_18_pro_vs_iphone_17_pro_battery_camera_price_compared-news-74915.php",
     "date": "18 October 2026",
-    "fetched_at": "2026-10-18T13:41:25.302782+00:00",
+    "fetched_at": "2026-10-18T17:01:01.133596+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "f39013229828c12070704b0be965845296352ab29422d69cf91a0baa426c90ab"
+    "content_hash": "75a54e5972c888b9532f6ff78d3ddc869e73bf53abc9a05afb88902be7bddf77"
+  },
+  {
+    "content_hash": "f39013229828c12070704b0be965845296352ab29422d69cf91a0baa426c90ab",
+    "date": "18 October 2026",
+    "fetched_at": "2026-10-18T13:41:25.302782+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_would_you_get_a_oneplus_16_if_you_could-news-75067",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_would_you_get_a_oneplus_16_if_you_could-news-75067.php"
   },
   {
     "content_hash": "e1904e250dff94e4666cd31733ab2b52529f0f2bf53f6df7f99e8f2fb49fb524",
