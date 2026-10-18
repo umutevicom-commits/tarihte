@@ -5539,6 +5539,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066.php"
   },
+  "75069": {
+    "content_hash": "f1a82c8dd0ea1ba46e67f4318ea3a4b126324775340dca90bed6e14989e24f29",
+    "date": "18 October 2026",
+    "fetched_at": "2026-10-18T08:26:52.432548+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069.php"
+  },
   "75070": {
     "content_hash": "5253e292b1e3dfa695c8c43f19f02134a5381bbc38eaf0101a6983c7219f7d59",
     "date": "16 October 2026",
@@ -5638,6 +5648,26 @@
     "slug": "tecno_spark_50s_spark_50c_features_price_sale_date-news-75083",
     "status": "ok",
     "url": "https://www.gsmarena.com/tecno_spark_50s_spark_50c_features_price_sale_date-news-75083.php"
+  },
+  "75087": {
+    "content_hash": "e1904e250dff94e4666cd31733ab2b52529f0f2bf53f6df7f99e8f2fb49fb524",
+    "date": "18 October 2026",
+    "fetched_at": "2026-10-18T08:27:18.288982+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_v80_in_for_review-news-75087",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_v80_in_for_review-news-75087.php"
+  },
+  "75088": {
+    "content_hash": "f207f4919f0aed2e607b2ae086edfb73d9fbf444eb7ca3a5f7495a16483dce8f",
+    "date": "18 October 2026",
+    "fetched_at": "2026-10-18T08:26:16.735249+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_galaxy_z_fold8_is_on_sale_as_the_iphone_duo_launches_other_foldables_also_discounted-news-75088",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_galaxy_z_fold8_is_on_sale_as_the_iphone_duo_launches_other_foldables_also_discounted-news-75088.php"
   },
   "75089": {
     "content_hash": "c6f52a633fabdd16bc2c5c07f0c37440fa693a0f3137268ade710511067c7aee",

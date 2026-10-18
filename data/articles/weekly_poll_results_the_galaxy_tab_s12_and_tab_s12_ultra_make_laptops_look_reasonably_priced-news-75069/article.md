@@ -1,0 +1,49 @@
+# Haftalık anket sonuçları: Galaxy Tab S12+ ve Tab S12 Ultra, dizüstü bilgisayarların makul fiyatlı görünmesini sağlıyor
+
+Geçen haftaki ankete katılan bir yorumcu ilginç bir noktaya değindi – Samsung Galaxy Tab S12 Ultra, 12/256GB'lık bir model için 1.400 $ 'dan başlıyor ve bu, ekstra 380 $ olan klavye olmadan. Bunun yerine neden bir MacBook almıyorsunuz?
+
+M5 yonga seti, 16 GB RAM ve 512 GB depolama alanına sahip 13” MacBook Air'in maliyeti 1.300 $ 'dır. 15” sürümü 1.500 $' dır. Yani, daha hızlı bir yonga seti, daha fazla RAM, daha fazla depolama alanı ve Tab S12 Ultra ile aynı fiyata bir klavye elde edersiniz – aslında bir klavyeye ihtiyacınız varsa daha az.
+
+MacOS ile uğraşmak istemiyor musunuz? Neden 16” dokunmatik ekrana sahip bir Galaxy Book6 değil – Samsung ABD bunları 1.450 $ karşılığında satıyor. Bu dizüstü bilgisayar, Windows 11 'i 16 GB RAM ve 512 GB depolama alanına sahip Intel Core Ultra 7 355' te çalıştırır. Ekran 1.920 x 1.200 IPS LCD'dir. Dokunmatik olmayan sürüm 100 $ daha ucuzdur, ancak bu aynı zamanda CPU'yu Intel Core Ultra 5 325 'e düşürür.
+
+Ve kesinlikle Android uygulamalarınız olması gerekiyorsa, neden bir Googlebook dizüstü bilgisayarı olmasın? 14”2.8K OLED ekrana, Core Ultra 5 CPU'ya, 16GB RAM'e ve 512GB depolama alanına sahip Acer Googlebook 14 900 $ değerinde.
+
+Tüm bunları göz önünde bulundurarak, nihayet Samsung Galaxy Tab S12 Ultra'nın anket sonuçları hakkında konuşabiliriz ve en popüler görüşün sizi şaşırtacağını düşünmüyoruz – tablet çok pahalı.
+
+Samsung'un en son 14,6inçlik tabletiyle hala ilgilenen çok sayıda insan var, ancak neredeyse çoğu daha küçük bir teklifi tercih ederdi – Samsung, her yıl vanilya Tab S modelini yükseltmeyerek hedefi kaçırmış olabilir ve bunu bir sonraki ankette daha net göreceğiz.
+
+Tab S Ultra modellerini her yıl yükseltmek pek mantıklı değil. Bir yorumcu geçen yılki Tab S11 Ultra'ya sahip ve 10 bit ekran paneli veya daha büyük piller gibi özellikler olmadan yükseltmek için hiçbir neden görmüyor. Galaxy tabletleri, bugünlerde çoğu tabletin genişletilebilir depolama alanına sahip olmamasına rağmen, Samsung'un microSD yuvasını Tab S cihazlarında tutmasını takdir ettiği için bazı övgüler aldı. Galaxy S telefonları da öyle.
+
+Samsung Galaxy Tab S12 Ultra
+
+Samsung Galaxy Tab S12+' ya geçersek, yeni 12,6inçlik modelin kendisi için gösterecek pek bir şeyi yok – onu destekleyen insanlar, 11 inç veya daha küçük bir tabletle ilgilenen insanlar tarafından az farkla geride bırakıldı. Söylediğimiz gibi, belki de Samsung bir vanilya Tab S12 inşa etmeliydi.
+
+Daha da kötüleşiyor. Daha büyük Ultra modeli iPad hayranlarını savuşturmayı başarırken, Plus da başarılı olamadı. Oylama yakındı -% 10 'u Tab S12+, % 10,2' si daha küçük bir tablet ve % 9,7 'si bir iPad istiyor.
+
+Samsung Galaxy Tab S12+
+
+Tabii ki, bunlar Galaxy Tab S12+ 'yı bile düşünen insanlar, çoğu insan sadece aşırı pahalı olduğunu düşünüyor ve farklı bir Android tablet veya gerçekten de bir iPad seçmeyi tercih ediyor. Anket yazısında iPad'lerden bahsetmiştik. 11 inç iPad Pro 1.200 $' dan başlar ve 13 inç modeli 1.500 $ 'dan başlar. Karşılaştırma için, Tab S12+ tabanı 1.200 $' dan satılıyor.
+
+Zaman sonunda Samsung'un Galaxy Tab S12 ikilisinin fiyatlarını düşürecek. O zaman daha çekici görünmeye başlayabilirler. Ancak, şu anda bir tane satın almak için özellikle Tab S12+ veya Tab S12 Ultra'yı gerçekten istemelisiniz. Ve sonra sadece onları bir tablet olarak kullanmak istiyorsanız, çünkü Ultra klavye kapağı tek başına iyi bir dizüstü bilgisayarın % 40 'ı kadardır.
+
+---
+
+## Görseller
+
+![13” MacBook Air for $1,300 or a 16” Galaxy Book6 for $1,450](https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069/immaculate_003.jpg)
+
+![Samsung Galaxy Tab S12 Ultra poll results](https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069/immaculate_001.jpg)
+
+![Samsung Galaxy Tab S12 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069/immaculate_001-3c1a9fa6.jpg)
+
+![Samsung Galaxy Tab S12 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069/immaculate_002.jpg)
+
+![Samsung Galaxy Tab S12 Ultra](https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069/immaculate_003-9293cb65.jpg)
+
+![Samsung Galaxy Tab S12+](https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069/immaculate_004.jpg)
+
+![Samsung Galaxy Tab S12+](https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069/immaculate_005.jpg)
+
+![Samsung Galaxy Tab S12+](https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069/immaculate_006.jpg)
+
+![Samsung Galaxy Tab S12+ poll results](https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_the_galaxy_tab_s12_and_tab_s12_ultra_make_laptops_look_reasonably_priced-news-75069/immaculate_002-d2a19da7.jpg)
