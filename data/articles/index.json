@@ -1,13 +1,53 @@
 [
   {
-    "slug": "apple_airpods_5_review-news-75101",
-    "url": "https://www.gsmarena.com/apple_airpods_5_review-news-75101.php",
+    "slug": "honor_watch_6_review-news-74910",
+    "url": "https://www.gsmarena.com/honor_watch_6_review-news-74910.php",
     "date": "19 October 2026",
-    "fetched_at": "2026-10-19T02:32:09.439816+00:00",
+    "fetched_at": "2026-10-19T09:28:07.160081+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "8f5543628e73273846cd68167bddf8bc1fde70b616daaa84f73950c488c3235b"
+    "content_hash": "d701771cc5ff52a497fdaffe240e41b80367b5ffeefb765cbced77be0618d14e"
+  },
+  {
+    "slug": "iphone_duos_battery_capacity_officially_revealed-news-75102",
+    "url": "https://www.gsmarena.com/iphone_duos_battery_capacity_officially_revealed-news-75102.php",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T09:27:54.316212+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5793a3286ed2fcd04cdc492629ef0d89ecb0632296438844ece3c7e33b38ba9b"
+  },
+  {
+    "slug": "iqoo_neo12_will_launch_on_october_28_design_and_color_options_revealed-news-75103",
+    "url": "https://www.gsmarena.com/iqoo_neo12_will_launch_on_october_28_design_and_color_options_revealed-news-75103.php",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T09:27:34.230698+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f162d00dbb5c9cf47d2ca75836ae74d2035b0910628b48d4476b50ca81390acc"
+  },
+  {
+    "slug": "samsung_galaxy_f70_arrives_in_india_with_familiar_specs_-news-75104",
+    "url": "https://www.gsmarena.com/samsung_galaxy_f70_arrives_in_india_with_familiar_specs_-news-75104.php",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T09:27:13.367097+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6b0b918dc6edc5f4d8ea956cca99ded0ed2a49c87b732f42c162024c9f25eb02"
+  },
+  {
+    "content_hash": "8f5543628e73273846cd68167bddf8bc1fde70b616daaa84f73950c488c3235b",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T02:32:09.439816+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_airpods_5_review-news-75101",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_airpods_5_review-news-75101.php"
   },
   {
     "content_hash": "b31fcac19716c88dba357492cdf09c9d0272878a17a6cdf520c1e2bf17bb68c2",

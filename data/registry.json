@@ -4479,6 +4479,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_makes_its_galaxy_a_series_devices_more_expensive_in_the_us_too-news-74909.php"
   },
+  "74910": {
+    "content_hash": "d701771cc5ff52a497fdaffe240e41b80367b5ffeefb765cbced77be0618d14e",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T09:28:07.160081+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_watch_6_review-news-74910",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_watch_6_review-news-74910.php"
+  },
   "74911": {
     "content_hash": "b73fe1f73e2dcaa2466557c4021b855ff60f801ad445ebff1bc7f7b387e64396",
     "date": "05 October 2026",
@@ -5828,5 +5838,35 @@
     "slug": "apple_airpods_5_review-news-75101",
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_airpods_5_review-news-75101.php"
+  },
+  "75102": {
+    "content_hash": "5793a3286ed2fcd04cdc492629ef0d89ecb0632296438844ece3c7e33b38ba9b",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T09:27:54.316212+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_duos_battery_capacity_officially_revealed-news-75102",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_duos_battery_capacity_officially_revealed-news-75102.php"
+  },
+  "75103": {
+    "content_hash": "f162d00dbb5c9cf47d2ca75836ae74d2035b0910628b48d4476b50ca81390acc",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T09:27:34.230698+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_neo12_will_launch_on_october_28_design_and_color_options_revealed-news-75103",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_neo12_will_launch_on_october_28_design_and_color_options_revealed-news-75103.php"
+  },
+  "75104": {
+    "content_hash": "6b0b918dc6edc5f4d8ea956cca99ded0ed2a49c87b732f42c162024c9f25eb02",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T09:27:13.367097+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_f70_arrives_in_india_with_familiar_specs_-news-75104",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_f70_arrives_in_india_with_familiar_specs_-news-75104.php"
   }
 }
