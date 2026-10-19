@@ -5868,5 +5868,75 @@
     "slug": "samsung_galaxy_f70_arrives_in_india_with_familiar_specs_-news-75104",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_f70_arrives_in_india_with_familiar_specs_-news-75104.php"
+  },
+  "75105": {
+    "content_hash": "f8299ff5449a11c35b869e800e9055ed38170c04b1089ca137ca1db6e52b433a",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T16:45:00.452598+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "redmi_k100_with_10000mah_battery_and_683inch_display_is_launching_next_week-news-75105",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmi_k100_with_10000mah_battery_and_683inch_display_is_launching_next_week-news-75105.php"
+  },
+  "75106": {
+    "content_hash": "8bb5146ca5e1acb5660cdf59e915782c2ddfd24237c6417109c8d7d885e3a903",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T16:44:45.502036+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_may_launch_galaxy_s27_series_earlier_than_expected_but_memory_questions_still_linger-news-75106",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_may_launch_galaxy_s27_series_earlier_than_expected_but_memory_questions_still_linger-news-75106.php"
+  },
+  "75108": {
+    "content_hash": "d343c24bdd831795b076e94adfcf93f2ff050500ee2c42758a7e791a110e8729",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T16:44:35.748094+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_ultra_key_specifications_tipped-news-75108",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_ultra_key_specifications_tipped-news-75108.php"
+  },
+  "75109": {
+    "content_hash": "23d26685ec598116a6ac83ce646066a45836c36e72f46f0e7612fb87642e42ae",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T16:44:20.394219+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_win2_win2_rt_and_win_turbo2_specs_leak_along_with_a_live_image-news-75109",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_win2_win2_rt_and_win_turbo2_specs_leak_along_with_a_live_image-news-75109.php"
+  },
+  "75110": {
+    "content_hash": "1f18a7d19d4ca21bccdc939a0e12ddeb5a7a3ea50b1b500996fbfee1b4b663df",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T16:44:07.124749+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "hmd_vibe2_max_specifications_and_renders_leak-news-75110",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/hmd_vibe2_max_specifications_and_renders_leak-news-75110.php"
+  },
+  "75111": {
+    "content_hash": "f3408211bebdc930bab73efa3eeec4e8abf602abe8657f1303c72d1c6b058633",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T16:43:49.125870+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "india_smartphone_shipments_drop_26_in_q3_to_the_lowest_level_since_2016-news-75111",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/india_smartphone_shipments_drop_26_in_q3_to_the_lowest_level_since_2016-news-75111.php"
+  },
+  "75113": {
+    "content_hash": "173dc9a9aae2a85aafa63f06da4ec4eeac30115032d27271eaffc47661542c9c",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T16:43:18.380009+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_extra_rugged_crosscall_core_x7_surfaces_at_a_french_retailer_followed_by_a_rugged_tablet-news-75113",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_extra_rugged_crosscall_core_x7_surfaces_at_a_french_retailer_followed_by_a_rugged_tablet-news-75113.php"
   }
 }
