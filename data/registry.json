@@ -5818,5 +5818,15 @@
     "slug": "qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100",
     "status": "ok",
     "url": "https://www.gsmarena.com/qualcomm_denies_rumors_about_snapdragon_8_elite_extreme_gen_6_overheating-news-75100.php"
+  },
+  "75101": {
+    "content_hash": "8f5543628e73273846cd68167bddf8bc1fde70b616daaa84f73950c488c3235b",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T02:32:09.439816+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_airpods_5_review-news-75101",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_airpods_5_review-news-75101.php"
   }
 }

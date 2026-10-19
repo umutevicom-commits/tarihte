@@ -1,13 +1,23 @@
 [
   {
-    "slug": "what_is_variable_aperture_and_why_should_you_care-news-75076",
-    "url": "https://www.gsmarena.com/what_is_variable_aperture_and_why_should_you_care-news-75076.php",
-    "date": "18 October 2026",
-    "fetched_at": "2026-10-18T22:05:40.428381+00:00",
+    "slug": "apple_airpods_5_review-news-75101",
+    "url": "https://www.gsmarena.com/apple_airpods_5_review-news-75101.php",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T02:32:09.439816+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "b31fcac19716c88dba357492cdf09c9d0272878a17a6cdf520c1e2bf17bb68c2"
+    "content_hash": "8f5543628e73273846cd68167bddf8bc1fde70b616daaa84f73950c488c3235b"
+  },
+  {
+    "content_hash": "b31fcac19716c88dba357492cdf09c9d0272878a17a6cdf520c1e2bf17bb68c2",
+    "date": "18 October 2026",
+    "fetched_at": "2026-10-18T22:05:40.428381+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "what_is_variable_aperture_and_why_should_you_care-news-75076",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/what_is_variable_aperture_and_why_should_you_care-news-75076.php"
   },
   {
     "content_hash": "665dcb5bbc59058660a55480fca8527652727e5f4f433dd1df710612998656c2",

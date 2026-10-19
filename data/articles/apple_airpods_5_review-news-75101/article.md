@@ -1,0 +1,175 @@
+# Apple AirPods 5 incelemesi
+
+Dünyanın en popüler ses ürününü nasıl güncellersiniz? Bu, birçok şirketi geceleri uyanık tutacak bir soru. Ancak orijinalin piyasaya sürülmesinden neredeyse on yıl sonra Apple, klasik AirPods modelini şimdiye kadarki en karlı işletmelerden biri haline getirirken güncel tuttu.
+
+2026 AirPods 5, genel olarak her şeyi iyileştirirken insanların sevdiği şeyleri de koruyor. Daha iyi gürültü önleme, daha iyi ses kalitesi, daha iyi pil ömrü ve hatta daha iyi hareketler.
+
+Ama bir sorun var. Sadece daha pahalı olan $ 149 modeli tüm yeni özellikleri alırken, daha ucuz olan $ 129 modeli AirPods 4 'ten yükseltmeyi haklı çıkaracak birçok şeyi kaçırıyor. Peki hangi modeli almalısınız? Ve ilk etapta AirPods 5' i satın almalı mısınız? Hadi öğrenelim.
+
+Standart AirPods 5 modeli ile Kablosuz Şarj Kılıflı AirPods 5 modeli arasında birçok şeyin ortak olduğunu açıkça belirtmek istiyorum. Bu nedenle, bundan sonra belirtilen her şey, aksi belirtilmedikçe, her ikisi için de geçerli olacaktır.
+
+AirPods 5 'in tasarımı dördüncü nesil modele göre değişmedi. Hem kulaklıklar hem de kasa son milimetreye kadar aynıdır. Bu, AirPods 4' e zaten aşina iseniz söylenecek pek bir şey olmadığı anlamına geliyor.
+
+Bu modele yakından aşina olmasanız bile, çoğumuz AirPod'ların bir noktada nasıl göründüğünü gördük. AirPods 5 hala kısa açılı saplara sahip klasik açık kulaklık şekline sahip. Kasa küçüktür ve hala açılan diş ipi menteşeli üst kapağa sahiptir. Ve hepsi hala aynı kör edici beyaz tonunda bitmiştir.
+
+AirPod'ların (5) iki varyantı da aynı boyutlara sahiptir. Tek fark, kablosuz şarj modelinin birkaç gram daha ağır olmasıdır.
+
+Estetik olarak, tasarım iyi, ama benim için pek bir şey ifade etmiyor. Apple, şeffaf hale getirmek veya en azından karanlıkta parlayan beyaz olmayan renklerde yapmak gibi ilginç bir şey yaparsa daha çok sevinirim. Ancak şirket tanınabilir silüetlerini ve desenlerini seviyor, bu yüzden yakın zamanda radikal yeni AirPod'lara sahip olmayacağız.
+
+İşlevsel olarak, tasarımla seçmem gereken bir kemik var. Kulaklıkların kılıftan çıkan küçük, kaygan parçaları, çıkarılmalarını sinir bozucu bir şekilde zorlaştırır. Kulaklıkların tüm gövdesi, özellikle de sapları küçüktür, bu da onları kulaklarınızdan veya kasanızdan takıp çıkarmanızı veya sadece genel olarak tutmanızı sağlar. En son ne zaman AirPods 5 'te olduğu kadar sık kulaklık düşürdüğümü hatırlamıyorum.
+
+Bu bizi genel olarak oldukça iyi olan yapı kalitesine getiriyor. AirPods 5 ayrıca hem kulaklıklar hem de şarj kutusu için toz ve su direnci açısından IP57 derecesine sahiptir.
+
+AirPods 5, farklı kulaklarla uyumluluk söz konusu olduğunda bir solucan kutusu olarak kalan açık kulaklı bir tasarım kullanmaya devam ediyor. AirPods Pro gibi kulak içi tasarımlarda bu sorun yoktur, çünkü çoğu insan benzer büyüklükte kulak kanallarına sahiptir ve farklı uç boyutlarıyla herhangi bir farklılık telafi edilebilir. Bununla birlikte, AirPods 5 'in dış kulağın içine oturması gerekir ve etrafa bir bakış, bu orifisle ilgili hiçbir şeyin şekil veya boyutta tutarlı olmadığını gösterecektir.
+
+Bu, AirPods 5 'in kulaklarınıza tam olarak ne kadar iyi oturduğu anlamına gelir, bu da sadece konforu etkilemez, aynı zamanda onları giyip giyemeyeceğinizi de etkiler. Kulaklarınız daha küçükse, kulaklıklar sığmaz. Çok büyük ve sürekli düşecekler.
+
+Neyse ki, tüm AirPods modelleri her zaman kulaklarıma bir eldiven gibi oturdu ve AirPods 5 de farklı değil. Bu, güvenli bir şekilde oturdukları (açık kulakların oturabileceği kadar güvenli) ve aynı zamanda rahat oldukları anlamına gelir. Saatlerce takabilirim ve taktığımı bile unutabilirim.
+
+Tabii ki, bu sizin için geçerli olmayabilir, bu nedenle en yakın Apple Store'u ziyaret edip boyutlarını deneseniz iyi olur. İyi olan şey, tasarım AirPods 4 ile aynı olduğundan, son iki yılda bu modeli denediyseniz bunların nasıl uyacağını zaten biliyorsunuz.
+
+AirPods 5, diğer AirPods modelleri gibi, öncelikle Apple ürünleriyle kullanılmak üzere tasarlanmıştır. Bunları diğer Bluetooth ses kaynaklarıyla eşleştirebilirsiniz, ancak özelliklerin çoğu amaçlandığı gibi çalışmaz veya hiç çalışmaz ve hem zamanınızı hem de paranızı boşa harcarsınız.
+
+Bunu akılda tutarak, Apple ürünleriyle uyumluluğun mükemmel olduğunu söylemeye gerek yok. Çantayı ilk kez açtığınızda, yakındaki iPhone veya iPad'inizin ekranında on yıl önce aklınızı başınızdan alan ve bugün bile referans noktası olmaya devam eden aynı tek dokunuşlu eşleştirme açılır penceresini görürsünüz. Bundan sonra, eşleştirilmiş cihazınızın Ayarlar uygulamasında mevcut tüm özelliklere erişmenizi sağlayan yeni bir menü öğesi görünür. Alternatif olarak, bazı işlevlere Kontrol Merkezi'nden veya Mac'inizin Bluetooth menüsünden de hızlı bir şekilde erişebilirsiniz.
+
+AirPods ayarları
+
+AirPod'lar cihazınızla eşleştirildikten ve Apple hesabınızla ilişkilendirildikten sonra, bu hesabı kullanan diğer tüm Apple cihazlarınızda otomatik olarak kullanılabilir hale gelir. iPhone'unuzda bir şey dinliyor ve ardından Mac'te bir şey çalmaya başlıyor olabilirsiniz ve ses sorunsuz bir şekilde aktarılır. Bu, elinizde olduğu kadar çok cihazla gerçekleşebilir, çünkü devir işlemi internet üzerinden gerçekleşir ve kulaklıkların aynı anda birden fazla cihazla eşleştirilmesini gerektirmez.
+
+AirPods 5, aynı Apple H2 çipini kullanması sayesinde şaşırtıcı bir şekilde daha pahalı olan AirPods Pro 3 ile aynı özelliklerin çoğunu sunuyor. IPhone'unuzdaki kamerayı kullanarak belirli HRTF'niz için daha fazla kişiselleştirilebilen kafa takipli Mekansal Ses elde edersiniz. Ardından, ortam gürültüsüne göre ses seviyesini ayarlayan kişiselleştirilmiş ses seviyesi; konuştuğunuzu algılarsa medya sesini azaltan konuşma farkındalığı; uykuya daldığınızda medyanın otomatik olarak duraklatılması; başınızı sallayarak aramalarla veya bildirimlerle etkileşimde bulunmak için kafa hareketleri; ve kayıp kulaklıklarınızı bulmak için My'ı bulun.
+
+Ses Ayarları
+
+Apple ayrıca yakın zamanda iOS ve iPadOS içindeki AirPods modelleriyle kullanım için bir ekolayzır ekledi. Oldukça sınırlıdır ve yalnızca üç bantlı ayarlanabilirlik sunar, ancak hiç yoktan iyidir. Son olarak, yakındaki konuşulan sesleri seçtiğiniz dile çeviren Canlı Çeviri de vardır. Bu özellik hala beta sürümündedir ve şimdilik on bir dili desteklemektedir.
+
+Canlı Çeviri özelliği
+
+AirPods 5 'in Kablosuz Şarj Kutusu modeline özel birkaç özellik vardır. Birincisi, ses seviyesini ayarlamak için bir kaydırma hareketidir. Her ne sebeple olursa olsun, standart AirPods 5 modeli, diğer hareketler için gövdeyi ne zaman sıktığınızı algılayan bir kuvvet sensörüne sahipken, daha pahalı modelin yapabileceği ses seviyesini ayarlamak için kaydırma hareketlerini algılayamaz.
+
+Hareketler ve diğer ayarlar
+
+İkincisi, Kablosuz Şarj Kılıfı da dahili bir hoparlöre sahiptir. Pil azaldığında veya şarj cihazını taktığınızda yumuşak bip sesleri çıkarmanın yanı sıra, kılıfı kaybettiğinizde ve Find My'ı kullandığınızda yüksek bip sesleri de çıkarabilir. Bu, kulaklıklarınızı ve kılıfınızı ayrı olarak veya kulaklıklar kılıfın içindeyken bulabileceğiniz anlamına gelir ve Find My özelliğini çok daha kullanışlı hale getirir.
+
+AirPods Pro 3 ile karşılaştırıldığında, AirPods 5 'te eksik olan özelliklerin çoğu, daha gelişmiş gürültü giderme ve şeffaflık modlarıyla ilgilidir. İşitme testleri, işitme cihazları ve işitme koruması gibi özellikler AirPods 5' te mevcut değildir, çünkü açık kulak tasarımıyla aynı şekilde çalışmazlar. Ayrıca sadece Pro modelinde bulunan kalp atış hızı monitörü de var. Son olarak, AirPods Pro 3 kılıfının içinde, Find My ile konum belirlemeyi daha da iyi hale getiren ultra geniş bantlı bir çip de bulunuyor.
+
+Ses kalitesi
+
+AirPods 5, havalandırmalı bir "özel yüksek dönüşlü Apple sürücüsüne" ve bir "özel yüksek dinamik aralıklı amplifikatöre" sahiptir ve bu, Apple'ın ses sistemi hakkında sahip olduğumuz bilgilerin kapsamıdır. Kulaklıklar, farklı kulakları telafi etmek için sesi gerçek zamanlı olarak ayarlayan ve seste tutarlılık sağlamak için sığan Adaptif Ses kullanır ve her zaman etkinleştirilir. Kulaklıklar Bluetooth 5.3 üzerinden standart AAC kullanır.
+
+AirPods 5 'in ses kalitesi, Apple'ın bu tasarımla elde edebildikleriyle dikkat çekiyor. Açık kulaklıklı kulaklık kullanan herkes, bunlarla tutarlı bir ses elde etmenin bir yolu olmadığını bilir, ancak yine de Apple, küçük bilgisayarları onlara bağlayarak onları kaba kuvvetle daha fazla ses üretmeye zorlayabilir.
+
+Bass, sürücü ile kulak zarı arasındaki neredeyse sonsuz hava hacmiyle uğraşmak zorunda kalmanın bir sonucu olarak açık kulak tasarımları için bir zayıflık alanıdır. Apple, kulaklarınızın şeklini haritalamak için Uyarlanabilir Ses kullanır ve duymanızı istediği şeyi duyana kadar basları ayarlamak için dahili mikrofonlardan gelen geri bildirimleri kullanır. Bunu ilk giydiğinizde bir saniyeliğine çalışırken bile duyabilirsiniz ve medya çalmaya başlar.
+
+Başarılı mı? Evet, ama mantık dahilinde. Sürücünüz ne kadar özel veya yüksek bir yolculuk yaparsa yapsın, açık kulaklı bir tasarımla bu kadar havayı heyecanlandırmak mümkün değildir, bu nedenle düşük bas notalarına herhangi bir şekilde vurulamaz. O zaman go - to seçeneği, orta ve üst orta bas frekanslarını artırmaktır. Bu, özellikle ne dinlediğinize aşırı aşina değilseniz, ancak öyleyseniz, en düşük notların kaydedilmediğini fark edeceksiniz.
+
+Alt bası telafi etmek için orta ve üst basları artırmak da sesi biraz gürültülü hale getirir. AirPods 5, AirPods'ların yaptığı şeyi yaptığından, daha düşük hacimlerde bas enerjisi kaybını yapay olarak artırarak telafi ettikleri için bu durum daha düşük hacimlerde daha belirgindir. Bununla birlikte, daha yüksek hacimlerde, AirPods 5 'teki bas, aşırı sürüş ve sürücünün dibe vurmasını önlemek için AirPods Pro 3' tekinden daha agresif bir şekilde düşer.
+
+AirPods 5 'teki mid'ler nispeten uysaldır. Alt orta kısımlar, biraz akabilen üst bas tarafından biraz gölgelenir. Bununla birlikte, üst orta menzil, olabileceği kadar belirgin değildir.
+
+Bu daha sonra AirPods 5 'te tizlerin daha düşük "varlık" aralıklarının oldukça donuk olduğu tizlere akar. Bu, biraz tiz ortasına doğru ilerler ve sonra üst tiz aniden oldukça keskindir. Bu eşitsizlik, bazı seslerin oldukça sessiz olduğu ve diğerlerinin de kardeşler gibi oldukça sert gelebildiği seste duyulabilir zirveler ve çukurlar yaratır.
+
+Hafif boomy alt uç ve daha mat üst orta ve alt tiz, daha sıcak, daha karanlık tarafta, periyodik olarak sibilant üst tiz tarafından delinen genel bir ses oluşturur. Daha fazla bas enerjisi veya çıkarılmış tiz ile gitmek tercih edilirdi. Her ikisini de aynı anda yapmak seste hafif bir dengesizlik yaratır.
+
+Bununla birlikte, AirPods 5 'in ayarlanması hala oldukça eğlenceli olabilir, bu yüzden açık kulaklı bir tasarımla elde edildiğini fark ettiğinizde iki katına çıkar. Bunlar kolayca bulabileceğiniz en iyi ses çıkaran açık kulaklıklardır ve başka hiçbir şey gerçekten yaklaşamaz. Ayrıca, yeni iOS 27 EQ'daki bas ve tiz kaydırıcılarla uğraşarak kavrayışlarımı çoğunlukla çözebildim.
+
+Teknik performans açısından, AirPods 5 yeterince iyi performans gösterdi. Ses süper ayrıntılı veya yüksek çözünürlüklü değil, ama şimdi ve sonra kulaklıklar seste küçük bir ayrıntı alır ve onu vurgulardı, bu da daha önce hiç böyle duymadığım için oturmamı ve dikkat etmemi sağlardı. Açık kulaklı olan AirPods 5, sesi kulak zarlarınıza göndermeden önce anatominizin daha fazlasını kullanabilir, bu da görüntüleme ve ses sahnelemeyi belirgin şekilde geliştirir.
+
+Sonuç olarak, AirPods 5 'in ses kalitesi, açık kulak tasarımından beklediğinizden çok daha eğlenceliydi. Tabii ki, kulak içi uyumuyla AirPods Pro 3 hala daha iyi ses çıkarıyor ve daha fazla insan için daha tutarlı olacak. Ancak, herhangi bir nedenle açık kulaklı bir tasarıma sahip olmanız gerekiyorsa, AirPods 5 de tembel değildir.
+
+Mikrofon
+
+AirPods 5, H2 çipli Apple cihazlarından beklediğimiz gibi mükemmel bir genel mikrofon performansına sahip. Aslında, AirPods Pro 3 veya AirPods 4 'te bulacağınız kalitenin aynısıdır, ancak aşina değilseniz, işte size kısa bir özet.
+
+Diğer H2 cihazları gibi, AirPods 5 de doğal, yüksek kaliteli bir ses kaydı için AAC - Eld codec bileşenini kullanır. Diğer Bluetooth cihazlarında duyduğunuz tipik sıkıştırma ve modülasyonlardan hiçbiri yoktur ve alabildiğiniz kadar kablolu kulaklıklara yakındır. Apple'ın yaptığı gibi stüdyo kalitesinde demezdim, ancak muhtemelen Bluetooth kulaklıklarla alabileceğiniz en iyi ses.
+
+Ancak, bu sessiz bir ortamda. Daha gürültülü ortamlarda, AirPod'lar hala biraz sessiz olsa da şaşırtıcı derecede iyi ses çıkarmaya devam eden ses kalitesine öncelik veriyor. Bununla birlikte, bu, AirPods modellerinde diğer yeni Bluetooth cihazlarında olduğu kadar etkili olmayan arka plan gürültüsü azaltma maliyetine neden olur. AirPods ile arka planda olup biten her şeyi az çok duyabilirsiniz. Piyasadaki diğer premium Bluetooth kulaklıkların çoğu artık bazı ses kalitesinden ödün vererek arka plan gürültüsünü tamamen ortadan kaldırabilir, ancak Apple esasen tam tersi bir yaklaşım benimsiyor.
+
+Gürültü iptali
+
+AirPods 5, aktif gürültü önleme ve şeffaflık modlarını destekler. Ayrıca, biraz orta yol görevi gören ve ne kadar dış gürültüye izin vermek istediğinizi manuel olarak ayarlamanıza olanak tanıyan bir Uyarlanabilir mod da vardır.
+
+AirPods 5 'teki gürültü iptal performansı karışık bir çantadır. Bir yandan, açık kulaklı bir tasarımla çalışması etkileyicidir. Öte yandan, kısmen tasarımın sınırlamaları ve kısmen de yazılımın tuhaflıkları nedeniyle özellikle iyi çalışmıyor.
+
+Gürültü önleme tipik olarak kulakları fiziksel olarak örtme ve ardından elektroniklerin devreye girip boşlukları doldurmasına izin verme kombinasyonuna dayanır. Çoğu tam boyutlu kulaklık ve kulak içi kulaklık, düşük enerjiye sahip oldukları ve fiziksel bir bariyerle engellenebildikleri için yüksek frekanslı sesleri pasif olarak engelleyebilir. Daha sonra elektronikler devreye girer ve aksi takdirde fiziksel engellerden bile geçme eğiliminde olan düşük frekansları gidermek için ters ses dalgaları üretir.
+
+AirPods 5 gibi açık kulak tasarımlarında, kulak kanalları tamamen tıkanmadığı için yüksek frekanslar özellikle iyi zayıflamaz. Elektronik devreye girdiğinde, düşük frekanslı zayıflama elde edersiniz, ancak üst orta ve yüksek frekanslı sesler hala oldukça duyulabilir.
+
+Bana göre bu oldukça dikkat dağıtıcı. AirPods 5 'in çevrenin yaygın düşük frekanslı zonklamasından kurtulmayı başarması havalı olsa da, akan su sesi, tıkırdayan nesneler veya sadece fanlar ve klimalar gibi geniş spektrumlu seslerin üst notaları gibi yüksek frekanslı seslerin çoğu hala geliyor. Daha da kötüsü, aslında ilk düşündüğüm gibi elektroniklerden değil, çevreden gelen ve susturulamayan yüksek frekanslı seslerden kalan kalıcı bir tıslama var gibi geliyor.
+
+To be fair, this isn't something you cannot drown out with your media. But it was distracting when nothing was playing, so I couldn't just wear them as earplugs on a flight.
+
+Then there are the quirks, which admittedly are minor. Unlike the AirPods Pro 3, the AirPods 5 take a while to calibrate the ANC when you first place them in your ears. You will often hear the two earbuds firing off with different attenuation values before eventually matching each other. Seconds later, they complete the calibration and then settle down for real. If the earbuds move at any point after this, this entire process needs to happen again, and the earbuds also don't like it if you brush against the microphone openings on the outside. Once again, it's not something you cannot live with, but it is a tad bothersome and nowhere near as sophisticated as on the AirPods Pro 3.
+
+The transparency mode on the AirPods 5 feels a tad superfluous. You can hear well enough by just disabling the ANC entirely, and the transparency mode really just brings additional clarity to the sound. It's good if you want to briefly hear something or someone clearly, but if you're just going to have it enabled for longer durations, then you may as well just turn ANC off completely and save some battery.
+
+Speaking of battery, the AirPods 5 have a claimed battery life of 4 hours for the standard model and 5 hours for the model with the Wireless Charging Case. If you disable ANC or transparency, you get an additional two hours, bringing the total to 6 and 7 hours, respectively. I only have the fancy model here, so that's what I tested.
+
+With the ANC enabled, I got 5 hours and 11 minutes of continuous playback. With ANC disabled, I got 7 hours and 29 minutes of playback.
+
+The company also claims 1 hour of playback after a 5-minute charge from 0%, presumably with ANC, as it does not specify. In that test, I got 1 hour and 3 minutes with ANC enabled, and 1 hour and 23 minutes with ANC disabled.
+
+The battery life on the AirPods 5 isn't good. If you travel a lot, you'd likely run out of juice even before you reach your destination if you start counting from the time you left your house. It's only adequate for going to and from school or work and short runabouts. And that is assuming you have the model with the bigger battery. The base AirPods 5 will likely test your patience if you plan anything longer than the daily commute.
+
+Of course, it goes without saying that the case with Wireless Charging Case in the name supports wireless charging. However, unlike the larger AirPods Pro 3 case, the AirPods 5 case does not support MagSafe, even though it does have magnets inside. It can, however, work with standard Qi chargers or the Apple Watch chargers.
+
+One long-running bit with the AirPods since the second-generation model is this somewhat arbitrary option to buy it with or without a wireless charging case. At first, that's all it was, but with the AirPods 4, the two variants started to diverge, and the AirPods 5 model now shows the most differences between what, on the surface, seems like just different cases.
+
+I'm not sure what's weirder: the insistence on assuming enough people care about wireless charging to make it a separate option or using that as the only identifiable marker for what is actually a notably different product.
+
+Truth be told, the $129 base makes no sense, if for nothing else than for its dismal 4 hours of battery life. But it also loses out on the swipe gestures and, of course, the case with the wireless charging and the speaker. Not exactly groundbreaking stuff, but for just $20 less it feels like you lose out on a lot more than what you save. As such, you really should just consider this a $149 product, and forget the base model exists.
+
+The AirPods continue to be a popular product a decade on from the original model and despite the existence of cheaper alternatives. Some people prefer the open-ear design to the much more commonplace in-ear options. Others simply want the cheapest product with the AirPods name attached to it.
+
+For its part, Apple has done a lot over the years to keep the AirPods relevant. The AirPods 5 have all the modern features and conveniences that you can think of and at no point feel like they don't justify their price tag. In fact, they feel like better value than the AirPods Pro 3, considering how much of that product's technology is available here for $100 less. The only real product-specific issue with the AirPods 5 is the battery life, which can be quite limiting.
+
+I say "product-specific" because most other AirPods 5 limitations stem from the open-ear design. Inconsistent fit, unreliable comfort, and generally dissatisfactory sound quality and noise cancellation are just some of the derelictions of the open-ear form factor, and why in-ears have become so pervasive in the first place. Try as Apple's skilled engineers might, it's a difficult problem to solve, and at this point probably feels like trying to engineer more sophisticated ways to power a square wheel when a round one already exists and is on sale for $100 more.
+
+Well, turns out people like their square wheels, and if you're one of those who wants an open-ear design, or simply enjoy the feeling of having unspent $100 in your pocket, then the AirPods 5 are about as good as it gets right now.
+
+---
+
+## Görseller
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_001.jpg)
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_002.jpg)
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_003.jpg)
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_004.jpg)
+
+![AirPods settings](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_005.jpg)
+
+![AirPods settings](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_006.jpg)
+
+![AirPods settings](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_007.jpg)
+
+![Audio settings](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_008.jpg)
+
+![Audio settings](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_009.jpg)
+
+![Audio settings](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_010.jpg)
+
+![Live Translation feature](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_017.jpg)
+
+![Gestures and other settings](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_011.jpg)
+
+![Gestures and other settings](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_012.jpg)
+
+![Gestures and other settings](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_013.jpg)
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_018.jpg)
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_019.jpg)
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_020.jpg)
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_021.jpg)
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_022.jpg)
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_023.jpg)
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_025.jpg)
+
+![Apple AirPods 5 review](https://umutevicom-commits.github.io/tarihte/data/images/apple_airpods_5_review-news-75101/immaculate_024.jpg)
