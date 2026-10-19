@@ -1,0 +1,17 @@
+# Motorola'nın geniş Razr Flex'i Geekbench'i şaşırtıcı bir yonga setiyle vurdu
+
+Geçen ay, Motorola'nın yaklaşmakta olan geniş katlanabilir akıllı telefonu nihayet sızdırılmış bir isim aldı - iddiaya göre Razr Flex olarak adlandırılacak. Bu artık bir Geekbench kaydı aracılığıyla onaylandı. Görünüşe göre, Razr Flex prototipine sahip biri Geekbench 6.7.1 'i üzerinde çalıştırmaya karar verdi, böylece adı doğruladı (elbette böyle bir çalışma mümkün olduğu kadar - bu gibi şeyler sahte olabilir).
+
+Kıyaslama çalışması, Razr Flex'in Snapdragon 8 5. Nesil SoC tarafından desteklendiğini de ortaya koydu; bu, geçmiş söylentilerin bunun yerine Snapdragon 8 Elite 5. Nesil olacağını iddia etmesi nedeniyle dikkat çekici. Her neyse, test edilen prototipte yonga seti 12GB RAM ile eşleştirildi. Açıkçası, Motorola daha fazla RAM seçeneği sunabilir. Telefon, şaşırtıcı olmayan bir şekilde Android 17 çalıştırarak piyasaya sürülecek.
+
+İlginç bir şekilde, adı Razr Flex 27 veya Razr Flex 2027 olabilir ve bu, Motorola'nın Kuzey Amerika'da sattığı cihazlar için adlandırma planına uygundur. Ayrıca, şirketin bunu tek seferlik bir deney olarak düşünmediği, ancak halihazırda planlanmış bir halefi olduğu anlamına gelir.
+
+Yukarıdaki ekran görüntüsünde görebileceğiniz gibi, Razr Flex 2.669 'luk tek çekirdekli bir puanı ve 8.837' lik çok çekirdekli bir puanı yönetti, ancak her zaman olduğu gibi sizi bu sayıları çok ciddiye almamanız konusunda uyarıyoruz, çünkü bunlar bir prototip cihazın çalışmasından ve aynı zamanda Geekbench 6 'dalar, sonuçları Geekbench 7' dekilerle doğrudan karşılaştırılamaz.
+
+Önceki söylentilere göre, Razr Flex 2364x1728 çözünürlüğe ve 165Hz yenileme hızına sahip 6,92inç iç OLED katlanır ekrana, 1140x1736 çözünürlüğe sahip 4,97inç OLED kapak ekranına, 50MP ana kameraya, 50MP ultra genişliğe, iki 32MP selfie kamerasına ve 25W kablosuz şarj desteğine sahip 5.000 mAh bataryaya sahip olacak. 215 gr ağırlığındadır ve Pantone Kişniş ve Pantone Koyu Botanik Bahçesi renklerinde sunulacaktır. Aralık ortasında piyasaya sürülmesi bekleniyor.
+
+---
+
+## Görseller
+
+![Motorola's wide Razr Flex hits Geekbench with a surprising chipset](https://umutevicom-commits.github.io/tarihte/data/images/motorolas_wide_razr_flex_hits_geekbench_with_a_surprising_chipset-news-75116/immaculate_001.jpg)

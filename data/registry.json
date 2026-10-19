@@ -5889,6 +5889,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_may_launch_galaxy_s27_series_earlier_than_expected_but_memory_questions_still_linger-news-75106.php"
   },
+  "75107": {
+    "content_hash": "f4d69e7f20c19d4eee037dedf8d7d1b1a506b2bde8f6c3942ed656e1ea37992b",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T21:52:59.054995+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "leaked_galaxy_s27_series_cases_reiterate_new_designs_-news-75107",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/leaked_galaxy_s27_series_cases_reiterate_new_designs_-news-75107.php"
+  },
   "75108": {
     "content_hash": "d343c24bdd831795b076e94adfcf93f2ff050500ee2c42758a7e791a110e8729",
     "date": "19 October 2026",
@@ -5938,5 +5948,25 @@
     "slug": "the_extra_rugged_crosscall_core_x7_surfaces_at_a_french_retailer_followed_by_a_rugged_tablet-news-75113",
     "status": "ok",
     "url": "https://www.gsmarena.com/the_extra_rugged_crosscall_core_x7_surfaces_at_a_french_retailer_followed_by_a_rugged_tablet-news-75113.php"
+  },
+  "75114": {
+    "content_hash": "a4b021f967602cd3859a848354f6461abe515dc4cbb19341d50de426803f65b9",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T21:52:27.031766+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_pro_and_xiaomi_18_pro_max_european_prices_and_battery_capacities_leak-news-75114",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_and_xiaomi_18_pro_max_european_prices_and_battery_capacities_leak-news-75114.php"
+  },
+  "75116": {
+    "content_hash": "3b29839d5c6ca13f22bd4d9cc7d9da686f622e34dcdb9cdc3e4babf98a0acaed",
+    "date": "19 October 2026",
+    "fetched_at": "2026-10-19T21:52:45.664479+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorolas_wide_razr_flex_hits_geekbench_with_a_surprising_chipset-news-75116",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorolas_wide_razr_flex_hits_geekbench_with_a_surprising_chipset-news-75116.php"
   }
 }
