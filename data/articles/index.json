@@ -1,43 +1,93 @@
 [
   {
-    "slug": "new_realme_phone_gets_listed_before_launch_here_are_its_specs_and_price-news-75118",
-    "url": "https://www.gsmarena.com/new_realme_phone_gets_listed_before_launch_here_are_its_specs_and_price-news-75118.php",
+    "slug": "apple_is_already_working_on_a_larger_and_better_homeview-news-75121",
+    "url": "https://www.gsmarena.com/apple_is_already_working_on_a_larger_and_better_homeview-news-75121.php",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T13:10:55.986022+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "53f2ca9d4e42ff54057114a10939848bf9e671c151c448a97fcf94b04b5268e8"
+  },
+  {
+    "slug": "oneplus_details_the_dualairflow_fan_design_on_the_upcoming_ace_7_series-news-75123",
+    "url": "https://www.gsmarena.com/oneplus_details_the_dualairflow_fan_design_on_the_upcoming_ace_7_series-news-75123.php",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T13:10:41.259420+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "786947c8bc7ea046b4361dcc9390849dff9283b0ca43ab28f3993659114a372c"
+  },
+  {
+    "slug": "oppos_widescreen_phone_tipped_to_pack_an_8000mah_battery-news-75126",
+    "url": "https://www.gsmarena.com/oppos_widescreen_phone_tipped_to_pack_an_8000mah_battery-news-75126.php",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T13:10:24.021832+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d5c9392ff08bdc78e9d130101df16ec04a0772c6f5ccd0df075fae4660dd84d3"
+  },
+  {
+    "slug": "shipping_dates_for_the_iphone_duo_have_been_pulled_forward_for_many_users-news-75125",
+    "url": "https://www.gsmarena.com/shipping_dates_for_the_iphone_duo_have_been_pulled_forward_for_many_users-news-75125.php",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T13:10:00.999184+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4d0708c0397221bf1c53e462b7ce8a45e836dcc3ae4374a5da5c3c771815f418"
+  },
+  {
+    "slug": "samsung_signs_huge_dram_and_hbm_contracts-news-75124",
+    "url": "https://www.gsmarena.com/samsung_signs_huge_dram_and_hbm_contracts-news-75124.php",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T13:09:45.307483+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "bc13c4e9f203b6799bff5b260868e9eec265251a63b31e8b031ebfaeef735e3f"
+  },
+  {
+    "content_hash": "415fbe30232783eb49c351f491bd42e3b7eb27bbdfcb240c12ce48cac86233a8",
     "date": "20 October 2026",
     "fetched_at": "2026-10-20T06:54:45.446855+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "415fbe30232783eb49c351f491bd42e3b7eb27bbdfcb240c12ce48cac86233a8"
+    "retries": 0,
+    "slug": "new_realme_phone_gets_listed_before_launch_here_are_its_specs_and_price-news-75118",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/new_realme_phone_gets_listed_before_launch_here_are_its_specs_and_price-news-75118.php"
   },
   {
-    "slug": "karbonn_rebel_5g_is_coming_soon_for_people_who_see_past_the_hype-news-75119",
-    "url": "https://www.gsmarena.com/karbonn_rebel_5g_is_coming_soon_for_people_who_see_past_the_hype-news-75119.php",
+    "content_hash": "151e1531070ed1b25e9d226830e28e851731efc4f3a21df2091225a0046f5aef",
     "date": "20 October 2026",
     "fetched_at": "2026-10-20T06:54:33.207794+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "151e1531070ed1b25e9d226830e28e851731efc4f3a21df2091225a0046f5aef"
+    "retries": 0,
+    "slug": "karbonn_rebel_5g_is_coming_soon_for_people_who_see_past_the_hype-news-75119",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/karbonn_rebel_5g_is_coming_soon_for_people_who_see_past_the_hype-news-75119.php"
   },
   {
-    "slug": "apple_to_unveil_new_macbook_pro_models_on_october_28-news-75122",
-    "url": "https://www.gsmarena.com/apple_to_unveil_new_macbook_pro_models_on_october_28-news-75122.php",
+    "content_hash": "7b7a0b48c8c86d0f411884188406dd25b4bc4cd291838d26af23b246383626c7",
     "date": "20 October 2026",
     "fetched_at": "2026-10-20T06:54:19.002032+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7b7a0b48c8c86d0f411884188406dd25b4bc4cd291838d26af23b246383626c7"
+    "retries": 0,
+    "slug": "apple_to_unveil_new_macbook_pro_models_on_october_28-news-75122",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_to_unveil_new_macbook_pro_models_on_october_28-news-75122.php"
   },
   {
-    "slug": "huawei_mate_x8_specs_leak-news-75120",
-    "url": "https://www.gsmarena.com/huawei_mate_x8_specs_leak-news-75120.php",
+    "content_hash": "33db681354f3c49da593727dbbf5b380928feb79e9021e7c891b27fd2ad7443b",
     "date": "20 October 2026",
     "fetched_at": "2026-10-20T06:54:03.143321+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "33db681354f3c49da593727dbbf5b380928feb79e9021e7c891b27fd2ad7443b"
+    "retries": 0,
+    "slug": "huawei_mate_x8_specs_leak-news-75120",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_mate_x8_specs_leak-news-75120.php"
   },
   {
     "content_hash": "f4d69e7f20c19d4eee037dedf8d7d1b1a506b2bde8f6c3942ed656e1ea37992b",

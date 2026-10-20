@@ -5999,6 +5999,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_mate_x8_specs_leak-news-75120.php"
   },
+  "75121": {
+    "content_hash": "53f2ca9d4e42ff54057114a10939848bf9e671c151c448a97fcf94b04b5268e8",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T13:10:55.986022+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_is_already_working_on_a_larger_and_better_homeview-news-75121",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_is_already_working_on_a_larger_and_better_homeview-news-75121.php"
+  },
   "75122": {
     "content_hash": "7b7a0b48c8c86d0f411884188406dd25b4bc4cd291838d26af23b246383626c7",
     "date": "20 October 2026",
@@ -6008,5 +6018,45 @@
     "slug": "apple_to_unveil_new_macbook_pro_models_on_october_28-news-75122",
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_to_unveil_new_macbook_pro_models_on_october_28-news-75122.php"
+  },
+  "75123": {
+    "content_hash": "786947c8bc7ea046b4361dcc9390849dff9283b0ca43ab28f3993659114a372c",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T13:10:41.259420+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_details_the_dualairflow_fan_design_on_the_upcoming_ace_7_series-news-75123",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_details_the_dualairflow_fan_design_on_the_upcoming_ace_7_series-news-75123.php"
+  },
+  "75124": {
+    "content_hash": "bc13c4e9f203b6799bff5b260868e9eec265251a63b31e8b031ebfaeef735e3f",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T13:09:45.307483+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_signs_huge_dram_and_hbm_contracts-news-75124",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_signs_huge_dram_and_hbm_contracts-news-75124.php"
+  },
+  "75125": {
+    "content_hash": "4d0708c0397221bf1c53e462b7ce8a45e836dcc3ae4374a5da5c3c771815f418",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T13:10:00.999184+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "shipping_dates_for_the_iphone_duo_have_been_pulled_forward_for_many_users-news-75125",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/shipping_dates_for_the_iphone_duo_have_been_pulled_forward_for_many_users-news-75125.php"
+  },
+  "75126": {
+    "content_hash": "d5c9392ff08bdc78e9d130101df16ec04a0772c6f5ccd0df075fae4660dd84d3",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T13:10:24.021832+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppos_widescreen_phone_tipped_to_pack_an_8000mah_battery-news-75126",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppos_widescreen_phone_tipped_to_pack_an_8000mah_battery-news-75126.php"
   }
 }
