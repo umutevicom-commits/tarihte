@@ -1,0 +1,17 @@
+# Apple, iPhone Duo ve iPhone 18 Pro için Amerikalı tedarikçilerle ortaklıklarını genişletiyor
+
+Bugün Apple, iPhone Duo ve iPhone 18 Pro'da kullanılan kritik malzemeler ve bileşenler için Amerikan Üretim Programı (AMP) kapsamında yeni ve genişletilmiş ortaklıklar duyurdu, çünkü kablosuz çiplerden temel işlevlere güç veren silikona kadar bu telefonlardaki yaklaşık 100 bileşen, bir düzineden fazla eyalete yayılmış tedarikçilerle Amerikan şirketleri tarafından üretiliyor.
+
+Perryman Company, iPhone Duo'nun 5. sınıf titanyum muhafazasını tedarik etmektedir. Perryman, iPhone Duo için en az % 80 geri dönüştürülmüş içeriğe sahip titanyumu erittiği, dövdüğü ve yuvarladığı için Apple, önümüzdeki üç yıl boyunca 100 milyon $ 'a kadar taahhütte bulunuyor. Apple, Mart ayında AMP'ye katılan Delaware merkezli Qnity Electronics ile ortaklığını da genişletiyor. Qnity, iPhone 18 Pro'nun ana kamerasındaki yeni değişken diyafram sistemi için gerekli olan gelişmiş filmleri üretecek.
+
+Duyuru ayrıca mevcut bazı ortaklarla ilgili güncellemeleri de içeriyor. Broadcom, 15 milyardan fazla ABD yapımı çip üretecek çok yıllı anlaşmanın bir parçası olarak temmuzda açıklanan 1,5 milyar $ sermaye yatırımı kapsamında Fort Collins, Colorado'daki tesisini genişletiyor ve modernize ediyor. 2007 'deki orijinal iPhone'dan bu yana Apple ortağı olan Corning, Harrodsburg, Kentucky'deki Ceramic Shield dahil olmak üzere özel cam üretiyor ve bu yılın sonuna kadar iPhone'lar (Duo dahil) ve dünya çapında satılan Apple Watch'lar için tüm kapak camları bu tesisten gelecek.
+
+Coherent, iPhone 18 Pro ve iPhone 18 Pro Max'te yeniden tasarlanan Dynamic Island da dahil olmak üzere Face ID ve iPhone'lar ve iPad'lerdeki diğer özellikler için Sherman, Teksas'tan dikey boşluklu yüzey yayan lazer teknolojisi sağlıyor. TSMC'nin Arizona fabrikası bu yıl Apple için 100 milyondan fazla çip üretecek ve kuzey kampüsündeki inşaat devam ediyor. Eylül 2025 'te Arizona'nın Peoria kentindeki bir paketleme ve test tesisinde çığır açan Amkor, bu yılın başlarında kabuk inşaatına başladı ve Apple ilk müşterilerinden biri olacak.
+
+Apple, ABD'nin 50 eyaletindeki tedarikçilerle birlikte çalışıyor ve 450 binden fazla Amerikan işini desteklediğini söylüyor. İlk olarak geçen yılın Ağustos ayında duyurulan AMP, şirketin ABD üretimine yönelik 600 milyar $ tutarındaki dört yıllık taahhüdünün bir parçası. Apple'ın 2030 yılına kadar tüm ayak izi boyunca karbon nötr olma hedefinin bir parçası olarak, tüm doğrudan tedarikçilerinin on yılın sonuna kadar Apple üretimlerini yenilenebilir enerji ile güçlendirmeleri gerekecek.
+
+---
+
+## Görseller
+
+![Apple expands partnerships with American suppliers for the iPhone Duo and iPhone 18 Pro](https://umutevicom-commits.github.io/tarihte/data/images/apple_expands_partnerships_with_american_suppliers_for_the_iphone_duo_and_iphone_18_pro-news-75136/immaculate_001.jpg)
