@@ -5968,5 +5968,45 @@
     "slug": "motorolas_wide_razr_flex_hits_geekbench_with_a_surprising_chipset-news-75116",
     "status": "ok",
     "url": "https://www.gsmarena.com/motorolas_wide_razr_flex_hits_geekbench_with_a_surprising_chipset-news-75116.php"
+  },
+  "75118": {
+    "content_hash": "415fbe30232783eb49c351f491bd42e3b7eb27bbdfcb240c12ce48cac86233a8",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T06:54:45.446855+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "new_realme_phone_gets_listed_before_launch_here_are_its_specs_and_price-news-75118",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/new_realme_phone_gets_listed_before_launch_here_are_its_specs_and_price-news-75118.php"
+  },
+  "75119": {
+    "content_hash": "151e1531070ed1b25e9d226830e28e851731efc4f3a21df2091225a0046f5aef",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T06:54:33.207794+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "karbonn_rebel_5g_is_coming_soon_for_people_who_see_past_the_hype-news-75119",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/karbonn_rebel_5g_is_coming_soon_for_people_who_see_past_the_hype-news-75119.php"
+  },
+  "75120": {
+    "content_hash": "33db681354f3c49da593727dbbf5b380928feb79e9021e7c891b27fd2ad7443b",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T06:54:03.143321+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_mate_x8_specs_leak-news-75120",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_mate_x8_specs_leak-news-75120.php"
+  },
+  "75122": {
+    "content_hash": "7b7a0b48c8c86d0f411884188406dd25b4bc4cd291838d26af23b246383626c7",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T06:54:19.002032+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_to_unveil_new_macbook_pro_models_on_october_28-news-75122",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_to_unveil_new_macbook_pro_models_on_october_28-news-75122.php"
   }
 }
