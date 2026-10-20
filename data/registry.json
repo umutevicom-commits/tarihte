@@ -6058,5 +6058,55 @@
     "slug": "oppos_widescreen_phone_tipped_to_pack_an_8000mah_battery-news-75126",
     "status": "ok",
     "url": "https://www.gsmarena.com/oppos_widescreen_phone_tipped_to_pack_an_8000mah_battery-news-75126.php"
+  },
+  "75127": {
+    "content_hash": "d0317f74721e1cdacac0599be0ad79d526aa86c1f0a77d64fc8d3988fa95b1b7",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T18:13:37.181731+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_iphone_duo_may_not_have_a_visible_crease_but_the_display_is_soft_in_that_area-news-75127",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_iphone_duo_may_not_have_a_visible_crease_but_the_display_is_soft_in_that_area-news-75127.php"
+  },
+  "75128": {
+    "content_hash": "741ce5a31af28b0af7510cb863fe30f83ed13aacdad0711360f078c0008b010e",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T18:13:09.409496+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "verizons_straight_talk_upgrades_its_unlimited_plans_without_raising_prices-news-75128",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/verizons_straight_talk_upgrades_its_unlimited_plans_without_raising_prices-news-75128.php"
+  },
+  "75129": {
+    "content_hash": "b2b39e09088c7090d93460265732b5cafbfe79a9f9f9dcc6b7b6c41cffa1ea77",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T18:14:10.985943+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a36s_one_ui_9_update_lands_in_europe-news-75129",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a36s_one_ui_9_update_lands_in_europe-news-75129.php"
+  },
+  "75130": {
+    "content_hash": "fe846ae705b35e163cd88acaf435ee2a056a18acbac8001faeec9cb8ef8bd380",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T18:12:38.364883+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_improves_the_power_efficiency_of_the_exynos_modems_for_the_galaxy_s27_phones-news-75130",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_improves_the_power_efficiency_of_the_exynos_modems_for_the_galaxy_s27_phones-news-75130.php"
+  },
+  "75131": {
+    "content_hash": "03d1c6626e84e9b2c4ee461ecdfa15c2975e4fb95455196999be4cc9a6f25f4d",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T18:14:21.793371+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "doogee_previews_the_note60_w_a_widescreen_slab_inspired_by_the_huawei_pura_x_view-news-75131",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/doogee_previews_the_note60_w_a_widescreen_slab_inspired_by_the_huawei_pura_x_view-news-75131.php"
   }
 }

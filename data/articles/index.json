@@ -1,53 +1,103 @@
 [
   {
-    "slug": "apple_is_already_working_on_a_larger_and_better_homeview-news-75121",
-    "url": "https://www.gsmarena.com/apple_is_already_working_on_a_larger_and_better_homeview-news-75121.php",
+    "slug": "doogee_previews_the_note60_w_a_widescreen_slab_inspired_by_the_huawei_pura_x_view-news-75131",
+    "url": "https://www.gsmarena.com/doogee_previews_the_note60_w_a_widescreen_slab_inspired_by_the_huawei_pura_x_view-news-75131.php",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T18:14:21.793371+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "03d1c6626e84e9b2c4ee461ecdfa15c2975e4fb95455196999be4cc9a6f25f4d"
+  },
+  {
+    "slug": "samsung_galaxy_a36s_one_ui_9_update_lands_in_europe-news-75129",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a36s_one_ui_9_update_lands_in_europe-news-75129.php",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T18:14:10.985943+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b2b39e09088c7090d93460265732b5cafbfe79a9f9f9dcc6b7b6c41cffa1ea77"
+  },
+  {
+    "slug": "the_iphone_duo_may_not_have_a_visible_crease_but_the_display_is_soft_in_that_area-news-75127",
+    "url": "https://www.gsmarena.com/the_iphone_duo_may_not_have_a_visible_crease_but_the_display_is_soft_in_that_area-news-75127.php",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T18:13:37.181731+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d0317f74721e1cdacac0599be0ad79d526aa86c1f0a77d64fc8d3988fa95b1b7"
+  },
+  {
+    "slug": "verizons_straight_talk_upgrades_its_unlimited_plans_without_raising_prices-news-75128",
+    "url": "https://www.gsmarena.com/verizons_straight_talk_upgrades_its_unlimited_plans_without_raising_prices-news-75128.php",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T18:13:09.409496+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "741ce5a31af28b0af7510cb863fe30f83ed13aacdad0711360f078c0008b010e"
+  },
+  {
+    "slug": "samsung_improves_the_power_efficiency_of_the_exynos_modems_for_the_galaxy_s27_phones-news-75130",
+    "url": "https://www.gsmarena.com/samsung_improves_the_power_efficiency_of_the_exynos_modems_for_the_galaxy_s27_phones-news-75130.php",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T18:12:38.364883+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "fe846ae705b35e163cd88acaf435ee2a056a18acbac8001faeec9cb8ef8bd380"
+  },
+  {
+    "content_hash": "53f2ca9d4e42ff54057114a10939848bf9e671c151c448a97fcf94b04b5268e8",
     "date": "20 October 2026",
     "fetched_at": "2026-10-20T13:10:55.986022+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "53f2ca9d4e42ff54057114a10939848bf9e671c151c448a97fcf94b04b5268e8"
+    "retries": 0,
+    "slug": "apple_is_already_working_on_a_larger_and_better_homeview-news-75121",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_is_already_working_on_a_larger_and_better_homeview-news-75121.php"
   },
   {
-    "slug": "oneplus_details_the_dualairflow_fan_design_on_the_upcoming_ace_7_series-news-75123",
-    "url": "https://www.gsmarena.com/oneplus_details_the_dualairflow_fan_design_on_the_upcoming_ace_7_series-news-75123.php",
+    "content_hash": "786947c8bc7ea046b4361dcc9390849dff9283b0ca43ab28f3993659114a372c",
     "date": "20 October 2026",
     "fetched_at": "2026-10-20T13:10:41.259420+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "786947c8bc7ea046b4361dcc9390849dff9283b0ca43ab28f3993659114a372c"
+    "retries": 0,
+    "slug": "oneplus_details_the_dualairflow_fan_design_on_the_upcoming_ace_7_series-news-75123",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_details_the_dualairflow_fan_design_on_the_upcoming_ace_7_series-news-75123.php"
   },
   {
-    "slug": "oppos_widescreen_phone_tipped_to_pack_an_8000mah_battery-news-75126",
-    "url": "https://www.gsmarena.com/oppos_widescreen_phone_tipped_to_pack_an_8000mah_battery-news-75126.php",
+    "content_hash": "d5c9392ff08bdc78e9d130101df16ec04a0772c6f5ccd0df075fae4660dd84d3",
     "date": "20 October 2026",
     "fetched_at": "2026-10-20T13:10:24.021832+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d5c9392ff08bdc78e9d130101df16ec04a0772c6f5ccd0df075fae4660dd84d3"
+    "retries": 0,
+    "slug": "oppos_widescreen_phone_tipped_to_pack_an_8000mah_battery-news-75126",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppos_widescreen_phone_tipped_to_pack_an_8000mah_battery-news-75126.php"
   },
   {
-    "slug": "shipping_dates_for_the_iphone_duo_have_been_pulled_forward_for_many_users-news-75125",
-    "url": "https://www.gsmarena.com/shipping_dates_for_the_iphone_duo_have_been_pulled_forward_for_many_users-news-75125.php",
+    "content_hash": "4d0708c0397221bf1c53e462b7ce8a45e836dcc3ae4374a5da5c3c771815f418",
     "date": "20 October 2026",
     "fetched_at": "2026-10-20T13:10:00.999184+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4d0708c0397221bf1c53e462b7ce8a45e836dcc3ae4374a5da5c3c771815f418"
+    "retries": 0,
+    "slug": "shipping_dates_for_the_iphone_duo_have_been_pulled_forward_for_many_users-news-75125",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/shipping_dates_for_the_iphone_duo_have_been_pulled_forward_for_many_users-news-75125.php"
   },
   {
-    "slug": "samsung_signs_huge_dram_and_hbm_contracts-news-75124",
-    "url": "https://www.gsmarena.com/samsung_signs_huge_dram_and_hbm_contracts-news-75124.php",
+    "content_hash": "bc13c4e9f203b6799bff5b260868e9eec265251a63b31e8b031ebfaeef735e3f",
     "date": "20 October 2026",
     "fetched_at": "2026-10-20T13:09:45.307483+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "bc13c4e9f203b6799bff5b260868e9eec265251a63b31e8b031ebfaeef735e3f"
+    "retries": 0,
+    "slug": "samsung_signs_huge_dram_and_hbm_contracts-news-75124",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_signs_huge_dram_and_hbm_contracts-news-75124.php"
   },
   {
     "content_hash": "415fbe30232783eb49c351f491bd42e3b7eb27bbdfcb240c12ce48cac86233a8",
