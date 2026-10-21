@@ -6258,5 +6258,15 @@
     "slug": "oppo_find_x10_and_find_x10_pro_max_go_global-news-75154",
     "status": "ok",
     "url": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_pro_max_go_global-news-75154.php"
+  },
+  "75156": {
+    "content_hash": "3e7d2ce4c745bcd58325e8efe46d7fb4ea7f4632bbd5cb30960c97bd9f4cf478",
+    "date": "21 October 2026",
+    "fetched_at": "2026-10-21T22:55:20.657813+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "spotify_launches_podcast_memberships_creators_keep_90_of_the_revenue-news-75156",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/spotify_launches_podcast_memberships_creators_keep_90_of_the_revenue-news-75156.php"
   }
 }
