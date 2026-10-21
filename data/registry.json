@@ -6109,6 +6109,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/doogee_previews_the_note60_w_a_widescreen_slab_inspired_by_the_huawei_pura_x_view-news-75131.php"
   },
+  "75132": {
+    "content_hash": "a7d3b90c599fcfa9e891b6830e3ae092d78d6371a8d247ef135c999a466eace5",
+    "date": "21 October 2026",
+    "fetched_at": "2026-10-21T09:01:53.819895+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "coolpad_unveils_the_cool_x_wide_with_a_1610_display_and_50mp_camera-news-75132",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/coolpad_unveils_the_cool_x_wide_with_a_1610_display_and_50mp_camera-news-75132.php"
+  },
   "75133": {
     "content_hash": "ffe7389a830e5eab5b02b5ec88d4fc3cac244e98707f309a730e00ec56af1319",
     "date": "21 October 2026",
@@ -6128,5 +6138,25 @@
     "slug": "apple_expands_partnerships_with_american_suppliers_for_the_iphone_duo_and_iphone_18_pro-news-75136",
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_expands_partnerships_with_american_suppliers_for_the_iphone_duo_and_iphone_18_pro-news-75136.php"
+  },
+  "75138": {
+    "content_hash": "0158dab25808c4ea9871abf687009c07523820ce9e95e08ddcd72e78d1af3dc3",
+    "date": "21 October 2026",
+    "fetched_at": "2026-10-21T09:01:12.272758+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "redmi_k100_to_get_a_50mp_rear_camera_ultrasonic_fingerprint_scanner-news-75138",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmi_k100_to_get_a_50mp_rear_camera_ultrasonic_fingerprint_scanner-news-75138.php"
+  },
+  "75140": {
+    "content_hash": "5391e3912745cb2caf29db6e96fb7f50d2881d3a5efe485014b083bffd43ac56",
+    "date": "21 October 2026",
+    "fetched_at": "2026-10-21T09:00:10.864283+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "lava_aura_curve_unveiled_with_curved_display_rear_screen_and_6000mah_battery-news-75140",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/lava_aura_curve_unveiled_with_curved_display_rear_screen_and_6000mah_battery-news-75140.php"
   }
 }
