@@ -1,0 +1,39 @@
+# Honor Win RT2 ve Win Turbo2, 12.070mAh pillerle resmi hale geldi
+
+Honor, Win2, Win RT2 ve Win Turbo2 'den oluşan Win2 serisini Çin'de tanıttı. Bu yazıda, her ikisi de devasa 12.070mAh pil içeren Win RT2 ve Win Turbo2' ye odaklanacağız.
+
+Honor Win RT2, LPDDR5X Ultra RAM ve UFS 4.1 depolama ile eşleştirilen Snapdragon 8 Elite Gen 5 yonga seti tarafından desteklenmektedir. Ayrıca şirket içi ekran ve iletişim yonga setleri de alır.
+
+Win RT2 ayrıca arka kamera adasında bulunan dahili bir aktif soğutma fanı ile birlikte gelir. Honor'a göre fan, yük altında sıcaklıkları 6 dereceye kadar düşürebiliyor. Bu arada, yazılım ayrıca 4 seviyeli fan hızı ayarı sunar.
+
+Ön tarafta, telefon 2K çözünürlük, 185Hz yenileme hızı ve 10.000 nit'lik bir tepe parlaklığı sunan 6,89inç AMOLED ekrana sahiptir.
+
+Fotoğrafçılık için Win RT2, CIPA 6.0 stabilizasyonlu 200MP ana arka kameraya ve 12MP ultra genişleme ünitesine sahiptir. Selfie'ler ve görüntülü aramalar 50MP ön kamera tarafından gerçekleştirilir.
+
+12.070mAh batarya, 90W kablolu ve 27W kablolu ters şarjı destekler. Telefon, Android 17 tabanlı MagicOS 11 'i kullanıma hazır olarak çalıştırıyor.
+
+Honor Win Turbo2 de aynı ekran ve pil özelliklerine sahip, ancak daha az güçlü Snapdragon 8s Gen 4 yonga seti ile donatılmış.
+
+Ayrıca aktif bir soğutma fanı bulunmuyor ve arkasında 12MP ultra geniş kamera ile birlikte 50MP Sony ana sensörü bulunuyor. Selfie'ler için telefon 50MP'lik bir ünite sunuyor.
+
+Her iki akıllı telefon da ultrasonik ekran altı parmak izi tarayıcısı, IP69K derecesi, 5G bağlantısı, Wi - Fi 7, Bluetooth 6.0, NFC ve GPS sunar.
+
+Honor Win RT2 ve Win Turbo2 üç renk seçeneğinde mevcuttur ve şu anda Çin'de satılmaktadır.
+
+Fiyatlandırmaya gelince, Win RT2, temel 12 GB/256 GB seçeneği için 4.199 CNY'den (625 $) başlar ve üst uç 16 GB/512 GB varyantı 5.199 CNY (775 $) fiyat etiketi taşır.
+
+Bu arada, Win Turbo2, 8GB/256GB modeli için 3.199 CNY (480 $) fiyatla satılırken, 16GB/512GB seçeneği 4.499 CNY (670 $) fiyatla satılıyor.
+
+---
+
+## Görseller
+
+![Honor Win RT2 and Win Turbo2 go official with 12,070mAh batteries](https://umutevicom-commits.github.io/tarihte/data/images/honor_win_rt2_and_win_turbo2_go_official_with_12070mah_batteries-news-75153/immaculate_001.jpg)
+
+![Honor Win RT2 and Win Turbo2 go official with 12,070mAh batteries](https://umutevicom-commits.github.io/tarihte/data/images/honor_win_rt2_and_win_turbo2_go_official_with_12070mah_batteries-news-75153/immaculate_002.jpg)
+
+![Honor Win RT2 and Win Turbo2 go official with 12,070mAh batteries](https://umutevicom-commits.github.io/tarihte/data/images/honor_win_rt2_and_win_turbo2_go_official_with_12070mah_batteries-news-75153/immaculate_003.jpg)
+
+![Honor Win RT2 and Win Turbo2 go official with 12,070mAh batteries](https://umutevicom-commits.github.io/tarihte/data/images/honor_win_rt2_and_win_turbo2_go_official_with_12070mah_batteries-news-75153/immaculate_004.jpg)
+
+![Honor Win RT2 and Win Turbo2 go official with 12,070mAh batteries](https://umutevicom-commits.github.io/tarihte/data/images/honor_win_rt2_and_win_turbo2_go_official_with_12070mah_batteries-news-75153/immaculate_005.jpg)
