@@ -1,13 +1,23 @@
 [
   {
-    "slug": "apple_expands_partnerships_with_american_suppliers_for_the_iphone_duo_and_iphone_18_pro-news-75136",
-    "url": "https://www.gsmarena.com/apple_expands_partnerships_with_american_suppliers_for_the_iphone_duo_and_iphone_18_pro-news-75136.php",
-    "date": "20 October 2026",
-    "fetched_at": "2026-10-20T22:50:33.787407+00:00",
+    "slug": "oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-news-75133",
+    "url": "https://www.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-news-75133.php",
+    "date": "21 October 2026",
+    "fetched_at": "2026-10-21T02:38:55.323219+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "2773a7ed7b52f038174a74a3a2d54f58a4920f1b89c2f7ec4568defdfd1a39ff"
+    "content_hash": "ffe7389a830e5eab5b02b5ec88d4fc3cac244e98707f309a730e00ec56af1319"
+  },
+  {
+    "content_hash": "2773a7ed7b52f038174a74a3a2d54f58a4920f1b89c2f7ec4568defdfd1a39ff",
+    "date": "20 October 2026",
+    "fetched_at": "2026-10-20T22:50:33.787407+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_expands_partnerships_with_american_suppliers_for_the_iphone_duo_and_iphone_18_pro-news-75136",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_expands_partnerships_with_american_suppliers_for_the_iphone_duo_and_iphone_18_pro-news-75136.php"
   },
   {
     "content_hash": "03d1c6626e84e9b2c4ee461ecdfa15c2975e4fb95455196999be4cc9a6f25f4d",
