@@ -6309,6 +6309,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/spotify_launches_podcast_memberships_creators_keep_90_of_the_revenue-news-75156.php"
   },
+  "75158": {
+    "content_hash": "bafdf75d470a0b4d5a1248fb09dc201d7f3ee26d2a79a30f264033744818b528",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T14:47:05.664740+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_duo_is_getting_apple_pencil_support_very_soon_reachability_too-news-75158",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_duo_is_getting_apple_pencil_support_very_soon_reachability_too-news-75158.php"
+  },
   "75159": {
     "content_hash": "25386d3457d1331b5dbf54ebbd6366dbc1355765e1891d932e393a3aae66247e",
     "date": "22 October 2026",
@@ -6328,5 +6338,45 @@
     "slug": "heres_when_the_oneplus_ace_7_series_is_launching-news-75160",
     "status": "ok",
     "url": "https://www.gsmarena.com/heres_when_the_oneplus_ace_7_series_is_launching-news-75160.php"
+  },
+  "75161": {
+    "content_hash": "be3b5cf50dbda22ad041a51d4a7c4123b39971a81fa588113a094aa02ae4396b",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T14:46:50.568666+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_y600_to_debut_next_week_with_a_10000mah_battery-news-75161",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_y600_to_debut_next_week_with_a_10000mah_battery-news-75161.php"
+  },
+  "75162": {
+    "content_hash": "512a22914e0faf475009500829a0390c8a919741ea3b11b0e41c9978aeb2120b",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T14:47:22.031811+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "bose_acquires_skullcandy-news-75162",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/bose_acquires_skullcandy-news-75162.php"
+  },
+  "75163": {
+    "content_hash": "9c0f91deb53972bc8e6940b94b5d519ee05c0ba6eb6404e19f5be74d40057fe2",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T14:47:39.155870+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "evidence_points_to_the_vivo_x500_e_being_a_rebranded_vivo_v80-news-75163",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/evidence_points_to_the_vivo_x500_e_being_a_rebranded_vivo_v80-news-75163.php"
+  },
+  "75164": {
+    "content_hash": "de5784c9ceda6437f29059fa7c4662b7001ad6ad9c914ca32ae0a537ade40ea8",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T14:46:33.843952+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "leak_suggests_huawei_pura_90_plus_will_get_a_1inch_type_main_camera_with_variable_aperture-news-75164",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/leak_suggests_huawei_pura_90_plus_will_get_a_1inch_type_main_camera_with_variable_aperture-news-75164.php"
   }
 }
