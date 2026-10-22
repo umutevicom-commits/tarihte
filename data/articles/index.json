@@ -1,13 +1,63 @@
 [
   {
-    "slug": "another_nubia_a76_4g_launches_quietly_with_a_larger_display_faster_charging_battery-news-75148",
-    "url": "https://www.gsmarena.com/another_nubia_a76_4g_launches_quietly_with_a_larger_display_faster_charging_battery-news-75148.php",
+    "slug": "iqoo_16r_receives_its_first_certification_ahead_of_release-news-75147",
+    "url": "https://www.gsmarena.com/iqoo_16r_receives_its_first_certification_ahead_of_release-news-75147.php",
     "date": "22 October 2026",
-    "fetched_at": "2026-10-22T02:36:31.361873+00:00",
+    "fetched_at": "2026-10-22T09:05:04.561069+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "f64a4c68684d69de708386361cf9c888faecc1d5a31e3ea850e49a0279f378bc"
+    "content_hash": "4e4fed9d4261ac4fe64bbc5c987f576406a4441af5cbbe2e39c859d838aa8b30"
+  },
+  {
+    "slug": "oppo_enco_x4_unboxing_and_handson-news-75155",
+    "url": "https://www.gsmarena.com/oppo_enco_x4_unboxing_and_handson-news-75155.php",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T09:03:57.069189+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "42bcf8b87618bb9a203808c5e87d93c740f32f1da8eabb3a95267afafeeb00be"
+  },
+  {
+    "slug": "sony_xperia_1_vii_gets_android_17_update-news-75145",
+    "url": "https://www.gsmarena.com/sony_xperia_1_vii_gets_android_17_update-news-75145.php",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T09:03:35.944218+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3d2823259667511210b3f37d4627ee7fd18d29bb5aaac4b5409e6bbc8963f2fe"
+  },
+  {
+    "slug": "heres_when_the_oneplus_ace_7_series_is_launching-news-75160",
+    "url": "https://www.gsmarena.com/heres_when_the_oneplus_ace_7_series_is_launching-news-75160.php",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T09:03:10.646174+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1dd9df85680dd4471c735ae45401f555d2f71714d53fe63a7eb6e987079986b0"
+  },
+  {
+    "slug": "these_are_the_oppo_reno17_models_launching_in_india_according_to_a_new_rumor-news-75159",
+    "url": "https://www.gsmarena.com/these_are_the_oppo_reno17_models_launching_in_india_according_to_a_new_rumor-news-75159.php",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T09:02:33.224036+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "25386d3457d1331b5dbf54ebbd6366dbc1355765e1891d932e393a3aae66247e"
+  },
+  {
+    "content_hash": "f64a4c68684d69de708386361cf9c888faecc1d5a31e3ea850e49a0279f378bc",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T02:36:31.361873+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "another_nubia_a76_4g_launches_quietly_with_a_larger_display_faster_charging_battery-news-75148",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/another_nubia_a76_4g_launches_quietly_with_a_larger_display_faster_charging_battery-news-75148.php"
   },
   {
     "content_hash": "3e7d2ce4c745bcd58325e8efe46d7fb4ea7f4632bbd5cb30960c97bd9f4cf478",
