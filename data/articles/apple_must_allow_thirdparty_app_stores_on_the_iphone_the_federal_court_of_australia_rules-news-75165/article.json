@@ -1,0 +1,51 @@
+{
+  "url": "https://www.gsmarena.com/apple_must_allow_thirdparty_app_stores_on_the_iphone_the_federal_court_of_australia_rules-news-75165.php",
+  "slug": "apple_must_allow_thirdparty_app_stores_on_the_iphone_the_federal_court_of_australia_rules-news-75165",
+  "title": "Apple must allow third-party app stores on the iPhone, the Federal Court of Australia rules",
+  "news_id": "75165",
+  "date": "22 October 2026",
+  "author": "Peter",
+  "tags": [
+    "Featured",
+    "Epic",
+    "Apple",
+    "iOS",
+    "Mobile software"
+  ],
+  "body_paragraphs": [
+    "Epic Games’ legal battle against Apple just notched another victory, this time in Australia. This whole thing was kicked off by Epic wanting to use an alternative payment system for Fortnite on Apple devices. In late 2021, a US judge ruled that Apple should allow alternative in-app payment methods. There was a similar case happening in Australia too.",
+    "The first win for Epic came last year when an Australian court concluded that both Apple and Google violated local competition laws. Oh, yeah, Google is involved in this too – both Apple and Google removed Fortnite from their respective app stores over using V-Bucks (an in-game currency). Anyway, Fortnite returned to the app stores in multiple regions (though not in Australia) and now the Federal Court of Australia has handed Epic – and every iPhone user – an even bigger victory.",
+    "Apple must allow users to install apps from third-party stores and websites starting on March 1, 2027. There is an option for an extension to May 3, but the court must approve it first. This court order is based on the result of last year’s ruling.",
+    "In more detail, Apple must allow third-party app stores and app sideloading. It must allow alternative payment options too, including external payment links. It must restrict its fees on alternative distribution and payment methods. And it must remove other barriers, including opening up the APIs that are necessary for third-party app stores to operate.",
+    "Note that this applies to users with Australian accounts. Apple said that it plans to appeal the decision in a statement to Reuters.",
+    "Third-party app stores are already allowed in the EU, as well as Brazil and Japan. Epic Games still isn’t happy with how this was implemented in the EU, so the story isn’t over.",
+    "Alternative app stores are not allowed in the US (yet), but developers are now allowed to show users external payment links and to offer alternative payment options.",
+    "PS. Fortnite will soon return to the Australian Apple App Store."
+  ],
+  "images": [
+    {
+      "url": "https://fdn.gsmarena.com/imgroot/news/26/10/apple-sideloading-austrlia/inline/-1200/gsmarena_001.jpg",
+      "alt": "Apple must allow third-party app stores on the iPhone, the Federal Court of Australia rules"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-22T19:40:16.197611+00:00",
+  "title_tr": "Avustralya Federal Mahkemesi, Apple'ın iPhone'da üçüncü taraf uygulama mağazalarına izin vermesi gerektiğine karar verdi",
+  "body_paragraphs_tr": [
+    "Epic Games'in Apple'a karşı yasal mücadelesi, bu kez Avustralya'da yeni bir zafer kazandı. Her şey Epic'in Fortnite için Apple cihazlarında alternatif bir ödeme sistemi kullanmak istemesiyle başladı. 2021 'in sonlarında ABD'li bir yargıç, Apple'ın alternatif uygulama içi ödeme yöntemlerine izin vermesi gerektiğine karar vermişti. Benzer bir durum Avustralya'da da yaşandı.",
+    "Epic'in ilk galibiyeti, geçen yıl Avustralya mahkemesinin hem Apple'ın hem de Google'ın yerel rekabet yasalarını ihlal ettiği sonucuna varmasıyla geldi. Evet, Google da buna dahil. Hem Apple hem de Google, V – Bucks (oyun içi bir para birimi) kullanarak Fortnite'ı ilgili uygulama mağazalarından kaldırdı. Her neyse, Fortnite birden fazla bölgedeki (Avustralya'da olmasa da) uygulama mağazalarına geri döndü ve şimdi Avustralya Federal Mahkemesi Epic'e (ve her iPhone kullanıcısına) daha da büyük bir zafer verdi.",
+    "Apple, kullanıcıların 1 Mart 2027 'den itibaren üçüncü taraf mağazalardan ve web sitelerinden uygulama yüklemelerine izin vermelidir. 3 Mayıs'a kadar uzatma seçeneği var, ancak önce mahkemenin bunu onaylaması gerekiyor. Bu mahkeme kararı, geçen yılki kararın sonucuna dayanmaktadır.",
+    "Daha ayrıntılı olarak, Apple üçüncü taraf uygulama mağazalarına ve uygulama yan yüklemelerine izin vermelidir. Harici ödeme bağlantıları da dahil olmak üzere alternatif ödeme seçeneklerine de izin vermelidir. Alternatif dağıtım ve ödeme yöntemlerinde ücretlerini kısıtlamalıdır. Ayrıca, üçüncü taraf uygulama mağazalarının çalışması için gerekli olan API'lerin açılması da dahil olmak üzere diğer engelleri kaldırmalıdır.",
+    "Bunun Avustralya hesabı olan kullanıcılar için geçerli olduğunu unutmayın. Apple, Reuters'a yaptığı açıklamada karara itiraz etmeyi planladığını söyledi.",
+    "AB'nin yanı sıra Brezilya ve Japonya'da da üçüncü taraf uygulama mağazalarına zaten izin veriliyor. Epic Games, bunun AB'de uygulanma şeklinden hala memnun değil, bu yüzden hikaye henüz bitmedi.",
+    "ABD'de alternatif uygulama mağazalarına (henüz) izin verilmiyor, ancak geliştiricilerin artık kullanıcılara harici ödeme bağlantıları göstermesine ve alternatif ödeme seçenekleri sunmasına izin veriliyor.",
+    "PS. Fortnite yakında Avustralya Apple App Store'a geri dönecek."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Destansı",
+    "Apple",
+    "iOS",
+    "MOBİL YAZILIMLAR"
+  ]
+}

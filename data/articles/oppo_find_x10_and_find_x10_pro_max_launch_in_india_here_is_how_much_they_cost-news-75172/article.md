@@ -1,0 +1,35 @@
+# Oppo Find X10 ve Find X10 Pro Max Hindistan'da piyasaya sürüldü, işte ne kadara mal oldukları
+
+Oppo, Find X10 serisinin küresel lansmanını dün başlattı, ancak lansmanın zamanlaması Hindistan için biraz geç kaldı, bu nedenle şirket bugün için özel bir etkinlik planladı. Telefon ikilisinin yanı sıra, lansman etkinliğinde Oppo Pad Mini tablet ve Oppo Enco X4 TWS tomurcukları da yer aldı.
+
+Gösterinin yıldızı şüphesiz Oppo Find X10 Pro Max idi – kapasitelerini 7.150mAh ile sınırlandıran Avrupa modellerinin aksine, telefonun gerçekten 8.000mAh bataryaya sahip olacağını onaylamaktan mutluluk duyuyoruz.
+
+Bununla birlikte, fiyatlandırma daha az keyiflidir – Pro Max sadece bir bellek yapılandırmasında mevcuttur, yani 12/512GB (bu nedenle 16GB RAM bile almaz) ve bu 200.000 ₹ 'a mal olur. Lansman döneminde, aylık 6.667 ₹ EMI'den alabilirsiniz. Telefon 29 Ekim'den itibaren satışa sunulacak ve iki renkte alabilirsiniz. İşte Oppo India mağazasının bağlantısı.
+
+Oppo Find X10, sırasıyla 140.000 ve 170.000 INR'ye mal olan 12/256 GB ve 12/512 GB olmak üzere iki konfigürasyonda geliyor. Telefonu Oppo Hindistan mağazasında bulursun. Ve oradayken, 12/512GB'lık bir ünite (vanilya X10 'un fiyatına uyan) için 170.000 ₹' ye düşürülen Find X9 Ultra'ya da bir göz atın.
+
+Eski bir telefonda işlem yaparak fiyatları düşürebileceğinizi unutmayın – takas kredisi 55.950 INR'ye kadar ve 8.000 INR'ye kadar bonus. Ayrıca 8.998 INR değerinde bir Black Premium Hediye Kutusu alırsınız. Oppo Enco Air5 Pro tomurcukları (Mat Siyah) ve manyetik bir kasa (Pro Max için Aramid Fiber, Find X10 için Quicksand Shimmer) içerir.
+
+İşte Pro Max'e hızlı bir genel bakış. Daha ayrıntılı bir görünüm için Oppo Find X10 Pro Max incelememize (YouTube'da da) göz atın. Ayrıca ofiste vanilyalı Find X10 'umuz da var, bu yüzden yakında daha fazlasını duymayı umuyoruz.
+
+Yukarıda da belirttiğimiz gibi Oppo, Hindistan'da yeni bir tablet ve yeni TWS tomurcukları da piyasaya sürüyor. Oppo Pad Mini – özellikle 8/256 GB yapılandırmalı Mat Ekran sürümü – 95.000 ₹ için ön siparişte. Oppo Enco X4 tomurcukları da 19.000 ₹ fiyat etiketi ile ön siparişte. İlgileniyorsanız tomurcuklarla uygulamalı çalışmalarımıza göz atın. Telefonlar gibi tablet ve tomurcuklar da 7 gün içinde kargoya verilecek.
+
+Oppo Pad Mini (Mat Ekran) • Oppo Enco X4
+
+Bu arada, her iki X10 telefon da telekonvertör kitlerini destekliyor. Oppo Find X10 Pro Max'in sürümünü 25.000 ₹ karşılığında alabilirsiniz. Buna değer mi? Daha yakından bakmak için kamera örneklerimize göz atın. Find X10 kiti aynı fiyata, 25.000 ₹.
+
+---
+
+## Görseller
+
+![Oppo Find X10 Pro Max price in India](https://umutevicom-commits.github.io/tarihte/data/images/oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172/immaculate_001.jpg)
+
+![Oppo Find X10 price in India](https://umutevicom-commits.github.io/tarihte/data/images/oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172/immaculate_002.jpg)
+
+![The Oppo Find X10 series Black Premium Gift Box](https://umutevicom-commits.github.io/tarihte/data/images/oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172/immaculate_006.jpg)
+
+![Oppo Find X10 Pro Max at a glance](https://umutevicom-commits.github.io/tarihte/data/images/oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172/immaculate_003.jpg)
+
+![Oppo Pad Mini (Matte Display)](https://umutevicom-commits.github.io/tarihte/data/images/oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172/immaculate_004.jpg)
+
+![Oppo Enco X4](https://umutevicom-commits.github.io/tarihte/data/images/oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172/immaculate_005.jpg)
