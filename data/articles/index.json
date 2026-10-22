@@ -1,43 +1,63 @@
 [
   {
-    "slug": "apple_must_allow_thirdparty_app_stores_on_the_iphone_the_federal_court_of_australia_rules-news-75165",
-    "url": "https://www.gsmarena.com/apple_must_allow_thirdparty_app_stores_on_the_iphone_the_federal_court_of_australia_rules-news-75165.php",
+    "slug": "meta_hit_with_25b_fine_in_new_mexico-news-75166",
+    "url": "https://www.gsmarena.com/meta_hit_with_25b_fine_in_new_mexico-news-75166.php",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T22:53:40.316216+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7bab086a705d8dfe2ca39be46afe4be6d4128bc63ced8e8b80cd73bf80216f76"
+  },
+  {
+    "slug": "apple_reportedly_orders_44_more_iphone_duo_units_from_its_suppliers-news-75174",
+    "url": "https://www.gsmarena.com/apple_reportedly_orders_44_more_iphone_duo_units_from_its_suppliers-news-75174.php",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T22:53:21.405594+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "eb254734d45cfd7057540a373d62b6899683766ece3bb14a778976a7b685904b"
+  },
+  {
+    "content_hash": "356e2cc066a3aa3984d0abdde549ecbf66a9ff8e948cdbf70b91f2679c1e3a2e",
     "date": "22 October 2026",
     "fetched_at": "2026-10-22T19:40:16.197611+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "356e2cc066a3aa3984d0abdde549ecbf66a9ff8e948cdbf70b91f2679c1e3a2e"
+    "retries": 0,
+    "slug": "apple_must_allow_thirdparty_app_stores_on_the_iphone_the_federal_court_of_australia_rules-news-75165",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_must_allow_thirdparty_app_stores_on_the_iphone_the_federal_court_of_australia_rules-news-75165.php"
   },
   {
-    "slug": "oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172",
-    "url": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172.php",
+    "content_hash": "7e1f79cb59dbf1c55501756e975561992cd11e82f259fbcc18e891abb18b1a51",
     "date": "22 October 2026",
     "fetched_at": "2026-10-22T19:39:50.620757+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7e1f79cb59dbf1c55501756e975561992cd11e82f259fbcc18e891abb18b1a51"
+    "retries": 0,
+    "slug": "oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172.php"
   },
   {
-    "slug": "heres_how_many_honor_700_series_models_are_coming-news-75169",
-    "url": "https://www.gsmarena.com/heres_how_many_honor_700_series_models_are_coming-news-75169.php",
+    "content_hash": "b3bb9a4eed0dca844adacd38ee631a313a7b2aa575ab195931ef99d426b6ab56",
     "date": "22 October 2026",
     "fetched_at": "2026-10-22T19:39:37.143297+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b3bb9a4eed0dca844adacd38ee631a313a7b2aa575ab195931ef99d426b6ab56"
+    "retries": 0,
+    "slug": "heres_how_many_honor_700_series_models_are_coming-news-75169",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_how_many_honor_700_series_models_are_coming-news-75169.php"
   },
   {
-    "slug": "samsungs_galaxy_z_fold8_duo_beats_fold7_sales_by_45_in_europe_with_a_catch-news-75167",
-    "url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_duo_beats_fold7_sales_by_45_in_europe_with_a_catch-news-75167.php",
+    "content_hash": "2dd7f936eda6247c33d28bfabf45f2f52f81b48a1a622c19c25344d6eb7144ab",
     "date": "22 October 2026",
     "fetched_at": "2026-10-22T19:39:20.120434+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2dd7f936eda6247c33d28bfabf45f2f52f81b48a1a622c19c25344d6eb7144ab"
+    "retries": 0,
+    "slug": "samsungs_galaxy_z_fold8_duo_beats_fold7_sales_by_45_in_europe_with_a_catch-news-75167",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_duo_beats_fold7_sales_by_45_in_europe_with_a_catch-news-75167.php"
   },
   {
     "content_hash": "9c0f91deb53972bc8e6940b94b5d519ee05c0ba6eb6404e19f5be74d40057fe2",

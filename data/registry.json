@@ -6389,6 +6389,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_must_allow_thirdparty_app_stores_on_the_iphone_the_federal_court_of_australia_rules-news-75165.php"
   },
+  "75166": {
+    "content_hash": "7bab086a705d8dfe2ca39be46afe4be6d4128bc63ced8e8b80cd73bf80216f76",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T22:53:40.316216+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "meta_hit_with_25b_fine_in_new_mexico-news-75166",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/meta_hit_with_25b_fine_in_new_mexico-news-75166.php"
+  },
   "75167": {
     "content_hash": "2dd7f936eda6247c33d28bfabf45f2f52f81b48a1a622c19c25344d6eb7144ab",
     "date": "22 October 2026",
@@ -6418,5 +6428,15 @@
     "slug": "oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172",
     "status": "ok",
     "url": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_pro_max_launch_in_india_here_is_how_much_they_cost-news-75172.php"
+  },
+  "75174": {
+    "content_hash": "eb254734d45cfd7057540a373d62b6899683766ece3bb14a778976a7b685904b",
+    "date": "22 October 2026",
+    "fetched_at": "2026-10-22T22:53:21.405594+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_reportedly_orders_44_more_iphone_duo_units_from_its_suppliers-news-75174",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_reportedly_orders_44_more_iphone_duo_units_from_its_suppliers-news-75174.php"
   }
 }
