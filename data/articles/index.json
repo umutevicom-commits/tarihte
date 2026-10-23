@@ -1,53 +1,93 @@
 [
   {
-    "slug": "two_more_nothing_phones_get_nothing_os_50_beta-news-75180",
-    "url": "https://www.gsmarena.com/two_more_nothing_phones_get_nothing_os_50_beta-news-75180.php",
+    "slug": "iphone_duo_is_now_shipping-news-75182",
+    "url": "https://www.gsmarena.com/iphone_duo_is_now_shipping-news-75182.php",
+    "date": "23 October 2026",
+    "fetched_at": "2026-10-23T14:34:04.614475+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0d34a85a782b805e82956abf8aea1ccb5babc1eb7d5a6bd00a7eef827b3c8af8"
+  },
+  {
+    "slug": "heres_your_first_look_at_samsungs_upcoming_galaxy_fit4-news-75183",
+    "url": "https://www.gsmarena.com/heres_your_first_look_at_samsungs_upcoming_galaxy_fit4-news-75183.php",
+    "date": "23 October 2026",
+    "fetched_at": "2026-10-23T14:33:47.987349+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "bea52846e532827ad697725b6ddc060cbf60b5c0696b122aa6f2fa8056ea2512"
+  },
+  {
+    "slug": "huawei_enjoy_100_series_launch_date_confirmed_preorders_open-news-75187",
+    "url": "https://www.gsmarena.com/huawei_enjoy_100_series_launch_date_confirmed_preorders_open-news-75187.php",
+    "date": "23 October 2026",
+    "fetched_at": "2026-10-23T14:33:34.919308+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "581174f4cf7ec18414a8355547410d86c7cf259d080a743f2783efc7589852af"
+  },
+  {
+    "slug": "vivo_y600_carrier_listing_reveals_key_specs_ahead_of_launch-news-75186",
+    "url": "https://www.gsmarena.com/vivo_y600_carrier_listing_reveals_key_specs_ahead_of_launch-news-75186.php",
+    "date": "23 October 2026",
+    "fetched_at": "2026-10-23T14:33:17.591083+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d55b257649a1a753bcf727de2112978b7c68a4f0c202a792394cf13bf01dd6c1"
+  },
+  {
+    "content_hash": "78a2f9f0cd777fef3aec17cf111365bb0b9c4b7f19c1074c4c56025354cde4ea",
     "date": "23 October 2026",
     "fetched_at": "2026-10-23T08:58:34.569076+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "78a2f9f0cd777fef3aec17cf111365bb0b9c4b7f19c1074c4c56025354cde4ea"
+    "retries": 0,
+    "slug": "two_more_nothing_phones_get_nothing_os_50_beta-news-75180",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/two_more_nothing_phones_get_nothing_os_50_beta-news-75180.php"
   },
   {
-    "slug": "the_vivo_x500_ultra_could_get_a_downgraded_main_rear_sensor-news-75171",
-    "url": "https://www.gsmarena.com/the_vivo_x500_ultra_could_get_a_downgraded_main_rear_sensor-news-75171.php",
+    "content_hash": "1cfa2c3e7565ddf5b81966010f7465188ce0cb365db4e3bfdf40b6d862a00237",
     "date": "23 October 2026",
     "fetched_at": "2026-10-23T08:58:22.181629+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1cfa2c3e7565ddf5b81966010f7465188ce0cb365db4e3bfdf40b6d862a00237"
+    "retries": 0,
+    "slug": "the_vivo_x500_ultra_could_get_a_downgraded_main_rear_sensor-news-75171",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_vivo_x500_ultra_could_get_a_downgraded_main_rear_sensor-news-75171.php"
   },
   {
-    "slug": "samsung_galaxy_s27_ultra_and_s27_pro_batteries_pictured_in_a_new_certification-news-75177",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s27_ultra_and_s27_pro_batteries_pictured_in_a_new_certification-news-75177.php",
+    "content_hash": "977dcfd974791cf68b8d2d50f400cc3a5a25579bc230d054a53dbdfb49a63c01",
     "date": "23 October 2026",
     "fetched_at": "2026-10-23T08:58:05.650863+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "977dcfd974791cf68b8d2d50f400cc3a5a25579bc230d054a53dbdfb49a63c01"
+    "retries": 0,
+    "slug": "samsung_galaxy_s27_ultra_and_s27_pro_batteries_pictured_in_a_new_certification-news-75177",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_ultra_and_s27_pro_batteries_pictured_in_a_new_certification-news-75177.php"
   },
   {
-    "slug": "vivo_x500_ultra_may_launch_globally-news-75179",
-    "url": "https://www.gsmarena.com/vivo_x500_ultra_may_launch_globally-news-75179.php",
+    "content_hash": "c28bbda89aaab2f9072916fe208bfdb4ef582f7dbed02b89a063e9ae5bf3b988",
     "date": "23 October 2026",
     "fetched_at": "2026-10-23T08:57:47.738661+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c28bbda89aaab2f9072916fe208bfdb4ef582f7dbed02b89a063e9ae5bf3b988"
+    "retries": 0,
+    "slug": "vivo_x500_ultra_may_launch_globally-news-75179",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_ultra_may_launch_globally-news-75179.php"
   },
   {
-    "slug": "huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181",
-    "url": "https://www.gsmarena.com/huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181.php",
+    "content_hash": "780177451bdc17b5736999d6e936c30f11eeff67cd10c2171326de313f2d5b1a",
     "date": "23 October 2026",
     "fetched_at": "2026-10-23T08:57:29.250806+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "780177451bdc17b5736999d6e936c30f11eeff67cd10c2171326de313f2d5b1a"
+    "retries": 0,
+    "slug": "huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181.php"
   },
   {
     "content_hash": "7bab086a705d8dfe2ca39be46afe4be6d4128bc63ced8e8b80cd73bf80216f76",

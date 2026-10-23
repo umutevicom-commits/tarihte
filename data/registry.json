@@ -6488,5 +6488,45 @@
     "slug": "huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181",
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_pura_90_plus_to_launch_next_week_design_and_color_options_revealed-news-75181.php"
+  },
+  "75182": {
+    "content_hash": "0d34a85a782b805e82956abf8aea1ccb5babc1eb7d5a6bd00a7eef827b3c8af8",
+    "date": "23 October 2026",
+    "fetched_at": "2026-10-23T14:34:04.614475+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_duo_is_now_shipping-news-75182",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_duo_is_now_shipping-news-75182.php"
+  },
+  "75183": {
+    "content_hash": "bea52846e532827ad697725b6ddc060cbf60b5c0696b122aa6f2fa8056ea2512",
+    "date": "23 October 2026",
+    "fetched_at": "2026-10-23T14:33:47.987349+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_your_first_look_at_samsungs_upcoming_galaxy_fit4-news-75183",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_your_first_look_at_samsungs_upcoming_galaxy_fit4-news-75183.php"
+  },
+  "75186": {
+    "content_hash": "d55b257649a1a753bcf727de2112978b7c68a4f0c202a792394cf13bf01dd6c1",
+    "date": "23 October 2026",
+    "fetched_at": "2026-10-23T14:33:17.591083+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_y600_carrier_listing_reveals_key_specs_ahead_of_launch-news-75186",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_y600_carrier_listing_reveals_key_specs_ahead_of_launch-news-75186.php"
+  },
+  "75187": {
+    "content_hash": "581174f4cf7ec18414a8355547410d86c7cf259d080a743f2783efc7589852af",
+    "date": "23 October 2026",
+    "fetched_at": "2026-10-23T14:33:34.919308+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_enjoy_100_series_launch_date_confirmed_preorders_open-news-75187",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_enjoy_100_series_launch_date_confirmed_preorders_open-news-75187.php"
   }
 }
