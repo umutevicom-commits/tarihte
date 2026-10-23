@@ -6538,5 +6538,15 @@
     "slug": "samsung_extends_its_certified_renewed_program_to_amazon_us-news-75189",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_extends_its_certified_renewed_program_to_amazon_us-news-75189.php"
+  },
+  "75190": {
+    "content_hash": "ff0de7f9080c28a5bbf9c2ec8157dc69c578499e20ea45b874ca2b342d8a262b",
+    "date": "23 October 2026",
+    "fetched_at": "2026-10-23T22:45:48.420511+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deal_the_samsung_galaxy_z_fold8_is_300_cheaper_than_the_iphone_duo-news-75190",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deal_the_samsung_galaxy_z_fold8_is_300_cheaper_than_the_iphone_duo-news-75190.php"
   }
 }
