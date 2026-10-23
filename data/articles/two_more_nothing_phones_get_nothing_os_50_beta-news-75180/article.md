@@ -1,0 +1,15 @@
+# İki tane daha Nothing telefonu Nothing OS 5.0 beta alır
+
+Ağustos ayının sonlarında Nothing, Android 17 'ye dayanan Nothing OS 5.0' ı tanıttı ve beta sürümünü Telefona açtı (3). Program o zamandan beri daha fazla cihaza genişledi ve Telefon (3) zaten kararlı sürümü alıyor. Bugün açık beta, Nothing Phone (2a) ve Phone (2a) Plus için kullanılabilir hale geliyor.
+
+Katılmak için Nothing'in web sitesinden en son Nothing Beta Hub uygulamasını indirin ve yükleyin, ardından Ayarlar > Sistem > Nothing Beta Hub'a gidin, Sürümü kontrol et 'e ve ardından Betaya Katıl' a dokunun. Açık beta sürümü daha sonra birkaç dakika içinde havadan bir güncelleme olarak gelecek. Bu tamamlanmamış bir yazılımdır, bu nedenle önce verilerinizi yedekleyin, çünkü aynı menüde Geri Alma İsteği aracılığıyla kararlı bir sürüme geri dönmek telefonunuzu siler.
+
+Hiçbir şey OS 5.0, yeni bir sistem yazı tipi, yeniden tasarlanmış bir Ayarlar menüsü, yeni bir varsayılan ana ekran teması, yeni kilit ekranı saat yüzleri, özel bir Glyph uygulaması, ayrı bildirimler ve Hızlı Ayarlar, durum çubuğundaki canlı güncellemeler ve Essential Space'teki MCP desteği ile görsel bir yenileme getirmez.
+
+Nothing OS 5.0 'ın kararlı sürümü Kasım ayı ortasında Phone (2a) ve (2a) Plus'a ulaşmalıdır. Phone (4b) Aralık ayı ortasında açık beta için sıradayken, Phone (3a) Lite ve CMF Phone 2 Pro sırasıyla Aralık ayı sonlarında ve Ocak ayı ortalarında piyasaya sürülecek. Bir Telefon (1), Telefon (2) veya CMF Telefon 1 'e sahipseniz, şansınız yaver gitmez, çünkü Hiçbir şey bunların büyük yazılım desteğinin sonuna geldiğini ve hiçbir şekilde İşletim Sistemi 5.0 almayacağını söylemez.
+
+---
+
+## Görseller
+
+![Two more Nothing phones get Nothing OS 5.0 beta](https://umutevicom-commits.github.io/tarihte/data/images/two_more_nothing_phones_get_nothing_os_50_beta-news-75180/immaculate_001.jpg)
