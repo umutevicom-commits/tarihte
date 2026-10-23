@@ -1,23 +1,23 @@
 [
   {
-    "slug": "meta_hit_with_25b_fine_in_new_mexico-news-75166",
-    "url": "https://www.gsmarena.com/meta_hit_with_25b_fine_in_new_mexico-news-75166.php",
+    "content_hash": "7bab086a705d8dfe2ca39be46afe4be6d4128bc63ced8e8b80cd73bf80216f76",
     "date": "22 October 2026",
     "fetched_at": "2026-10-22T22:53:40.316216+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7bab086a705d8dfe2ca39be46afe4be6d4128bc63ced8e8b80cd73bf80216f76"
+    "retries": 0,
+    "slug": "meta_hit_with_25b_fine_in_new_mexico-news-75166",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/meta_hit_with_25b_fine_in_new_mexico-news-75166.php"
   },
   {
-    "slug": "apple_reportedly_orders_44_more_iphone_duo_units_from_its_suppliers-news-75174",
-    "url": "https://www.gsmarena.com/apple_reportedly_orders_44_more_iphone_duo_units_from_its_suppliers-news-75174.php",
+    "content_hash": "eb254734d45cfd7057540a373d62b6899683766ece3bb14a778976a7b685904b",
     "date": "22 October 2026",
     "fetched_at": "2026-10-22T22:53:21.405594+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "eb254734d45cfd7057540a373d62b6899683766ece3bb14a778976a7b685904b"
+    "retries": 0,
+    "slug": "apple_reportedly_orders_44_more_iphone_duo_units_from_its_suppliers-news-75174",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_reportedly_orders_44_more_iphone_duo_units_from_its_suppliers-news-75174.php"
   },
   {
     "content_hash": "356e2cc066a3aa3984d0abdde549ecbf66a9ff8e948cdbf70b91f2679c1e3a2e",
