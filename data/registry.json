@@ -6509,6 +6509,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/heres_your_first_look_at_samsungs_upcoming_galaxy_fit4-news-75183.php"
   },
+  "75185": {
+    "content_hash": "4231ce8eed6ed1ab3edb55dfaa26cde806df50395248b62bac8616b7c5a4c20f",
+    "date": "24 October 2026",
+    "fetched_at": "2026-10-24T08:31:07.703288+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_the_oppo_find_x10_series_and_the_iphone_duo_launch_here_are_some_alternatives_too-news-75185",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_the_oppo_find_x10_series_and_the_iphone_duo_launch_here_are_some_alternatives_too-news-75185.php"
+  },
   "75186": {
     "content_hash": "d55b257649a1a753bcf727de2112978b7c68a4f0c202a792394cf13bf01dd6c1",
     "date": "23 October 2026",
@@ -6558,5 +6568,15 @@
     "slug": "upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192",
     "status": "ok",
     "url": "https://www.gsmarena.com/upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192.php"
+  },
+  "75194": {
+    "content_hash": "9bc2e628fb7bac9bdc568a7be3e4bd1464daccd77f8a9dd8b3b922c2d5bf4818",
+    "date": "24 October 2026",
+    "fetched_at": "2026-10-24T08:31:46.484885+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "redmagic_reveals_when_its_phones_are_getting_redmagic_os_12_based_on_android_17-news-75194",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmagic_reveals_when_its_phones_are_getting_redmagic_os_12_based_on_android_17-news-75194.php"
   }
 }

@@ -1,13 +1,33 @@
 [
   {
-    "slug": "upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192",
-    "url": "https://www.gsmarena.com/upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192.php",
+    "slug": "redmagic_reveals_when_its_phones_are_getting_redmagic_os_12_based_on_android_17-news-75194",
+    "url": "https://www.gsmarena.com/redmagic_reveals_when_its_phones_are_getting_redmagic_os_12_based_on_android_17-news-75194.php",
     "date": "24 October 2026",
-    "fetched_at": "2026-10-24T02:38:22.568107+00:00",
+    "fetched_at": "2026-10-24T08:31:46.484885+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "94df603bb09f1c944fa1fd27b9475308081e74cec3b647a64ebffede70aa12b1"
+    "content_hash": "9bc2e628fb7bac9bdc568a7be3e4bd1464daccd77f8a9dd8b3b922c2d5bf4818"
+  },
+  {
+    "slug": "deals_the_oppo_find_x10_series_and_the_iphone_duo_launch_here_are_some_alternatives_too-news-75185",
+    "url": "https://www.gsmarena.com/deals_the_oppo_find_x10_series_and_the_iphone_duo_launch_here_are_some_alternatives_too-news-75185.php",
+    "date": "24 October 2026",
+    "fetched_at": "2026-10-24T08:31:07.703288+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4231ce8eed6ed1ab3edb55dfaa26cde806df50395248b62bac8616b7c5a4c20f"
+  },
+  {
+    "content_hash": "94df603bb09f1c944fa1fd27b9475308081e74cec3b647a64ebffede70aa12b1",
+    "date": "24 October 2026",
+    "fetched_at": "2026-10-24T02:38:22.568107+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192.php"
   },
   {
     "content_hash": "ff0de7f9080c28a5bbf9c2ec8157dc69c578499e20ea45b874ca2b342d8a262b",
