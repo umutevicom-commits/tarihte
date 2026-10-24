@@ -1,13 +1,23 @@
 [
   {
-    "slug": "deal_the_samsung_galaxy_z_fold8_is_300_cheaper_than_the_iphone_duo-news-75190",
-    "url": "https://www.gsmarena.com/deal_the_samsung_galaxy_z_fold8_is_300_cheaper_than_the_iphone_duo-news-75190.php",
-    "date": "23 October 2026",
-    "fetched_at": "2026-10-23T22:45:48.420511+00:00",
+    "slug": "upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192",
+    "url": "https://www.gsmarena.com/upcoming_realme_17_pro_series_phones_key_specs_leak-news-75192.php",
+    "date": "24 October 2026",
+    "fetched_at": "2026-10-24T02:38:22.568107+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "ff0de7f9080c28a5bbf9c2ec8157dc69c578499e20ea45b874ca2b342d8a262b"
+    "content_hash": "94df603bb09f1c944fa1fd27b9475308081e74cec3b647a64ebffede70aa12b1"
+  },
+  {
+    "content_hash": "ff0de7f9080c28a5bbf9c2ec8157dc69c578499e20ea45b874ca2b342d8a262b",
+    "date": "23 October 2026",
+    "fetched_at": "2026-10-23T22:45:48.420511+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deal_the_samsung_galaxy_z_fold8_is_300_cheaper_than_the_iphone_duo-news-75190",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deal_the_samsung_galaxy_z_fold8_is_300_cheaper_than_the_iphone_duo-news-75190.php"
   },
   {
     "content_hash": "112aea5173853d0713622e3dc4e9cb426b4b1c5728f4ce4971ba0169e09e5a7b",
