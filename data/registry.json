@@ -6439,6 +6439,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/heres_how_many_honor_700_series_models_are_coming-news-75169.php"
   },
+  "75170": {
+    "content_hash": "8212edae6c94b1d6f986d0debe1e4bc52c00d1bc40450d6d963582b2c5cc995a",
+    "date": "25 October 2026",
+    "fetched_at": "2026-10-25T14:01:32.135910+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_results_the_oneplus_16_could_have_been_a_global_hit-news-75170",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_the_oneplus_16_could_have_been_a_global_hit-news-75170.php"
+  },
   "75171": {
     "content_hash": "1cfa2c3e7565ddf5b81966010f7465188ce0cb365db4e3bfdf40b6d862a00237",
     "date": "23 October 2026",
@@ -6608,6 +6618,16 @@
     "slug": "vivo_s70_tipped_to_launch_soon_with_teleconverter_support-news-75195",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_s70_tipped_to_launch_soon_with_teleconverter_support-news-75195.php"
+  },
+  "75198": {
+    "content_hash": "80b3665ed2f6b9d26b9bb0432ce321aa8b2a4d2b01aa997f317957bec8a24595",
+    "date": "25 October 2026",
+    "fetched_at": "2026-10-25T14:01:50.226656+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_oppo_find_x10_series_gets_preorder_discounts_iphone_duo_goes_on_sale-news-75198",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_oppo_find_x10_series_gets_preorder_discounts_iphone_duo_goes_on_sale-news-75198.php"
   },
   "75199": {
     "content_hash": "8bc69aa75e45ad77c13f1824259ec435aa38ce4188d58b1a9cc4908d5f4e478b",

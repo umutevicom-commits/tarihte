@@ -1,23 +1,43 @@
 [
   {
-    "slug": "huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199",
-    "url": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php",
+    "slug": "deals_oppo_find_x10_series_gets_preorder_discounts_iphone_duo_goes_on_sale-news-75198",
+    "url": "https://www.gsmarena.com/deals_oppo_find_x10_series_gets_preorder_discounts_iphone_duo_goes_on_sale-news-75198.php",
     "date": "25 October 2026",
-    "fetched_at": "2026-10-25T08:51:00.348202+00:00",
+    "fetched_at": "2026-10-25T14:01:50.226656+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "8bc69aa75e45ad77c13f1824259ec435aa38ce4188d58b1a9cc4908d5f4e478b"
+    "content_hash": "80b3665ed2f6b9d26b9bb0432ce321aa8b2a4d2b01aa997f317957bec8a24595"
   },
   {
-    "slug": "weekly_poll_are_you_interested_in_the_oppo_find_x10_or_the_oppo_find_x10_pro_max-news-75168",
-    "url": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_oppo_find_x10_or_the_oppo_find_x10_pro_max-news-75168.php",
+    "slug": "weekly_poll_results_the_oneplus_16_could_have_been_a_global_hit-news-75170",
+    "url": "https://www.gsmarena.com/weekly_poll_results_the_oneplus_16_could_have_been_a_global_hit-news-75170.php",
     "date": "25 October 2026",
-    "fetched_at": "2026-10-25T08:50:26.378841+00:00",
+    "fetched_at": "2026-10-25T14:01:32.135910+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "ea40c19dc01a74f2b6ee07bf84eded32a1aa2377eaabc9ce730317771b1f8e8b"
+    "content_hash": "8212edae6c94b1d6f986d0debe1e4bc52c00d1bc40450d6d963582b2c5cc995a"
+  },
+  {
+    "content_hash": "8bc69aa75e45ad77c13f1824259ec435aa38ce4188d58b1a9cc4908d5f4e478b",
+    "date": "25 October 2026",
+    "fetched_at": "2026-10-25T08:51:00.348202+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php"
+  },
+  {
+    "content_hash": "ea40c19dc01a74f2b6ee07bf84eded32a1aa2377eaabc9ce730317771b1f8e8b",
+    "date": "25 October 2026",
+    "fetched_at": "2026-10-25T08:50:26.378841+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_are_you_interested_in_the_oppo_find_x10_or_the_oppo_find_x10_pro_max-news-75168",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_oppo_find_x10_or_the_oppo_find_x10_pro_max-news-75168.php"
   },
   {
     "content_hash": "b3ff7c1f35a705a62f384d253909c6cabcfb544776002c63fad19d08950a15f5",
