@@ -6419,6 +6419,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsungs_galaxy_z_fold8_duo_beats_fold7_sales_by_45_in_europe_with_a_catch-news-75167.php"
   },
+  "75168": {
+    "content_hash": "ea40c19dc01a74f2b6ee07bf84eded32a1aa2377eaabc9ce730317771b1f8e8b",
+    "date": "25 October 2026",
+    "fetched_at": "2026-10-25T08:50:26.378841+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_are_you_interested_in_the_oppo_find_x10_or_the_oppo_find_x10_pro_max-news-75168",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_oppo_find_x10_or_the_oppo_find_x10_pro_max-news-75168.php"
+  },
   "75169": {
     "content_hash": "b3bb9a4eed0dca844adacd38ee631a313a7b2aa575ab195931ef99d426b6ab56",
     "date": "22 October 2026",
@@ -6598,5 +6608,15 @@
     "slug": "vivo_s70_tipped_to_launch_soon_with_teleconverter_support-news-75195",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_s70_tipped_to_launch_soon_with_teleconverter_support-news-75195.php"
+  },
+  "75199": {
+    "content_hash": "8bc69aa75e45ad77c13f1824259ec435aa38ce4188d58b1a9cc4908d5f4e478b",
+    "date": "25 October 2026",
+    "fetched_at": "2026-10-25T08:51:00.348202+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_pura_90_plus_appears_in_live_images_ahead_of_launch_chipset_revealed-news-75199.php"
   }
 }
