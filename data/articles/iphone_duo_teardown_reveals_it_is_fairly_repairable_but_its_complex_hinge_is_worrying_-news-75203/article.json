@@ -1,0 +1,82 @@
+{
+  "url": "https://www.gsmarena.com/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203.php",
+  "slug": "iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203",
+  "title": "iPhone Duo teardown reveals it is fairly repairable but its complex hinge is worrying",
+  "news_id": "75203",
+  "date": "26 October 2026",
+  "author": "Michail",
+  "tags": [
+    "Featured",
+    "Apple",
+    "iOS",
+    "Mobile hardware"
+  ],
+  "body_paragraphs": [
+    "The iPhone Duo is the hottest thing in tech right now and iFixit have published their signature teardown. It addresses the recent reports of malfunctioning hinges on some early units while also giving us an in-depth look at the internals of the first folding iPhone.",
+    "Let's start with the positive – the Duo earned a 5/10 repairability rating, which puts it in a class of its own when it comes to foldables. For reference, Samsung’s Z Fold8 got a 4/10 score while its predecessor earned a 3/10 rating.",
+    "As per the folks over at iFixit, most of the components inside the Duo are fairly easy to remove without having to go too deep into the device. These include the cover screen, which is pretty simple to take out with a suction cup clamp and a pry tool. You can see the process around the 4:20 mark in the video.",
+    "The dual batteries inside the Duo can be released via the clever anodic delamination process. It involves hooking up a low-voltage power supply like a 9-volt battery to the silver tabs on the battery cells, which releases the cells from the phone. This part of the teardown is shown at the 5:50 mark in the video.",
+    "iPhone Duo battery removal process (source: iFixit )",
+    "We also get a microscope look at the main display’s matte nano-texture cover layer at the 3:00 mark. It actually features a clever light refraction approach that scatters reflections and hides the crease in the middle of the OLED panel. The screen protector features thousands of microscopic bumps that actually break up the reflections. It works in tandem with the main display’s altered RGB sub-pixels, which are arranged at varying angles to help mask the crease.",
+    "Clear vs nano-texture surface on the Duo's main display (source: iFixit )",
+    "But it’s not all sunshine and rainbows. There’s a highly complicated hinge mechanism, which appears to be locking itself in on some units. Several early Duo users reported that the hinge would feel unusually stiff at some points, which would require more effort to open the folding display and resulted in an audible popping/cracking sound accompanied by permanent display damage.",
+    "iPhone Duo hinge (source: iFixit )",
+    "One of the theories is that some components inside the hinge aren’t descending properly and are getting stuck. There’s also an “accordion-like” flex cable going through the hinge, which could be the other main factor."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_009.jpg",
+      "alt": "iPhone Duo teardown reveals it is fairly repairable but its complex hinge is worrying "
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_001.jpg",
+      "alt": "iPhone Duo battery removal process (source: iFixit)"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_002.jpg",
+      "alt": "iPhone Duo battery removal process (source: iFixit)"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_007.jpg",
+      "alt": "Clear vs nano-texture surface on the Duo's main display (source: iFixit)"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_008.jpg",
+      "alt": "Clear vs nano-texture surface on the Duo's main display (source: iFixit)"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_003.jpg",
+      "alt": "iPhone Duo hinge (source: iFixit)"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_004.jpg",
+      "alt": "iPhone Duo hinge (source: iFixit)"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/embed/WOVIjFnivJA",
+      "title": "Apple’s Folding iPhone Might Have a Screen Problem!"
+    }
+  ],
+  "fetched_at": "2026-10-26T16:25:18.155394+00:00",
+  "title_tr": "iPhone Duo yırtılması, oldukça onarılabilir olduğunu ortaya koyuyor ancak karmaşık menteşesi endişe verici",
+  "body_paragraphs_tr": [
+    "İPhone Duo şu anda teknolojideki en popüler şey ve iFixit imza sökümünü yayınladı. Bazı erken ünitelerde arızalı menteşelerin son raporlarını ele alırken, aynı zamanda bize ilk katlanan iPhone'un iç kısımlarına derinlemesine bir bakış sunuyor.",
+    "Pozitif olanla başlayalım – Duo, katlanabilirler söz konusu olduğunda kendi sınıfına girmesini sağlayan 5/10 onarılabilirlik derecesi kazandı. Referans olarak, Samsung'un Z Fold8 'i 4/10 puan alırken, selefi 3/10 puan aldı.",
+    "IFixit'teki kişilere göre, Duo'nun içindeki bileşenlerin çoğunun, cihazın çok derinlerine inmek zorunda kalmadan çıkarılması oldukça kolaydır. Bunlar, bir vantuz kelepçesi ve bir gözetleme aleti ile çıkarılması oldukça basit olan kapak ekranını içerir. Süreci videoda 4:20 civarında görebilirsiniz.",
+    "Duo'nun içindeki çift piller, akıllı anodik delaminasyon işlemi ile serbest bırakılabilir. Bu, 9 voltluk bir pil gibi düşük voltajlı bir güç kaynağını, pil hücrelerindeki gümüş tırnaklara bağlamayı içerir ve bu da hücreleri telefondan serbest bırakır. Parçalama işleminin bu kısmı videodaki 5:50 işaretinde gösterilir.",
+    "iPhone Duo pil çıkarma işlemi (kaynak: iFixit )",
+    "Ayrıca ana ekranın 3:00 işaretindeki mat nano doku kaplama katmanına mikroskopla bakıyoruz. Aslında, yansımaları dağıtan ve OLED panelinin ortasındaki kırışıklığı gizleyen akıllı bir ışık kırılma yaklaşımına sahiptir. Ekran koruyucusu, yansımaları gerçekten parçalayan binlerce mikroskobik tümseğe sahiptir. Kıvrımı maskelemeye yardımcı olmak için değişen açılarda düzenlenmiş ana ekranın değiştirilmiş RGB alt pikselleriyle birlikte çalışır.",
+    "Duo'nun ana ekranında net ve nano doku yüzeyi (kaynak: iFixit )",
+    "Ama her şey güneş ışığı ve gökkuşağı değil. Bazı birimlerde kendini kilitliyor gibi görünen oldukça karmaşık bir menteşe mekanizması var. Birkaç eski Duo kullanıcısı, menteşenin bazı noktalarda alışılmadık derecede sert hissedeceğini, bunun da katlanan ekranı açmak için daha fazla çaba gerektireceğini ve kalıcı ekran hasarının eşlik ettiği sesli bir patlama/çatlama sesine neden olacağını bildirdi.",
+    "iPhone Duo menteşesi (kaynak: iFixit )",
+    "Teorilerden biri, menteşenin içindeki bazı bileşenlerin düzgün bir şekilde alçalmadığı ve sıkıştığıdır. Ayrıca menteşeden geçen \"akordeon benzeri\" bir esnek kablo da var, bu da diğer ana faktör olabilir."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "iOS",
+    "Mobil donanım"
+  ]
+}

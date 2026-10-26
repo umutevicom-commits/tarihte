@@ -6,7 +6,158 @@
     <atom:link href="https://www.gsmarena.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>GSMArena haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:31:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:25:41 +0000</lastBuildDate>
+    <item>
+      <title>iPhone Duo yırtılması, oldukça onarılabilir olduğunu ortaya koyuyor ancak karmaşık menteşesi endişe verici</title>
+      <link>https://www.gsmarena.com/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203.php</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Michail</author>
+      <category>Öne Çıkanlar</category><category>Apple</category><category>iOS</category><category>Mobil donanım</category>
+      <description>İPhone Duo şu anda teknolojideki en popüler şey ve iFixit imza sökümünü yayınladı. Bazı erken ünitelerde arızalı menteşelerin son raporlarını ele alırken, aynı zamanda bize ilk katlanan iPhone'un iç kısımlarına derinlemesine bir bakış sunuyor.</description>
+      <content:encoded><![CDATA[<p>İPhone Duo şu anda teknolojideki en popüler şey ve iFixit imza sökümünü yayınladı. Bazı erken ünitelerde arızalı menteşelerin son raporlarını ele alırken, aynı zamanda bize ilk katlanan iPhone'un iç kısımlarına derinlemesine bir bakış sunuyor.</p>
+<p>Pozitif olanla başlayalım – Duo, katlanabilirler söz konusu olduğunda kendi sınıfına girmesini sağlayan 5/10 onarılabilirlik derecesi kazandı. Referans olarak, Samsung'un Z Fold8 'i 4/10 puan alırken, selefi 3/10 puan aldı.</p>
+<p>IFixit'teki kişilere göre, Duo'nun içindeki bileşenlerin çoğunun, cihazın çok derinlerine inmek zorunda kalmadan çıkarılması oldukça kolaydır. Bunlar, bir vantuz kelepçesi ve bir gözetleme aleti ile çıkarılması oldukça basit olan kapak ekranını içerir. Süreci videoda 4:20 civarında görebilirsiniz.</p>
+<p>Duo'nun içindeki çift piller, akıllı anodik delaminasyon işlemi ile serbest bırakılabilir. Bu, 9 voltluk bir pil gibi düşük voltajlı bir güç kaynağını, pil hücrelerindeki gümüş tırnaklara bağlamayı içerir ve bu da hücreleri telefondan serbest bırakır. Parçalama işleminin bu kısmı videodaki 5:50 işaretinde gösterilir.</p>
+<p>iPhone Duo pil çıkarma işlemi (kaynak: iFixit )</p>
+<p>Ayrıca ana ekranın 3:00 işaretindeki mat nano doku kaplama katmanına mikroskopla bakıyoruz. Aslında, yansımaları dağıtan ve OLED panelinin ortasındaki kırışıklığı gizleyen akıllı bir ışık kırılma yaklaşımına sahiptir. Ekran koruyucusu, yansımaları gerçekten parçalayan binlerce mikroskobik tümseğe sahiptir. Kıvrımı maskelemeye yardımcı olmak için değişen açılarda düzenlenmiş ana ekranın değiştirilmiş RGB alt pikselleriyle birlikte çalışır.</p>
+<p>Duo'nun ana ekranında net ve nano doku yüzeyi (kaynak: iFixit )</p>
+<p>Ama her şey güneş ışığı ve gökkuşağı değil. Bazı birimlerde kendini kilitliyor gibi görünen oldukça karmaşık bir menteşe mekanizması var. Birkaç eski Duo kullanıcısı, menteşenin bazı noktalarda alışılmadık derecede sert hissedeceğini, bunun da katlanan ekranı açmak için daha fazla çaba gerektireceğini ve kalıcı ekran hasarının eşlik ettiği sesli bir patlama/çatlama sesine neden olacağını bildirdi.</p>
+<p>iPhone Duo menteşesi (kaynak: iFixit )</p>
+<p>Teorilerden biri, menteşenin içindeki bazı bileşenlerin düzgün bir şekilde alçalmadığı ve sıkıştığıdır. Ayrıca menteşeden geçen &quot;akordeon benzeri&quot; bir esnek kablo da var, bu da diğer ana faktör olabilir.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_009.jpg" alt="iPhone Duo teardown reveals it is fairly repairable but its complex hinge is worrying " loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_001.jpg" alt="iPhone Duo battery removal process (source: iFixit)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_002.jpg" alt="iPhone Duo battery removal process (source: iFixit)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_007.jpg" alt="Clear vs nano-texture surface on the Duo's main display (source: iFixit)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_008.jpg" alt="Clear vs nano-texture surface on the Duo's main display (source: iFixit)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_003.jpg" alt="iPhone Duo hinge (source: iFixit)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203/immaculate_004.jpg" alt="iPhone Duo hinge (source: iFixit)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<div style="clear:both;margin:16px 0;position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:#000;"><iframe src="https://www.youtube.com/embed/WOVIjFnivJA" title="Apple’s Folding iPhone Might Have a Screen Problem!" loading="lazy" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;border:0;float:none;"></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Poco X8s, 6.35inç OLED ekran, Snapdragon 7 Gen 4 yonga seti ile piyasaya sürüldü</title>
+      <link>https://www.gsmarena.com/poco_x8s_debuts_with_a_635inch_oled_display_snapdragon_7_gen_4_chipset-news-75204.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/poco_x8s_debuts_with_a_635inch_oled_display_snapdragon_7_gen_4_chipset-news-75204.php</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Siddharth</author>
+      <category>Öne Çıkanlar</category><category>POCO</category><category>Android</category><category>İlan</category><category>Xiaomi</category>
+      <description>Poco X8 serisi küresel pazarlarda yeni bir modele kavuşuyor. Poco, kompakt bir tasarıma ve üçlü arka kamera kurulumuna sahip yeni X8 'leri tanıttı.</description>
+      <content:encoded><![CDATA[<p>Poco X8 serisi küresel pazarlarda yeni bir modele kavuşuyor. Poco, kompakt bir tasarıma ve üçlü arka kamera kurulumuna sahip yeni X8 'leri tanıttı.</p>
+<p>1,5K çözünürlük ve 120Hz yenileme hızı sunan 6,35inç LTPO AMOLED ekrana sahiptir. Panel ayrıca 3.500 nit'e kadar tepe parlaklığı sunar ve 1,18mm ince ve düzgün çerçevelere sahiptir.</p>
+<p>Poco X8s, 12 GB'a kadar RAM ve 512 GB dahili depolama ile eşleştirilmiş Snapdragon 7 Gen 4 yonga seti tarafından desteklenmektedir.</p>
+<p>Fotoğrafçılık için telefonda 50MP Light Fusion 800 ana arka sensör, 50MP telefoto kamera ve 8MP ultra genişleme ünitesi bulunuyor. Selfie'ler ve görüntülü aramalar için ön tarafta 20 MP kamera bulunuyor.</p>
+<p>Telefon, 100W kablolu şarj desteği ile 6,330mAh bataryaya sahiptir. Ayrıca bir ultrasonik parmak izi tarayıcısı, bir IP68 derecesi, NFC, Wi - Fi 6, 5G ve Android 16 tabanlı HyperOS 3 'ü çalıştırır.</p>
+<p>Poco, X8 'leri küresel pazarlarda Mavi, Siyah ve Beyaz renk seçenekleriyle sunuyor.</p>
+<p>Ahize, 8GB/256GB varyantı için 399 $ erken rezervasyon fiyatına sahip. Bu arada, 12GB/512GB seçeneği 499 $ 'dan fiyatlanıyor.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/poco_x8s_debuts_with_a_635inch_oled_display_snapdragon_7_gen_4_chipset-news-75204/immaculate_001.jpg" alt="Poco X8s debuts with a 6.35-inch OLED display, Snapdragon 7 Gen 4 chipset" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/poco_x8s_debuts_with_a_635inch_oled_display_snapdragon_7_gen_4_chipset-news-75204/immaculate_002.jpg" alt="Poco X8s debuts with a 6.35-inch OLED display, Snapdragon 7 Gen 4 chipset" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/poco_x8s_debuts_with_a_635inch_oled_display_snapdragon_7_gen_4_chipset-news-75204/immaculate_003.jpg" alt="Poco X8s debuts with a 6.35-inch OLED display, Snapdragon 7 Gen 4 chipset" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OnePlus Buds Clip, çift sürücü ve 40 saate kadar pil ömrü ile resmi hale geldi</title>
+      <link>https://www.gsmarena.com/oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205.php</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Michail</author>
+      <category>Öne Çıkanlar</category><category>OnePlus</category><category>Akıllı giyilebilir cihazlar</category>
+      <description>Çok fazla tantana olmadan, OnePlus ilk klipsli kulaklıklarını duyurdu – uygun şekilde adlandırılmış OnePlus Klipsi. Markanın akıllı telefonları artık Avrupa ve ABD'de mevcut olmasa da, Tomurcuk Klibi, küresel OnePlus web sitesindeki listelemeleriyle kanıtlandığı gibi, bazı küresel bölgelerde mevcut olacak.</description>
+      <content:encoded><![CDATA[<p>Çok fazla tantana olmadan, OnePlus ilk klipsli kulaklıklarını duyurdu – uygun şekilde adlandırılmış OnePlus Klipsi. Markanın akıllı telefonları artık Avrupa ve ABD'de mevcut olmasa da, Tomurcuk Klibi, küresel OnePlus web sitesindeki listelemeleriyle kanıtlandığı gibi, bazı küresel bölgelerde mevcut olacak.</p>
+<p>Dynaudio ses ayarı, ikili sürücüler ve 40 saate kadar pil ömrü sağlar. Buds Clip, Danimarkalı ses markası Dynaudio tarafından ayarlanan çift DAC'lerin yanı sıra 11 mm woofer ve 9 mm tweeter kullanıyor. LHDC 5.0, AAC ve SBC kodekleri için destek alırsınız. Buds, Bluetooth 6.1 üzerinden eşleşir ve iki cihaza aynı anda bağlanmayı destekler.</p>
+<p>Tomurcuk Klipsi, altı kemik iletim mikrofonu ve cihaz üzerinde bir çevirmen ile özel bir yapay zeka ses çipi alır. Her bir kulaklık 5,2 gram ağırlığındadır ve IP55 giriş korumasına sahiptir. OnePlus, uyarlanabilir nikel - titanyum (Ni - Ti) Arc C köprüsü sayesinde tomurcuklardan gün boyu konfor sunuyor.</p>
+<p>Tomurcuklar ayrıca, arka havalandırma delikleri aracılığıyla ters ses dalgalarını ışınlayan Dipole Sound - Field teknolojisi adı verilen akıllı bir ses sızıntısı önleme sistemine de sahiptir.</p>
+<p>OnePlus Tomurcukları Klip renkleri</p>
+<p>OnePlus Clip inci beyazı, alacakaranlık gülü ve çakıl grisi renklerinde geliyor. OnePlus şimdilik fiyatlandırma ve kullanılabilirlik ayrıntılarını açıklamadı.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205/immaculate_001.jpg" alt="OnePlus Buds Clip go official with dual drivers and up to 40 hours of battery life  " loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205/immaculate_004.jpg" alt="OnePlus Buds Clip go official with dual drivers and up to 40 hours of battery life  " loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205/immaculate_002.jpg" alt="OnePlus Buds Clip go official with dual drivers and up to 40 hours of battery life  " loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205/immaculate_005.jpg" alt="OnePlus Buds Clip colors" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205/immaculate_006.jpg" alt="OnePlus Buds Clip colors" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205/immaculate_007.jpg" alt="OnePlus Buds Clip colors" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OnePlus Ace 7 Pro kamera özellikleri ve örnekleri piyasaya sürülmeden önce ortaya çıktı</title>
+      <link>https://www.gsmarena.com/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208.php</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Siddharth</author>
+      <category>Öne Çıkanlar</category><category>OnePlus</category><category>Android</category>
+      <description>Bu haftanın ilerleyen günlerinde piyasaya sürülmeden önce OnePlus, Ace 7 serisinin özelliklerini yavaş yavaş tanıtıyor. Bugün şirket, Ace 7 Pro'nun arka kamera ayrıntılarını açıkladı ve ayrıca birkaç kamera örneğini paylaştı.</description>
+      <content:encoded><![CDATA[<p>Bu haftanın ilerleyen günlerinde piyasaya sürülmeden önce OnePlus, Ace 7 serisinin özelliklerini yavaş yavaş tanıtıyor. Bugün şirket, Ace 7 Pro'nun arka kamera ayrıntılarını açıkladı ve ayrıca birkaç kamera örneğini paylaştı.</p>
+<p>OnePlus Ace 7 Pro, 3.5x optik zoom desteğine sahip bir periskop telefoto ünitesinin yanı sıra 200MP ana arka kameraya sahip olacak.</p>
+<p>OnePlus ayrıca Weibo'daki Ace 7 Pro'da alınan bir dizi geniş ve zoom kamera örneğini de paylaştı.</p>
+<p>OnePlus, Ace 7 Pro'nun önemli kamera özelliklerini doğrulamanın yanı sıra, hem Ace 7 hem de Pro'nun X4 ışıltılı malzemeye sahip bir BOE ekranına sahip olacağını da açıkladı.</p>
+<p>LTPO AMOLED ekran, bazı oyunlarda 185Hz'e kadar desteklerken, OnePlus 16 'ya benzer sistem çapında 165Hz yenileme hızı sunacak.</p>
+<p>OnePlus ayrıca, telefonun birkaç göz koruma özelliğini destekleyecek bir şirket içi Süper Ekran Çipi P4 kullanacağını da doğruladı.</p>
+<p>Her iki telefon da şu anda Çin'de ön sipariş için hazır. Ace 7, 16 GB'a kadar RAM ve 512 GB depolama alanı ile üç renk seçeneğinde sunulacak. Snapdragon 8 Elite Gen 5 V serisi yonga seti ile güçlendirilecek.</p>
+<p>Bu arada OnePlus Ace 7 Pro, 16 GB'a kadar RAM ve 1 TB depolama ile eşleştirilecek Snapdragon 8 Elite Gen 5 yonga seti ile donatılacak. Ayrıca üç farklı tonda da sunulacak.</p>
+<p>OnePlus Ace 7 serisi ayrıca yerleşik bir aktif soğutma fanına sahip olacak ve Android 17 tabanlı ColorOS 17 'yi çalıştıracak.</p>
+<p>Kaynak 1 • Kaynak 2 • Kaynak 3</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208/immaculate_001.jpg" alt="OnePlus Ace 7 Pro camera specs and samples revealed ahead of launch" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208/immaculate_002.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208/immaculate_003.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208/immaculate_004.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208/immaculate_005.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208/immaculate_006.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208/immaculate_007.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208/immaculate_008.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208/immaculate_009.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>iPhone Duo bükülme testi iyi bitmiyor</title>
+      <link>https://www.gsmarena.com/iphone_duo_bend_test_doesnt_end_well-news-75207.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/iphone_duo_bend_test_doesnt_end_well-news-75207.php</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Vlad</author>
+      <category>Öne Çıkanlar</category><category>Apple</category><category>iOS</category>
+      <description>Bugün erken saatlerde, iFixit'in telefonun iç katlanır ekranı ve menteşe tasarımıyla ilgili bazı endişeleri ele alan iPhone Duo'nun parçalanması hakkında yazdık - iPhone Duo sadece birkaç gün önce (sınırlı miktarlarda, daha az değil) mevcut olmasına rağmen, iç ekranın hasar gördüğüne dair birçok rapor gördük.</description>
+      <content:encoded><![CDATA[<p>Bugün erken saatlerde, iFixit'in telefonun iç katlanır ekranı ve menteşe tasarımıyla ilgili bazı endişeleri ele alan iPhone Duo'nun parçalanması hakkında yazdık - iPhone Duo sadece birkaç gün önce (sınırlı miktarlarda, daha az değil) mevcut olmasına rağmen, iç ekranın hasar gördüğüne dair birçok rapor gördük.</p>
+<p>Şimdi dikkatimizi başka bir önemli soruya kaydırabiliriz: iPhone Duo bükülecek mi? Ve bunun için Zack'e sadece yıllardır telefonları sağa sola bükmeye çalışan YouTube kanalı JerryRigEverything'den bakabiliriz. İşte bu sefer iPhone Duo'da gerçekleştirilen geleneksel 'dayanıklılık' testi.</p>
+<p>Spoiler uyarısı: iPhone Duo'yu bükmek onu ikiye bölmez, ancak sonu da iyi bitmez. Bir virajdan sonra, iç ekran üzerinde kalıcı bir çizgi oluşturur, ikinci bir virajdan sonra daha fazla çizgi görünür ve üçüncü bir virajdan sonra, iç ekran tamamen kapanmasa bile tepkisiz ve kullanılamaz hale gelir.</p>
+<p>AppleCare+' ınız yoksa, garanti kapsamı dışında bir iPhone Duo iç ekran onarımının sizi çılgınca bir $ 999 'a geri döndüreceğini unutmamak önemlidir, bu yüzden bu kesinlikle akılda tutulması gereken bir şeydir. Bununla birlikte, bu bükme testlerini yapmadan önce Zack, iPhone Duo'nun menteşe mekanizmasını mümkün olduğunca fazla toz, kum ve döküntü ile doldurmaya çalıştı ve bir kısmı açıkça orada kaldı - telefonu kapatmaya çalıştığında onu duyabiliyorsunuz ve aslında tamamen kapanmasını engelliyor.</p>
+<p>Enkazın her virajdan sonra iç ekranın sorunlarına katkıda bulunduğunu kesin olarak söyleyemesek de, bunu kesin olarak göz ardı edemeyiz, bu yüzden işler net değil. En azından sadece bu örnekten değil. Her neyse, bu ekran onarımının ne kadara mal olduğu göz önüne alındığında, elbette iPhone Duo'yu plaja götürmemeniz konusunda sizi uyarırız ve muhtemelen açıkken yanlışlıkla oturmaktan da kaçınmalısınız. Cüzdanının hatırı için.</p>
+<div style="clear:both;margin:16px 0;position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:#000;"><iframe src="https://www.youtube.com/embed/5laDGy4INB0" title="Video" loading="lazy" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;border:0;float:none;"></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Oppo Find X10 Ultra'nın tüm kamera kurulumunda sızıntı var</title>
+      <link>https://www.gsmarena.com/oppo_find_x10_ultras_full_camera_setup_leaks-news-75206.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/oppo_find_x10_ultras_full_camera_setup_leaks-news-75206.php</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Vlad</author>
+      <category>Öne Çıkanlar</category><category>OPPO</category><category>Android</category><category>Söylentiler</category>
+      <description>Oppo'nun Find X10 ve Find X10 Pro Max son zamanlarda küreselleşti, ancak markanın bu nesil için en iyi kamera amiral gemisi hala birkaç ay uzakta. Bugün, Dijital Sohbet İstasyonu, iddiaya göre Find X10 Ultra'nın tam kamera kurulumunu yayınladı.</description>
+      <content:encoded><![CDATA[<p>Oppo'nun Find X10 ve Find X10 Pro Max son zamanlarda küreselleşti, ancak markanın bu nesil için en iyi kamera amiral gemisi hala birkaç ay uzakta. Bugün, Dijital Sohbet İstasyonu, iddiaya göre Find X10 Ultra'nın tam kamera kurulumunu yayınladı.</p>
+<p>Telefonun 1/1.12 inçlik sensör ve LOFIC teknolojisine sahip 200MP ana kameraya, 1/1.3 inçlik sensörlü 200MP periskop telefotoya ve 10x optik zoomlu 50MP periskop telefotoya sahip olduğu bildiriliyor. Ön yüzün 1:1 kare sensörlü 100MP selfie kamerası aldığı iddia ediliyor. Bahşişçi, ana sensörün modelini HPA/HPU olarak listeliyor, bu da bize Samsung tarafından yapıldığını ve ISOCELL HPx ailesinde olduğunu düşündürüyor, ancak 200MP periskop kamera için sensör henüz seçilmedi.</p>
+<p>10x periskopun sensörü de sonuçlandırılmadı. Oppo görünüşe göre orada orta boy bir 1/1.95 inç tipi sensör istiyor, ancak bu kişinin seri üretimi gecikirse, telefon daha küçük bir 1/2.76 inç tipi sensöre geri dönebilir. Bu, Oppo'nun 10x kamera için iki adet 1/1.95 inç tipi sensörü test ettiğini iddia eden daha önceki bir sızıntıya uyuyor.</p>
+<p>Find X9 Ultra, Nisan ayında piyasaya sürüldü ve zaten 1/1.12 inçlik bir sensöre sahip 200MP'lik bir ana kameraya ve 1/1.28 inçlik bir sensöre sahip 200MP'lik bir periskopu var. Yani arkada, asıl yükseltmeler ana kamerada LOFIC ve daha büyük bir 10x sensör olacak ve daha büyük sensör yalnızca 1/1.95 inçlik plan işe yararsa gelecek. Yedek, Find X9 Ultra'daki 1/2.75 inçlik sensörle yaklaşık olarak aynı boyuttadır. En büyük değişiklik aslında Find X9 Ultra'nın 50MP'lik bir selfie kamerasıyla yetindiği ön tarafta olacak.</p>
+<p>Find X10 Ultra'nın gelecek yılın ilk yarısında gelmesi bekleniyor, bu nedenle işlerin değişmesi için hala çok zaman var. Bu arada, daha fazla bilgi edindiğimizde size haber vereceğiz.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oppo_find_x10_ultras_full_camera_setup_leaks-news-75206/immaculate_001.jpg" alt="Oppo Find X9 Ultra" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OLED iPad mini, A20 Pro çip ve akustik ekran hoparlörleri ile karşınızda</title>
+      <link>https://www.gsmarena.com/the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213.php</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <author>Michail</author>
+      <category>Öne Çıkanlar</category><category>Apple</category><category>&lt;g id=&quot;1&quot;&gt;iPadOS&lt;/g&gt;</category><category>İlan</category>
+      <description>Apple, ilk OLED ekranı MINI serisine getiren güncellenmiş iPad mini modelini tanıttı. Beklenen ekran yükseltmesinin yanı sıra Apple, yeni MINI modelini en yeni Apple A20 Pro çipiyle donattı.</description>
+      <content:encoded><![CDATA[<p>Apple, ilk OLED ekranı MINI serisine getiren güncellenmiş iPad mini modelini tanıttı. Beklenen ekran yükseltmesinin yanı sıra Apple, yeni MINI modelini en yeni Apple A20 Pro çipiyle donattı.</p>
+<p>128GB ve 256GB depolama sürümleri, 512GB modelindeki altıya kıyasla beş CPU çekirdeği içeren bir CPU'ya sahiptir. Spesifikasyonlar sayfasına göre, daha düşük depolama modelleri daha az verimlilik çekirdeği ve NPU gücünün yarısını alıyor. Diğer özellikler aynıdır.</p>
+<p>Yeni MINI, 2.316 x 1.512 piksel çözünürlüğe ve 60Hz yenileme hızına sahip 8,5 inç Super Retina XDR OLED ekran etrafında inşa edilmiştir. İlginç bir şekilde, Apple hala en küçük iPad üyesi için ProMotion yükseltmesini bekletiyor.</p>
+<p>Yeni panel, daha ince çerçevelere, 1.200 nit'e kadar tepe parlaklığına sahiptir ve daha az parlama için isteğe bağlı bir nano doku camı ile yapılandırılabilir. Hem Apple Pencil Pro'yu hem de normal Apple Pencil'ı (USB-C) ve 12MP Center Stage kamerayı destekler.</p>
+<p>Daha da ilginci, Apple ikili hoparlörleri ekranın altına taşıdı ve şimdi bir &quot;Akustik Ekran&quot; kurulumu kullanıyor. Daha delici bas ve daha fazla hacim sağladığı bildiriliyor. Kurulum ayrıca, daha net yükseklikler için cam ve alüminyum muhafaza arasına &quot;gizlenmiş&quot; özel tweeter'lar içerir.</p>
+<p>iPad mini (2026) 5,4 mm incedir ve selefinin 6,3 mm ve 297 gramına kıyasla 255 gram ağırlığındadır. Yeni model yükseltilmiş Wi - Fi 7 (802.11be) bağlantısı alırken, hücresel sürüm de eSIM ve Apple'ın C2 modemi sayesinde 5G (6 GHz altı) getiriyor. Apple ayrıca IP67 giriş korumasına sahiptir.</p>
+<p>Başka bir yerde, yeni MINI, USB - C üzerinden şarj olan 18,9Wh'lik bir pil getiriyor. Apple, 35W veya daha yüksek bir güç adaptörü kullanırken 30 dakika içinde % 50 şarja ulaşabileceğinizi iddia ediyor. Bağlantı noktası ayrıca USB 3 hızlarında (10 Gb/sn'ye kadar) veri aktarır.</p>
+<p>iPad mini (2026) Midnight ve Starlight renklerinde geliyor.</p>
+<p>iPad mini (2026) Midnight ve Starlight'ta</p>
+<p>Yalnızca 128 GB Wi - Fi sürümü için fiyatlandırma 699 $/ 749 €/ 699 £' dan başlıyor. 256GB'lık trim 799 $/ 879 €/ 799 £' a kadar çıkarken, 512GB'lık model 999 $/ 1.129 €/ 999 £' dur.</p>
+<p>Ön siparişler 28 Ekim'de başlayacak ve ilk teslimatların 6 Kasım'da yapılması planlanıyor.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213/immaculate_001.jpg" alt="The OLED iPad mini is here with A20 Pro chip and acoustic display speakers " loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213/immaculate_007.jpg" alt="iPad mini (2026) brings binned A20 Pro chips for the 128GB and 256GB configs" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213/immaculate_003.jpg" alt="The OLED iPad mini is here with A20 Pro chip and acoustic display speakers " loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213/immaculate_004.jpg" alt="The OLED iPad mini is here with A20 Pro chip and acoustic display speakers " loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213/immaculate_005.jpg" alt="iPad mini (2026) in Midnight and Starlight" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213/immaculate_006.jpg" alt="iPad mini (2026) in Midnight and Starlight" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>vivo Y600, 10.000mAh batarya ve 6,83inç ekran ile resmi</title>
       <link>https://www.gsmarena.com/vivo_y600_is_official_with_a_10000mah_battery_and_683inch_display-news-75202.php</link>
@@ -1055,117 +1206,6 @@
 <p>Redmi K100, yeni Firefly Green tonu da dahil olmak üzere üç renkte sunulacak. Ön siparişler, Xiaomi'nin Çin'deki resmi web sitesi aracılığıyla zaten açık.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/redmi_k100_to_get_a_50mp_rear_camera_ultrasonic_fingerprint_scanner-news-75138/immaculate_001.jpg" alt="Redmi K100 to get a 50MP rear camera, ultrasonic fingerprint scanner" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/redmi_k100_to_get_a_50mp_rear_camera_ultrasonic_fingerprint_scanner-news-75138/immaculate_002.jpg" alt="Redmi K100 to get a 50MP rear camera, ultrasonic fingerprint scanner" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Lava Aura Curve kavisli ekran, arka ekran ve 6.000mAh pil ile tanıtıldı</title>
-      <link>https://www.gsmarena.com/lava_aura_curve_unveiled_with_curved_display_rear_screen_and_6000mah_battery-news-75140.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/lava_aura_curve_unveiled_with_curved_display_rear_screen_and_6000mah_battery-news-75140.php</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <author>Siddharth</author>
-      <category>Öne Çıkanlar</category><category>Lava</category><category>Android</category><category>İlan</category>
-      <description>Lava kısa süre önce Hindistan'da Virat Eğrisi'ni tanıttı. Virat Eğrisi'nin arkasında kavisli bir ekran ve ikincil bir ekran bulunuyor. Şirket şimdi aynı tasarım ve özellikleri sunan ancak çevrimdışı pazarı hedefleyen Aura Curve'ü tanıttı.</description>
-      <content:encoded><![CDATA[<p>Lava kısa süre önce Hindistan'da Virat Eğrisi'ni tanıttı. Virat Eğrisi'nin arkasında kavisli bir ekran ve ikincil bir ekran bulunuyor. Şirket şimdi aynı tasarım ve özellikleri sunan ancak çevrimdışı pazarı hedefleyen Aura Curve'ü tanıttı.</p>
-<p>Lava Aura Curve, Hindistan genelindeki çev线下 satış noktalarında, 6GB/128GB varyantı için 23.999 INR fiyatla satışa sunulacak.</p>
-<p>Aura Curve, MediaTek Dimensity 7100 SoC işlemci, 120Hz yenileme hızına sahip 6,67 inç AMOLED ekran, ikincil arka AMOLED ekran ve 45W hızlı şarj desteğine sahip 6.000mAh pil ile birlikte geliyor.</p>
-<p>50MP Sony IMX752 arka sensör ve 13MP selfie kameraya sahiptir. Telefon, ekrandaki parmak izi tarayıcısını, stereo hoparlörleri ve IP64 derecesini sunar.</p>
-<p>Aura Curve ayrıca 5G bağlantısı, Wi - Fi 6E, Bluetooth 5.4, GPS, sıfır bloatware ile temiz Android 16 çalıştırır ve iki renk seçeneğiyle sunulur.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/lava_aura_curve_unveiled_with_curved_display_rear_screen_and_6000mah_battery-news-75140/immaculate_001.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/lava_aura_curve_unveiled_with_curved_display_rear_screen_and_6000mah_battery-news-75140/immaculate_002.jpg" alt="Görsel" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Oppo Reno17 Pro özellikleri sızdırıyor ve kulağa çok tanıdık geliyor</title>
-      <link>https://www.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-news-75133.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-news-75133.php</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <author>Vlad</author>
-      <category>Öne Çıkanlar</category><category>OPPO</category><category>Android</category><category>Söylentiler</category>
-      <description>Oppo'nun Reno17 serisinin önümüzdeki ay Çin'de piyasaya sürüleceği söyleniyor ve bugün üretken tipster Digital Chat Station, Reno17 Pro'nun temel özelliklerini açıkladı. Markanın yayınlarını yakından takip ediyorsanız, size çok tanıdık gelecektir.</description>
-      <content:encoded><![CDATA[<p>Oppo'nun Reno17 serisinin önümüzdeki ay Çin'de piyasaya sürüleceği söyleniyor ve bugün üretken tipster Digital Chat Station, Reno17 Pro'nun temel özelliklerini açıkladı. Markanın yayınlarını yakından takip ediyorsanız, size çok tanıdık gelecektir.</p>
-<p>Sızıntıya göre, Reno17 Pro, 1.5K çözünürlüğe ve 120Hz yenileme hızına sahip 6.32inç düz ekrana sahip olacak ve MediaTek'in Dimensity 8550 Super yonga seti tarafından desteklenecek. Bu, Dimensity 9500 'lere sahip daha büyük 6,78inçlik bir telefon olan Çin için Reno16 Pro ile karıştırılmaması gereken küresel Oppo Reno16 Pro'nun ekran boyutu ve yonga seti.</p>
-<p>Kamera kurulumunun da tanıdık olduğu söyleniyor. Reno17 Pro'nun arkasında büyük bir sensör ve gimbal tarzı stabilizasyona sahip 200 MP'lik bir ana kamera, 50 MP'lik bir ultra genişleme ve 50 MP'lik bir periskop telefoto ve 50 MP'lik bir selfie kamerası olacağı bildiriliyor. Bu kadar küçük telefonlarda bir periskop hala nadirdir, ancak küresel Reno16 Pro zaten bir tane sunmaktadır.</p>
-<p>Farklı olan bataryadır. Reno17 Pro, küresel Reno16 Pro'da 6.700 mAh'den (ve Avrupa versiyonunda 6.000 mAh'den) yaklaşık 7.000 mAh'lık bir hücreye sahip olacak şekilde tasarlanmıştır. Bu, 6,32inçlik bir telefon için etkileyici derecede büyük. Şarj hızları hala bilinmiyor.</p>
-<p>Bir başka ihbarcı Smart Pikachu, Reno17 serisinin &quot;modaya uygun bir tasarıma&quot; ve 200 MP kameralara odaklanacağını iddia etti. Ayrıca canlı fotoğraflar, canlı videolar ve fotoğraf düzenleme için yeni araçlar getirecek ve özel yapay zeka düğmesini koruyacaktır. Aynı kaynak daha önce Oppo'nun şu anda Find X serisiyle sınırlı olan Reno17 serisi için telekonvertör desteğini değerlendirdiğini söylemişti.</p>
-<p>Reno17 ailesinin Kasım ayında Android 17 tabanlı ColorOS 17 ile Çin'de piyasaya sürülmesi bekleniyor. Daha sonra Ocak 2027 'nin başlarında Hindistan'a ulaşabilir, ancak Pro bu pazarı atlayabilir. Çin'de, her ikisi de gelecek ay beklenen Honor 700 serisine ve VIVO S70 serisine karşı çıkacak.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/oppo_reno17_pro_specs_leak_and_they_sound_very_familiar-news-75133/immaculate_001.jpg" alt="Oppo Reno16 Pro" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple, iPhone Duo ve iPhone 18 Pro için Amerikalı tedarikçilerle ortaklıklarını genişletiyor</title>
-      <link>https://www.gsmarena.com/apple_expands_partnerships_with_american_suppliers_for_the_iphone_duo_and_iphone_18_pro-news-75136.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/apple_expands_partnerships_with_american_suppliers_for_the_iphone_duo_and_iphone_18_pro-news-75136.php</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <author>Vlad</author>
-      <category>Öne Çıkanlar</category><category>Apple</category><category>iOS</category>
-      <description>Bugün Apple, iPhone Duo ve iPhone 18 Pro'da kullanılan kritik malzemeler ve bileşenler için Amerikan Üretim Programı (AMP) kapsamında yeni ve genişletilmiş ortaklıklar duyurdu, çünkü kablosuz çiplerden temel işlevlere güç veren silikona kadar bu telefonlardaki yaklaşık 100 bileşen, bir düzineden fazla eyalete yayılmış tedarikçilerle Amerikan şirketleri tarafından üretiliyor.</description>
-      <content:encoded><![CDATA[<p>Bugün Apple, iPhone Duo ve iPhone 18 Pro'da kullanılan kritik malzemeler ve bileşenler için Amerikan Üretim Programı (AMP) kapsamında yeni ve genişletilmiş ortaklıklar duyurdu, çünkü kablosuz çiplerden temel işlevlere güç veren silikona kadar bu telefonlardaki yaklaşık 100 bileşen, bir düzineden fazla eyalete yayılmış tedarikçilerle Amerikan şirketleri tarafından üretiliyor.</p>
-<p>Perryman Company, iPhone Duo'nun 5. sınıf titanyum muhafazasını tedarik etmektedir. Perryman, iPhone Duo için en az % 80 geri dönüştürülmüş içeriğe sahip titanyumu erittiği, dövdüğü ve yuvarladığı için Apple, önümüzdeki üç yıl boyunca 100 milyon $ 'a kadar taahhütte bulunuyor. Apple, Mart ayında AMP'ye katılan Delaware merkezli Qnity Electronics ile ortaklığını da genişletiyor. Qnity, iPhone 18 Pro'nun ana kamerasındaki yeni değişken diyafram sistemi için gerekli olan gelişmiş filmleri üretecek.</p>
-<p>Duyuru ayrıca mevcut bazı ortaklarla ilgili güncellemeleri de içeriyor. Broadcom, 15 milyardan fazla ABD yapımı çip üretecek çok yıllı anlaşmanın bir parçası olarak temmuzda açıklanan 1,5 milyar $ sermaye yatırımı kapsamında Fort Collins, Colorado'daki tesisini genişletiyor ve modernize ediyor. 2007 'deki orijinal iPhone'dan bu yana Apple ortağı olan Corning, Harrodsburg, Kentucky'deki Ceramic Shield dahil olmak üzere özel cam üretiyor ve bu yılın sonuna kadar iPhone'lar (Duo dahil) ve dünya çapında satılan Apple Watch'lar için tüm kapak camları bu tesisten gelecek.</p>
-<p>Coherent, iPhone 18 Pro ve iPhone 18 Pro Max'te yeniden tasarlanan Dynamic Island da dahil olmak üzere Face ID ve iPhone'lar ve iPad'lerdeki diğer özellikler için Sherman, Teksas'tan dikey boşluklu yüzey yayan lazer teknolojisi sağlıyor. TSMC'nin Arizona fabrikası bu yıl Apple için 100 milyondan fazla çip üretecek ve kuzey kampüsündeki inşaat devam ediyor. Eylül 2025 'te Arizona'nın Peoria kentindeki bir paketleme ve test tesisinde çığır açan Amkor, bu yılın başlarında kabuk inşaatına başladı ve Apple ilk müşterilerinden biri olacak.</p>
-<p>Apple, ABD'nin 50 eyaletindeki tedarikçilerle birlikte çalışıyor ve 450 binden fazla Amerikan işini desteklediğini söylüyor. İlk olarak geçen yılın Ağustos ayında duyurulan AMP, şirketin ABD üretimine yönelik 600 milyar $ tutarındaki dört yıllık taahhüdünün bir parçası. Apple'ın 2030 yılına kadar tüm ayak izi boyunca karbon nötr olma hedefinin bir parçası olarak, tüm doğrudan tedarikçilerinin on yılın sonuna kadar Apple üretimlerini yenilenebilir enerji ile güçlendirmeleri gerekecek.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/apple_expands_partnerships_with_american_suppliers_for_the_iphone_duo_and_iphone_18_pro-news-75136/immaculate_001.jpg" alt="Apple expands partnerships with American suppliers for the iPhone Duo and iPhone 18 Pro" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Doogee, Note60 W'yi önizliyor: Huawei Pura X View'den esinlenen geniş ekranlı bir levha</title>
-      <link>https://www.gsmarena.com/doogee_previews_the_note60_w_a_widescreen_slab_inspired_by_the_huawei_pura_x_view-news-75131.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/doogee_previews_the_note60_w_a_widescreen_slab_inspired_by_the_huawei_pura_x_view-news-75131.php</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <author>Peter</author>
-      <category>Öne Çıkanlar</category><category>DOOGEE</category><category>Android</category>
-      <description>Doogee, 140. Kanton Fuarı'nda Huawei Pura X View'den büyük ölçüde ilham almış gibi görünen geniş ekranlı bir telefon olan ilginç bir telefonun ön izlemesini yaptı.</description>
-      <content:encoded><![CDATA[<p>Doogee, 140. Kanton Fuarı'nda Huawei Pura X View'den büyük ölçüde ilham almış gibi görünen geniş ekranlı bir telefon olan ilginç bir telefonun ön izlemesini yaptı.</p>
-<p>Doogee Note60 W, Pura X View ile aynı 5:3 en boy oranına sahip gibi görünen 6,38&quot; ekrana sahiptir. Bunun 6,39 inç ekranı var ve kulağa küçük gelse de 144,1 mm boyunda ve 87,0 mm genişliğinde. Referans olarak, iPhone 18 Pro Max 163,4 mm boyunda ve sadece 78,0 mm genişliğindedir.</p>
-<p>Doogee Note60 W</p>
-<p>Doogee telefon 90Hz ekrana sahip olacak ve kutudan Android 17 çıkacak. Huawei telefonu (7.000mAh, 6.7mm) kadar etkileyici olmayan 8.4mm'lik bir gövdenin içine 6.500mAh pil yerleştirecek.</p>
-<p>Ne yazık ki, şu ana kadar sahip olduğumuz tüm özellikler bunlar. Doogee Note60 W'nin ne zaman satışa sunulacağı ve ne kadara mal olacağı konusunda bir bilgi yok. Bu, Pura X View'dan çok daha ucuz olmalı – bu konuda bildiklerimiz, Note60 W'nin orta menzilli veya hatta giriş seviyesi bir telefon olacağını gösteriyor. Pura X View, 6.000 CNY'den başlar ve 900 $ 'a dönüşür.</p>
-<p>Doogee'nin Note60 W hakkındaki yazısı: orijinal • makine çevirisi</p>
-<p>Doogee Note59 Pro+ 'ya bakmak muhtemelen beklentilerinizi belirlemenin iyi bir yoludur – 720p+ çözünürlük ve Unisoc T8200 yonga seti, Note60 W'den ne bekleyeceğiniz konusunda size bir fikir vermelidir (biri “W” nin “Geniş” anlamına geldiğini hayal eder).</p>
-<p>Doogee bu konuda yalnız değil, Coolpad'in de benzer geniş bir levha üzerinde çalıştığına dair raporlar görüyoruz.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/doogee_previews_the_note60_w_a_widescreen_slab_inspired_by_the_huawei_pura_x_view-news-75131/immaculate_001.jpg" alt="Doogee Note60 W" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/doogee_previews_the_note60_w_a_widescreen_slab_inspired_by_the_huawei_pura_x_view-news-75131/immaculate_002.jpg" alt="Doogee’s post about the Note60 W: original" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/doogee_previews_the_note60_w_a_widescreen_slab_inspired_by_the_huawei_pura_x_view-news-75131/immaculate_005.jpg" alt="Doogee’s post about the Note60 W: machine translation" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Samsung Galaxy A36 'nın One UI 9 güncellemesi Avrupa'ya geldi</title>
-      <link>https://www.gsmarena.com/samsung_galaxy_a36s_one_ui_9_update_lands_in_europe-news-75129.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/samsung_galaxy_a36s_one_ui_9_update_lands_in_europe-news-75129.php</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <author>Vlad</author>
-      <category>Öne Çıkanlar</category><category>Samsung</category><category>Android</category><category>AYGIT YAZILIMI GÜNCELLEMELERİ</category>
-      <description>Samsung, geçtiğimiz hafta One UI 9 ile Android 17 güncellemesini Galaxy A36 'ya sunmaya başladı, ancak yalnızca Güney Kore'de mevcuttu. Güncelleme Avrupa'da da kullanıma sunulduğu için bu durum şükürler olsun ki değişti.</description>
-      <content:encoded><![CDATA[<p>Samsung, geçtiğimiz hafta One UI 9 ile Android 17 güncellemesini Galaxy A36 'ya sunmaya başladı, ancak yalnızca Güney Kore'de mevcuttu. Güncelleme Avrupa'da da kullanıma sunulduğu için bu durum şükürler olsun ki değişti.</p>
-<p>2,38GB'lık bir indirme olarak havadan gelir, bu nedenle yeterince hızlı bir ağ üzerinden aldığınızdan emin olun. Yükledikten sonra Galaxy A36 'nız A366BXXUCDZIF yazılım sürümünde ve 5 Eylül 2026 güvenlik yaması seviyesinde olacaktır.</p>
-<p>Sunumun kademeli olması muhtemeldir, bu nedenle Avrupa'da satın aldığınız bir A36 'nız varsa ve henüz güncelleme bildirimini almadıysanız, endişelenmeyin - top şu anda yuvarlanıyor ve büyük olasılıkla önümüzdeki birkaç gün içinde size ulaşacak.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_a36s_one_ui_9_update_lands_in_europe-news-75129/immaculate_001.jpg" alt="Samsung Galaxy A36's One UI 9 update lands in Europe" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>IPhone Duo'nun görünür bir kıvrımı olmayabilir, ancak ekran o bölgede yumuşaktır</title>
-      <link>https://www.gsmarena.com/the_iphone_duo_may_not_have_a_visible_crease_but_the_display_is_soft_in_that_area-news-75127.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/the_iphone_duo_may_not_have_a_visible_crease_but_the_display_is_soft_in_that_area-news-75127.php</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <author>Peter</author>
-      <category>Öne Çıkanlar</category><category>Apple</category><category>iOS</category>
-      <description>İPhone Duo ekranının menteşenin üzerindeki kısmı yumuşacık. Bu, orijinal olarak Weibo kullanıcısı Kang tarafından paylaşılan ve Ice Universe tarafından paylaşılan bir videoda görülebilir. Bu tamamen beklenmedik değil, ama yine de görmek ilginç.</description>
-      <content:encoded><![CDATA[<p>İPhone Duo ekranının menteşenin üzerindeki kısmı yumuşacık. Bu, orijinal olarak Weibo kullanıcısı Kang tarafından paylaşılan ve Ice Universe tarafından paylaşılan bir videoda görülebilir. Bu tamamen beklenmedik değil, ama yine de görmek ilginç.</p>
-<p>Apple'daki mükemmeliyetçiler ilk katlanabilirlerinde bir kırışıklık yaşayamadılar. Ve kredilerine göre, bir çözüm tasarladılar – kırışıklık esasen görünmez. Ancak bu, menteşenin üzerindeki şeridin sağlam bir desteğe sahip olduğu anlamına gelmez.</p>
-<p>Yani, parmağınızla iterseniz, hafifçe bastırır. Daha da kötüsü, Kang, o bölgedeki ekran yüzeyine bastığında kırışıklıklar gelişebileceğini söylüyor. Parmağınızı hareket ettirdiğinizde pürüzsüz bir yüzeye geri dönüyor gibi görünür, ancak bu, uzun süreli dayanıklılık için bir sorun olabileceğinden dikkat edilmesi gereken bir şeydir. Yine de, iç ekranın ekran koruyucusu değiştirilebilir, bu yüzden belki de kolay bir düzeltme olacaktır.</p>
-<p>SON DAKİKA! iPhone Duo'nun katlanabilir ekranı hakkında şok edici yeni bir keşif! Weibo kullanıcısı Kang'a göre, iPhone Duo'nun kıvrımının etrafındaki ekran şaşırtıcı derecede YUMUŞAK. Parmakla basıldığında yüzeyde gözle görülür KIRIŞIKLIKLAR bile oluşabilir! Bu, katlanabilir telefonların önceki incelemelerinde hiç bahsetmediğimiz bir şey. Daha da ilginç olanı; Kang, bu davranışın birden fazla birim arasında yaygın olduğunu iddia ediyor. Bu, Apple'ın daha ince bir merkezi katlama bölgesine ve daha kalın çevreleyen alanlara sahip olduğu söylenen değişken kalınlıklı ultra ince camıyla (UTG) ilgili olabilir mi? Eğer öyleyse, Apple kat çevresindeki stresi yönetmek için kökten farklı bir yaklaşım benimsemiş olabilir. Bu ekranın arkasındaki mühendislik, başlangıçta düşündüğümüzden çok daha ilginç olabilir. Kaynak: Weibo kullanıcısı @Kang (uygulamalı test ve video)</p>
-<p>Kang ayrıca birden fazla Duo telefonun test edildiğini ve aynı şekilde tepki verdiklerini söylüyor, bu yüzden bu sadece bir üniteyle ilgili bir sorun değil.</p>
-<p>Ice, bunun Apple'ın iPhone Duo'da kullandığı söylentisi olan değişken kalınlıkta camla bir ilgisi olabileceğini düşünüyor. Corning, birkaç yıl önce değişken kalınlıkta camı (Corning VtG) tanıttı. Bu, bükülmeyi kolaylaştırmak için menteşe üzerinde daha ince bir cam şerit bırakır, ancak camın geri kalanını daha esnek hale getirmek için daha kalın hale getirir.</p>
-<p>Corning basın açıklamasında, &quot;Bu tasarım, menteşe bölgesinde hem zahmetsiz bükülebilirliğe sahip hem de kanatlardaki daha kalın cam nedeniyle monolitik kalınlıkta bir cam parçasıyla karşılaştırıldığında ekran dayanıklılığı ekleyen bir cihaza izin veriyor&quot; dedi. Tabii ki Apple, VtG kullanıp kullanmadığını doğrulamadı.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Verizon's Straight Talk, sınırsız planlarını fiyatları yükseltmeden yükseltiyor</title>
-      <link>https://www.gsmarena.com/verizons_straight_talk_upgrades_its_unlimited_plans_without_raising_prices-news-75128.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/verizons_straight_talk_upgrades_its_unlimited_plans_without_raising_prices-news-75128.php</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <author>Vlad</author>
-      <category>Öne Çıkanlar</category><category>Verizon</category><category>Düz Konuşma</category>
-      <description>Verizon'a ait olan Straight Talk, Silver Unlimited, Gold Unlimited ve Platinum Unlimited planları için yükseltmeler duyurdu ve daha hızlı 5G Ultra Geniş Bant erişimi, daha fazla hotspot verisi, genişletilmiş uluslararası kapsama alanı ve Ev İnternet paketi tasarrufu ekledi. Aylık taban fiyatlar aynı kalıyor ve Silver Unlimited planı 2009 'dan bu yana etkileyici bir şekilde aylık 45 $ oldu.</description>
-      <content:encoded><![CDATA[<p>Verizon'a ait olan Straight Talk, Silver Unlimited, Gold Unlimited ve Platinum Unlimited planları için yükseltmeler duyurdu ve daha hızlı 5G Ultra Geniş Bant erişimi, daha fazla hotspot verisi, genişletilmiş uluslararası kapsama alanı ve Ev İnternet paketi tasarrufu ekledi. Aylık taban fiyatlar aynı kalıyor ve Silver Unlimited planı 2009 'dan bu yana etkileyici bir şekilde aylık 45 $ oldu.</p>
-<p>Bu plan artık 5G Ultra Geniş Bant erişimi, 15 GB hotspot verisi (öncekinden % 50 daha fazla) ve Kanada, Meksika, Hindistan ve Çin'e sınırsız uluslararası konuşma ve metin sağlıyor.</p>
-<p>Gold Unlimited, ayda 55 $ karşılığında, 50 GB etkin nokta verisi (% 66 daha fazla) ve 200 'den fazla varış noktasına sınırsız uluslararası konuşma ve metin ile Kanada ve Meksika'da 10 GB dolaşım verisi ile birlikte 5G Ultra Geniş Bant erişimine de sahiptir. Walmart+ üyeliğini ve 100 GB bulut depolama alanını da koruyor.</p>
-<p>Son olarak, Platinum Unlimited aylık 65 $ tutarındadır ve 5G Ultra Geniş Bant erişimi, sınırsız premium veri ve etkin nokta, 200 'den fazla varış noktasına sınırsız uluslararası konuşma ve metin, Kanada ve Meksika'da 10 GB dolaşım verisi, Walmart+ üyeliği, 500 GB bulut depolama alanı ve kendi tabletinizi getirirseniz ücretsiz olarak 10 $/ay tablet hizmeti ile birlikte gelir.</p>
-<p>Üç plandan herhangi birindeki müşteriler artık ayda 35 $ karşılığında Straight Talk Ev İnterneti ekleyebilir, bu da standart 45 $ oranından 10 $ daha düşüktür. Straight Talk, yeni iyileştirmelerin &quot;değer odaklı tüketiciler için değer lideri olarak konumunu sağlamlaştırmak için tasarlandığını&quot; söylüyor. Straight Talk'un planlarını yalnızca Walmart'ta ve çevrimiçi olarak bulabilirsiniz.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/verizons_straight_talk_upgrades_its_unlimited_plans_without_raising_prices-news-75128/immaculate_001.jpg" alt="Verizon's Straight Talk upgrades its unlimited plans without raising prices" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
