@@ -1,73 +1,113 @@
 [
   {
-    "slug": "iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203",
-    "url": "https://www.gsmarena.com/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203.php",
+    "slug": "samsung_is_reportedly_making_20_fewer_galaxy_a_phones_this_quarter-news-75211",
+    "url": "https://www.gsmarena.com/samsung_is_reportedly_making_20_fewer_galaxy_a_phones_this_quarter-news-75211.php",
+    "date": "26 October 2026",
+    "fetched_at": "2026-10-26T22:08:49.070579+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "cdb7b33a7ef45df6a016fe8876989a859789970f079b247ae2e189463d838596"
+  },
+  {
+    "slug": "apple_teases_more_launches_this_week_after_the_new_ipad_mini-news-75212",
+    "url": "https://www.gsmarena.com/apple_teases_more_launches_this_week_after_the_new_ipad_mini-news-75212.php",
+    "date": "26 October 2026",
+    "fetched_at": "2026-10-26T22:08:32.884705+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6b5ef8d1ededf418930ac6c3819017b0d832543cf5fa77d3a6ef15e835b3b09d"
+  },
+  {
+    "slug": "motorola_edge_70_neo_key_specifications_leak-news-75214",
+    "url": "https://www.gsmarena.com/motorola_edge_70_neo_key_specifications_leak-news-75214.php",
+    "date": "26 October 2026",
+    "fetched_at": "2026-10-26T22:08:13.880757+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a94b62867a9ec69a511fe4a24977d4eed57f8dab4f9f4a4b84db3ca831a5bbe1"
+  },
+  {
+    "slug": "tmobiles_new_tmix_plans_let_you_pick_your_own_perks-news-75218",
+    "url": "https://www.gsmarena.com/tmobiles_new_tmix_plans_let_you_pick_your_own_perks-news-75218.php",
+    "date": "26 October 2026",
+    "fetched_at": "2026-10-26T22:07:50.885333+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "83d1fec90532bd14650580a55070178d7c60221570bd325e06f53a7bc4370db5"
+  },
+  {
+    "content_hash": "34c7bf9aa5aa1cd767aaf3eb0785535ff729c370c52004539dd6e8668c990ccd",
     "date": "26 October 2026",
     "fetched_at": "2026-10-26T16:25:18.155394+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "34c7bf9aa5aa1cd767aaf3eb0785535ff729c370c52004539dd6e8668c990ccd"
+    "retries": 0,
+    "slug": "iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_duo_teardown_reveals_it_is_fairly_repairable_but_its_complex_hinge_is_worrying_-news-75203.php"
   },
   {
-    "slug": "poco_x8s_debuts_with_a_635inch_oled_display_snapdragon_7_gen_4_chipset-news-75204",
-    "url": "https://www.gsmarena.com/poco_x8s_debuts_with_a_635inch_oled_display_snapdragon_7_gen_4_chipset-news-75204.php",
+    "content_hash": "5703db769a5b1a2a6663a01885b73e5d9ee5db080a3fc345827e836ebf9a6cac",
     "date": "26 October 2026",
     "fetched_at": "2026-10-26T16:25:00.085029+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5703db769a5b1a2a6663a01885b73e5d9ee5db080a3fc345827e836ebf9a6cac"
+    "retries": 0,
+    "slug": "poco_x8s_debuts_with_a_635inch_oled_display_snapdragon_7_gen_4_chipset-news-75204",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/poco_x8s_debuts_with_a_635inch_oled_display_snapdragon_7_gen_4_chipset-news-75204.php"
   },
   {
-    "slug": "oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205",
-    "url": "https://www.gsmarena.com/oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205.php",
+    "content_hash": "5a693f96d0f2aad27a62e9f712cb0777f9e628bd4831e34d2b56b1570ac7adab",
     "date": "26 October 2026",
     "fetched_at": "2026-10-26T16:24:44.010687+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5a693f96d0f2aad27a62e9f712cb0777f9e628bd4831e34d2b56b1570ac7adab"
+    "retries": 0,
+    "slug": "oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_buds_clip_go_official_with_dual_drivers_and_up_to_40_hours_of_battery_life__-news-75205.php"
   },
   {
-    "slug": "oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208",
-    "url": "https://www.gsmarena.com/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208.php",
+    "content_hash": "4db3205db44a370c6994f3adf4956bda299b6602663fa90ce660f05dec7554bc",
     "date": "26 October 2026",
     "fetched_at": "2026-10-26T16:24:21.360993+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4db3205db44a370c6994f3adf4956bda299b6602663fa90ce660f05dec7554bc"
+    "retries": 0,
+    "slug": "oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_ace_7_pro_camera_specs_and_samples_revealed_ahead_of_launch-news-75208.php"
   },
   {
-    "slug": "iphone_duo_bend_test_doesnt_end_well-news-75207",
-    "url": "https://www.gsmarena.com/iphone_duo_bend_test_doesnt_end_well-news-75207.php",
+    "content_hash": "eae147770a421e2c44a1051f0328afb9fb068c4594eb658ae2b0acaf62f1da59",
     "date": "26 October 2026",
     "fetched_at": "2026-10-26T16:24:05.721045+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "eae147770a421e2c44a1051f0328afb9fb068c4594eb658ae2b0acaf62f1da59"
+    "retries": 0,
+    "slug": "iphone_duo_bend_test_doesnt_end_well-news-75207",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_duo_bend_test_doesnt_end_well-news-75207.php"
   },
   {
-    "slug": "oppo_find_x10_ultras_full_camera_setup_leaks-news-75206",
-    "url": "https://www.gsmarena.com/oppo_find_x10_ultras_full_camera_setup_leaks-news-75206.php",
+    "content_hash": "f5483e4d925c60d30b47f140d915dc37c402722dd2d436e1ccb20c24357fcf48",
     "date": "26 October 2026",
     "fetched_at": "2026-10-26T16:23:43.030019+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f5483e4d925c60d30b47f140d915dc37c402722dd2d436e1ccb20c24357fcf48"
+    "retries": 0,
+    "slug": "oppo_find_x10_ultras_full_camera_setup_leaks-news-75206",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_ultras_full_camera_setup_leaks-news-75206.php"
   },
   {
-    "slug": "the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213",
-    "url": "https://www.gsmarena.com/the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213.php",
+    "content_hash": "8d1b66b81c57a67e45ef3860446d8bf35a554e1078b7c0111822fbcc1af2d517",
     "date": "26 October 2026",
     "fetched_at": "2026-10-26T16:23:14.126017+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8d1b66b81c57a67e45ef3860446d8bf35a554e1078b7c0111822fbcc1af2d517"
+    "retries": 0,
+    "slug": "the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_oled_ipad_mini_is_here_with_a20_pro_chip_and_acoustic_display_speakers_-news-75213.php"
   },
   {
     "content_hash": "0cbf938ab5a7feefb8d90a6861c88db42ac7acbb21826553488119c23c50c532",
