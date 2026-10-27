@@ -6808,5 +6808,55 @@
     "slug": "ios_272_update_rolling_out_with_these_new_features-news-75220",
     "status": "ok",
     "url": "https://www.gsmarena.com/ios_272_update_rolling_out_with_these_new_features-news-75220.php"
+  },
+  "75221": {
+    "content_hash": "e2da853172e01e4734ce9de2e47034e53f6faf5dd2c5b59570d8f0b7ac15e1a0",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T15:39:36.182235+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_smart_band_11_arrives_in_europe-news-75221",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_smart_band_11_arrives_in_europe-news-75221.php"
+  },
+  "75222": {
+    "content_hash": "2f8358988cf1e52c7dd52f14d7e3efca9261b680598538acf1bfc89d9a68446f",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T15:39:16.207444+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "instagram_is_testing_longform_videos_called_features-news-75222",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/instagram_is_testing_longform_videos_called_features-news-75222.php"
+  },
+  "75223": {
+    "content_hash": "9bcb67b2b4fdc48a1a428295895fe388465aef0cf31f9f39975a9fe7f888920e",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T15:39:08.416899+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "watch_the_vivo_x500_series_european_launch_here-news-75223",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/watch_the_vivo_x500_series_european_launch_here-news-75223.php"
+  },
+  "75224": {
+    "content_hash": "170629ca9ffe99433c98da9d02df0caccdcdd43c3f3b5eb47124aef8ec947389",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T15:38:50.160887+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_infinix_gt_50_pro_goes_official_in_india-news-75224",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_infinix_gt_50_pro_goes_official_in_india-news-75224.php"
+  },
+  "75229": {
+    "content_hash": "71e70a60184ba15d0df0bb4159f47df0d0e26e630742803eedd91fbaecd711b0",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T15:38:12.660821+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_x500_pro_and_x500_pro_max_go_global-news-75229",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_go_global-news-75229.php"
   }
 }

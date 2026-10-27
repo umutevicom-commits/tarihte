@@ -1,33 +1,83 @@
 [
   {
-    "slug": "indias_smartphone_market_just_had_its_worst_quarter_in_a_decade_counterpoint_says-news-75216",
-    "url": "https://www.gsmarena.com/indias_smartphone_market_just_had_its_worst_quarter_in_a_decade_counterpoint_says-news-75216.php",
+    "slug": "xiaomi_smart_band_11_arrives_in_europe-news-75221",
+    "url": "https://www.gsmarena.com/xiaomi_smart_band_11_arrives_in_europe-news-75221.php",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T15:39:36.182235+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e2da853172e01e4734ce9de2e47034e53f6faf5dd2c5b59570d8f0b7ac15e1a0"
+  },
+  {
+    "slug": "instagram_is_testing_longform_videos_called_features-news-75222",
+    "url": "https://www.gsmarena.com/instagram_is_testing_longform_videos_called_features-news-75222.php",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T15:39:16.207444+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2f8358988cf1e52c7dd52f14d7e3efca9261b680598538acf1bfc89d9a68446f"
+  },
+  {
+    "slug": "watch_the_vivo_x500_series_european_launch_here-news-75223",
+    "url": "https://www.gsmarena.com/watch_the_vivo_x500_series_european_launch_here-news-75223.php",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T15:39:08.416899+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "9bcb67b2b4fdc48a1a428295895fe388465aef0cf31f9f39975a9fe7f888920e"
+  },
+  {
+    "slug": "the_infinix_gt_50_pro_goes_official_in_india-news-75224",
+    "url": "https://www.gsmarena.com/the_infinix_gt_50_pro_goes_official_in_india-news-75224.php",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T15:38:50.160887+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "170629ca9ffe99433c98da9d02df0caccdcdd43c3f3b5eb47124aef8ec947389"
+  },
+  {
+    "slug": "vivo_x500_x500_pro_and_x500_pro_max_go_global-news-75229",
+    "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_go_global-news-75229.php",
+    "date": "27 October 2026",
+    "fetched_at": "2026-10-27T15:38:12.660821+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "71e70a60184ba15d0df0bb4159f47df0d0e26e630742803eedd91fbaecd711b0"
+  },
+  {
+    "content_hash": "f9584b8e7af8f580c4e816a319cd7c1101f147761bd3a709132aeb762fd17239",
     "date": "27 October 2026",
     "fetched_at": "2026-10-27T09:29:01.524547+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f9584b8e7af8f580c4e816a319cd7c1101f147761bd3a709132aeb762fd17239"
+    "retries": 0,
+    "slug": "indias_smartphone_market_just_had_its_worst_quarter_in_a_decade_counterpoint_says-news-75216",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/indias_smartphone_market_just_had_its_worst_quarter_in_a_decade_counterpoint_says-news-75216.php"
   },
   {
-    "slug": "ios_272_update_rolling_out_with_these_new_features-news-75220",
-    "url": "https://www.gsmarena.com/ios_272_update_rolling_out_with_these_new_features-news-75220.php",
+    "content_hash": "37b28ccc145104af70cd18e93f75b935f95f3791cd29f3c2a8700aafa12e058a",
     "date": "27 October 2026",
     "fetched_at": "2026-10-27T09:28:31.664807+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "37b28ccc145104af70cd18e93f75b935f95f3791cd29f3c2a8700aafa12e058a"
+    "retries": 0,
+    "slug": "ios_272_update_rolling_out_with_these_new_features-news-75220",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/ios_272_update_rolling_out_with_these_new_features-news-75220.php"
   },
   {
-    "slug": "apple_responds_to_iphone_duo_inner_display_cracking_issue-news-75219",
-    "url": "https://www.gsmarena.com/apple_responds_to_iphone_duo_inner_display_cracking_issue-news-75219.php",
+    "content_hash": "42536ce67d3d385343bed01af67f4742b9b19c31fcaa90b4aff168f4e0d96385",
     "date": "27 October 2026",
     "fetched_at": "2026-10-27T09:28:04.872448+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "42536ce67d3d385343bed01af67f4742b9b19c31fcaa90b4aff168f4e0d96385"
+    "retries": 0,
+    "slug": "apple_responds_to_iphone_duo_inner_display_cracking_issue-news-75219",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_responds_to_iphone_duo_inner_display_cracking_issue-news-75219.php"
   },
   {
     "content_hash": "cdb7b33a7ef45df6a016fe8876989a859789970f079b247ae2e189463d838596",
