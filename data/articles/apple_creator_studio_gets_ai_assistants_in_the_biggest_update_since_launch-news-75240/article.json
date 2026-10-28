@@ -1,0 +1,61 @@
+{
+  "url": "https://www.gsmarena.com/apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240.php",
+  "slug": "apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240",
+  "title": "Apple Creator Studio gets AI assistants in the biggest update since launch",
+  "news_id": "75240",
+  "date": "28 October 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "Apple",
+    "iOS",
+    "iPadOS",
+    "macOS",
+    "AI"
+  ],
+  "body_paragraphs": [
+    "Apple launched Creator Studio back in January as a subscription bundle of its apps intended for creative professionals. Today the company announced a big round of updates for it, which it calls the most exciting since its launch.",
+    "Final Cut Pro for Mac now has MotionVFX integrated, which gives editors thousands of templates, graphics, titles, and transitions, plus tools for rotoscoping, tracking, and color grading. The Content Hub is now in Final Cut Pro too, with Apple-curated stock videos, photos, and backgrounds. You can also open any image from your timeline in Pixelmator Pro and have the changes saved back to the project automatically, or generate images from text descriptions right inside it. Other additions include more keyframe easing options, the ability to disconnect clips from the primary storyline and place them anywhere on the timeline, and 23 new transcription languages.",
+    "Motion gets MotionVFX plug-ins as well, for cinematic color grading, 3D camera tracking, and one-click selection, along with text-to-image generation, round-trip editing in Pixelmator Pro, and a new Displacement filter. Compressor can now encode Cinematic mode video recorded on the iPhone 18 Pro and iPhone Duo. Meanwhile, Pixelmator Pro introduces Generate Fill - you circle an area of an image (or use the existing selection tools) and describe the change you want. It matches the lighting, perspective, and texture of the surroundings, upscales the result with Super Resolution, and can insert it as a new layer with a mask for further tweaking.",
+    "Logic Pro on Mac and iPad gets an all-new Liquid Glass design. On Mac, there's also a new assistant in beta powered by Apple-built and third-party models, which can help you start a new song, set up a vocal track from a single prompt, or refine an active project. The redesigned Browser gathers loops, instruments, and effect patches in one place, and includes a Splice library. An on-device feature called music understanding automatically analyzes and tags your sounds, so you can drag in a loop and find matching audio. Stem Splitter can now isolate, replace, or rebalance drums, there's a new Producer Pack from 20-time Grammy winner Sergio George, and Voice Memo Studio Sound cuts room ambience and background noise from recordings made on supported iPhones.",
+    "Keynote, Pages, and Numbers get an AI assistant, built on Apple models and OpenAI's, that understands the context of your document. It helps design, animate, and refine slides in Keynote, drafts and restructures text in Pages, and calculates, visualizes, and organizes data in Numbers, where it also recommends chart types and builds tables using world knowledge. New Model Context Protocol (MCP) support lets external AI agents read content, make edits, and run automated actions in all three apps. They also get stock video in the Content Hub and new templates and themes, while Keynote adds the open, JSON-based Keynote Interchange Format (.keyx). Freeform gets text styles and custom board background colors, and in December it will also get Pixelmator Pro image editing and editable shapes generated from text descriptions.",
+    "The updates will hit the App Store in November and are free for existing subscribers. The AI assistants are US English only and need an Apple Intelligence-capable device. The one in Logic Pro requires macOS 27 Golden Gate, the one in Keynote, Pages, and Numbers needs iOS 27, iPadOS 27, or macOS 27, and MCP support is Mac-only, on macOS 27. New subscribers pay $12.99 per month or $129 per year after a one-month free trial, and buying a new Mac or a qualifying iPad gets you three months for free. College students and educators pay $2.99 per month or $29.99 per year, and up to six family members can share a subscription."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240/immaculate_001.jpg",
+      "alt": "Apple Creator Studio gets AI assistants in the biggest update since launch"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240/immaculate_002.jpg",
+      "alt": "Apple Creator Studio gets AI assistants in the biggest update since launch"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240/immaculate_003.jpg",
+      "alt": "Apple Creator Studio gets AI assistants in the biggest update since launch"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240/immaculate_004.jpg",
+      "alt": "Apple Creator Studio gets AI assistants in the biggest update since launch"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-28T14:43:13.626706+00:00",
+  "title_tr": "Apple Creator Studio, lansmandan bu yana en büyük güncellemede yapay zeka asistanlarına kavuştu",
+  "body_paragraphs_tr": [
+    "Apple, yaratıcı profesyonellere yönelik uygulamalarının bir abonelik paketi olarak Ocak ayında Creator Studio'yu piyasaya sürdü. Bugün şirket, lansmanından bu yana en heyecan verici olarak adlandırdığı büyük bir güncelleme turu duyurdu.",
+    "Mac için Final Cut Pro'da artık editörlere binlerce şablon, grafik, başlık ve geçişin yanı sıra rotoskoplama, izleme ve renk derecelendirmesi için araçlar sunan MotionVFX entegre edilmiştir. Content Hub artık Apple'ın hazırladığı stok videolar, fotoğraflar ve arka planlarla Final Cut Pro'da da yer alıyor. Ayrıca Pixelmator Pro'da zaman çizelgenizdeki herhangi bir görüntüyü açabilir ve değişikliklerin projeye otomatik olarak kaydedilmesini sağlayabilir veya doğrudan içindeki metin açıklamalarından görüntüler oluşturabilirsiniz. Diğer eklemeler arasında daha fazla anahtar kare kolaylaştırma seçeneği, klipleri birincil hikayeden ayırma ve zaman çizelgesinde herhangi bir yere yerleştirme yeteneği ve 23 yeni transkripsiyon dili yer alıyor.",
+    "Motion, sinematik renk derecelendirmesi, 3D kamera takibi ve tek tıklamayla seçim için MotionVFX eklentilerinin yanı sıra metin - görüntü oluşturma, Pixelmator Pro'da gidiş - dönüş düzenleme ve yeni bir Deplasman filtresi de sunuyor. Kompresör artık iPhone 18 Pro ve iPhone Duo'da kaydedilen Sinematik mod videosunu kodlayabilir. Bu arada Pixelmator Pro, Dolgu Oluştur özelliğini sunar - bir görüntünün bir alanını daire içine alırsınız (veya mevcut seçim araçlarını kullanırsınız) ve istediğiniz değişikliği açıklarsınız. Çevrenin aydınlatması, perspektifi ve dokusu ile eşleşir, sonucu Süper Çözünürlük ile yükseltir ve daha fazla düzenleme için maske ile yeni bir katman olarak ekleyebilir.",
+    "Mac ve iPad'deki Logic Pro, yepyeni bir Sıvı Cam tasarımına sahip. Mac'te, yeni bir şarkıya başlamanıza, tek bir istemden bir vokal parçası ayarlamanıza veya aktif bir projeyi iyileştirmenize yardımcı olabilecek Apple yapımı ve üçüncü taraf modellerle çalışan beta sürümünde yeni bir asistan da var. Yeniden tasarlanan Tarayıcı, döngüleri, enstrümanları ve efekt yamalarını tek bir yerde toplar ve bir Splice kütüphanesi içerir. Müzik anlama adı verilen cihaz üzerindeki bir özellik, seslerinizi otomatik olarak analiz eder ve etiketler, böylece bir döngüye sürükleyebilir ve eşleşen sesi bulabilirsiniz. Stem Splitter artık davulları izole edebilir, değiştirebilir veya yeniden dengeleyebilir, 20 Grammy ödüllü Sergio George'dan yeni bir Yapımcı Paketi var ve Voice Memo Studio Sound, desteklenen iPhone'larda yapılan kayıtlardan oda ambiyansını ve arka plan gürültüsünü kesiyor.",
+    "Keynote, Pages ve Numbers, Apple modelleri ve OpenAI'ler üzerine inşa edilmiş, belgenizin içeriğini anlayan bir yapay zeka asistanı edinir. Açılış konuşmasındaki slaytların tasarlanmasına, canlandırılmasına ve iyileştirilmesine yardımcı olur, Sayfalardaki metni taslaklar ve yeniden yapılandırır ve ayrıca grafik türlerini önerdiği ve dünya bilgisini kullanarak tablolar oluşturduğu Sayılar'daki verileri hesaplar, görselleştirir ve düzenler. Yeni Model Bağlam Protokolü (MCP) desteği, harici yapay zeka temsilcilerinin her üç uygulamada da içeriği okumasına, düzenlemeler yapmasına ve otomatik eylemler gerçekleştirmesine olanak tanır. Ayrıca Content Hub'da stok video ve yeni şablonlar ve temalar alırken, Keynote açık, JSON tabanlı Keynote Interchange Formatını (.keyx) ekler. Freeform, metin stilleri ve özel pano arka plan renkleri alırken, Aralık ayında Pixelmator Pro görüntü düzenleme ve metin açıklamalarından oluşturulan düzenlenebilir şekiller de elde edecek.",
+    "Güncellemeler Kasım ayında App Store'a gelecek ve mevcut aboneler için ücretsiz olacak. Yapay zeka asistanları yalnızca ABD İngilizcesi ve Apple Intelligence özellikli bir cihaza ihtiyaç duyuyor. Logic Pro'dakinde macOS 27 Golden Gate, Keynote, Pages ve Numbers'dakinde iOS 27, iPadOS 27 veya macOS 27 gerekir ve MCP desteği macOS 27 'de yalnızca Mac içindir. Yeni aboneler bir aylık ücretsiz denemeden sonra ayda 12,99 dolar veya yılda 129 dolar öder ve yeni bir Mac veya uygun bir iPad satın almak sizi üç ay ücretsiz alır. Üniversite öğrencileri ve eğitimciler ayda 2,99 dolar veya yılda 29,99 dolar öder ve en fazla altı aile üyesi bir aboneliği paylaşabilir."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "iOS",
+    "<g id=\"1\">iPadOS</g>",
+    "macOS",
+    "AI"
+  ]
+}
