@@ -1,43 +1,43 @@
 [
   {
-    "slug": "apple_updates_14inch_macbook_pro_and_imac_with_m6-news-75228",
-    "url": "https://www.gsmarena.com/apple_updates_14inch_macbook_pro_and_imac_with_m6-news-75228.php",
+    "content_hash": "777801cb51600d868df3e55896d88b97377c64ee24ec753df435db02edfbe5d4",
     "date": "27 October 2026",
     "fetched_at": "2026-10-27T20:20:55.962204+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "777801cb51600d868df3e55896d88b97377c64ee24ec753df435db02edfbe5d4"
+    "retries": 0,
+    "slug": "apple_updates_14inch_macbook_pro_and_imac_with_m6-news-75228",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_updates_14inch_macbook_pro_and_imac_with_m6-news-75228.php"
   },
   {
-    "slug": "vivo_x500_pro_in_for_review-news-75209",
-    "url": "https://www.gsmarena.com/vivo_x500_pro_in_for_review-news-75209.php",
+    "content_hash": "c4fc9a50051f5841fdd71d03d52d41115660520c2d919a8bfa0ea7655a4338a8",
     "date": "27 October 2026",
     "fetched_at": "2026-10-27T20:20:25.413319+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c4fc9a50051f5841fdd71d03d52d41115660520c2d919a8bfa0ea7655a4338a8"
+    "retries": 0,
+    "slug": "vivo_x500_pro_in_for_review-news-75209",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_in_for_review-news-75209.php"
   },
   {
-    "slug": "samsungs_next_foldable_leaks_in_officiallooking_renders-news-75227",
-    "url": "https://www.gsmarena.com/samsungs_next_foldable_leaks_in_officiallooking_renders-news-75227.php",
+    "content_hash": "8b2c78adc7172cd93016a421b991aff3ad6a2267e5083c3242ccec88edad2ef4",
     "date": "27 October 2026",
     "fetched_at": "2026-10-27T20:20:08.138122+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8b2c78adc7172cd93016a421b991aff3ad6a2267e5083c3242ccec88edad2ef4"
+    "retries": 0,
+    "slug": "samsungs_next_foldable_leaks_in_officiallooking_renders-news-75227",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsungs_next_foldable_leaks_in_officiallooking_renders-news-75227.php"
   },
   {
-    "slug": "whatsapp_is_bringing_its_media_hub_to_iphones-news-75235",
-    "url": "https://www.gsmarena.com/whatsapp_is_bringing_its_media_hub_to_iphones-news-75235.php",
+    "content_hash": "af4ac55d7236a3f7011dd275a0b9b7da7a263265a35cffbe12797d03d663d3be",
     "date": "27 October 2026",
     "fetched_at": "2026-10-27T20:19:47.705924+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "af4ac55d7236a3f7011dd275a0b9b7da7a263265a35cffbe12797d03d663d3be"
+    "retries": 0,
+    "slug": "whatsapp_is_bringing_its_media_hub_to_iphones-news-75235",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_is_bringing_its_media_hub_to_iphones-news-75235.php"
   },
   {
     "content_hash": "e2da853172e01e4734ce9de2e47034e53f6faf5dd2c5b59570d8f0b7ac15e1a0",
