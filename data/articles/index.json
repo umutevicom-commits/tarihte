@@ -1,23 +1,63 @@
 [
   {
-    "slug": "huawei_enjoy_100_and_enjoy_100_pro_are_official-news-75243",
-    "url": "https://www.gsmarena.com/huawei_enjoy_100_and_enjoy_100_pro_are_official-news-75243.php",
+    "slug": "huawei_enjoy_100_is_also_here_with_a_656inch_screen_and_a_6100mah_battery-news-75245",
+    "url": "https://www.gsmarena.com/huawei_enjoy_100_is_also_here_with_a_656inch_screen_and_a_6100mah_battery-news-75245.php",
     "date": "28 October 2026",
-    "fetched_at": "2026-10-28T14:43:49.671564+00:00",
+    "fetched_at": "2026-10-28T20:42:56.164954+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "8c84fd34af2c45f720e237e160af59b9304c757f9070bc77e69b9c15253bf814"
+    "content_hash": "6139169b6ea53cf71f5d61398b47646ccf7a58b2248a5ee12d86cd20056823c7"
   },
   {
-    "slug": "apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240",
-    "url": "https://www.gsmarena.com/apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240.php",
+    "slug": "heres_when_motorolas_signature_27_is_landing_in_india-news-75247",
+    "url": "https://www.gsmarena.com/heres_when_motorolas_signature_27_is_landing_in_india-news-75247.php",
     "date": "28 October 2026",
-    "fetched_at": "2026-10-28T14:43:13.626706+00:00",
+    "fetched_at": "2026-10-28T20:42:44.629326+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "2def006d0fe374ce81f5471627945b57d90776db92fe7b0406b76659844600e8"
+    "content_hash": "d438c515838708f7a02eec611f4e40e6d5e59a0f915559324eec292433d23db1"
+  },
+  {
+    "slug": "samsungs_next_wide_foldable_will_reportedly_get_a_sibling-news-75241",
+    "url": "https://www.gsmarena.com/samsungs_next_wide_foldable_will_reportedly_get_a_sibling-news-75241.php",
+    "date": "28 October 2026",
+    "fetched_at": "2026-10-28T20:42:30.186249+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "425fea8309bfd065413599ac29abc5fb167b12edaf76d67eff03ef70c208336c"
+  },
+  {
+    "slug": "apple_announces_new_macbook_pro_models_with_oled_and_touchscreen-news-75254",
+    "url": "https://www.gsmarena.com/apple_announces_new_macbook_pro_models_with_oled_and_touchscreen-news-75254.php",
+    "date": "28 October 2026",
+    "fetched_at": "2026-10-28T20:42:05.245389+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "74745acbe3069b2509d22215345c759b7a03329d5a9234219fba5f872d8a4df2"
+  },
+  {
+    "content_hash": "8c84fd34af2c45f720e237e160af59b9304c757f9070bc77e69b9c15253bf814",
+    "date": "28 October 2026",
+    "fetched_at": "2026-10-28T14:43:49.671564+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_enjoy_100_and_enjoy_100_pro_are_official-news-75243",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_enjoy_100_and_enjoy_100_pro_are_official-news-75243.php"
+  },
+  {
+    "content_hash": "2def006d0fe374ce81f5471627945b57d90776db92fe7b0406b76659844600e8",
+    "date": "28 October 2026",
+    "fetched_at": "2026-10-28T14:43:13.626706+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_creator_studio_gets_ai_assistants_in_the_biggest_update_since_launch-news-75240.php"
   },
   {
     "content_hash": "777801cb51600d868df3e55896d88b97377c64ee24ec753df435db02edfbe5d4",
