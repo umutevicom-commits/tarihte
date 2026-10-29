@@ -6979,6 +6979,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_announces_new_macbook_pro_models_with_oled_and_touchscreen-news-75254.php"
   },
+  "75255": {
+    "content_hash": "cedefa0a70fecfe1ce58aeb842b53864419b5b465e6475f4ac814bdf30a08af1",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T14:50:28.788030+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_when_the_iqoo_16_is_rumored_to_launch_in_india-news-75255",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_when_the_iqoo_16_is_rumored_to_launch_in_india-news-75255.php"
+  },
   "75257": {
     "content_hash": "b3c014053bb9efe5d4e509f6828494e19f61662252065b3d89228e0aafa222fa",
     "date": "29 October 2026",
@@ -6998,5 +7008,45 @@
     "slug": "oppo_find_x10_find_x10_pro_max_india_price_sale_date-news-75258",
     "status": "ok",
     "url": "https://www.gsmarena.com/oppo_find_x10_find_x10_pro_max_india_price_sale_date-news-75258.php"
+  },
+  "75259": {
+    "content_hash": "1aa8d8f66c4dcf95da7f31ae337b37b44d9127a5da440988473ca136752ae6f8",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T14:50:15.240355+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259.php"
+  },
+  "75261": {
+    "content_hash": "541e30fcd121099805ed56cd9fe6421d55f4c5f8eca95413d9588289200af2f3",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T14:49:58.778347+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_s27_charging_speed_corroborated-news-75261",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_charging_speed_corroborated-news-75261.php"
+  },
+  "75262": {
+    "content_hash": "4e43e7d1625d8f42c84ce8c2fd40c3baf3aeaa97cf9d41798544cc2e518104fc",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T14:49:29.914170+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_reportedly_lowered_its_iphone_duo_qa_standards_to_get_more_units_out_in_time-news-75262",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_reportedly_lowered_its_iphone_duo_qa_standards_to_get_more_units_out_in_time-news-75262.php"
+  },
+  "75264": {
+    "content_hash": "472637937d40675dd98367c993e79fb57ff7054234b181f0f2e772008482f10a",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T14:49:12.374658+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_x9e_s_launched_-news-75264",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_x9e_s_launched_-news-75264.php"
   }
 }
