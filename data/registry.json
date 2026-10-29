@@ -6949,6 +6949,26 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/heres_when_motorolas_signature_27_is_landing_in_india-news-75247.php"
   },
+  "75248": {
+    "content_hash": "2c4341d9cd42e533d87efeee120ed70161affc723012c8a457971a016a3da657",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T07:52:15.077597+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_new_redmi_clip_neo_buds_cost_half_as_much_as_the_xiaomi_clipon-news-75248",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_new_redmi_clip_neo_buds_cost_half_as_much_as_the_xiaomi_clipon-news-75248.php"
+  },
+  "75252": {
+    "content_hash": "4d0ddd243b49ab952da8efb7598b7e8a4111605ba62eaca4bb546f34e75e4c37",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T07:51:29.381776+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_pad_pro_brings_the_ultras_165hz_screen_and_big_battery_for_less-news-75252",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_pad_pro_brings_the_ultras_165hz_screen_and_big_battery_for_less-news-75252.php"
+  },
   "75254": {
     "content_hash": "74745acbe3069b2509d22215345c759b7a03329d5a9234219fba5f872d8a4df2",
     "date": "28 October 2026",
@@ -6958,5 +6978,25 @@
     "slug": "apple_announces_new_macbook_pro_models_with_oled_and_touchscreen-news-75254",
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_announces_new_macbook_pro_models_with_oled_and_touchscreen-news-75254.php"
+  },
+  "75257": {
+    "content_hash": "b3c014053bb9efe5d4e509f6828494e19f61662252065b3d89228e0aafa222fa",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T07:51:58.913235+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huaweis_starlight_brand_to_debut_with_a_widescreen_phone_leak_claims-news-75257",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huaweis_starlight_brand_to_debut_with_a_widescreen_phone_leak_claims-news-75257.php"
+  },
+  "75258": {
+    "content_hash": "1a18e9a368892a4d7f1d5f65815bb5b61c6c1d3e38374680fb9c9969ef1eadd3",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T07:51:00.361565+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_find_x10_pro_max_india_price_sale_date-news-75258",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_find_x10_pro_max_india_price_sale_date-news-75258.php"
   }
 }
