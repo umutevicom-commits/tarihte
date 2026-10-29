@@ -1,53 +1,103 @@
 [
   {
-    "slug": "heres_when_the_iqoo_16_is_rumored_to_launch_in_india-news-75255",
-    "url": "https://www.gsmarena.com/heres_when_the_iqoo_16_is_rumored_to_launch_in_india-news-75255.php",
+    "slug": "the_samsung_w27_goes_official_in_china-news-75268",
+    "url": "https://www.gsmarena.com/the_samsung_w27_goes_official_in_china-news-75268.php",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T20:47:18.164377+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "657b4c88a2a5c9b84bc4c3df533dafced9104eb22b8d9844a2ee9577570ba20c"
+  },
+  {
+    "slug": "amazon_launches_the_echo_show_16_echo_time_alexa_photo_frame_and_new_echo_speakers-news-75267",
+    "url": "https://www.gsmarena.com/amazon_launches_the_echo_show_16_echo_time_alexa_photo_frame_and_new_echo_speakers-news-75267.php",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T20:46:45.352844+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5984ab68e2c76288fc2875b9d7a9cd06ff4f1e68b62b63f7808ec579a6e3dc41"
+  },
+  {
+    "slug": "oneplus_ace_7_and_ace_7_pro_announced_in_china_with_cooling_fans_and_185hz_displays-news-75273",
+    "url": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_announced_in_china_with_cooling_fans_and_185hz_displays-news-75273.php",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T20:46:13.062581+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3138c19120f5a6e15b422b6a3f411d22b5f3d5c33ef0b5d8a87559860150312b"
+  },
+  {
+    "slug": "trump_mobile_t1_phone_teardown_video_confirms_everyones_suspicions-news-75265",
+    "url": "https://www.gsmarena.com/trump_mobile_t1_phone_teardown_video_confirms_everyones_suspicions-news-75265.php",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T20:45:58.161898+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5aeead007462468119037ebefcfce1f4b58424fa582b1acb96ab3e203b817d0d"
+  },
+  {
+    "slug": "the_ultrahuman_ring_pro_is_on_sale_across_the_us_online_and_in_stores-news-75260",
+    "url": "https://www.gsmarena.com/the_ultrahuman_ring_pro_is_on_sale_across_the_us_online_and_in_stores-news-75260.php",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T20:45:25.860006+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "23408e5558e2113cbbb5436d58a9b2db02e3d6fcf23933d09d31464e81dae54f"
+  },
+  {
+    "content_hash": "cedefa0a70fecfe1ce58aeb842b53864419b5b465e6475f4ac814bdf30a08af1",
     "date": "29 October 2026",
     "fetched_at": "2026-10-29T14:50:28.788030+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "cedefa0a70fecfe1ce58aeb842b53864419b5b465e6475f4ac814bdf30a08af1"
+    "retries": 0,
+    "slug": "heres_when_the_iqoo_16_is_rumored_to_launch_in_india-news-75255",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_when_the_iqoo_16_is_rumored_to_launch_in_india-news-75255.php"
   },
   {
-    "slug": "wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259",
-    "url": "https://www.gsmarena.com/wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259.php",
+    "content_hash": "1aa8d8f66c4dcf95da7f31ae337b37b44d9127a5da440988473ca136752ae6f8",
     "date": "29 October 2026",
     "fetched_at": "2026-10-29T14:50:15.240355+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1aa8d8f66c4dcf95da7f31ae337b37b44d9127a5da440988473ca136752ae6f8"
+    "retries": 0,
+    "slug": "wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259.php"
   },
   {
-    "slug": "samsung_galaxy_s27_charging_speed_corroborated-news-75261",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s27_charging_speed_corroborated-news-75261.php",
+    "content_hash": "541e30fcd121099805ed56cd9fe6421d55f4c5f8eca95413d9588289200af2f3",
     "date": "29 October 2026",
     "fetched_at": "2026-10-29T14:49:58.778347+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "541e30fcd121099805ed56cd9fe6421d55f4c5f8eca95413d9588289200af2f3"
+    "retries": 0,
+    "slug": "samsung_galaxy_s27_charging_speed_corroborated-news-75261",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_charging_speed_corroborated-news-75261.php"
   },
   {
-    "slug": "apple_reportedly_lowered_its_iphone_duo_qa_standards_to_get_more_units_out_in_time-news-75262",
-    "url": "https://www.gsmarena.com/apple_reportedly_lowered_its_iphone_duo_qa_standards_to_get_more_units_out_in_time-news-75262.php",
+    "content_hash": "4e43e7d1625d8f42c84ce8c2fd40c3baf3aeaa97cf9d41798544cc2e518104fc",
     "date": "29 October 2026",
     "fetched_at": "2026-10-29T14:49:29.914170+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4e43e7d1625d8f42c84ce8c2fd40c3baf3aeaa97cf9d41798544cc2e518104fc"
+    "retries": 0,
+    "slug": "apple_reportedly_lowered_its_iphone_duo_qa_standards_to_get_more_units_out_in_time-news-75262",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_reportedly_lowered_its_iphone_duo_qa_standards_to_get_more_units_out_in_time-news-75262.php"
   },
   {
-    "slug": "honor_x9e_s_launched_-news-75264",
-    "url": "https://www.gsmarena.com/honor_x9e_s_launched_-news-75264.php",
+    "content_hash": "472637937d40675dd98367c993e79fb57ff7054234b181f0f2e772008482f10a",
     "date": "29 October 2026",
     "fetched_at": "2026-10-29T14:49:12.374658+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "472637937d40675dd98367c993e79fb57ff7054234b181f0f2e772008482f10a"
+    "retries": 0,
+    "slug": "honor_x9e_s_launched_-news-75264",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_x9e_s_launched_-news-75264.php"
   },
   {
     "content_hash": "2c4341d9cd42e533d87efeee120ed70161affc723012c8a457971a016a3da657",

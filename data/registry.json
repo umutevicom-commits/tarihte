@@ -7019,6 +7019,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/wobble_to_launch_its_second_smartphone_the_speed_5g-news-75259.php"
   },
+  "75260": {
+    "content_hash": "23408e5558e2113cbbb5436d58a9b2db02e3d6fcf23933d09d31464e81dae54f",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T20:45:25.860006+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_ultrahuman_ring_pro_is_on_sale_across_the_us_online_and_in_stores-news-75260",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_ultrahuman_ring_pro_is_on_sale_across_the_us_online_and_in_stores-news-75260.php"
+  },
   "75261": {
     "content_hash": "541e30fcd121099805ed56cd9fe6421d55f4c5f8eca95413d9588289200af2f3",
     "date": "29 October 2026",
@@ -7048,5 +7058,45 @@
     "slug": "honor_x9e_s_launched_-news-75264",
     "status": "ok",
     "url": "https://www.gsmarena.com/honor_x9e_s_launched_-news-75264.php"
+  },
+  "75265": {
+    "content_hash": "5aeead007462468119037ebefcfce1f4b58424fa582b1acb96ab3e203b817d0d",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T20:45:58.161898+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "trump_mobile_t1_phone_teardown_video_confirms_everyones_suspicions-news-75265",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/trump_mobile_t1_phone_teardown_video_confirms_everyones_suspicions-news-75265.php"
+  },
+  "75267": {
+    "content_hash": "5984ab68e2c76288fc2875b9d7a9cd06ff4f1e68b62b63f7808ec579a6e3dc41",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T20:46:45.352844+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazon_launches_the_echo_show_16_echo_time_alexa_photo_frame_and_new_echo_speakers-news-75267",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_launches_the_echo_show_16_echo_time_alexa_photo_frame_and_new_echo_speakers-news-75267.php"
+  },
+  "75268": {
+    "content_hash": "657b4c88a2a5c9b84bc4c3df533dafced9104eb22b8d9844a2ee9577570ba20c",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T20:47:18.164377+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_samsung_w27_goes_official_in_china-news-75268",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_samsung_w27_goes_official_in_china-news-75268.php"
+  },
+  "75273": {
+    "content_hash": "3138c19120f5a6e15b422b6a3f411d22b5f3d5c33ef0b5d8a87559860150312b",
+    "date": "29 October 2026",
+    "fetched_at": "2026-10-29T20:46:13.062581+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_ace_7_and_ace_7_pro_announced_in_china_with_cooling_fans_and_185hz_displays-news-75273",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_announced_in_china_with_cooling_fans_and_185hz_displays-news-75273.php"
   }
 }
