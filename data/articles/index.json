@@ -1,63 +1,103 @@
 [
   {
-    "slug": "vivo_s70s_full_camera_details_emerge_in_new_leak-news-75279",
-    "url": "https://www.gsmarena.com/vivo_s70s_full_camera_details_emerge_in_new_leak-news-75279.php",
+    "slug": "the_new_ipad_minis_battery_capacity_is_no_longer_a_mystery-news-75283",
+    "url": "https://www.gsmarena.com/the_new_ipad_minis_battery_capacity_is_no_longer_a_mystery-news-75283.php",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T20:17:49.282801+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "61b96fe95db1f7172a3bac1b2410de4681f2810d0304fb6d2b7fb8de8fb18eff"
+  },
+  {
+    "slug": "oppo_reno17_series_confirmed_to_launch_next_month_blind_preorders_go_live-news-75287",
+    "url": "https://www.gsmarena.com/oppo_reno17_series_confirmed_to_launch_next_month_blind_preorders_go_live-news-75287.php",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T20:17:31.874731+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4ac886704d9a689da379286db630e83700fe122f77958ae24fc373b73bd81bfc"
+  },
+  {
+    "slug": "samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291",
+    "url": "https://www.gsmarena.com/samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291.php",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T20:17:05.064958+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6fbe86b5556651ba4c2ffe9ab167feb57be6aad7ed17a72f9668934c7bc5500b"
+  },
+  {
+    "slug": "a_new_android_vulnerability_can_leave_your_phone_unusable_when_receiving_the_sms_of_death-news-75288",
+    "url": "https://www.gsmarena.com/a_new_android_vulnerability_can_leave_your_phone_unusable_when_receiving_the_sms_of_death-news-75288.php",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T20:16:43.961295+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1ac28c820eff4caa1193b855de8b980aae745a0f1833fd4648298358f7e78611"
+  },
+  {
+    "content_hash": "226759520dc13685a4ec41ae2cc7ec23ce590bdd405aa6082ffaf127ede1c462",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T14:44:19.951375+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "226759520dc13685a4ec41ae2cc7ec23ce590bdd405aa6082ffaf127ede1c462"
+    "retries": 0,
+    "slug": "vivo_s70s_full_camera_details_emerge_in_new_leak-news-75279",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_s70s_full_camera_details_emerge_in_new_leak-news-75279.php"
   },
   {
-    "slug": "gemini_now_lets_you_edit_the_files_it_creates_right_in_the_chat-news-75277",
-    "url": "https://www.gsmarena.com/gemini_now_lets_you_edit_the_files_it_creates_right_in_the_chat-news-75277.php",
+    "content_hash": "4f9a019d4480a3c9f083884af7dccb2fcc272b621f50f60499c8b908907f2c9f",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T14:44:09.347327+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4f9a019d4480a3c9f083884af7dccb2fcc272b621f50f60499c8b908907f2c9f"
+    "retries": 0,
+    "slug": "gemini_now_lets_you_edit_the_files_it_creates_right_in_the_chat-news-75277",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/gemini_now_lets_you_edit_the_files_it_creates_right_in_the_chat-news-75277.php"
   },
   {
-    "slug": "omdia_global_smartphone_shipments_declined_20_percent_yoy_in_q3_2026-news-75281",
-    "url": "https://www.gsmarena.com/omdia_global_smartphone_shipments_declined_20_percent_yoy_in_q3_2026-news-75281.php",
+    "content_hash": "5095aaf88963e7ab604713ac2571a2b07695615c95bcf0ceca7010ff4512dcdc",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T14:43:43.450857+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5095aaf88963e7ab604713ac2571a2b07695615c95bcf0ceca7010ff4512dcdc"
+    "retries": 0,
+    "slug": "omdia_global_smartphone_shipments_declined_20_percent_yoy_in_q3_2026-news-75281",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/omdia_global_smartphone_shipments_declined_20_percent_yoy_in_q3_2026-news-75281.php"
   },
   {
-    "slug": "strava_google_gemini_integration-news-75280",
-    "url": "https://www.gsmarena.com/strava_google_gemini_integration-news-75280.php",
+    "content_hash": "6a6c19bb7d6b920b0f944c934678b76d2304e57a3fe7e9421a91cd9492032306",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T14:43:26.132063+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6a6c19bb7d6b920b0f944c934678b76d2304e57a3fe7e9421a91cd9492032306"
+    "retries": 0,
+    "slug": "strava_google_gemini_integration-news-75280",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/strava_google_gemini_integration-news-75280.php"
   },
   {
-    "slug": "oppo_reno17_f_5g_nbtc_certified-news-75284",
-    "url": "https://www.gsmarena.com/oppo_reno17_f_5g_nbtc_certified-news-75284.php",
+    "content_hash": "e1fec690f5231fcc78ac8c5c5a1b21b9f0945594e192fffa331f51985bdae186",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T14:43:11.437065+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e1fec690f5231fcc78ac8c5c5a1b21b9f0945594e192fffa331f51985bdae186"
+    "retries": 0,
+    "slug": "oppo_reno17_f_5g_nbtc_certified-news-75284",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_reno17_f_5g_nbtc_certified-news-75284.php"
   },
   {
-    "slug": "samsung_is_reportedly_working_on_a_huge_foldable_tablet-news-75285",
-    "url": "https://www.gsmarena.com/samsung_is_reportedly_working_on_a_huge_foldable_tablet-news-75285.php",
+    "content_hash": "ae1729cb73a23116f98c862d3c8d10d1d7eb80fdd5f14ea2bccf95c1fc606d63",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T14:42:50.865149+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ae1729cb73a23116f98c862d3c8d10d1d7eb80fdd5f14ea2bccf95c1fc606d63"
+    "retries": 0,
+    "slug": "samsung_is_reportedly_working_on_a_huge_foldable_tablet-news-75285",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_is_reportedly_working_on_a_huge_foldable_tablet-news-75285.php"
   },
   {
     "content_hash": "be1ff6725ef1b8d09a77e01fc8c263725f42f1219f8220c5549ebb77806a0a8d",
