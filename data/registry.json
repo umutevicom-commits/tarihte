@@ -7089,6 +7089,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/the_samsung_w27_goes_official_in_china-news-75268.php"
   },
+  "75271": {
+    "content_hash": "be1ff6725ef1b8d09a77e01fc8c263725f42f1219f8220c5549ebb77806a0a8d",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T07:56:32.956448+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_find_x10_ultra_could_be_heading_for_a_chipset_switch-news-75271",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_ultra_could_be_heading_for_a_chipset_switch-news-75271.php"
+  },
   "75273": {
     "content_hash": "3138c19120f5a6e15b422b6a3f411d22b5f3d5c33ef0b5d8a87559860150312b",
     "date": "29 October 2026",
@@ -7098,5 +7108,35 @@
     "slug": "oneplus_ace_7_and_ace_7_pro_announced_in_china_with_cooling_fans_and_185hz_displays-news-75273",
     "status": "ok",
     "url": "https://www.gsmarena.com/oneplus_ace_7_and_ace_7_pro_announced_in_china_with_cooling_fans_and_185hz_displays-news-75273.php"
+  },
+  "75275": {
+    "content_hash": "99dcf925cd4ba6da71186b752dbbafcedaf9b60a5badc33b801e2de10a6b92a8",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T07:56:09.569745+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorola_confirms_the_exact_signature_27_launch_date-news-75275",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_confirms_the_exact_signature_27_launch_date-news-75275.php"
+  },
+  "75276": {
+    "content_hash": "b04d98ac5786e56e72f4e71c3734d39f6985e9db7fe7701b11e366bd85dc89b8",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T07:55:42.247828+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_new_oled_ipad_mini_runs_geekbench_here_are_the_results-news-75276",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_new_oled_ipad_mini_runs_geekbench_here_are_the_results-news-75276.php"
+  },
+  "75278": {
+    "content_hash": "78e3aa8050adbf0bf8dc97cdc340ea638029f59853fe0522e771a52fa1e021c8",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T07:55:12.251119+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_nokia_2360_flip_is_a_dualdisplay_feature_phone_with_an_sos_button-news-75278",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_nokia_2360_flip_is_a_dualdisplay_feature_phone_with_an_sos_button-news-75278.php"
   }
 }

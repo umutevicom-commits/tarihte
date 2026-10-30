@@ -1,0 +1,41 @@
+{
+  "url": "https://www.gsmarena.com/the_new_oled_ipad_mini_runs_geekbench_here_are_the_results-news-75276.php",
+  "slug": "the_new_oled_ipad_mini_runs_geekbench_here_are_the_results-news-75276",
+  "title": "The new OLED iPad mini runs Geekbench, here are the results",
+  "news_id": "75276",
+  "date": "30 October 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "Apple",
+    "iPadOS"
+  ],
+  "body_paragraphs": [
+    "Apple unveiled the iPad mini (2026) with an OLED screen and the A20 Pro chipset on Monday, and the first units will reach buyers on November 6. Ahead of that, one has already been run through Geekbench 7, so we now have a good idea of how it performs.",
+    "The listing is for the iPad19,2, which is the Wi-Fi + Cellular model, and it shows 3,879 points in the single-core test and 9,870 in multi-core. The CPU has five cores (two performance and three efficiency ones), with the performance cores clocked at 4.93GHz. That means this is one of the 128GB or 256GB models, which get a binned A20 Pro with one efficiency core disabled - only the 512GB version has the full six-core CPU. It's not the first time Apple has done this, as the previous iPad mini had a cut-down chip too. The listing also reveals 12GB of RAM, which, as usual, Apple doesn't mention anywhere in its marketing materials.",
+    "For comparison, a Geekbench 7 run of the iPhone 18 Pro Max, which has the full six-core A20 Pro, shows 4,024 single-core and 11,424 multi-core points. So the iPad mini is about 4% behind in single-core and 14% behind in multi-core, which makes sense given its missing core. It's a huge leap over its predecessor, though, which scores 2,638 and 7,103 points, so the new model is 47% ahead in single-core and 39% ahead in multi-core.",
+    "Things get more interesting when you look at Apple's bigger tablets. The M5-powered iPad Pro 13 gets 3,580 single-core and 15,126 multi-core points, which means the iPad mini beats it by about 8% in single-core, while the Pro is 53% ahead in multi-core. Against the M4 iPad Air 13 and its result of 3,206 and 12,686 points, the iPad mini is 21% faster in single-core, while the Air is 29% ahead in multi-core. As you might expect, more cores still win in multi-threaded workloads.",
+    "The iPad mini (2026) starts at $699, €749, or £699, and pre-orders are already open."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/the_new_oled_ipad_mini_runs_geekbench_here_are_the_results-news-75276/immaculate_001.jpg",
+      "alt": "The new OLED iPad mini runs Geekbench, here are the results"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-30T07:55:42.247828+00:00",
+  "title_tr": "Yeni OLED iPad mini Geekbench'i çalıştırıyor, işte sonuçlar",
+  "body_paragraphs_tr": [
+    "Apple, Pazartesi günü OLED ekranlı iPad mini'yi (2026) ve A20 Pro yonga setini tanıttı ve ilk birimler 6 Kasım'da alıcılara ulaşacak. Bunun öncesinde, Geekbench 7 'den biri zaten geçmişti, bu yüzden şimdi nasıl performans gösterdiğine dair iyi bir fikrimiz var.",
+    "Liste, Wi - Fi + Hücresel model olan iPad19,2 içindir ve tek çekirdekli testte 3.879 puan ve çok çekirdekli testte 9.870 puan gösterir. CPU'nun beş çekirdeği vardır (iki performans ve üç verimlilik çekirdeği), performans çekirdekleri 4,93GHz'de çalışır. Bu, bunun bir verimlilik çekirdeği devre dışı bırakılmış bir A20 Pro'ya sahip olan 128GB veya 256GB modellerden biri olduğu anlamına gelir - yalnızca 512GB sürümü tam altı çekirdekli CPU'ya sahiptir. Önceki iPad mini'de de bir kesme çipi olduğu için Apple bunu ilk kez yapmıyor. Liste ayrıca, her zamanki gibi Apple'ın pazarlama materyallerinde hiçbir yerde bahsetmediği 12 GB RAM'i de gösteriyor.",
+    "Karşılaştırma için, tam altı çekirdekli A20 Pro'ya sahip olan iPhone 18 Pro Max'in Geekbench 7 çalışması, 4.024 tek çekirdekli ve 11.424 çok çekirdekli noktayı gösteriyor. Yani iPad mini, tek çekirdekte yaklaşık % 4 ve çok çekirdekte % 14 geride, bu da eksik çekirdeği göz önüne alındığında mantıklı. Yine de, 2.638 ve 7.103 puan alan selefine göre büyük bir sıçrama, bu nedenle yeni model tek çekirdekte % 47 ve çok çekirdekte % 39 önde.",
+    "Apple'ın daha büyük tabletlerine baktığınızda işler daha da ilginçleşiyor. M5 destekli iPad Pro 13, 3.580 tek çekirdekli ve 15.126 çok çekirdekli noktaya sahip, bu da iPad mini'nin tek çekirdekli modellerde yaklaşık % 8 daha iyi olduğu anlamına gelirken, Pro'nun çok çekirdekli modellerde % 53 daha iyi olduğu anlamına geliyor. M4 iPad Air 13 ve 3,206 ve 12,686 puanlık sonucuyla karşılaştırıldığında, iPad mini tek çekirdekli modelde % 21 daha hızlıyken, Air çok çekirdekli modelde % 29 daha önde. Tahmin edebileceğiniz gibi, çok iş parçacıklı iş yüklerinde hala daha fazla çekirdek kazanıyor.",
+    "IPad mini (2026) 699 $, 749 € veya 699 £ 'dan başlıyor ve ön siparişler zaten açık."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "<g id=\"1\">iPadOS</g>"
+  ]
+}
