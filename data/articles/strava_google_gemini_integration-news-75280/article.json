@@ -1,0 +1,45 @@
+{
+  "url": "https://www.gsmarena.com/strava_google_gemini_integration-news-75280.php",
+  "slug": "strava_google_gemini_integration-news-75280",
+  "title": "Strava subscribers can now connect directly to Google Gemini for personalized workout insights",
+  "news_id": "75280",
+  "date": "30 October 2026",
+  "author": "Sagar",
+  "tags": [
+    "Featured",
+    "Strava",
+    "Google",
+    "AI"
+  ],
+  "body_paragraphs": [
+    "Back in June, Strava launched the Model Context Protocol (MCP) connector, letting subscribers query their Strava data through Claude for in-depth training insights. Building on that launch, Strava has announced a Google Gemini integration that lets subscribers get more from their training.",
+    "Strava subscribers who connect directly to Google Gemini will now get more contextual and personalized answers based on their activity history.",
+    "Once connected, Gemini can analyze Strava users' data and tell them whether they are getting faster at the same heart rate, how strength training is affecting their performance, and even give them a detailed analysis of their last race.",
+    "Furthermore, Gemini can also compare Strava users' fastest 10K this year against their all-time best. It can also tell them how long their longest running streak on Strava is and if weather affected their performance.",
+    "Strava says, \"Connecting to Gemini is entirely optional and read-only; users choose to connect, and can disconnect at any time.\" Gemini integration is available to Strava users across all Gemini plans, but only in the US.",
+    "To connect Strava to Gemini, open Google Gemini, then navigate to Personal Intelligence > select Strava under connected apps > sign in with your Strava account > authorize Gemini to connect to Strava."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/strava_google_gemini_integration-news-75280/immaculate_001.jpg",
+      "alt": "Strava subscribers can now connect directly to Google Gemini for personalized workout insights"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-10-30T14:43:26.132063+00:00",
+  "title_tr": "Strava aboneleri artık kişiselleştirilmiş egzersiz bilgileri için doğrudan Google Gemini'ye bağlanabilir",
+  "body_paragraphs_tr": [
+    "Haziran ayında Strava, Model Bağlam Protokolü (MCP) konektörünü piyasaya sürdü ve abonelerin derinlemesine eğitim bilgileri için Strava verilerini Claude aracılığıyla sorgulamasına izin verdi. Bu lansmana dayanarak Strava, abonelerin eğitimlerinden daha fazlasını elde etmelerini sağlayan bir Google Gemini entegrasyonunu duyurdu.",
+    "Doğrudan Google Gemini'ye bağlanan Strava aboneleri artık etkinlik geçmişlerine göre daha bağlamsal ve kişiselleştirilmiş yanıtlar alacak.",
+    "Bağlandıktan sonra, Gemini Strava kullanıcılarının verilerini analiz edebilir ve onlara aynı kalp atış hızında hızlanıp hızlanmadıklarını, kuvvet antrenmanının performanslarını nasıl etkilediğini söyleyebilir ve hatta onlara son yarışlarının ayrıntılı bir analizini verebilir.",
+    "Ayrıca Gemini, Strava kullanıcılarının bu yılki en hızlı 10 binini tüm zamanların en iyileriyle karşılaştırabilir. Ayrıca, Strava'daki en uzun koşu serilerinin ne kadar sürdüğünü ve havanın performanslarını etkileyip etkilemediğini de söyleyebilir.",
+    "Strava, \"Gemini'ye bağlanmak tamamen isteğe bağlıdır ve salt okunurdur; kullanıcılar bağlanmayı seçer ve istedikleri zaman bağlantıyı kesebilir.\" Gemini entegrasyonu, tüm Gemini planlarında Strava kullanıcıları tarafından kullanılabilir, ancak yalnızca ABD'de.",
+    "Strava'yı Gemini'ye bağlamak için Google Gemini'yi açın, ardından Kişisel Zeka'ya gidin > bağlı uygulamalar altında Strava'yı seçin > Strava hesabınızla oturum açın > Gemini'ye Strava'ya bağlanma yetkisi verin."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Strava",
+    "Google",
+    "AI"
+  ]
+}

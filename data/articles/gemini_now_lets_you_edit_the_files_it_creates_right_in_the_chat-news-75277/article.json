@@ -1,0 +1,41 @@
+{
+  "url": "https://www.gsmarena.com/gemini_now_lets_you_edit_the_files_it_creates_right_in_the_chat-news-75277.php",
+  "slug": "gemini_now_lets_you_edit_the_files_it_creates_right_in_the_chat-news-75277",
+  "title": "Gemini now lets you edit the files it creates right in the chat",
+  "news_id": "75277",
+  "date": "30 October 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "Google",
+    "Android",
+    "iOS",
+    "AI"
+  ],
+  "body_paragraphs": [
+    "Back in April, Google's Gemini gained the ability to generate files for you, from Docs and Sheets to PDFs and Markdown. Until now, though, if you wanted to tweak what it came up with, you had to download or export the file first. Today, Google is fixing that by letting you preview and edit documents, PDFs, presentations, spreadsheets, code, and more right in the Gemini app.",
+    "Files can be expanded to full screen, where you can type your edits directly, highlight text to ask questions about it, have Gemini refine the text or visuals, or ask it follow-up questions.",
+    "There is a catch, though. PDF preview and editing works both on the web and on mobile, but every other format (Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code) is supported on the web only, at least for now. The new capabilities are available to all Gemini users, in every language the app supports, starting today."
+  ],
+  "images": [],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/embed/dJ-SIBF1nJQ",
+      "title": ""
+    }
+  ],
+  "fetched_at": "2026-10-30T14:44:09.347327+00:00",
+  "title_tr": "Gemini artık oluşturduğu dosyaları doğrudan sohbette düzenlemenize izin veriyor",
+  "body_paragraphs_tr": [
+    "Nisan ayında Google'ın Gemini'si, Dokümanlar ve E - Tablolardan PDF'lere ve Markdown'a kadar sizin için dosya oluşturma yeteneği kazandı. Şimdiye kadar, ortaya çıkan şeyi değiştirmek istiyorsanız, önce dosyayı indirmeniz veya dışa aktarmanız gerekiyordu. Bugün Google, belgeleri, PDF'leri, sunumları, e - tabloları, kodları ve daha fazlasını Gemini uygulamasında önizlemenize ve düzenlemenize izin vererek bunu düzeltiyor.",
+    "Dosyalar, düzenlemelerinizi doğrudan yazabileceğiniz, hakkında soru sormak için metni vurgulayabileceğiniz, Gemini'nin metni veya görselleri iyileştirmesini veya takip soruları sorabileceğiniz tam ekrana genişletilebilir.",
+    "Yine de bir sorun var. PDF önizleme ve düzenleme hem web'de hem de mobilde çalışır, ancak diğer tüm formatlar (Google Dokümanlar, Google E - Tablolar, slayt desteleri, Markdown dosyaları, txt dosyaları ve kod) en azından şimdilik yalnızca web'de desteklenir. Yeni özellikler, bugünden itibaren uygulamanın desteklediği her dilde tüm Gemini kullanıcıları tarafından kullanılabilir."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Google",
+    "Android",
+    "iOS",
+    "AI"
+  ]
+}

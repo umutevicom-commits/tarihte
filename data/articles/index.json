@@ -1,43 +1,103 @@
 [
   {
-    "slug": "oppo_find_x10_ultra_could_be_heading_for_a_chipset_switch-news-75271",
-    "url": "https://www.gsmarena.com/oppo_find_x10_ultra_could_be_heading_for_a_chipset_switch-news-75271.php",
+    "slug": "vivo_s70s_full_camera_details_emerge_in_new_leak-news-75279",
+    "url": "https://www.gsmarena.com/vivo_s70s_full_camera_details_emerge_in_new_leak-news-75279.php",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T14:44:19.951375+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "226759520dc13685a4ec41ae2cc7ec23ce590bdd405aa6082ffaf127ede1c462"
+  },
+  {
+    "slug": "gemini_now_lets_you_edit_the_files_it_creates_right_in_the_chat-news-75277",
+    "url": "https://www.gsmarena.com/gemini_now_lets_you_edit_the_files_it_creates_right_in_the_chat-news-75277.php",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T14:44:09.347327+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4f9a019d4480a3c9f083884af7dccb2fcc272b621f50f60499c8b908907f2c9f"
+  },
+  {
+    "slug": "omdia_global_smartphone_shipments_declined_20_percent_yoy_in_q3_2026-news-75281",
+    "url": "https://www.gsmarena.com/omdia_global_smartphone_shipments_declined_20_percent_yoy_in_q3_2026-news-75281.php",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T14:43:43.450857+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5095aaf88963e7ab604713ac2571a2b07695615c95bcf0ceca7010ff4512dcdc"
+  },
+  {
+    "slug": "strava_google_gemini_integration-news-75280",
+    "url": "https://www.gsmarena.com/strava_google_gemini_integration-news-75280.php",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T14:43:26.132063+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6a6c19bb7d6b920b0f944c934678b76d2304e57a3fe7e9421a91cd9492032306"
+  },
+  {
+    "slug": "oppo_reno17_f_5g_nbtc_certified-news-75284",
+    "url": "https://www.gsmarena.com/oppo_reno17_f_5g_nbtc_certified-news-75284.php",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T14:43:11.437065+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e1fec690f5231fcc78ac8c5c5a1b21b9f0945594e192fffa331f51985bdae186"
+  },
+  {
+    "slug": "samsung_is_reportedly_working_on_a_huge_foldable_tablet-news-75285",
+    "url": "https://www.gsmarena.com/samsung_is_reportedly_working_on_a_huge_foldable_tablet-news-75285.php",
+    "date": "30 October 2026",
+    "fetched_at": "2026-10-30T14:42:50.865149+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ae1729cb73a23116f98c862d3c8d10d1d7eb80fdd5f14ea2bccf95c1fc606d63"
+  },
+  {
+    "content_hash": "be1ff6725ef1b8d09a77e01fc8c263725f42f1219f8220c5549ebb77806a0a8d",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T07:56:32.956448+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "be1ff6725ef1b8d09a77e01fc8c263725f42f1219f8220c5549ebb77806a0a8d"
+    "retries": 0,
+    "slug": "oppo_find_x10_ultra_could_be_heading_for_a_chipset_switch-news-75271",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_find_x10_ultra_could_be_heading_for_a_chipset_switch-news-75271.php"
   },
   {
-    "slug": "motorola_confirms_the_exact_signature_27_launch_date-news-75275",
-    "url": "https://www.gsmarena.com/motorola_confirms_the_exact_signature_27_launch_date-news-75275.php",
+    "content_hash": "99dcf925cd4ba6da71186b752dbbafcedaf9b60a5badc33b801e2de10a6b92a8",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T07:56:09.569745+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "99dcf925cd4ba6da71186b752dbbafcedaf9b60a5badc33b801e2de10a6b92a8"
+    "retries": 0,
+    "slug": "motorola_confirms_the_exact_signature_27_launch_date-news-75275",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_confirms_the_exact_signature_27_launch_date-news-75275.php"
   },
   {
-    "slug": "the_new_oled_ipad_mini_runs_geekbench_here_are_the_results-news-75276",
-    "url": "https://www.gsmarena.com/the_new_oled_ipad_mini_runs_geekbench_here_are_the_results-news-75276.php",
+    "content_hash": "b04d98ac5786e56e72f4e71c3734d39f6985e9db7fe7701b11e366bd85dc89b8",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T07:55:42.247828+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b04d98ac5786e56e72f4e71c3734d39f6985e9db7fe7701b11e366bd85dc89b8"
+    "retries": 0,
+    "slug": "the_new_oled_ipad_mini_runs_geekbench_here_are_the_results-news-75276",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_new_oled_ipad_mini_runs_geekbench_here_are_the_results-news-75276.php"
   },
   {
-    "slug": "the_nokia_2360_flip_is_a_dualdisplay_feature_phone_with_an_sos_button-news-75278",
-    "url": "https://www.gsmarena.com/the_nokia_2360_flip_is_a_dualdisplay_feature_phone_with_an_sos_button-news-75278.php",
+    "content_hash": "78e3aa8050adbf0bf8dc97cdc340ea638029f59853fe0522e771a52fa1e021c8",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T07:55:12.251119+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "78e3aa8050adbf0bf8dc97cdc340ea638029f59853fe0522e771a52fa1e021c8"
+    "retries": 0,
+    "slug": "the_nokia_2360_flip_is_a_dualdisplay_feature_phone_with_an_sos_button-news-75278",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_nokia_2360_flip_is_a_dualdisplay_feature_phone_with_an_sos_button-news-75278.php"
   },
   {
     "content_hash": "657b4c88a2a5c9b84bc4c3df533dafced9104eb22b8d9844a2ee9577570ba20c",
