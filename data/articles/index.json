@@ -1,23 +1,43 @@
 [
   {
-    "slug": "whatsapp_group_status-news-75298",
-    "url": "https://www.gsmarena.com/whatsapp_group_status-news-75298.php",
+    "slug": "motorola_signature_27_key_specs_geekbench-news-75301",
+    "url": "https://www.gsmarena.com/motorola_signature_27_key_specs_geekbench-news-75301.php",
     "date": "31 October 2026",
-    "fetched_at": "2026-10-31T14:05:53.970566+00:00",
+    "fetched_at": "2026-10-31T19:39:12.126001+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "6385b4c337d9d4f7a4b1e8f385e8f66d815ddff1bfa19eff58d4bd7a6ca3a755"
+    "content_hash": "89c4b50da86d7df9e9f362426420e0a66b860f74e1e5beb0d49bcba73b2e2d4a"
   },
   {
-    "slug": "samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295",
-    "url": "https://www.gsmarena.com/samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295.php",
+    "slug": "hmd_pulse_pro_2nd_edition_shows_up_at_a_retailer_with_a_new_chipset-news-75294",
+    "url": "https://www.gsmarena.com/hmd_pulse_pro_2nd_edition_shows_up_at_a_retailer_with_a_new_chipset-news-75294.php",
     "date": "31 October 2026",
-    "fetched_at": "2026-10-31T14:05:29.123070+00:00",
+    "fetched_at": "2026-10-31T19:38:52.984971+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "9e21cdb952743d93a1b3aaa10989db8c9cab30d57ba8c30a957a4083c3fce465"
+    "content_hash": "be6cd64fa964c959827ebad38747cacefad3956127211f6692f4fbfb8e44c044"
+  },
+  {
+    "content_hash": "6385b4c337d9d4f7a4b1e8f385e8f66d815ddff1bfa19eff58d4bd7a6ca3a755",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T14:05:53.970566+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "whatsapp_group_status-news-75298",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_group_status-news-75298.php"
+  },
+  {
+    "content_hash": "9e21cdb952743d93a1b3aaa10989db8c9cab30d57ba8c30a957a4083c3fce465",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T14:05:29.123070+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295.php"
   },
   {
     "content_hash": "7acabeb24fb0c53fdb97deec41add33a0cfa5b821dd7e4301c4d5fd9ad09bf5a",

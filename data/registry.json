@@ -7269,6 +7269,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291.php"
   },
+  "75294": {
+    "content_hash": "be6cd64fa964c959827ebad38747cacefad3956127211f6692f4fbfb8e44c044",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T19:38:52.984971+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "hmd_pulse_pro_2nd_edition_shows_up_at_a_retailer_with_a_new_chipset-news-75294",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/hmd_pulse_pro_2nd_edition_shows_up_at_a_retailer_with_a_new_chipset-news-75294.php"
+  },
   "75295": {
     "content_hash": "9e21cdb952743d93a1b3aaa10989db8c9cab30d57ba8c30a957a4083c3fce465",
     "date": "31 October 2026",
@@ -7288,5 +7298,15 @@
     "slug": "whatsapp_group_status-news-75298",
     "status": "ok",
     "url": "https://www.gsmarena.com/whatsapp_group_status-news-75298.php"
+  },
+  "75301": {
+    "content_hash": "89c4b50da86d7df9e9f362426420e0a66b860f74e1e5beb0d49bcba73b2e2d4a",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T19:39:12.126001+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorola_signature_27_key_specs_geekbench-news-75301",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_signature_27_key_specs_geekbench-news-75301.php"
   }
 }
