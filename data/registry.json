@@ -7268,5 +7268,25 @@
     "slug": "samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291.php"
+  },
+  "75295": {
+    "content_hash": "9e21cdb952743d93a1b3aaa10989db8c9cab30d57ba8c30a957a4083c3fce465",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T14:05:29.123070+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_z_fold9_to_bring_back_a_longlost_feature_the_iphone_duo_has-news-75295.php"
+  },
+  "75298": {
+    "content_hash": "6385b4c337d9d4f7a4b1e8f385e8f66d815ddff1bfa19eff58d4bd7a6ca3a755",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T14:05:53.970566+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "whatsapp_group_status-news-75298",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_group_status-news-75298.php"
   }
 }
