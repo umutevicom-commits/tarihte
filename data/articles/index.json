@@ -1,43 +1,53 @@
 [
   {
-    "slug": "the_new_ipad_minis_battery_capacity_is_no_longer_a_mystery-news-75283",
-    "url": "https://www.gsmarena.com/the_new_ipad_minis_battery_capacity_is_no_longer_a_mystery-news-75283.php",
+    "slug": "heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290",
+    "url": "https://www.gsmarena.com/heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290.php",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T01:17:20.084013+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "03a1229f200a25be5b4fca1ca3e403985cad39f3a529d27b185402c074f13c26"
+  },
+  {
+    "content_hash": "61b96fe95db1f7172a3bac1b2410de4681f2810d0304fb6d2b7fb8de8fb18eff",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T20:17:49.282801+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "61b96fe95db1f7172a3bac1b2410de4681f2810d0304fb6d2b7fb8de8fb18eff"
+    "retries": 0,
+    "slug": "the_new_ipad_minis_battery_capacity_is_no_longer_a_mystery-news-75283",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_new_ipad_minis_battery_capacity_is_no_longer_a_mystery-news-75283.php"
   },
   {
-    "slug": "oppo_reno17_series_confirmed_to_launch_next_month_blind_preorders_go_live-news-75287",
-    "url": "https://www.gsmarena.com/oppo_reno17_series_confirmed_to_launch_next_month_blind_preorders_go_live-news-75287.php",
+    "content_hash": "4ac886704d9a689da379286db630e83700fe122f77958ae24fc373b73bd81bfc",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T20:17:31.874731+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "4ac886704d9a689da379286db630e83700fe122f77958ae24fc373b73bd81bfc"
+    "retries": 0,
+    "slug": "oppo_reno17_series_confirmed_to_launch_next_month_blind_preorders_go_live-news-75287",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_reno17_series_confirmed_to_launch_next_month_blind_preorders_go_live-news-75287.php"
   },
   {
-    "slug": "samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291",
-    "url": "https://www.gsmarena.com/samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291.php",
+    "content_hash": "6fbe86b5556651ba4c2ffe9ab167feb57be6aad7ed17a72f9668934c7bc5500b",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T20:17:05.064958+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6fbe86b5556651ba4c2ffe9ab167feb57be6aad7ed17a72f9668934c7bc5500b"
+    "retries": 0,
+    "slug": "samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291.php"
   },
   {
-    "slug": "a_new_android_vulnerability_can_leave_your_phone_unusable_when_receiving_the_sms_of_death-news-75288",
-    "url": "https://www.gsmarena.com/a_new_android_vulnerability_can_leave_your_phone_unusable_when_receiving_the_sms_of_death-news-75288.php",
+    "content_hash": "1ac28c820eff4caa1193b855de8b980aae745a0f1833fd4648298358f7e78611",
     "date": "30 October 2026",
     "fetched_at": "2026-10-30T20:16:43.961295+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1ac28c820eff4caa1193b855de8b980aae745a0f1833fd4648298358f7e78611"
+    "retries": 0,
+    "slug": "a_new_android_vulnerability_can_leave_your_phone_unusable_when_receiving_the_sms_of_death-news-75288",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/a_new_android_vulnerability_can_leave_your_phone_unusable_when_receiving_the_sms_of_death-news-75288.php"
   },
   {
     "content_hash": "226759520dc13685a4ec41ae2cc7ec23ce590bdd405aa6082ffaf127ede1c462",

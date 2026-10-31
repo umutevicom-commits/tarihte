@@ -7229,6 +7229,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/a_new_android_vulnerability_can_leave_your_phone_unusable_when_receiving_the_sms_of_death-news-75288.php"
   },
+  "75290": {
+    "content_hash": "03a1229f200a25be5b4fca1ca3e403985cad39f3a529d27b185402c074f13c26",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T01:17:20.084013+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290.php"
+  },
   "75291": {
     "content_hash": "6fbe86b5556651ba4c2ffe9ab167feb57be6aad7ed17a72f9668934c7bc5500b",
     "date": "30 October 2026",
