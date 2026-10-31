@@ -1,23 +1,33 @@
 [
   {
-    "slug": "motorola_signature_27_key_specs_geekbench-news-75301",
-    "url": "https://www.gsmarena.com/motorola_signature_27_key_specs_geekbench-news-75301.php",
+    "slug": "nothing_phone_4a_4a_pro_3a_and_3a_pro_are_now_receiving_the_stable_update_to_android_17-news-75296",
+    "url": "https://www.gsmarena.com/nothing_phone_4a_4a_pro_3a_and_3a_pro_are_now_receiving_the_stable_update_to_android_17-news-75296.php",
     "date": "31 October 2026",
-    "fetched_at": "2026-10-31T19:39:12.126001+00:00",
+    "fetched_at": "2026-10-31T22:56:27.212423+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "89c4b50da86d7df9e9f362426420e0a66b860f74e1e5beb0d49bcba73b2e2d4a"
+    "content_hash": "34d92371bc07d61406bef0ce4577f6cf356873ddf042c6a622a6f40a376431ef"
   },
   {
-    "slug": "hmd_pulse_pro_2nd_edition_shows_up_at_a_retailer_with_a_new_chipset-news-75294",
-    "url": "https://www.gsmarena.com/hmd_pulse_pro_2nd_edition_shows_up_at_a_retailer_with_a_new_chipset-news-75294.php",
+    "content_hash": "89c4b50da86d7df9e9f362426420e0a66b860f74e1e5beb0d49bcba73b2e2d4a",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T19:39:12.126001+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorola_signature_27_key_specs_geekbench-news-75301",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_signature_27_key_specs_geekbench-news-75301.php"
+  },
+  {
+    "content_hash": "be6cd64fa964c959827ebad38747cacefad3956127211f6692f4fbfb8e44c044",
     "date": "31 October 2026",
     "fetched_at": "2026-10-31T19:38:52.984971+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "be6cd64fa964c959827ebad38747cacefad3956127211f6692f4fbfb8e44c044"
+    "retries": 0,
+    "slug": "hmd_pulse_pro_2nd_edition_shows_up_at_a_retailer_with_a_new_chipset-news-75294",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/hmd_pulse_pro_2nd_edition_shows_up_at_a_retailer_with_a_new_chipset-news-75294.php"
   },
   {
     "content_hash": "6385b4c337d9d4f7a4b1e8f385e8f66d815ddff1bfa19eff58d4bd7a6ca3a755",
