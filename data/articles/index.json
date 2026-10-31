@@ -1,13 +1,33 @@
 [
   {
-    "slug": "heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290",
-    "url": "https://www.gsmarena.com/heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290.php",
+    "slug": "samsung_galaxy_fit4_leaks_key_features_revealed_-news-75289",
+    "url": "https://www.gsmarena.com/samsung_galaxy_fit4_leaks_key_features_revealed_-news-75289.php",
     "date": "31 October 2026",
-    "fetched_at": "2026-10-31T01:17:20.084013+00:00",
+    "fetched_at": "2026-10-31T07:48:20.273331+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "03a1229f200a25be5b4fca1ca3e403985cad39f3a529d27b185402c074f13c26"
+    "content_hash": "7acabeb24fb0c53fdb97deec41add33a0cfa5b821dd7e4301c4d5fd9ad09bf5a"
+  },
+  {
+    "slug": "deals_iphone_17_series_on_sale_oledpacking_ipad_mini_and_touchenabled_macbook_pro_launch-news-75286",
+    "url": "https://www.gsmarena.com/deals_iphone_17_series_on_sale_oledpacking_ipad_mini_and_touchenabled_macbook_pro_launch-news-75286.php",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T07:47:32.693079+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c73290bd124a03cbd545e383a84766c8361e9b223ec9917225e1fd7093f94763"
+  },
+  {
+    "content_hash": "03a1229f200a25be5b4fca1ca3e403985cad39f3a529d27b185402c074f13c26",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T01:17:20.084013+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_when_samsung_plans_to_release_its_android_xr_glasses_and_where-news-75290.php"
   },
   {
     "content_hash": "61b96fe95db1f7172a3bac1b2410de4681f2810d0304fb6d2b7fb8de8fb18eff",
