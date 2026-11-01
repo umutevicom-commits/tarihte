@@ -1,13 +1,43 @@
 [
   {
-    "slug": "weekly_poll_results_the_oppo_find_x10_pro_max_is_too_expensive_and_so_is_the_find_x10-news-75269",
-    "url": "https://www.gsmarena.com/weekly_poll_results_the_oppo_find_x10_pro_max_is_too_expensive_and_so_is_the_find_x10-news-75269.php",
+    "slug": "weekly_poll_do_touchscreens_on_laptops_make_sense-news-75266",
+    "url": "https://www.gsmarena.com/weekly_poll_do_touchscreens_on_laptops_make_sense-news-75266.php",
     "date": "01 November 2026",
-    "fetched_at": "2026-11-01T03:27:28.886147+00:00",
+    "fetched_at": "2026-11-01T10:55:30.109678+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "ce4f3d9ca4862a693c51f33d5ec17e94d1cb3928dd08e8eb06e7478a669063cf"
+    "content_hash": "a0ed43742de29391dcd311d1aa3302cc022dab4b0208d18c5cbadc9ed9c9f407"
+  },
+  {
+    "slug": "lava_smartphone_price_hike_india-news-75300",
+    "url": "https://www.gsmarena.com/lava_smartphone_price_hike_india-news-75300.php",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T10:55:17.054067+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c667a62f10d9470273d2dd822098b1fe6bd88d9648556b181345637dd543bce1"
+  },
+  {
+    "slug": "users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256",
+    "url": "https://www.gsmarena.com/users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256.php",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T10:54:53.540878+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "651d2f4e1ac324e94cb6f757961aa5b8b587d7b5e0722faea13785023cd35179"
+  },
+  {
+    "content_hash": "ce4f3d9ca4862a693c51f33d5ec17e94d1cb3928dd08e8eb06e7478a669063cf",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T03:27:28.886147+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_results_the_oppo_find_x10_pro_max_is_too_expensive_and_so_is_the_find_x10-news-75269",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_the_oppo_find_x10_pro_max_is_too_expensive_and_so_is_the_find_x10-news-75269.php"
   },
   {
     "content_hash": "34d92371bc07d61406bef0ce4577f6cf356873ddf042c6a622a6f40a376431ef",

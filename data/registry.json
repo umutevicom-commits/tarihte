@@ -6989,6 +6989,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/heres_when_the_iqoo_16_is_rumored_to_launch_in_india-news-75255.php"
   },
+  "75256": {
+    "content_hash": "651d2f4e1ac324e94cb6f757961aa5b8b587d7b5e0722faea13785023cd35179",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T10:54:53.540878+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256.php"
+  },
   "75257": {
     "content_hash": "b3c014053bb9efe5d4e509f6828494e19f61662252065b3d89228e0aafa222fa",
     "date": "29 October 2026",
@@ -7068,6 +7078,16 @@
     "slug": "trump_mobile_t1_phone_teardown_video_confirms_everyones_suspicions-news-75265",
     "status": "ok",
     "url": "https://www.gsmarena.com/trump_mobile_t1_phone_teardown_video_confirms_everyones_suspicions-news-75265.php"
+  },
+  "75266": {
+    "content_hash": "a0ed43742de29391dcd311d1aa3302cc022dab4b0208d18c5cbadc9ed9c9f407",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T10:55:30.109678+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_do_touchscreens_on_laptops_make_sense-news-75266",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_do_touchscreens_on_laptops_make_sense-news-75266.php"
   },
   "75267": {
     "content_hash": "5984ab68e2c76288fc2875b9d7a9cd06ff4f1e68b62b63f7808ec579a6e3dc41",
@@ -7318,6 +7338,16 @@
     "slug": "whatsapp_group_status-news-75298",
     "status": "ok",
     "url": "https://www.gsmarena.com/whatsapp_group_status-news-75298.php"
+  },
+  "75300": {
+    "content_hash": "c667a62f10d9470273d2dd822098b1fe6bd88d9648556b181345637dd543bce1",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T10:55:17.054067+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "lava_smartphone_price_hike_india-news-75300",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/lava_smartphone_price_hike_india-news-75300.php"
   },
   "75301": {
     "content_hash": "89c4b50da86d7df9e9f362426420e0a66b860f74e1e5beb0d49bcba73b2e2d4a",

@@ -1,0 +1,61 @@
+{
+  "url": "https://www.gsmarena.com/users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256.php",
+  "slug": "users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256",
+  "title": "Here's how to reclaim 15GB of storage after iOS 27 update",
+  "news_id": "75256",
+  "date": "01 November 2026",
+  "author": "Ro",
+  "tags": [
+    "Featured",
+    "Apple",
+    "iOS",
+    "AI"
+  ],
+  "body_paragraphs": [
+    "With the arrival of iOS 27, Apple was hoping to make up a lot of ground in the AI space, but the new and improved Apple Intelligence comes with a huge caveat. Users who have already updated their iPhones to iOS 27 report that Apple Intelligence took around 15GB of internal storage.",
+    "The exact amount of storage allocation varies from phone to phone - some see 16GB of their storage inaccessible after the update, others report as low as 9GB. Perhaps the more frustrating part is that Apple Intelligence takes up your storage even when you can't use it in your region, like EU iPhone owners, for example. Here Apple Intelligence isn't available, but iPhone users at the office still found a good chunk of their storage is missing after the update.",
+    "Older iPhones running on lower storage, like the iPhone 16, for example, have it even worse. Some 128GB units are seeing about 30% of their storage occupied by iOS and AI in addition to the reserved storage for updates.",
+    "Disabling Apple Intelligence or Siri altogether doesn't seem to restore the space. Changing the region of your Apple Account isn't recommended either since it may require canceling subscriptions or using up the remaining balance before migrating. Luckily, Reddit users have already come up with workarounds.",
+    "What we found to work is changing Siri's language to an unsupported variant. Technically, AI and Siri only work when the device and Siri's languages are set to US or UK English. But in case you still want to make use of Siri in English, try selecting Canadian, Irish, South African or New Zealand English for Siri. That maneuver doesn't eliminate the issue altogether, but it reduces Apple Intelligence to far more palatable levels of around 100MB.",
+    "Default state • Siri in South African English • No AI on local storage",
+    "We also tried South African English on our Siri, and it fixed the issue after a reboot.",
+    "Coincidentally, Apple has started pushing more aggressive ads for its iCloud storage service, urging customers to subscribe and back up their data to iCloud."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256/immaculate_001.jpg",
+      "alt": "Users report Apple Intelligence taking up too much space after updating to iOS 27"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256/immaculate_002.jpg",
+      "alt": "Default state"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256/immaculate_004.jpg",
+      "alt": "Siri in South African English"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256/immaculate_003.jpg",
+      "alt": "No AI on local storage"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-01T10:54:53.540878+00:00",
+  "title_tr": "IOS 27 güncellemesinden sonra 15 GB depolama alanını nasıl geri kazanacağınız aşağıda açıklanmıştır",
+  "body_paragraphs_tr": [
+    "IOS 27 'nin gelmesiyle birlikte Apple, yapay zeka alanında çok fazla alan kazanmayı umuyordu, ancak yeni ve geliştirilmiş Apple Intelligence büyük bir uyarı ile birlikte geliyor. iPhone'larını iOS 27' ye güncelleyen kullanıcılar, Apple Intelligence'ın yaklaşık 15 GB dahili depolama alanı aldığını bildiriyor.",
+    "Tam depolama alanı tahsisi miktarı telefondan telefona değişir. Bazıları güncellemeden sonra 16 GB depolama alanına erişilemediğini görürken, diğerleri 9 GB kadar düşük bir depolama alanı olduğunu bildiriyor. Belki de daha sinir bozucu olan kısım, örneğin AB iPhone sahipleri gibi bölgenizde kullanamadığınızda bile Apple Intelligence'ın depolama alanınızı kullanmasıdır. Burada Apple Intelligence mevcut değil, ancak ofisteki iPhone kullanıcıları güncellemeden sonra depolama alanlarının büyük bir kısmının eksik olduğunu fark ettiler.",
+    "Örneğin iPhone 16 gibi daha düşük depolama alanında çalışan eski iPhone'ların durumu daha da kötü. Bazı 128 GB'lık birimler, güncellemeler için ayrılmış depolamaya ek olarak depolama alanlarının yaklaşık % 30 'unu iOS ve AI tarafından işgal edildiğini görüyor.",
+    "Apple Intelligence'ı veya Siri'yi tamamen devre dışı bırakmak, alanı eski haline getirmiyor gibi görünüyor. Apple Hesabınızın bölgesini değiştirmek, aboneliklerin iptal edilmesini veya taşınmadan önce kalan bakiyenin kullanılmasını gerektirebileceğinden önerilmez. Neyse ki, Reddit kullanıcıları zaten geçici çözümler buldu.",
+    "İşe yaradığını bulduğumuz şey, Siri'nin dilini desteklenmeyen bir varyantla değiştirmek. Teknik olarak, AI ve Siri yalnızca cihaz ve Siri'nin dilleri ABD veya İngiltere İngilizcesi olarak ayarlandığında çalışır. Ancak yine de Siri'yi İngilizce olarak kullanmak istiyorsanız Siri için Kanada, İrlanda, Güney Afrika veya Yeni Zelanda İngilizcesini seçmeyi deneyin. Bu manevra sorunu tamamen ortadan kaldırmaz, ancak Apple Intelligence'ı yaklaşık 100 MB'lık çok daha lezzetli seviyelere düşürür.",
+    "Varsayılan durum • Güney Afrika İngilizcesinde Siri • Yerel depolamada AI yok",
+    "Siri'mizde Güney Afrika İngilizcesi'ni de denedik ve yeniden başlatmadan sonra sorunu çözdü.",
+    "Tesadüfen, Apple, iCloud depolama hizmeti için daha agresif reklamlar yayınlamaya başladı ve müşterileri verilerini iCloud'a abone olmaya ve yedeklemeye çağırdı."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "iOS",
+    "AI"
+  ]
+}
