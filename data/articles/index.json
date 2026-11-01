@@ -1,23 +1,43 @@
 [
   {
-    "slug": "deals_apple_oppo_and_samsungs_latest_flagship_smartphones_are_available_at_reduced_prices-news-75297",
-    "url": "https://www.gsmarena.com/deals_apple_oppo_and_samsungs_latest_flagship_smartphones_are_available_at_reduced_prices-news-75297.php",
+    "slug": "apples_busy_week_iphone_duo_troubles_and_poco_x8s_debut_week_43_in_review-news-75299",
+    "url": "https://www.gsmarena.com/apples_busy_week_iphone_duo_troubles_and_poco_x8s_debut_week_43_in_review-news-75299.php",
     "date": "01 November 2026",
-    "fetched_at": "2026-11-01T17:26:59.690569+00:00",
+    "fetched_at": "2026-11-01T21:31:56.397211+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "213d4712087d873e938af8e3c6a38ce3fe5278e27dc9fb2abb6cb63459cf9371"
+    "content_hash": "7975191188407b717f8608cfeabee1ab20917af5f7674b37e0a0039e5699ac27"
   },
   {
-    "slug": "honor_700_and_700_pro_will_reportedly_support_a_teleconverter-news-75293",
-    "url": "https://www.gsmarena.com/honor_700_and_700_pro_will_reportedly_support_a_teleconverter-news-75293.php",
+    "slug": "deals_the_pixel_11_series_is_on_sale_and_so_is_the_galaxy_s26_series-news-75282",
+    "url": "https://www.gsmarena.com/deals_the_pixel_11_series_is_on_sale_and_so_is_the_galaxy_s26_series-news-75282.php",
     "date": "01 November 2026",
-    "fetched_at": "2026-11-01T17:26:40.681312+00:00",
+    "fetched_at": "2026-11-01T21:31:22.151068+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "d584cddac88abac7ba3b664aab50561226d33d3fb8a6d714277d834c8d6fcf27"
+    "content_hash": "90d1dbc9b89aaa1386119c0884de3e3631add36b1acab732a79000beac23efdb"
+  },
+  {
+    "content_hash": "213d4712087d873e938af8e3c6a38ce3fe5278e27dc9fb2abb6cb63459cf9371",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T17:26:59.690569+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_apple_oppo_and_samsungs_latest_flagship_smartphones_are_available_at_reduced_prices-news-75297",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_apple_oppo_and_samsungs_latest_flagship_smartphones_are_available_at_reduced_prices-news-75297.php"
+  },
+  {
+    "content_hash": "d584cddac88abac7ba3b664aab50561226d33d3fb8a6d714277d834c8d6fcf27",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T17:26:40.681312+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_700_and_700_pro_will_reportedly_support_a_teleconverter-news-75293",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_700_and_700_pro_will_reportedly_support_a_teleconverter-news-75293.php"
   },
   {
     "content_hash": "a0ed43742de29391dcd311d1aa3302cc022dab4b0208d18c5cbadc9ed9c9f407",

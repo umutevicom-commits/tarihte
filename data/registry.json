@@ -7209,6 +7209,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/omdia_global_smartphone_shipments_declined_20_percent_yoy_in_q3_2026-news-75281.php"
   },
+  "75282": {
+    "content_hash": "90d1dbc9b89aaa1386119c0884de3e3631add36b1acab732a79000beac23efdb",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T21:31:22.151068+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_the_pixel_11_series_is_on_sale_and_so_is_the_galaxy_s26_series-news-75282",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_the_pixel_11_series_is_on_sale_and_so_is_the_galaxy_s26_series-news-75282.php"
+  },
   "75283": {
     "content_hash": "61b96fe95db1f7172a3bac1b2410de4681f2810d0304fb6d2b7fb8de8fb18eff",
     "date": "30 October 2026",
@@ -7358,6 +7368,16 @@
     "slug": "whatsapp_group_status-news-75298",
     "status": "ok",
     "url": "https://www.gsmarena.com/whatsapp_group_status-news-75298.php"
+  },
+  "75299": {
+    "content_hash": "7975191188407b717f8608cfeabee1ab20917af5f7674b37e0a0039e5699ac27",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T21:31:56.397211+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apples_busy_week_iphone_duo_troubles_and_poco_x8s_debut_week_43_in_review-news-75299",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apples_busy_week_iphone_duo_troubles_and_poco_x8s_debut_week_43_in_review-news-75299.php"
   },
   "75300": {
     "content_hash": "c667a62f10d9470273d2dd822098b1fe6bd88d9648556b181345637dd543bce1",
