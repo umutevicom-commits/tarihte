@@ -1,13 +1,23 @@
 [
   {
-    "slug": "nothing_phone_4a_4a_pro_3a_and_3a_pro_are_now_receiving_the_stable_update_to_android_17-news-75296",
-    "url": "https://www.gsmarena.com/nothing_phone_4a_4a_pro_3a_and_3a_pro_are_now_receiving_the_stable_update_to_android_17-news-75296.php",
-    "date": "31 October 2026",
-    "fetched_at": "2026-10-31T22:56:27.212423+00:00",
+    "slug": "weekly_poll_results_the_oppo_find_x10_pro_max_is_too_expensive_and_so_is_the_find_x10-news-75269",
+    "url": "https://www.gsmarena.com/weekly_poll_results_the_oppo_find_x10_pro_max_is_too_expensive_and_so_is_the_find_x10-news-75269.php",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T03:27:28.886147+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "34d92371bc07d61406bef0ce4577f6cf356873ddf042c6a622a6f40a376431ef"
+    "content_hash": "ce4f3d9ca4862a693c51f33d5ec17e94d1cb3928dd08e8eb06e7478a669063cf"
+  },
+  {
+    "content_hash": "34d92371bc07d61406bef0ce4577f6cf356873ddf042c6a622a6f40a376431ef",
+    "date": "31 October 2026",
+    "fetched_at": "2026-10-31T22:56:27.212423+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "nothing_phone_4a_4a_pro_3a_and_3a_pro_are_now_receiving_the_stable_update_to_android_17-news-75296",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nothing_phone_4a_4a_pro_3a_and_3a_pro_are_now_receiving_the_stable_update_to_android_17-news-75296.php"
   },
   {
     "content_hash": "89c4b50da86d7df9e9f362426420e0a66b860f74e1e5beb0d49bcba73b2e2d4a",
