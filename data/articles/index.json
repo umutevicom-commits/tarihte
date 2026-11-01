@@ -1,33 +1,53 @@
 [
   {
-    "slug": "weekly_poll_do_touchscreens_on_laptops_make_sense-news-75266",
-    "url": "https://www.gsmarena.com/weekly_poll_do_touchscreens_on_laptops_make_sense-news-75266.php",
+    "slug": "deals_apple_oppo_and_samsungs_latest_flagship_smartphones_are_available_at_reduced_prices-news-75297",
+    "url": "https://www.gsmarena.com/deals_apple_oppo_and_samsungs_latest_flagship_smartphones_are_available_at_reduced_prices-news-75297.php",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T17:26:59.690569+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "213d4712087d873e938af8e3c6a38ce3fe5278e27dc9fb2abb6cb63459cf9371"
+  },
+  {
+    "slug": "honor_700_and_700_pro_will_reportedly_support_a_teleconverter-news-75293",
+    "url": "https://www.gsmarena.com/honor_700_and_700_pro_will_reportedly_support_a_teleconverter-news-75293.php",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T17:26:40.681312+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d584cddac88abac7ba3b664aab50561226d33d3fb8a6d714277d834c8d6fcf27"
+  },
+  {
+    "content_hash": "a0ed43742de29391dcd311d1aa3302cc022dab4b0208d18c5cbadc9ed9c9f407",
     "date": "01 November 2026",
     "fetched_at": "2026-11-01T10:55:30.109678+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a0ed43742de29391dcd311d1aa3302cc022dab4b0208d18c5cbadc9ed9c9f407"
+    "retries": 0,
+    "slug": "weekly_poll_do_touchscreens_on_laptops_make_sense-news-75266",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_do_touchscreens_on_laptops_make_sense-news-75266.php"
   },
   {
-    "slug": "lava_smartphone_price_hike_india-news-75300",
-    "url": "https://www.gsmarena.com/lava_smartphone_price_hike_india-news-75300.php",
+    "content_hash": "c667a62f10d9470273d2dd822098b1fe6bd88d9648556b181345637dd543bce1",
     "date": "01 November 2026",
     "fetched_at": "2026-11-01T10:55:17.054067+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c667a62f10d9470273d2dd822098b1fe6bd88d9648556b181345637dd543bce1"
+    "retries": 0,
+    "slug": "lava_smartphone_price_hike_india-news-75300",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/lava_smartphone_price_hike_india-news-75300.php"
   },
   {
-    "slug": "users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256",
-    "url": "https://www.gsmarena.com/users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256.php",
+    "content_hash": "651d2f4e1ac324e94cb6f757961aa5b8b587d7b5e0722faea13785023cd35179",
     "date": "01 November 2026",
     "fetched_at": "2026-11-01T10:54:53.540878+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "651d2f4e1ac324e94cb6f757961aa5b8b587d7b5e0722faea13785023cd35179"
+    "retries": 0,
+    "slug": "users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/users_report_abnormally_high_storage_allocation_for_apple_intelligence_after_updating_to_ios_27-news-75256.php"
   },
   {
     "content_hash": "ce4f3d9ca4862a693c51f33d5ec17e94d1cb3928dd08e8eb06e7478a669063cf",

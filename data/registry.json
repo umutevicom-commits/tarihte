@@ -7299,6 +7299,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_announces_another_recordbreaking_quarter_driven_by_its_memory_business-news-75291.php"
   },
+  "75293": {
+    "content_hash": "d584cddac88abac7ba3b664aab50561226d33d3fb8a6d714277d834c8d6fcf27",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T17:26:40.681312+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_700_and_700_pro_will_reportedly_support_a_teleconverter-news-75293",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_700_and_700_pro_will_reportedly_support_a_teleconverter-news-75293.php"
+  },
   "75294": {
     "content_hash": "be6cd64fa964c959827ebad38747cacefad3956127211f6692f4fbfb8e44c044",
     "date": "31 October 2026",
@@ -7328,6 +7338,16 @@
     "slug": "nothing_phone_4a_4a_pro_3a_and_3a_pro_are_now_receiving_the_stable_update_to_android_17-news-75296",
     "status": "ok",
     "url": "https://www.gsmarena.com/nothing_phone_4a_4a_pro_3a_and_3a_pro_are_now_receiving_the_stable_update_to_android_17-news-75296.php"
+  },
+  "75297": {
+    "content_hash": "213d4712087d873e938af8e3c6a38ce3fe5278e27dc9fb2abb6cb63459cf9371",
+    "date": "01 November 2026",
+    "fetched_at": "2026-11-01T17:26:59.690569+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_apple_oppo_and_samsungs_latest_flagship_smartphones_are_available_at_reduced_prices-news-75297",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_apple_oppo_and_samsungs_latest_flagship_smartphones_are_available_at_reduced_prices-news-75297.php"
   },
   "75298": {
     "content_hash": "6385b4c337d9d4f7a4b1e8f385e8f66d815ddff1bfa19eff58d4bd7a6ca3a755",
