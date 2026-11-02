@@ -1,0 +1,21 @@
+    <item>
+      <title>Google, Wear OS için bir durum çubuğu deniyor - işte böyle görünüyor</title>
+      <link>https://www.gsmarena.com/google_is_experimenting_with_a_status_bar_for_wear_os__here_is_what_it_looks_like-news-75311.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/google_is_experimenting_with_a_status_bar_for_wear_os__here_is_what_it_looks_like-news-75311.php</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Peter</author>
+      <category>Öne Çıkanlar</category><category>Google</category><category>Wear OS</category><category>Akıllı giyilebilir cihazlar</category>
+      <description>Google, Android telefonlara benzer bir durum çubuğu ekleyerek Wear OS'de küçük ama önemli bir değişiklik yapmayı deniyor. Bu özelliğin bir test sürümü Wear OS 7.1 kanarya emülatörüne dahil edildi ve şirket geliştiricilerden bunu denemelerini ve geri bildirim göndermelerini istiyor.</description>
+      <content:encoded><![CDATA[<p>Google, Android telefonlara benzer bir durum çubuğu ekleyerek Wear OS'de küçük ama önemli bir değişiklik yapmayı deniyor. Bu özelliğin bir test sürümü Wear OS 7.1 kanarya emülatörüne dahil edildi ve şirket geliştiricilerden bunu denemelerini ve geri bildirim göndermelerini istiyor.</p>
+<p>Bu özellik, ekranın üst kısmında geçerli saati ve en önemli durum göstergesini gösteren bir durum çubuğu ekleyecektir – birden fazla durum göstergesi varsa, yalnızca en öncelikli olan görüntülenir.</p>
+<p>Akıllı saatlerde ekran gayrimenkulü değerlidir, bu nedenle Google onu boşa harcamamak için birkaç yol bulmuştur. Birincisi açıktır – kullanıcı bir listede gezinirken durum çubuğu kaybolur. Sadece iki saniye hareketsiz kaldıktan sonra geri gelecektir.</p>
+<p>Tam ekran iletişim kutuları (örneğin bir uyarı açılır penceresi) durum çubuğunu da gizleyecektir. Ek olarak, kullanıcı arayüzü, mevcut ekranın zaten bir saati olması durumunda mevcut saati iki kez göstermekten kaçınmaya özen gösterecektir.</p>
+<p>Geliştiriciler, ekstra alana ihtiyaç duyduklarına karar verirlerse, uygulamalarının belirli ekranlarındaki durum çubuğunu gizleme yollarına sahiptir.</p>
+<p>Google, bir durum çubuğuna sahip olmanın aşağıdaki avantajlarını listeler:</p>
+<p>Görsel tutarlılık: Sistemde ve tüm uygulamalarda tek tip bir saat tipografisi, yerleştirme ve arka plaka.</p>
+<p>Sistem durumu göstergeleri: Platformun durum simgelerini (aktif mikrofon ve konum göstergeleri, bağlantı durumu veya pil bilgileri gibi) ve yüzeyler arasındaki süreyi görüntülemesini sağlar. Önceliğe bağlı olarak aynı anda yalnızca bir simge gösterilir.</p>
+<p>Otomatik kaydırma ve geçiş koordinasyonu: Wear OS 1.8 için Jetpack Compose ile eşleştirildiğinde, kullanıcılar içerikte gezindiğinde sistem durum çubuğu otomatik olarak gizlenir ve kısa (2 saniyelik) bir rölanti gecikmesinden sonra yeniden görünür.</p>
+<p>Yine, bu sadece bir deneydir – standart Wear OS 7.1 emülatöründe bile mevcut olmayacak, sadece kanarya yapısında mevcut olacaktır. Ve saatler için gerçek Wear OS 7.1 sürümünde kesinlikle mevcut olmayacaktır.</p>
+<p>Google'ın, geliştiricilerin bu değişikliği reddetmediğini varsayarsak, bunu Wear OS 8 'in bir parçası haline getirmeyi planladığı anlaşılıyor. Bir geliştiriciyseniz, AppScaffold ve ScreenScaffold'daki değişiklikler hakkında daha fazla bilgi edinmek için Kaynak bağlantısını takip edebilirsiniz.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/google_is_experimenting_with_a_status_bar_for_wear_os__here_is_what_it_looks_like-news-75311/immaculate_001.jpg" alt="Google is experimenting with a Status bar for Wear OS" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
