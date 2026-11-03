@@ -7558,5 +7558,45 @@
     "slug": "realme_17t_design_revealed_in_leaked_live_images-news-75324",
     "status": "ok",
     "url": "https://www.gsmarena.com/realme_17t_design_revealed_in_leaked_live_images-news-75324.php"
+  },
+  "75325": {
+    "content_hash": "00b13ce33cbd7c8d12a8ba0428d71d2a84c2bf6fd1bd6eca7673d4f3062a4ec4",
+    "date": "03 November 2026",
+    "fetched_at": "2026-11-03T22:43:28.663701+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_duos_woes_are_a_boon_for_samsung_as_galaxy_z_fold8_sales_go_up_by_20_in_a_week-news-75325",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_duos_woes_are_a_boon_for_samsung_as_galaxy_z_fold8_sales_go_up_by_20_in_a_week-news-75325.php"
+  },
+  "75326": {
+    "content_hash": "2924847aef394d14f037c90d0132fe94b1311079329146b911edae9cbc99cad4",
+    "date": "03 November 2026",
+    "fetched_at": "2026-11-03T22:44:04.612212+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honors_14000mah_smartphone_battery_can_reportedly_last_a_week-news-75326",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honors_14000mah_smartphone_battery_can_reportedly_last_a_week-news-75326.php"
+  },
+  "75327": {
+    "content_hash": "4892c7442827138f0f0f47648e487dce49802409a96030a9fff37ae123d8f94d",
+    "date": "03 November 2026",
+    "fetched_at": "2026-11-03T22:43:49.436494+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a58_charging_speed_3c_certification-news-75327",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a58_charging_speed_3c_certification-news-75327.php"
+  },
+  "75329": {
+    "content_hash": "3e4e3ff2dc917104025e6b63cca464264de56fa35caf7a7554fbb75ad0f69fb6",
+    "date": "03 November 2026",
+    "fetched_at": "2026-11-03T22:43:10.318962+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_duo_shortages_will_continue_for_the_foreseeable_future_apple_ceo_says-news-75329",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_duo_shortages_will_continue_for_the_foreseeable_future_apple_ceo_says-news-75329.php"
   }
 }
