@@ -1,0 +1,43 @@
+{
+  "url": "https://www.gsmarena.com/apple_releases_first_ios_273_developer_beta_heres_whats_new-news-75342.php",
+  "slug": "apple_releases_first_ios_273_developer_beta_heres_whats_new-news-75342",
+  "title": "Apple releases first iOS 27.3 developer beta, here's what's new",
+  "news_id": "75342",
+  "date": "04 November 2026",
+  "author": "Siddharth",
+  "tags": [
+    "Featured",
+    "Apple",
+    "iOS",
+    "Firmware Updates"
+  ],
+  "body_paragraphs": [
+    "Apple has released the first iOS 27.3 developer beta to testers, bringing several new features and changes. The company also rolled out the first developer betas of iPadOS 27.3, macOS 27.3, watchOS 27.3, tvOS 27.3, and visionOS 27.3.",
+    "The iOS 27.3 beta 1 introduces a redesigned Health app alongside several Audio Intelligence features such as Siri Recap and Live Rewind on the Apple Watch.",
+    "With the latest beta, the company is also bringing Apple Intelligence features to China, as confirmed last week. However, not all features are available to testers yet, with Siri AI notably missing.",
+    "The update also includes the Reachability accessibility feature for the iPhone Duo, along with vertical tabs on Safari and an adaptive Dark Mode. Meanwhile, StandBy mode now gets functionality similar to the iPhone Duo across all supported iPhone models.",
+    "Apple also announced a new Siri AI Developer Preview which is now available to all developers and allows them to integrate their apps with Siri AI."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/apple_releases_first_ios_273_developer_beta_heres_whats_new-news-75342/immaculate_001.jpg",
+      "alt": "Apple releases first iOS 27.3 developer beta, here's what's new"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-04T20:37:22.293362+00:00",
+  "title_tr": "Apple ilk iOS 27.3 geliştirici beta sürümünü yayınladı, işte yenilikler",
+  "body_paragraphs_tr": [
+    "Apple, ilk iOS 27.3 geliştirici beta sürümünü test kullanıcılarına sundu ve birkaç yeni özellik ve değişiklik getirdi. Şirket ayrıca iPadOS 27.3, macOS 27.3, watchOS 27.3, tvOS 27.3 ve visionOS 27.3 'ün ilk geliştirici betalarını da piyasaya sürdü.",
+    "IOS 27.3 beta 1, Apple Watch'ta Siri Recap ve Live Rewind gibi çeşitli Ses Zekası özelliklerinin yanı sıra yeniden tasarlanmış bir Sağlık uygulaması sunuyor.",
+    "En son beta sürümüyle şirket, geçen hafta onaylandığı üzere Apple Intelligence özelliklerini Çin'e de getiriyor. Bununla birlikte, Siri AI'nın özellikle eksik olması nedeniyle, tüm özellikler henüz test kullanıcıları için mevcut değildir.",
+    "Güncelleme ayrıca Safari'deki dikey sekmeler ve uyarlanabilir Karanlık Mod ile birlikte iPhone Duo için Erişilebilirlik erişilebilirlik özelliğini de içeriyor. Bu arada, Bekleme modu artık desteklenen tüm iPhone modellerinde iPhone Duo'ya benzer bir işlevsellik kazanıyor.",
+    "Apple ayrıca, artık tüm geliştiricilerin kullanabileceği ve uygulamalarını Siri AI ile entegre etmelerine olanak tanıyan yeni bir Siri AI Geliştirici Önizlemesi duyurdu."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "iOS",
+    "AYGIT YAZILIMI GÜNCELLEMELERİ"
+  ]
+}
