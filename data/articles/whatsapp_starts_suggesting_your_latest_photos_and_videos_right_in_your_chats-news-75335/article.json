@@ -1,0 +1,49 @@
+{
+  "url": "https://www.gsmarena.com/whatsapp_starts_suggesting_your_latest_photos_and_videos_right_in_your_chats-news-75335.php",
+  "slug": "whatsapp_starts_suggesting_your_latest_photos_and_videos_right_in_your_chats-news-75335",
+  "title": "WhatsApp starts suggesting your latest photos and videos right in your chats",
+  "news_id": "75335",
+  "date": "04 November 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "WhatsApp",
+    "Android",
+    "iOS",
+    "Mobile software",
+    "Online services",
+    "Meta"
+  ],
+  "body_paragraphs": [
+    "WhatsApp already suggests stickers above the keyboard on Android based on the emojis you type, and now it's taking that suggestion system a step further. Media suggestions are rolling out to some users on both Android and iOS with the latest versions of the app. When you open a chat, WhatsApp can now offer to send whatever you most recently added to your gallery.",
+    "There are two ways this can show up, and you'll only get one of them. In the first, a toast pops up above the chat bar as soon as you open a conversation. It shows a thumbnail of your latest photo or video and asks if you want to send it. In the second, the camera icon in the chat bar is temporarily replaced by that thumbnail. Either way, you can ignore the suggestion and keep chatting as usual, and the toast also has a close button.",
+    "Tapping the suggestion doesn't send anything right away. Instead, it opens the drawing editor, where you can review the photo or video and add a caption or a sticker before sending it. You can also just back out without sending anything, which should prevent accidental shares if you tap the suggestion by mistake.",
+    "WhatsApp doesn't filter what it suggests by type or source. It simply picks the most recent item in your gallery, whether that's a photo you took, a screenshot, an image from the web, or a video you saved from another app.",
+    "The feature turns on automatically once it reaches your account. If you'd rather not see these suggestions, go to Settings > Chats and turn off \"Recent media suggestions\". The rollout is gradual, so more accounts should get it over the coming weeks, but it's still unclear when it will be available to everyone."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/whatsapp_starts_suggesting_your_latest_photos_and_videos_right_in_your_chats-news-75335/immaculate_001.jpg",
+      "alt": "WhatsApp starts suggesting your latest photos and videos right in your chats"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-04T13:35:11.755981+00:00",
+  "title_tr": "WhatsApp, sohbetlerinizde en son fotoğraflarınızı ve videolarınızı önermeye başlar",
+  "body_paragraphs_tr": [
+    "WhatsApp, yazdığınız emojilere bağlı olarak Android'de klavyenin üzerinde çıkartmalar öneriyor ve şimdi bu öneri sistemini bir adım daha ileri taşıyor. Medya önerileri, uygulamanın en son sürümleriyle hem Android hem de iOS'ta bazı kullanıcılara sunuluyor. Bir sohbeti açtığınızda, WhatsApp artık galerinize en son eklediğiniz her şeyi göndermeyi teklif edebilir.",
+    "Bunun ortaya çıkmasının iki yolu vardır ve bunlardan sadece birini elde edersiniz. İlkinde, bir sohbeti açar açmaz sohbet çubuğunun üzerinde bir tost belirir. En son fotoğrafınızın veya videonuzun küçük resmini gösterir ve göndermek isteyip istemediğinizi sorar. İkincisinde, sohbet çubuğundaki kamera simgesi geçici olarak o küçük resimle değiştirilir. Her iki durumda da, öneriyi görmezden gelebilir ve her zamanki gibi sohbet etmeye devam edebilirsiniz ve tostun da bir kapatma düğmesi vardır.",
+    "Öneriye dokunmak hemen bir şey göndermiyor. Bunun yerine, fotoğrafı veya videoyu inceleyebileceğiniz ve göndermeden önce bir başlık veya çıkartma ekleyebileceğiniz çizim düzenleyicisini açar. Ayrıca herhangi bir şey göndermeden vazgeçebilirsiniz, bu da öneriye yanlışlıkla dokunursanız yanlışlıkla yapılan paylaşımları önleyecektir.",
+    "WhatsApp, önerdiklerini türe veya kaynağa göre filtrelemez. İster çektiğiniz bir fotoğraf, ister ekran görüntüsü, ister web'den bir resim veya başka bir uygulamadan kaydettiğiniz bir video olsun, galerinizdeki en son öğeyi seçer.",
+    "Bu özellik, hesabınıza ulaştığında otomatik olarak açılır. Bu önerileri görmek istemiyorsanız Ayarlar > Sohbetler'e gidin ve \"Son medya önerileri\" ni kapatın. Piyasaya sürülme aşamalıdır, bu nedenle önümüzdeki haftalarda daha fazla hesabın bunu alması gerekir, ancak ne zaman herkes tarafından kullanılabileceği hala belirsizdir."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "WhatsApp",
+    "Android",
+    "iOS",
+    "MOBİL YAZILIMLAR",
+    "Online Hizmetler",
+    "Meta"
+  ]
+}

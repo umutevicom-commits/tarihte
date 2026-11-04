@@ -1,0 +1,45 @@
+{
+  "url": "https://www.gsmarena.com/apple_watch_series_12_and_ultra_4s_controversial_ai_features_are_going_live-news-75336.php",
+  "slug": "apple_watch_series_12_and_ultra_4s_controversial_ai_features_are_going_live-news-75336",
+  "title": "Apple Watch Series 12 and Ultra 4's controversial AI features are going live",
+  "news_id": "75336",
+  "date": "04 November 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "Apple",
+    "WatchOS"
+  ],
+  "body_paragraphs": [
+    "Apple unveiled the Apple Watch Series 12 and Watch Ultra 4 back in September, along with a set of microphone-based features it calls Audio Intelligence. Two of them, Sound Recognition and Music Recognition with Shazam, were available from the start, but the more controversial pair had to wait. Now, Live Rewind and Siri Recap are arriving as part of the first watchOS 27.3 developer beta.",
+    "Live Rewind shows what was said in the last 15 seconds as a text snippet on your watch when you double-press the Digital Crown. That could be a waiter listing the daily specials, or directions you didn't quite catch. You can then ask Siri about the snippet or save it to the Siri app. If you do neither, it disappears about 30 seconds after the display dims. Using it plays an audible chime, even in silent mode or with headphones connected, and shows a full-screen animation and a microphone indicator, so people nearby know it's been triggered.",
+    "Siri Recap goes a step further and ambiently takes notes on your conversations throughout the day. After a conversation, it generates a title, a short summary, and key points in the Siri app's Recaps tab. It's not a transcript, and it doesn't attribute anything to specific speakers. Apple says it's also designed to leave out sensitive information such as financial data and government-assigned identifiers. Recaps are deleted after seven days unless you save them, and you can export them to Notes or Journal too. You can schedule Siri Recaps by time and location (for example, \"only at work\" or \"never at night\"), and turn them on or off at any time from Control Center.",
+    "Apple promises it doesn't ever create any audio recordings. Raw audio goes into a hardware-isolated Secure Exclave on the S11 chip and on the paired iPhone, where the operating system, apps, you, and even Apple can't access it. Live Rewind is processed on-device. Siri Recap sends a condensed version of the conversation transcript to Private Cloud Compute, which creates the summary.",
+    "Both features are thankfully opt-in. They require a Series 12 or Ultra 4 paired with an iPhone 16 or newer (except the iPhone 16e ) with Apple Intelligence and Siri AI. They only work in English for now, with more languages to follow, and they're off-limits for users under 13. Unsurprisingly, they won't initially be available in the EU, since Siri AI isn't available there yet. The public beta should come next, before these features roll out to everyone."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/apple_watch_series_12_and_ultra_4s_controversial_ai_features_are_going_live-news-75336/immaculate_001.jpg",
+      "alt": "Apple Watch Series 12 and Ultra 4's controversial AI features are going live"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/apple_watch_series_12_and_ultra_4s_controversial_ai_features_are_going_live-news-75336/immaculate_002.jpg",
+      "alt": "Apple Watch Series 12 and Ultra 4's controversial AI features are going live"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-04T13:34:41.112168+00:00",
+  "title_tr": "Apple Watch Series 12 ve Ultra 4 'ün tartışmalı yapay zeka özellikleri yayında",
+  "body_paragraphs_tr": [
+    "Apple, Eylül ayında Apple Watch Series 12 ve Watch Ultra 4 'ü ve Audio Intelligence adını verdiği bir dizi mikrofon tabanlı özelliği tanıtmıştı. Bunlardan ikisi, Ses Tanıma ve Shazam ile Müzik Tanıma, en başından beri mevcuttu, ancak daha tartışmalı olan ikilinin beklemesi gerekiyordu. Şimdi, Live Rewind ve Siri Recap, ilk watchOS 27.3 geliştirici betasının bir parçası olarak geliyor.",
+    "Live Rewind, Digital Crown'a iki kez bastığınızda son 15 saniyede söylenenleri saatinizde bir metin pasajı olarak gösterir. Bu, günlük spesiyalleri listeleyen bir garson veya tam olarak anlayamadığınız yol tarifleri olabilir. Ardından Siri'ye snippet'i sorabilir veya Siri uygulamasına kaydedebilirsiniz. İkisini de yapmazsanız, ekran karardıktan yaklaşık 30 saniye sonra kaybolur. Sessiz modda veya kulaklık bağlıyken bile sesli bir zil çalar ve tam ekran bir animasyon ve bir mikrofon göstergesi gösterir, böylece yakındaki insanlar tetiklendiğini bilir.",
+    "Siri Recap bir adım daha ileri gider ve gün boyunca konuşmalarınız hakkında ambiyanslı bir şekilde notlar alır. Bir konuşmadan sonra, Siri uygulamasının Özetler sekmesinde bir başlık, kısa bir özet ve önemli noktalar oluşturur. Bu bir transkript değildir ve belirli konuşmacılara hiçbir şey atfetmez. Apple ayrıca finansal veriler ve devlet tarafından atanan tanımlayıcılar gibi hassas bilgileri dışarıda bırakmak için tasarlandığını söylüyor. Özetler, kaydetmediğiniz sürece yedi gün sonra silinir ve bunları Notlar veya Günlük'e de aktarabilirsiniz. Siri Özetlerini zamana ve konuma göre planlayabilir (örneğin, \"yalnızca işte\" veya \"asla geceleri \") ve Kontrol Merkezi'nden istediğiniz zaman açıp kapatabilirsiniz.",
+    "Apple, hiçbir zaman ses kaydı oluşturmayacağına söz veriyor. RAW ses, S11 çipinde ve işletim sisteminin, uygulamaların, sizin ve hatta Apple'ın erişemediği eşleştirilmiş iPhone'da donanımdan izole edilmiş bir Secure Exclave'e girer. Live Rewind cihazda işlenir. Siri Recap, konuşma transkriptinin özetlenmiş bir versiyonunu Özel Bulut Bilişim'e gönderir ve bu da özeti oluşturur.",
+    "Neyse ki her iki özellik de etkinleştirildi. Apple Intelligence ve Siri AI ile bir iPhone 16 veya daha yenisi (iPhone 16E hariç) ile eşleştirilmiş bir Series 12 veya Ultra 4 gerektirir. Şimdilik yalnızca İngilizce olarak çalışırlar, takip edecek daha fazla dilleri vardır ve 13 yaşın altındaki kullanıcılar için yasaktır. Şaşırtıcı olmayan bir şekilde, Siri AI henüz orada bulunmadığından, başlangıçta AB'de mevcut olmayacaklar. Halka açık beta, bu özellikler herkese sunulmadan önce gelmeli."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "<g id=\"1\">watchOS</g>"
+  ]
+}
