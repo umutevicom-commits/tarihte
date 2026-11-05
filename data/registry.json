@@ -7789,6 +7789,26 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_buds4_pro_and_buds3_pro_will_soon_work_as_hearing_aids-news-75354.php"
   },
+  "75355": {
+    "content_hash": "84cec24ac824f5b5c38f2a575b6a4793d52189a405cb6d71e3a831b39b3a4533",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T17:46:12.953201+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "qualcomm_will_help_spacex_build_starlink_mobiles_nationwide_us_5g_network-news-75355",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/qualcomm_will_help_spacex_build_starlink_mobiles_nationwide_us_5g_network-news-75355.php"
+  },
+  "75357": {
+    "content_hash": "a6076e7af77fe0f436979e99704e8b942a5f9ef773782b584fad3049cc3deb7b",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T17:48:42.246159+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "we_check_out_chromagraph_rian_johnsons_viral_iphone_camera_app-news-75357",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/we_check_out_chromagraph_rian_johnsons_viral_iphone_camera_app-news-75357.php"
+  },
   "75358": {
     "content_hash": "83c99f0c1f7d7c1fae4369370c656a308bd8f3d0cc18756c6361044d29a71e04",
     "date": "05 November 2026",
@@ -7798,5 +7818,65 @@
     "slug": "sony_xperia_10_vii_xperia_10_viii_android_17_update-news-75358",
     "status": "ok",
     "url": "https://www.gsmarena.com/sony_xperia_10_vii_xperia_10_viii_android_17_update-news-75358.php"
+  },
+  "75359": {
+    "content_hash": "e089a40e95362d18f1a2010c28fd43744da936376293094ba42d69591494c0b4",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T17:48:25.760751+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_series_watch_gt_2_india_launch_teased-news-75359",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_series_watch_gt_2_india_launch_teased-news-75359.php"
+  },
+  "75360": {
+    "content_hash": "5b806e4ddc4e9593c219727dd20d3cf71526389ee13cfa47d49fd85ecbd272ca",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T17:48:09.997418+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_reno17_series_officially_confirmed_to_arrive_in_a_few_days-news-75360",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_reno17_series_officially_confirmed_to_arrive_in_a_few_days-news-75360.php"
+  },
+  "75361": {
+    "content_hash": "543f57dfb20af1c10a1a18930a7489e8f0446fa3000b9915db191bc20bcf8bee",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T17:47:52.048783+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "nothing_is_launching_an_ainative_product_next_month_design_teased-news-75361",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nothing_is_launching_an_ainative_product_next_month_design_teased-news-75361.php"
+  },
+  "75362": {
+    "content_hash": "af2cef020f4461774d30e142cd44f803ea2262ef4dac880580900002cd61e487",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T17:47:28.872105+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorola_signature_27_is_now_fully_official_with_a_7000_mah_battery_and_a_dedicated_action_sensor-news-75362",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_signature_27_is_now_fully_official_with_a_7000_mah_battery_and_a_dedicated_action_sensor-news-75362.php"
+  },
+  "75365": {
+    "content_hash": "fdfc1707b426893e40f24ad12b07561a156f7aa27019206820434bf2095fe7bf",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T17:46:34.958072+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_700_series_chipset_details_leak-news-75365",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_700_series_chipset_details_leak-news-75365.php"
+  },
+  "75366": {
+    "content_hash": "f4834ef6c2360b9f779841066690b4c06066e9fc9e65ae10b33781bd2e120071",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T17:46:51.629734+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "moto_watch_2_fit_and_moto_buds_2_ultra_launch_with_polar_and_bose_on_board-news-75366",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/moto_watch_2_fit_and_moto_buds_2_ultra_launch_with_polar_and_bose_on_board-news-75366.php"
   }
 }

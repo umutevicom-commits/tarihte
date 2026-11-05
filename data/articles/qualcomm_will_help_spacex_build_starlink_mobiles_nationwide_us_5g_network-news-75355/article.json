@@ -1,0 +1,43 @@
+{
+  "url": "https://www.gsmarena.com/qualcomm_will_help_spacex_build_starlink_mobiles_nationwide_us_5g_network-news-75355.php",
+  "slug": "qualcomm_will_help_spacex_build_starlink_mobiles_nationwide_us_5g_network-news-75355",
+  "title": "Qualcomm will help SpaceX build Starlink Mobile's nationwide US 5G network",
+  "news_id": "75355",
+  "date": "05 November 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "Qualcomm",
+    "Starlink",
+    "SpaceX"
+  ],
+  "body_paragraphs": [
+    "Back in August, SpaceX made it clear that it wants to compete with AT&T, T-Mobile, and Verizon in the US. Of course, a proper carrier needs more than satellites. Today, Qualcomm announced that SpaceX has picked its Dragonwing Cellular Infrastructure platforms for Starlink Mobile's nationwide terrestrial 5G network.",
+    "The base stations will be built on the Dragonwing QRU100 and QDU100 platforms, along with Qualcomm's commercial-grade Layer 1 software. Starlink Mobile will use Massive MIMO radio units with 64 transmit and 64 receive paths (64T64R), which are designed to improve coverage, capacity, and spectral efficiency. The QRU100 handles the processing for those radio units, while the QDU100 takes care of latency-sensitive Layer 1 processing, and together they're meant to improve performance per watt.",
+    "SpaceX plans to start the nationwide rollout in 2027, with tens of thousands of sites deployed over the course of the multi-year agreement. The network will be multi-band and built out in several waves. While this deal is all about 5G for now, the two companies call it a commercial step toward their broader vision for \"AI-native 6G infrastructure\".",
+    "Michael Nicolls, Starlink's Senior Vice President, says phone calls shouldn't still be dropping in this day and age, whether you're at home or on the go, and that Starlink is building \"the first fully-integrated nationwide satellite and terrestrial network\". He adds that working with Qualcomm will speed up SpaceX's timeline for developing its end-to-end base station architecture.",
+    "Last month, SpaceX bought 800MHz spectrum for indoor coverage, while T-Mobile's CEO ruled out letting SpaceX run on its network. Just yesterday, a report claimed that SpaceX may even buy Boost Mobile from EchoStar to speed up its plans to turn into a full-fledged carrier."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/qualcomm_will_help_spacex_build_starlink_mobiles_nationwide_us_5g_network-news-75355/immaculate_001.jpg",
+      "alt": "Qualcomm will help SpaceX build Starlink Mobile's nationwide US 5G network"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-05T17:46:12.953201+00:00",
+  "title_tr": "Qualcomm, SpaceX'in Starlink Mobile'ın ülke çapındaki ABD 5G ağını kurmasına yardımcı olacak",
+  "body_paragraphs_tr": [
+    "SpaceX, ağustosta ABD'de AT&T, T - Mobile ve Verizon'la rekabet etmek istediğini açıkça belirtmişti. Tabii ki, uygun bir taşıyıcı uydulardan daha fazlasına ihtiyaç duyar. Bugün Qualcomm, SpaceX'in Starlink Mobile'ın ülke çapındaki karasal 5G ağı için Dragonwing Hücresel Altyapı platformlarını seçtiğini duyurdu.",
+    "Baz istasyonları, Qualcomm'un ticari sınıf Layer 1 yazılımı ile birlikte Dragonwing QRU100 ve QDU100 platformları üzerine inşa edilecek. Starlink Mobile, kapsama alanını, kapasiteyi ve spektral verimliliği artırmak için tasarlanmış 64 iletim ve 64 alım yoluna (64T64R) sahip Masif MIMO radyo ünitelerini kullanacaktır. QRU100, bu radyo ünitelerinin işlenmesini üstlenirken, QDU100 gecikmeye duyarlı Katman 1 işlemeyle ilgilenir ve birlikte watt başına performansı artırmayı amaçlar.",
+    "SpaceX, çok yıllı anlaşma süresince konuşlandırılan on binlerce siteyle ülke çapında lansmanı 2027 'de başlatmayı planlıyor. Ağ çok bantlı olacak ve birkaç dalga halinde oluşturulacaktır. Bu anlaşma şimdilik 5G ile ilgili olsa da, iki şirket bunu \"AI'ya özgü 6G altyapısı\" için daha geniş vizyonlarına yönelik ticari bir adım olarak nitelendiriyor.",
+    "Starlink'in Kıdemli Başkan Yardımcısı Michael Nicolls, ister evde ister hareket halinde olun, bu gün ve yaşta telefon görüşmelerinin hala kesilmemesi gerektiğini ve Starlink'in \"ülke çapında ilk tam entegre uydu ve karasal ağı\" inşa ettiğini söylüyor. Qualcomm'la çalışmanın SpaceX'in uçtan uca baz istasyonu mimarisini geliştirme zaman çizelgesini hızlandıracağını da sözlerine ekledi.",
+    "Geçen ay SpaceX, iç mekan kapsama alanı için 800 MHz spektrum satın alırken, T - Mobile'ın CEO'su SpaceX'in ağında çalışmasına izin verme ihtimalini reddetti. Daha dün bir haber, SpaceX'in tam teşekküllü bir taşıyıcıya dönüşme planlarını hızlandırmak için EchoStar'dan Boost Mobile'ı bile satın alabileceğini iddia etti."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Qualcomm",
+    "Starlink",
+    "SpaceX"
+  ]
+}
