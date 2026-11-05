@@ -7859,6 +7859,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/motorola_signature_27_is_now_fully_official_with_a_7000_mah_battery_and_a_dedicated_action_sensor-news-75362.php"
   },
+  "75363": {
+    "content_hash": "93d9cf3a77fe2631b2ef02fe80496b86830610ee52ec9bb5347d9f67fd7621e8",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T23:05:07.505928+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_magic9_pro_max_camera_samples_from_the_usa-news-75363",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_pro_max_camera_samples_from_the_usa-news-75363.php"
+  },
   "75365": {
     "content_hash": "fdfc1707b426893e40f24ad12b07561a156f7aa27019206820434bf2095fe7bf",
     "date": "05 November 2026",
@@ -7878,5 +7888,35 @@
     "slug": "moto_watch_2_fit_and_moto_buds_2_ultra_launch_with_polar_and_bose_on_board-news-75366",
     "status": "ok",
     "url": "https://www.gsmarena.com/moto_watch_2_fit_and_moto_buds_2_ultra_launch_with_polar_and_bose_on_board-news-75366.php"
+  },
+  "75368": {
+    "content_hash": "f50be16fdadd0fc6b75bda6f672182d9607b62335019c9c639f3c7edee33584d",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T23:04:41.532244+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php"
+  },
+  "75370": {
+    "content_hash": "7e11268a989aa74d85fea20c0bf51df419d0e641f42dead9517c6d135736f2e6",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T23:04:10.631404+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsungs_overear_headphones_said_to_be_called_galaxy_studio_design_details_surface-news-75370",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsungs_overear_headphones_said_to_be_called_galaxy_studio_design_details_surface-news-75370.php"
+  },
+  "75372": {
+    "content_hash": "8ba2a09d86ad62ab0113b29fd2de72ae7d648f72900d65bc33d49e6f10a97c87",
+    "date": "05 November 2026",
+    "fetched_at": "2026-11-05T23:04:27.097666+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "sony_brings_back_the_original_walkman_headphones_with_usbc-news-75372",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/sony_brings_back_the_original_walkman_headphones_with_usbc-news-75372.php"
   }
 }

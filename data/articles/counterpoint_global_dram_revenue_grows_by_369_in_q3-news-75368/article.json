@@ -1,0 +1,59 @@
+{
+  "url": "https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php",
+  "slug": "counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368",
+  "title": "Counterpoint: global DRAM revenue grows by 369% in Q3",
+  "news_id": "75368",
+  "date": "05 November 2026",
+  "author": "Peter",
+  "tags": [
+    "Featured",
+    "Samsung",
+    "SK hynix",
+    "Micron",
+    "CXMT",
+    "Computer hardware"
+  ],
+  "body_paragraphs": [
+    "Global DRAM revenue has increased by an insane 369% year-over-year thanks to strong demand for the stuff, which goes towards building new AI accelerators and data centers. The Average Selling Price (ASP) has reached $1.9 per gigabit (i.e. 1/8th of a gigabyte).",
+    "The big winner here is South Korea – Samsung is the biggest player with 38% market share, while SK hynix had a 29% share. SK’s revenue grew over 40% quarter-on-quarter, but things are going better for Samsung right now.",
+    "US-based Micron holds the third spot with 21% share while China’s CXMT was fourth with 9% share. CXMT grew compared to Q3 last year, but it lost one percentage point compared to Q2 this year.",
+    "There’s trouble ahead for SK hynix – the company dominated HBM3E sales, according to Counterpoint Research, but now things are switching over to HBM4 where Samsung has the lead.",
+    "This is an issue for CXMT too – the company plans to start mass production of HBM3E next year, so it’s behind the curve. It’s not all bad, though.",
+    "There are different flavors of AI with different needs. The rise of agentic AI is driving demand for DDR and LPDDR, which are used as system RAM (unlike HBM, which is typically used for AI accelerator cards). Demand is up by 500% and by 400%, respectively, year-over-year.",
+    "CXMT was the first to start mass producing the newest LPDDR6 – interestingly, the Xiaomi 18 Fold uses LPDDR6 for units with 16GB of RAM (and LPDDR5X for 12GB units).",
+    "HBM is still the more profitable kind of DRAM – revenue from HBM sales nearly doubled compared to the year-ago quarter. That said, DDR/LPDDR revenues are growing faster.",
+    "The pace of price increases started to slow in Q3 compared to the first half of 2026 and they will remain high in the near term. If you are planning on upgrading your PC soon, MS Hwang, Research Director at Counterpoint Research, has some bad news: “Memory prices should stay strong next year. HBM prices, which lagged commodity DRAM this year, are now catching up. Long-term agreements (LTAs) are supporting prices and supply will stay tight because major new fabs will not start production until 2028.”"
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368/immaculate_001.jpg",
+      "alt": "Q3 2026 DRAM Revenue Market Share"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368/immaculate_002.jpg",
+      "alt": "CXMT’s LPDDR6 RAM is used in some Xiaomi 18 Fold units"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-05T23:04:41.532244+00:00",
+  "title_tr": "Kontrpuan: küresel dram geliri 3. Çeyrekte % 369 arttı",
+  "body_paragraphs_tr": [
+    "Küresel dram geliri, yeni yapay zeka hızlandırıcıları ve veri merkezleri oluşturmaya yönelik güçlü talep sayesinde yıldan yıla % 369 oranında artmıştır. Ortalama Satış Fiyatı (ASP), gigabit başına 1,9 $ 'a (yani bir gigabaytın 1/8' i) ulaşmıştır.",
+    "Burada en büyük kazanan Güney Kore – Samsung % 38 pazar payıyla en büyük oyuncu olurken, SK hynix % 29 'luk bir paya sahipti. SK'nın geliri çeyrekte % 40' ın üzerinde büyüdü, ancak Samsung için işler şu anda daha iyi gidiyor.",
+    "ABD merkezli Micron % 21 'lik payla üçüncü sırada yer alırken, Çin'in CXMT'si % 9' luk payla dördüncü sırada yer aldı. CXMT geçen yıl üçüncü çeyreğe kıyasla büyüdü, ancak bu yıl ikinci çeyreğe kıyasla yüzde bir puan kaybetti.",
+    "Counterpoint Research'e göre, şirket HBM3E satışlarına hakim olan SK hynix için önümüzde bir sorun var, ancak şimdi işler Samsung'un lider olduğu HBM4 'e geçiyor.",
+    "Bu CXMT için de bir sorun – şirket gelecek yıl HBM3E'nin seri üretimine başlamayı planlıyor, bu yüzden eğrinin gerisinde kalıyor. Yine de o kadar da kötü değil.",
+    "Farklı ihtiyaçlara sahip farklı yapay zeka lezzetleri vardır. Ajan AI'nın yükselişi, sistem RAM'İ olarak kullanılan DDR ve LPDDR'ye olan talebi artırmaktadır (tipik olarak AI hızlandırıcı kartları için kullanılan HBM'nin aksine). Talep, yıldan yıla sırasıyla % 500 ve % 400 artmıştır.",
+    "CXMT, en yeni LPDDR6 'yı seri üretime ilk başlayan model oldu – ilginç bir şekilde, Xiaomi 18 Fold, 16 GB RAM'li üniteler için LPDDR6 (ve 12 GB üniteler için LPDDR5X) kullanıyor.",
+    "HBM hala daha kârlı dram türüdür – HBM satışlarından elde edilen gelir, önceki yılın çeyreğine kıyasla neredeyse iki katına çıkmıştır. Bununla birlikte, DDR/LPDDR gelirleri daha hızlı büyüyor.",
+    "Fiyat artışlarının hızı, 2026 'nın ilk yarısına kıyasla 3. çeyrekte yavaşlamaya başladı ve yakın vadede yüksek kalmaya devam edecek. Bilgisayarınızı yakında yükseltmeyi planlıyorsanız, Counterpoint Research Araştırma Direktörü MS Hwang'ın bazı kötü haberleri var: “Bellek fiyatları gelecek yıl güçlü kalmalı. Bu yıl emtia dramını geride bırakan HBM fiyatları şimdi yakalıyor. Uzun vadeli anlaşmalar (LTA'lar) fiyatları destekliyor ve büyük yeni fabrikalar 2028 'e kadar üretime başlamayacağı için arz sıkışık kalacak .\""
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Samsung",
+    "SK HYNIX",
+    "Mikron",
+    "CXMT",
+    "Bilgisayar donanımı"
+  ]
+}
