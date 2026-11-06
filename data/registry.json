@@ -7899,6 +7899,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/counterpoint_global_dram_revenue_grows_by_369_in_q3-news-75368.php"
   },
+  "75369": {
+    "content_hash": "3f9d1b0f47887bf2ed68209c1ced5f2fdac0229d8c1be8fa03f4cfd3a4c14d43",
+    "date": "06 November 2026",
+    "fetched_at": "2026-11-06T13:30:14.782663+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_16s_gets_certified_and_its_eerily_familiar-news-75369",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_16s_gets_certified_and_its_eerily_familiar-news-75369.php"
+  },
   "75370": {
     "content_hash": "7e11268a989aa74d85fea20c0bf51df419d0e641f42dead9517c6d135736f2e6",
     "date": "05 November 2026",
@@ -7928,5 +7938,35 @@
     "slug": "samsung_galaxy_s27_is_headed_to_india_new_certification_reveals-news-75375",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_s27_is_headed_to_india_new_certification_reveals-news-75375.php"
+  },
+  "75376": {
+    "content_hash": "b4cef7f8a22483ba9bbb6706e1cd4ec5254181dba920b68130c126e9bae66432",
+    "date": "06 November 2026",
+    "fetched_at": "2026-11-06T13:29:53.485967+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_700_series_design_officially_revealed_all_models_to_include_a_rear_display-news-75376",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_700_series_design_officially_revealed_all_models_to_include_a_rear_display-news-75376.php"
+  },
+  "75377": {
+    "content_hash": "ad73dbdc020ff7147bcba0358fb06f3f1b703638a6d19cc00c11116fa0b554a3",
+    "date": "06 November 2026",
+    "fetched_at": "2026-11-06T13:29:32.638443+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_fit4_nfc_support-news-75377",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_fit4_nfc_support-news-75377.php"
+  },
+  "75381": {
+    "content_hash": "ff3f5765090150c5c38678db5153ce0aadda52cc3942cc90a5d9766747282811",
+    "date": "06 November 2026",
+    "fetched_at": "2026-11-06T13:29:16.162010+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_also_reportedly_developing_a_widescreen_phone_for_2027_launch-news-75381",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_also_reportedly_developing_a_widescreen_phone_for_2027_launch-news-75381.php"
   }
 }
