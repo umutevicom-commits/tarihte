@@ -7999,6 +7999,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/oppos_first_gimbal_camera_is_almost_ready_to_take_on_dji_and_insta360-news-75383.php"
   },
+  "75385": {
+    "content_hash": "e30456e3b01ce81e868c0e1c3c5b89dd3206c149cf46a93b00b488a8d99caa6d",
+    "date": "07 November 2026",
+    "fetched_at": "2026-11-07T08:03:42.719031+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ios_27_users_report_hdmi_output_issues_and_theres_no_fix_in_sight-news-75385",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/ios_27_users_report_hdmi_output_issues_and_theres_no_fix_in_sight-news-75385.php"
+  },
   "75386": {
     "content_hash": "79bf1271c67b60885ad45ce646b24ddc14e11e4d03a2761643a21f66d8485c4a",
     "date": "06 November 2026",
@@ -8018,5 +8028,15 @@
     "slug": "samsung_display_tipped_to_lead_oled_supply_for_2027_ipad_air-news-75387",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_display_tipped_to_lead_oled_supply_for_2027_ipad_air-news-75387.php"
+  },
+  "75394": {
+    "content_hash": "fd5cd1f8cc28d1b65c49c379911f3a145fb1f2940a4fc40ff0aa8168e4ea8c70",
+    "date": "07 November 2026",
+    "fetched_at": "2026-11-07T08:03:29.336720+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_buds_on_europe_launch_timeframe-news-75394",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_buds_on_europe_launch_timeframe-news-75394.php"
   }
 }

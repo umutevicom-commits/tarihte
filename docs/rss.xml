@@ -6,7 +6,36 @@
     <atom:link href="https://www.gsmarena.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>GSMArena haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 07 Nov 2026 01:28:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 08:03:59 +0000</lastBuildDate>
+    <item>
+      <title>iOS 27 kullanıcıları HDMI çıkışı sorunlarını bildiriyor ve görünürde bir düzeltme yok</title>
+      <link>https://www.gsmarena.com/ios_27_users_report_hdmi_output_issues_and_theres_no_fix_in_sight-news-75385.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/ios_27_users_report_hdmi_output_issues_and_theres_no_fix_in_sight-news-75385.php</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Ro</author>
+      <category>Öne Çıkanlar</category><category>Apple</category><category>iOS</category>
+      <description>Genellikle yeni yazılım sürümlerinde olduğu gibi, sunumlar nadiren sorunsuz ilerler ve geliştiriciler düzeltmeler sağlamak için fazla mesai yapar. Çok fazla ilgi çeken bir sorun, yapay zeka kullanmasanız veya ülkenizde hiç kullanılmasa bile, bazı durumlarda yaklaşık 15 GB alan kaplayan Apple Intelligence depolama sorunudur. En azından Apple bunu çözene kadar işe yarayan bir geçici çözüm var. HDMI çıkışında sorunlara neden olan bu can sıkıcı hata için de aynı şey söylenemez.</description>
+      <content:encoded><![CDATA[<p>Genellikle yeni yazılım sürümlerinde olduğu gibi, sunumlar nadiren sorunsuz ilerler ve geliştiriciler düzeltmeler sağlamak için fazla mesai yapar. Çok fazla ilgi çeken bir sorun, yapay zeka kullanmasanız veya ülkenizde hiç kullanılmasa bile, bazı durumlarda yaklaşık 15 GB alan kaplayan Apple Intelligence depolama sorunudur. En azından Apple bunu çözene kadar işe yarayan bir geçici çözüm var. HDMI çıkışında sorunlara neden olan bu can sıkıcı hata için de aynı şey söylenemez.</p>
+<p>Reddit'teki çok sayıda kullanıcı, iPhone'larının cihaz kilitlendikten sonra HDMI üzerinden harici video oynatmayı durdurduğunu bildiriyor. Şimdiye kadar, iPhone'unuzu harici bir ekrana bağlayabilir, telefonun ekranını kapatabilir ve video akışı devam edebilirdi. Ancak artık durum böyle değil.</p>
+<p>İlginç bir şekilde, tüm uygulamalar kilitli bir ekranda HDMI çıkışıyla ilgili sorun yaşamıyor. Örneğin VLC, ofisteki testlerimize göre mükemmel çalışıyor gibi görünüyor. Sorunu YouTube ve Netflix'te tekrarlayabildik, ancak iPhone sahipleri diğer uygulamaların da etkilendiğini söylüyor.</p>
+<p>Biraz araştırdığımızda, Apple'ın iOS 27 ile yeni bir &quot;kural&quot; getirdiğini ve uygulamaların belirli harici görüntülü video oturumlarını açıkça kaydetmesini gerektirdiğini gördük. Önceden, iOS otomatik olarak izin verirdi.</p>
+<p>Hiç de çözüm olmayan geçici çözüm, ekranın kilidini her zaman açık tutmak ve belki de pili korumak için parlaklığı azaltmaktır. Ancak daha sonra ekrana dokunmamaya dikkat etmeniz gerekecek, bu da örneğin XREAL Air 2 gibi AR gözlükleri kullanıyorsanız zor olacak.</p>
+<p>Sorun ilk olarak Eylül ayında iOS 27 sürümü ile birlikte bildirildi, ancak en son iOS 27.2 sürümü bunu ele almıyor gibi görünüyor. Ayrıca, Apple'ın harici bir ekranda video oynatırken izinlerin nasıl çalıştığını değiştirdiği anlamında bunun bir &quot;hata&quot; olmadığı iddia edilebilir. Bu, VLC'nin kilitli bir ekranda neden mükemmel çalıştığını açıklayabilir. Bu, geliştiricilerin devreye girip uygulamalarını yeni iOS 27 kurallarına uygun olarak güncellemeleri gerektiği anlamına geliyor.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/ios_27_users_report_hdmi_output_issues_and_theres_no_fix_in_sight-news-75385/immaculate_000.jpg" alt="iOS 27 users report HDMI output issues and there's no fix in sight" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Samsung Galaxy Buds On'un Avrupa lansmanı için artık daha kesin bir zaman dilimimiz var</title>
+      <link>https://www.gsmarena.com/samsung_galaxy_buds_on_europe_launch_timeframe-news-75394.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/samsung_galaxy_buds_on_europe_launch_timeframe-news-75394.php</guid>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Sagar</author>
+      <category>Öne Çıkanlar</category><category>Samsung</category><category>Kulaklık</category><category>Söylentiler</category>
+      <description>Geçen ay tanıtılan Samsung Galaxy Buds On kablosuz kulaklıklar şu anda yalnızca Güney Kore ve ABD'de mevcut. Samsung, Buds On'un 2027 'nin başlarında spesifik olmadan Avrupa'ya geleceğini söyledi. Galaxy Buds On'un Avrupa'daki çıkışı için artık daha kesin bir zaman dilimimiz var.</description>
+      <content:encoded><![CDATA[<p>Geçen ay tanıtılan Samsung Galaxy Buds On kablosuz kulaklıklar şu anda yalnızca Güney Kore ve ABD'de mevcut. Samsung, Buds On'un 2027 'nin başlarında spesifik olmadan Avrupa'ya geleceğini söyledi. Galaxy Buds On'un Avrupa'daki çıkışı için artık daha kesin bir zaman dilimimiz var.</p>
+<p>Kaynaklarına atıfta bulunan SamMobile, Samsung Galaxy Buds On'un 2027 'nin üçüncü haftasında Avrupa'da piyasaya sürüleceğini iddia ediyor. Hala lansman tarihimiz yok, ancak en azından artık daha kesin bir lansman zaman dilimimiz var.</p>
+<p>Galaxy Buds On, Samsung'un ilk klipsli kulaklığı. Güney Kore'de 299.999 KRW ve ABD'de 229 $ fiyatla satılıyor. Onlar hakkında daha fazla bilgi edinmek için Galaxy Buds On'un duyuru kapsamını buradan okuyabilirsiniz.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_buds_on_europe_launch_timeframe-news-75394/immaculate_001.jpg" alt="We now have a more definite timeframe for Samsung Galaxy Buds On's Europe launch" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Oppo Find X10 Ultra'nın iptal edildiği bildirildi</title>
       <link>https://www.gsmarena.com/oppo_find_x10_ultra_may_have_been_cancelled-news-75380.php</link>
@@ -1181,42 +1210,6 @@
 <p>Spotify, UMG'nin yanı sıra Merlin ve Believe ile de anlaşmalar imzaladı, ancak hala Sony Music ve Warner Music ile pazarlık yapıyor. Sanatçıları kazanmak başka bir engeldir, çünkü etiketleri gemide olsa bile vazgeçebilirler. Spotify ve Universal'ın bireysel sanatçılarla bir araya geldiği ve günümüzün büyük yıldızlarını ikna etmenin bazı kıdemli sanatçıları ikna etmekten daha zor olduğu bildirildi.</p>
 <p>En özel hayranlar için ücretli ekstralar uzun zamandır söyleniyor. Şubat 2025 'te bir haber, Spotify'ın Music Pro katmanının Premium'dan 6 $ daha pahalıya mal olacağını ve şarkıları yeniden karıştırmak için araçlar içereceğini söyledi. Bu seviye hiçbir zaman gerçekleşmedi ve kayıpsız ses bunun yerine hiçbir ekstra ücret ödemeden Premium'a geldi.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/spotify_reportedly_wants_up_to_5_extra_per_month_for_ai_covers_and_remixes-news-75309/immaculate_001.jpg" alt="Spotify reportedly wants up to $5 extra per month for AI covers and remixes" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google, Wear OS için bir durum çubuğu deniyor - işte böyle görünüyor</title>
-      <link>https://www.gsmarena.com/google_is_experimenting_with_a_status_bar_for_wear_os__here_is_what_it_looks_like-news-75311.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/google_is_experimenting_with_a_status_bar_for_wear_os__here_is_what_it_looks_like-news-75311.php</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <author>Peter</author>
-      <category>Öne Çıkanlar</category><category>Google</category><category>Wear OS</category><category>Akıllı giyilebilir cihazlar</category>
-      <description>Google, Android telefonlara benzer bir durum çubuğu ekleyerek Wear OS'de küçük ama önemli bir değişiklik yapmayı deniyor. Bu özelliğin bir test sürümü Wear OS 7.1 kanarya emülatörüne dahil edildi ve şirket geliştiricilerden bunu denemelerini ve geri bildirim göndermelerini istiyor.</description>
-      <content:encoded><![CDATA[<p>Google, Android telefonlara benzer bir durum çubuğu ekleyerek Wear OS'de küçük ama önemli bir değişiklik yapmayı deniyor. Bu özelliğin bir test sürümü Wear OS 7.1 kanarya emülatörüne dahil edildi ve şirket geliştiricilerden bunu denemelerini ve geri bildirim göndermelerini istiyor.</p>
-<p>Bu özellik, ekranın üst kısmında geçerli saati ve en önemli durum göstergesini gösteren bir durum çubuğu ekleyecektir – birden fazla durum göstergesi varsa, yalnızca en öncelikli olan görüntülenir.</p>
-<p>Akıllı saatlerde ekran gayrimenkulü değerlidir, bu nedenle Google onu boşa harcamamak için birkaç yol bulmuştur. Birincisi açıktır – kullanıcı bir listede gezinirken durum çubuğu kaybolur. Sadece iki saniye hareketsiz kaldıktan sonra geri gelecektir.</p>
-<p>Tam ekran iletişim kutuları (örneğin bir uyarı açılır penceresi) durum çubuğunu da gizleyecektir. Ek olarak, kullanıcı arayüzü, mevcut ekranın zaten bir saati olması durumunda mevcut saati iki kez göstermekten kaçınmaya özen gösterecektir.</p>
-<p>Geliştiriciler, ekstra alana ihtiyaç duyduklarına karar verirlerse, uygulamalarının belirli ekranlarındaki durum çubuğunu gizleme yollarına sahiptir.</p>
-<p>Google, bir durum çubuğuna sahip olmanın aşağıdaki avantajlarını listeler:</p>
-<p>Görsel tutarlılık: Sistemde ve tüm uygulamalarda tek tip bir saat tipografisi, yerleştirme ve arka plaka.</p>
-<p>Sistem durumu göstergeleri: Platformun durum simgelerini (aktif mikrofon ve konum göstergeleri, bağlantı durumu veya pil bilgileri gibi) ve yüzeyler arasındaki süreyi görüntülemesini sağlar. Önceliğe bağlı olarak aynı anda yalnızca bir simge gösterilir.</p>
-<p>Otomatik kaydırma ve geçiş koordinasyonu: Wear OS 1.8 için Jetpack Compose ile eşleştirildiğinde, kullanıcılar içerikte gezindiğinde sistem durum çubuğu otomatik olarak gizlenir ve kısa (2 saniyelik) bir rölanti gecikmesinden sonra yeniden görünür.</p>
-<p>Yine, bu sadece bir deneydir – standart Wear OS 7.1 emülatöründe bile mevcut olmayacak, sadece kanarya yapısında mevcut olacaktır. Ve saatler için gerçek Wear OS 7.1 sürümünde kesinlikle mevcut olmayacaktır.</p>
-<p>Google'ın, geliştiricilerin bu değişikliği reddetmediğini varsayarsak, bunu Wear OS 8 'in bir parçası haline getirmeyi planladığı anlaşılıyor. Bir geliştiriciyseniz, AppScaffold ve ScreenScaffold'daki değişiklikler hakkında daha fazla bilgi edinmek için Kaynak bağlantısını takip edebilirsiniz.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/google_is_experimenting_with_a_status_bar_for_wear_os__here_is_what_it_looks_like-news-75311/immaculate_001.jpg" alt="Google is experimenting with a Status bar for Wear OS" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Yeni Samsung Galaxy S27+ sertifikası, şarj etme becerisini doğruladı</title>
-      <link>https://www.gsmarena.com/samsung_galaxy_s27_certification_reveals_its_charging_prowess-news-75310.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/samsung_galaxy_s27_certification_reveals_its_charging_prowess-news-75310.php</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <author>Vlad</author>
-      <category>Öne Çıkanlar</category><category>Samsung</category><category>Android</category>
-      <description>Yaklaşan Samsung Galaxy S27+, Eylül ayında 45W şarj desteği ile Çin'in 3C veritabanında ortaya çıktı ve şimdi başka bir sertifika bunu destekliyor. Birkaç güvenlik sertifikası, telefonu 45W'a kadar çıkan 15V/3A derecesiyle listeler.</description>
-      <content:encoded><![CDATA[<p>Yaklaşan Samsung Galaxy S27+, Eylül ayında 45W şarj desteği ile Çin'in 3C veritabanında ortaya çıktı ve şimdi başka bir sertifika bunu destekliyor. Birkaç güvenlik sertifikası, telefonu 45W'a kadar çıkan 15V/3A derecesiyle listeler.</p>
-<p>Bunlar arasında, iki sertifika, küresel SM - S956B ve Kore SM - S956N'den ABD SM - S956U'ya, Çin SM - S9560 'a ve Japonya'daki Docomo'ya giden SC -52H'ye kadar ahizenin hemen hemen her sürümünü kapsıyor. Başka bir deyişle, S27+ satın aldığınız her yerde aynı hızda şarj olacak gibi görünüyor.</p>
-<p>Samsung Galaxy S27+ yeni sertifika</p>
-<p>Bu, Galaxy S26+ ile elde ettiğiniz 45W ile aynı, bu da Samsung'un Plus modellerinin Galaxy S22+ 'dan bu yana art arda altıncı nesil için bu hızda kalmaya hazır olduğu anlamına geliyor. Vanilya Galaxy S27 de bir darbe almıyor, çünkü geçen hafta kendi sertifikası Galaxy S26 ile aynı 25W'a işaret ediyordu. Galaxy S27 serisinin her zamanki Ocak/Şubat lansman penceresine döneceği söyleniyor, bu nedenle tüm bunların resmi olarak onaylanması için çok uzun süre beklemek zorunda kalmamalıyız.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_s27_certification_reveals_its_charging_prowess-news-75310/immaculate_001.jpg" alt="Samsung Galaxy S27+ new certification" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_s27_certification_reveals_its_charging_prowess-news-75310/immaculate_002.jpg" alt="Samsung Galaxy S27+ new certification" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>

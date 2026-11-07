@@ -1,0 +1,43 @@
+{
+  "url": "https://www.gsmarena.com/ios_27_users_report_hdmi_output_issues_and_theres_no_fix_in_sight-news-75385.php",
+  "slug": "ios_27_users_report_hdmi_output_issues_and_theres_no_fix_in_sight-news-75385",
+  "title": "iOS 27 users report HDMI output issues and there's no fix in sight",
+  "news_id": "75385",
+  "date": "07 November 2026",
+  "author": "Ro",
+  "tags": [
+    "Featured",
+    "Apple",
+    "iOS"
+  ],
+  "body_paragraphs": [
+    "As is usually the case with new software releases, rollouts rarely go smoothly, and developers work overtime to provide fixes. One problem that gained a lot of traction is the Apple Intelligence storage issue that occupies about 15GB in some cases, even if you don't use AI or it's not available at all in your country. At least there's a workaround that seems to work until Apple addresses it. The same cannot be said about this annoying bug causing problems with the HDMI output.",
+    "Numerous users on Reddit report that their iPhones stop external video playback over HDMI once the device is locked. Up until now, you could connect your iPhone to an external display, turn off the phone's screen, and the video stream would continue. This is no longer the case, though.",
+    "Interestingly enough, not all apps are having trouble with HDMI out on a locked screen. VLC, for example, seems to work perfectly fine, as per our tests in the office. We were able to replicate the issue in YouTube and Netflix, but iPhone owners say other apps are affected as well.",
+    "With a little bit of digging, we found that Apple introduced a new \"rule\" with iOS 27, requiring apps to explicitly register certain external display video sessions. Before, iOS would provide the permission automatically.",
+    "The temporary solution, which is hardly a solution at all, is to keep the screen unlocked at all times and maybe reduce the brightness to preserve the battery. But then you will have to be careful not to touch the display, which is going to be a challenge if you are using AR glasses like the XREAL Air 2, for example.",
+    "The issue was first reported in September along with the iOS 27 release, but the latest iOS 27.2 version doesn't seem to address it. Then again, one would argue that this isn't a \"bug\" in the sense that Apple just changed how permissions work when playing videos on an external display. This might explain why VLC seems to work perfectly fine on a locked screen. This means developers will have to step in and update their apps in accordance with the new iOS 27 rules."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/ios_27_users_report_hdmi_output_issues_and_theres_no_fix_in_sight-news-75385/immaculate_000.jpg",
+      "alt": "iOS 27 users report HDMI output issues and there's no fix in sight"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-07T08:03:42.719031+00:00",
+  "title_tr": "iOS 27 kullanıcıları HDMI çıkışı sorunlarını bildiriyor ve görünürde bir düzeltme yok",
+  "body_paragraphs_tr": [
+    "Genellikle yeni yazılım sürümlerinde olduğu gibi, sunumlar nadiren sorunsuz ilerler ve geliştiriciler düzeltmeler sağlamak için fazla mesai yapar. Çok fazla ilgi çeken bir sorun, yapay zeka kullanmasanız veya ülkenizde hiç kullanılmasa bile, bazı durumlarda yaklaşık 15 GB alan kaplayan Apple Intelligence depolama sorunudur. En azından Apple bunu çözene kadar işe yarayan bir geçici çözüm var. HDMI çıkışında sorunlara neden olan bu can sıkıcı hata için de aynı şey söylenemez.",
+    "Reddit'teki çok sayıda kullanıcı, iPhone'larının cihaz kilitlendikten sonra HDMI üzerinden harici video oynatmayı durdurduğunu bildiriyor. Şimdiye kadar, iPhone'unuzu harici bir ekrana bağlayabilir, telefonun ekranını kapatabilir ve video akışı devam edebilirdi. Ancak artık durum böyle değil.",
+    "İlginç bir şekilde, tüm uygulamalar kilitli bir ekranda HDMI çıkışıyla ilgili sorun yaşamıyor. Örneğin VLC, ofisteki testlerimize göre mükemmel çalışıyor gibi görünüyor. Sorunu YouTube ve Netflix'te tekrarlayabildik, ancak iPhone sahipleri diğer uygulamaların da etkilendiğini söylüyor.",
+    "Biraz araştırdığımızda, Apple'ın iOS 27 ile yeni bir \"kural\" getirdiğini ve uygulamaların belirli harici görüntülü video oturumlarını açıkça kaydetmesini gerektirdiğini gördük. Önceden, iOS otomatik olarak izin verirdi.",
+    "Hiç de çözüm olmayan geçici çözüm, ekranın kilidini her zaman açık tutmak ve belki de pili korumak için parlaklığı azaltmaktır. Ancak daha sonra ekrana dokunmamaya dikkat etmeniz gerekecek, bu da örneğin XREAL Air 2 gibi AR gözlükleri kullanıyorsanız zor olacak.",
+    "Sorun ilk olarak Eylül ayında iOS 27 sürümü ile birlikte bildirildi, ancak en son iOS 27.2 sürümü bunu ele almıyor gibi görünüyor. Ayrıca, Apple'ın harici bir ekranda video oynatırken izinlerin nasıl çalıştığını değiştirdiği anlamında bunun bir \"hata\" olmadığı iddia edilebilir. Bu, VLC'nin kilitli bir ekranda neden mükemmel çalıştığını açıklayabilir. Bu, geliştiricilerin devreye girip uygulamalarını yeni iOS 27 kurallarına uygun olarak güncellemeleri gerektiği anlamına geliyor."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "iOS"
+  ]
+}
