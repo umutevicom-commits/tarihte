@@ -1,13 +1,33 @@
 [
   {
-    "slug": "oneplus_releases_its_coloros_17_rollout_schedule_for_november-news-75398",
-    "url": "https://www.gsmarena.com/oneplus_releases_its_coloros_17_rollout_schedule_for_november-news-75398.php",
+    "slug": "deals_galaxy_s26_ultra_and_s25_ultra_on_sale_galaxy_z_fold8_price_drops-news-75378",
+    "url": "https://www.gsmarena.com/deals_galaxy_s26_ultra_and_s25_ultra_on_sale_galaxy_z_fold8_price_drops-news-75378.php",
     "date": "07 November 2026",
-    "fetched_at": "2026-11-07T19:57:09.847934+00:00",
+    "fetched_at": "2026-11-07T23:23:56.303281+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "3214b6f773ee6b88b9b3d532aa9160b46ffa641a9699e0337d61b38667ea71c8"
+    "content_hash": "6000ce37d065b0a7789ec29902631e3dc657c44bea1b42d8a01fddcd2869a9da"
+  },
+  {
+    "slug": "vivo_x500_ultra_launch_timeframe_corroborated-news-75399",
+    "url": "https://www.gsmarena.com/vivo_x500_ultra_launch_timeframe_corroborated-news-75399.php",
+    "date": "07 November 2026",
+    "fetched_at": "2026-11-07T23:23:36.746802+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "5b7e09a3f8df68a929dea130d92d6a14a07685bfb6932fb5b3378d069b7b1c06"
+  },
+  {
+    "content_hash": "3214b6f773ee6b88b9b3d532aa9160b46ffa641a9699e0337d61b38667ea71c8",
+    "date": "07 November 2026",
+    "fetched_at": "2026-11-07T19:57:09.847934+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_releases_its_coloros_17_rollout_schedule_for_november-news-75398",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_releases_its_coloros_17_rollout_schedule_for_november-news-75398.php"
   },
   {
     "content_hash": "1f05c391ecc29fb68fcfe724cd161678f5ebbd97d4ac04980b2bb7385444eeed",

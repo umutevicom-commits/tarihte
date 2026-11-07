@@ -7959,6 +7959,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_fit4_nfc_support-news-75377.php"
   },
+  "75378": {
+    "content_hash": "6000ce37d065b0a7789ec29902631e3dc657c44bea1b42d8a01fddcd2869a9da",
+    "date": "07 November 2026",
+    "fetched_at": "2026-11-07T23:23:56.303281+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_galaxy_s26_ultra_and_s25_ultra_on_sale_galaxy_z_fold8_price_drops-news-75378",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_galaxy_s26_ultra_and_s25_ultra_on_sale_galaxy_z_fold8_price_drops-news-75378.php"
+  },
   "75380": {
     "content_hash": "c7a93f0ef67bdf55bcf65c133a3237f54e2aa9183704d161000427d075a5335e",
     "date": "06 November 2026",
@@ -8078,5 +8088,15 @@
     "slug": "oneplus_releases_its_coloros_17_rollout_schedule_for_november-news-75398",
     "status": "ok",
     "url": "https://www.gsmarena.com/oneplus_releases_its_coloros_17_rollout_schedule_for_november-news-75398.php"
+  },
+  "75399": {
+    "content_hash": "5b7e09a3f8df68a929dea130d92d6a14a07685bfb6932fb5b3378d069b7b1c06",
+    "date": "07 November 2026",
+    "fetched_at": "2026-11-07T23:23:36.746802+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_ultra_launch_timeframe_corroborated-news-75399",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_ultra_launch_timeframe_corroborated-news-75399.php"
   }
 }
