@@ -8038,5 +8038,35 @@
     "slug": "samsung_galaxy_buds_on_europe_launch_timeframe-news-75394",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_buds_on_europe_launch_timeframe-news-75394.php"
+  },
+  "75395": {
+    "content_hash": "1f05c391ecc29fb68fcfe724cd161678f5ebbd97d4ac04980b2bb7385444eeed",
+    "date": "07 November 2026",
+    "fetched_at": "2026-11-07T15:59:31.389571+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "whatsapp_phone_number_privacy_feature_development-news-75395",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_phone_number_privacy_feature_development-news-75395.php"
+  },
+  "75396": {
+    "content_hash": "3ec2691646027cfbe706b5edf65fe164b3cc66ded7a6112ee884110b6ad2c80a",
+    "date": "07 November 2026",
+    "fetched_at": "2026-11-07T15:59:17.568962+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_might_actually_arrive_this_year_3c_reveals_the_charging_capabilities-news-75396",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_might_actually_arrive_this_year_3c_reveals_the_charging_capabilities-news-75396.php"
+  },
+  "75397": {
+    "content_hash": "7ed1f7289ed28af64738a5b4e58d89ed918511d401427b53e79a8ebe962c6885",
+    "date": "07 November 2026",
+    "fetched_at": "2026-11-07T15:58:57.964624+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397.php"
   }
 }

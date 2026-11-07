@@ -1,0 +1,51 @@
+{
+  "url": "https://www.gsmarena.com/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397.php",
+  "slug": "google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397",
+  "title": "Google to add vocabulary for corrected words to Gboard's Rambler voice typing feature",
+  "news_id": "75397",
+  "date": "07 November 2026",
+  "author": "Ro",
+  "tags": [
+    "Featured",
+    "Google",
+    "Android",
+    "Apps"
+  ],
+  "body_paragraphs": [
+    "Android Authority app teardown reveals some cool new features coming to Gboard's AI-powered voice typing feature called Rambler. Rambler, however, is a Pixel-exclusive functionality, at least for now, and makes voice typing that much easier. It can leave out pauses or other filler words, but it can't remember corrected words or slang from your personal vocabulary. That's about to change, though.",
+    "The new upcoming Rambler voice typing features",
+    "After dissecting Gboard version 18.6.3.10 beta, Android Authority found clues that Google is working on a vocabulary feature so that Rambler can learn from you over time. One of the settings allows Rambler to remember corrected words, while another allows the AI to look into your contacts and accurately identify names during voice typing.",
+    "Of course, you can add words manually and see the full list of your vocabulary in Gboard's settings. There's even an export feature so you can share your list with others.",
+    "We don't know when Google will introduce the Rambler novelties, but it seems that the development team is making progress. Android Authority spotted the first signs of Rambler getting smarter back in August, and now we have several features that make the voice typing more personalized and accurate in the latest beta build, so it might not be that long before we see them implemented."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397/immaculate_001.jpg",
+      "alt": "The new upcoming Rambler voice typing features"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397/immaculate_002.jpg",
+      "alt": "The new upcoming Rambler voice typing features"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/google_to_add_vocabulary_for_corrected_words_to_gboards_rambler_voice_typing_feature-news-75397/immaculate_003.jpg",
+      "alt": "The new upcoming Rambler voice typing features"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-07T15:58:57.964624+00:00",
+  "title_tr": "Google, Gboard'un Rambler sesli yazma özelliğine düzeltilmiş kelimeler için kelime hazinesi ekleyecek",
+  "body_paragraphs_tr": [
+    "Android Authority uygulaması teardown, Gboard'un Rambler adlı yapay zeka destekli ses yazma özelliğine gelen bazı harika yeni özellikleri ortaya koyuyor. Bununla birlikte, Rambler, en azından şimdilik Pixel'e özel bir işlevdir ve sesli yazmayı çok daha kolay hale getirir. Duraklamalar veya diğer dolgu kelimeleri bırakabilir, ancak kişisel kelime dağarcığınızdan düzeltilmiş kelimeleri veya argoları hatırlayamaz. Ama bu değişmek üzere.",
+    "Yaklaşan yeni Rambler sesli yazma özellikleri",
+    "Android Authority, Gboard 18.6.3.10 beta sürümünü inceledikten sonra, Google'ın Rambler'ın zaman içinde sizden öğrenebilmesi için bir kelime dağarcığı özelliği üzerinde çalıştığına dair ipuçları buldu. Ayarlardan biri Rambler'ın düzeltilmiş kelimeleri hatırlamasını sağlarken, bir diğeri yapay zekanın sesli yazma sırasında kişilerinize bakmasına ve isimleri doğru bir şekilde tanımlamasına olanak tanır.",
+    "Tabii ki, kelimeleri manuel olarak ekleyebilir ve Gboard'un ayarlarında kelime dağarcığınızın tam listesini görebilirsiniz. Listenizi başkalarıyla paylaşabilmeniz için bir dışa aktarma özelliği bile var.",
+    "Google'ın Rambler yeniliklerini ne zaman tanıtacağını bilmiyoruz, ancak geliştirme ekibinin ilerleme kaydettiği görülüyor. Android Authority, Ağustos ayında Rambler'ın daha akıllı hale geldiğine dair ilk işaretleri tespit etti ve şimdi en son beta sürümünde ses yazmayı daha kişiselleştirilmiş ve doğru hale getiren birkaç özelliğe sahibiz, bu yüzden bunların uygulandığını görmemiz çok uzun sürmeyebilir."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Google",
+    "Android",
+    "Uygulamalar"
+  ]
+}
