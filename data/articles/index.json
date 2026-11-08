@@ -1,23 +1,33 @@
 [
   {
-    "slug": "weekly_poll_are_you_interested_in_the_motorola_signature_27-news-75364",
-    "url": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_motorola_signature_27-news-75364.php",
+    "slug": "deals_latest_samsung_foldables_pixel_11_series_and_more_discounted-news-75393",
+    "url": "https://www.gsmarena.com/deals_latest_samsung_foldables_pixel_11_series_and_more_discounted-news-75393.php",
     "date": "08 November 2026",
-    "fetched_at": "2026-11-08T10:56:25.294165+00:00",
+    "fetched_at": "2026-11-08T17:25:24.754443+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "f59d05c064126bd83198cad345f2610601b8381e64f736990636f4d92fd01336"
+    "content_hash": "8f9c2796f24034dcea5101887ff6192ee651399cb664dd52312d1127a2c4c8a3"
   },
   {
-    "slug": "deals_vivo_x500_pro_and_x500_pro_max_come_with_freebies_the_oppo_find_x10_series_has_a_small_discoun-news-75384",
-    "url": "https://www.gsmarena.com/deals_vivo_x500_pro_and_x500_pro_max_come_with_freebies_the_oppo_find_x10_series_has_a_small_discoun-news-75384.php",
+    "content_hash": "f59d05c064126bd83198cad345f2610601b8381e64f736990636f4d92fd01336",
+    "date": "08 November 2026",
+    "fetched_at": "2026-11-08T10:56:25.294165+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_are_you_interested_in_the_motorola_signature_27-news-75364",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_motorola_signature_27-news-75364.php"
+  },
+  {
+    "content_hash": "52cc8019d8b524f9314e4d06e4c5574b9e710568c930f3036a159452a1511941",
     "date": "08 November 2026",
     "fetched_at": "2026-11-08T10:55:36.224313+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "52cc8019d8b524f9314e4d06e4c5574b9e710568c930f3036a159452a1511941"
+    "retries": 0,
+    "slug": "deals_vivo_x500_pro_and_x500_pro_max_come_with_freebies_the_oppo_find_x10_series_has_a_small_discoun-news-75384",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_vivo_x500_pro_and_x500_pro_max_come_with_freebies_the_oppo_find_x10_series_has_a_small_discoun-news-75384.php"
   },
   {
     "content_hash": "1e0723cec641b48733f2814e5ac31a29954b2874a8d851727104ad78a7522cee",
