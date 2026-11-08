@@ -1,23 +1,33 @@
 [
   {
-    "slug": "deals_galaxy_s26_ultra_and_s25_ultra_on_sale_galaxy_z_fold8_price_drops-news-75378",
-    "url": "https://www.gsmarena.com/deals_galaxy_s26_ultra_and_s25_ultra_on_sale_galaxy_z_fold8_price_drops-news-75378.php",
-    "date": "07 November 2026",
-    "fetched_at": "2026-11-07T23:23:56.303281+00:00",
+    "slug": "weekly_poll_results_touchscreens_on_laptops_only_make_sense_if_you_can_use_the_laptop_as_a_tablet-news-75367",
+    "url": "https://www.gsmarena.com/weekly_poll_results_touchscreens_on_laptops_only_make_sense_if_you_can_use_the_laptop_as_a_tablet-news-75367.php",
+    "date": "08 November 2026",
+    "fetched_at": "2026-11-08T03:34:14.435773+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "6000ce37d065b0a7789ec29902631e3dc657c44bea1b42d8a01fddcd2869a9da"
+    "content_hash": "1e0723cec641b48733f2814e5ac31a29954b2874a8d851727104ad78a7522cee"
   },
   {
-    "slug": "vivo_x500_ultra_launch_timeframe_corroborated-news-75399",
-    "url": "https://www.gsmarena.com/vivo_x500_ultra_launch_timeframe_corroborated-news-75399.php",
+    "content_hash": "6000ce37d065b0a7789ec29902631e3dc657c44bea1b42d8a01fddcd2869a9da",
+    "date": "07 November 2026",
+    "fetched_at": "2026-11-07T23:23:56.303281+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_galaxy_s26_ultra_and_s25_ultra_on_sale_galaxy_z_fold8_price_drops-news-75378",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_galaxy_s26_ultra_and_s25_ultra_on_sale_galaxy_z_fold8_price_drops-news-75378.php"
+  },
+  {
+    "content_hash": "5b7e09a3f8df68a929dea130d92d6a14a07685bfb6932fb5b3378d069b7b1c06",
     "date": "07 November 2026",
     "fetched_at": "2026-11-07T23:23:36.746802+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "5b7e09a3f8df68a929dea130d92d6a14a07685bfb6932fb5b3378d069b7b1c06"
+    "retries": 0,
+    "slug": "vivo_x500_ultra_launch_timeframe_corroborated-news-75399",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_ultra_launch_timeframe_corroborated-news-75399.php"
   },
   {
     "content_hash": "3214b6f773ee6b88b9b3d532aa9160b46ffa641a9699e0337d61b38667ea71c8",
