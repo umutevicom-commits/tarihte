@@ -1,13 +1,23 @@
 [
   {
-    "slug": "deals_latest_samsung_foldables_pixel_11_series_and_more_discounted-news-75393",
-    "url": "https://www.gsmarena.com/deals_latest_samsung_foldables_pixel_11_series_and_more_discounted-news-75393.php",
+    "slug": "inside_arri_from_hollywood_cinema_cameras_to_the_honor_magic9_pro_max-news-75353",
+    "url": "https://www.gsmarena.com/inside_arri_from_hollywood_cinema_cameras_to_the_honor_magic9_pro_max-news-75353.php",
     "date": "08 November 2026",
-    "fetched_at": "2026-11-08T17:25:24.754443+00:00",
+    "fetched_at": "2026-11-08T21:30:07.502493+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "8f9c2796f24034dcea5101887ff6192ee651399cb664dd52312d1127a2c4c8a3"
+    "content_hash": "d97b609404c9a501ad7c32fc8566b18cc81558ab2ff7c21a31f19c15bf55fc0d"
+  },
+  {
+    "content_hash": "8f9c2796f24034dcea5101887ff6192ee651399cb664dd52312d1127a2c4c8a3",
+    "date": "08 November 2026",
+    "fetched_at": "2026-11-08T17:25:24.754443+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_latest_samsung_foldables_pixel_11_series_and_more_discounted-news-75393",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_latest_samsung_foldables_pixel_11_series_and_more_discounted-news-75393.php"
   },
   {
     "content_hash": "f59d05c064126bd83198cad345f2610601b8381e64f736990636f4d92fd01336",
