@@ -1,13 +1,33 @@
 [
   {
-    "slug": "weekly_poll_results_touchscreens_on_laptops_only_make_sense_if_you_can_use_the_laptop_as_a_tablet-news-75367",
-    "url": "https://www.gsmarena.com/weekly_poll_results_touchscreens_on_laptops_only_make_sense_if_you_can_use_the_laptop_as_a_tablet-news-75367.php",
+    "slug": "weekly_poll_are_you_interested_in_the_motorola_signature_27-news-75364",
+    "url": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_motorola_signature_27-news-75364.php",
     "date": "08 November 2026",
-    "fetched_at": "2026-11-08T03:34:14.435773+00:00",
+    "fetched_at": "2026-11-08T10:56:25.294165+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "1e0723cec641b48733f2814e5ac31a29954b2874a8d851727104ad78a7522cee"
+    "content_hash": "f59d05c064126bd83198cad345f2610601b8381e64f736990636f4d92fd01336"
+  },
+  {
+    "slug": "deals_vivo_x500_pro_and_x500_pro_max_come_with_freebies_the_oppo_find_x10_series_has_a_small_discoun-news-75384",
+    "url": "https://www.gsmarena.com/deals_vivo_x500_pro_and_x500_pro_max_come_with_freebies_the_oppo_find_x10_series_has_a_small_discoun-news-75384.php",
+    "date": "08 November 2026",
+    "fetched_at": "2026-11-08T10:55:36.224313+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "52cc8019d8b524f9314e4d06e4c5574b9e710568c930f3036a159452a1511941"
+  },
+  {
+    "content_hash": "1e0723cec641b48733f2814e5ac31a29954b2874a8d851727104ad78a7522cee",
+    "date": "08 November 2026",
+    "fetched_at": "2026-11-08T03:34:14.435773+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_results_touchscreens_on_laptops_only_make_sense_if_you_can_use_the_laptop_as_a_tablet-news-75367",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_touchscreens_on_laptops_only_make_sense_if_you_can_use_the_laptop_as_a_tablet-news-75367.php"
   },
   {
     "content_hash": "6000ce37d065b0a7789ec29902631e3dc657c44bea1b42d8a01fddcd2869a9da",
