@@ -1,13 +1,23 @@
 [
   {
-    "slug": "the_oppo_reno17_and_reno17_pro_are_launching_next_week-news-75400",
-    "url": "https://www.gsmarena.com/the_oppo_reno17_and_reno17_pro_are_launching_next_week-news-75400.php",
+    "slug": "samsung_made_limited_edition_galaxy_buds4_pro_with_nina_chuba-news-75409",
+    "url": "https://www.gsmarena.com/samsung_made_limited_edition_galaxy_buds4_pro_with_nina_chuba-news-75409.php",
     "date": "09 November 2026",
-    "fetched_at": "2026-11-09T08:53:26.544743+00:00",
+    "fetched_at": "2026-11-09T20:18:20.759877+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "d9feb6601cd65cfc46036692fbc2ba8ee288617ad7020ce439b063ebad40b9eb"
+    "content_hash": "457e4b3bcd9d62d455a88d252b9ff079823a139e58c59412fcb790816a3425d9"
+  },
+  {
+    "content_hash": "d9feb6601cd65cfc46036692fbc2ba8ee288617ad7020ce439b063ebad40b9eb",
+    "date": "09 November 2026",
+    "fetched_at": "2026-11-09T08:53:26.544743+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_oppo_reno17_and_reno17_pro_are_launching_next_week-news-75400",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_oppo_reno17_and_reno17_pro_are_launching_next_week-news-75400.php"
   },
   {
     "content_hash": "d97b609404c9a501ad7c32fc8566b18cc81558ab2ff7c21a31f19c15bf55fc0d",
