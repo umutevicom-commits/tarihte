@@ -8148,5 +8148,15 @@
     "slug": "vivo_x500_ultra_launch_timeframe_corroborated-news-75399",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_x500_ultra_launch_timeframe_corroborated-news-75399.php"
+  },
+  "75400": {
+    "content_hash": "d9feb6601cd65cfc46036692fbc2ba8ee288617ad7020ce439b063ebad40b9eb",
+    "date": "09 November 2026",
+    "fetched_at": "2026-11-09T08:53:26.544743+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_oppo_reno17_and_reno17_pro_are_launching_next_week-news-75400",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_oppo_reno17_and_reno17_pro_are_launching_next_week-news-75400.php"
   }
 }
