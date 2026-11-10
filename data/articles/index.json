@@ -1,13 +1,33 @@
 [
   {
-    "slug": "samsung_made_limited_edition_galaxy_buds4_pro_with_nina_chuba-news-75409",
-    "url": "https://www.gsmarena.com/samsung_made_limited_edition_galaxy_buds4_pro_with_nina_chuba-news-75409.php",
-    "date": "09 November 2026",
-    "fetched_at": "2026-11-09T20:18:20.759877+00:00",
+    "slug": "announcing_the_nominees_for_the_gsmarena_2026_endofyear_awards-news-75263",
+    "url": "https://www.gsmarena.com/announcing_the_nominees_for_the_gsmarena_2026_endofyear_awards-news-75263.php",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T03:54:16.121649+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "457e4b3bcd9d62d455a88d252b9ff079823a139e58c59412fcb790816a3425d9"
+    "content_hash": "f07c98ee1089c7eabb9aa6f0bec11b80128bbe57a41a90ee89c7d8e947ce8464"
+  },
+  {
+    "slug": "vivo_x500_x500_pro_and_x500_pro_max_prices_for_india_leak-news-75413",
+    "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_prices_for_india_leak-news-75413.php",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T03:53:58.644233+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1c4664edd4a38a3df965c143f6d109adff14c002c1ab1da4d339e6639f0f9309"
+  },
+  {
+    "content_hash": "457e4b3bcd9d62d455a88d252b9ff079823a139e58c59412fcb790816a3425d9",
+    "date": "09 November 2026",
+    "fetched_at": "2026-11-09T20:18:20.759877+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_made_limited_edition_galaxy_buds4_pro_with_nina_chuba-news-75409",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_made_limited_edition_galaxy_buds4_pro_with_nina_chuba-news-75409.php"
   },
   {
     "content_hash": "d9feb6601cd65cfc46036692fbc2ba8ee288617ad7020ce439b063ebad40b9eb",
