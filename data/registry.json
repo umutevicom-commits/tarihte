@@ -8179,6 +8179,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_made_limited_edition_galaxy_buds4_pro_with_nina_chuba-news-75409.php"
   },
+  "75412": {
+    "content_hash": "4220b1f8c03f1438fafec46fb86c29021c0380a8d65d722c316f2842ecb22815",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T11:59:26.321190+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a34_gets_updated_to_one_ui_9_based_on_android_17-news-75412",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a34_gets_updated_to_one_ui_9_based_on_android_17-news-75412.php"
+  },
   "75413": {
     "content_hash": "1c4664edd4a38a3df965c143f6d109adff14c002c1ab1da4d339e6639f0f9309",
     "date": "10 November 2026",
@@ -8188,5 +8198,55 @@
     "slug": "vivo_x500_x500_pro_and_x500_pro_max_prices_for_india_leak-news-75413",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_x500_x500_pro_and_x500_pro_max_prices_for_india_leak-news-75413.php"
+  },
+  "75414": {
+    "content_hash": "d7065f9377c46cb6f68e50f8f4eaea74deb445a536c5c239ce7644e1a33198d8",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T11:59:09.210741+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_pro_india_launch_month_leaks_along_with_xiaomi_18t_specs-news-75414",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_india_launch_month_leaks_along_with_xiaomi_18t_specs-news-75414.php"
+  },
+  "75415": {
+    "content_hash": "8a9d42bf33655acf0ecf0f52ac9219da374350db2075d00470ae52cad6f8a50e",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T11:58:57.250743+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "tipster_says_vivos_12000mah_battery_is_in_mass_production-news-75415",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tipster_says_vivos_12000mah_battery_is_in_mass_production-news-75415.php"
+  },
+  "75416": {
+    "content_hash": "da1c4387897b4ddabcd16efa763cd8d7e06462f69f3cd2112024a1e5fca30b65",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T11:58:30.216005+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_s27_series_camera_setup_detailed-news-75416",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s27_series_camera_setup_detailed-news-75416.php"
+  },
+  "75417": {
+    "content_hash": "9eee375d1c16ab12e4b374acdf3a41495b43af9b9a61b81863a0e8d92a4b933f",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T11:58:45.235618+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_17_could_debut_with_a_widescreen_display_rumor_claims-news-75417",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_17_could_debut_with_a_widescreen_display_rumor_claims-news-75417.php"
+  },
+  "75419": {
+    "content_hash": "e282d9b99b6f1ad5ae5ece352f3dd0e293067eed4948c33f525aa3b390bf68be",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T11:58:07.990397+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_ultra_camera_specs_tipped-news-75419",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_ultra_camera_specs_tipped-news-75419.php"
   }
 }
