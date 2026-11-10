@@ -1,0 +1,49 @@
+{
+  "url": "https://www.gsmarena.com/google_wallet_gains_support_for_overseas_qr_payments-news-75423.php",
+  "slug": "google_wallet_gains_support_for_overseas_qr_payments-news-75423",
+  "title": "Google Wallet gains support for overseas QR payments",
+  "news_id": "75423",
+  "date": "10 November 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "Google",
+    "Android",
+    "Mobile software"
+  ],
+  "body_paragraphs": [
+    "With the release of the latest version of Google Play Services, Google Wallet has gained support for \"Traveler QR\". This will let you pay with QR codes when you're traveling. That's a huge help in some countries which don't have a lot of contactless payment infrastructure.",
+    "When you get this feature, if you head to the Wallet app's settings, you should see the \"Overseas QR payments\" option as it appears in the screenshots below.",
+    "Overseas QR payments in the Google Wallet settings",
+    "Google Wallet uses the Alipay+ network, which boasts about working in over 210 markets worldwide, where \"acceptance tends to be concentrated in areas associated with tourism\", like retail stores, duty-free shops, hotels, restaurants, attractions, and public transportation.",
+    "Alipay+ connects 50 mobile payment providers, including Alipay itself in the Chinese mainland, AlipayHK in Hong Kong, GCash in the Philippines, Touch ‘n Go eWallet in Malaysia, TrueMoney in Thailand, Hipay in Mongolia, Kakao Pay, Naver Pay, and Toss Pay in South Korea, OCBC Digital in Singapore, and many more.",
+    "So basically, you should be able to scan a payment QR code and pay with Google Wallet wherever any of these payment providers are accepted. Google says Traveler QR is enabled automatically when you travel to any of the supported destinations."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/google_wallet_gains_support_for_overseas_qr_payments-news-75423/immaculate_001.jpg",
+      "alt": "Overseas QR payments in the Google Wallet settings"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/google_wallet_gains_support_for_overseas_qr_payments-news-75423/immaculate_002.jpg",
+      "alt": "Overseas QR payments in the Google Wallet settings"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-10T19:20:29.378085+00:00",
+  "title_tr": "Google Wallet, yurtdışı QR ödemeleri için destek aldı",
+  "body_paragraphs_tr": [
+    "Google Play Hizmetlerinin en son sürümünün piyasaya sürülmesiyle Google Cüzdan, \"Traveler QR\" desteği kazandı. Bu, seyahat ederken QR kodlarıyla ödeme yapmanızı sağlar. Bu, çok fazla temassız ödeme altyapısına sahip olmayan bazı ülkelerde çok büyük bir yardımdır.",
+    "Bu özelliği aldığınızda, Cüzdan uygulamasının ayarlarına giderseniz, aşağıdaki ekran görüntülerinde göründüğü gibi “Yurtdışı QR ödemeleri” seçeneğini görmelisiniz.",
+    "Google Cüzdan ayarlarında yurtdışı QR ödemeleri",
+    "Google Wallet, perakende mağazalar, gümrüksüz satış mağazaları, oteller, restoranlar, turistik yerler ve toplu taşıma gibi \"kabulün turizmle ilişkili alanlarda yoğunlaşma eğiliminde olduğu\" dünya çapında 210 'dan fazla pazarda çalışmakla övünen Alipay+ ağını kullanıyor.",
+    "Alipay+, Çin anakarasında Alipay, Hong Kong'da AlipayHK, Filipinler'de GCash, Malezya'da Touch'n Go eWallet, Tayland'da TrueMoney, Moğolistan'da Hipay, Güney Kore'de Kakao Pay, Naver Pay ve Toss Pay, Singapur'da OCBC Digital ve daha fazlası dahil olmak üzere 50 mobil ödeme sağlayıcısını birbirine bağlar.",
+    "Temel olarak, bu ödeme sağlayıcılarından herhangi birinin kabul edildiği her yerde bir ödeme QR kodunu tarayabilmeniz ve Google Cüzdan ile ödeme yapabilmeniz gerekir. Google, desteklenen destinasyonlardan herhangi birine seyahat ettiğinizde Traveler QR'nin otomatik olarak etkinleştirildiğini söylüyor."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Google",
+    "Android",
+    "MOBİL YAZILIMLAR"
+  ]
+}

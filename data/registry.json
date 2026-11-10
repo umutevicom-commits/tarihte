@@ -8239,6 +8239,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/oneplus_17_could_debut_with_a_widescreen_display_rumor_claims-news-75417.php"
   },
+  "75418": {
+    "content_hash": "2c3e87912a0cfddbffac1cb9a8c27366689d58b74cdf572c2ac014d0eb9a96f3",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T19:21:23.643459+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "more_oppo_find_n7_specs_emerge-news-75418",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/more_oppo_find_n7_specs_emerge-news-75418.php"
+  },
   "75419": {
     "content_hash": "e282d9b99b6f1ad5ae5ece352f3dd0e293067eed4948c33f525aa3b390bf68be",
     "date": "10 November 2026",
@@ -8248,5 +8258,55 @@
     "slug": "vivo_x500_ultra_camera_specs_tipped-news-75419",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_x500_ultra_camera_specs_tipped-news-75419.php"
+  },
+  "75420": {
+    "content_hash": "a59b49014a4830d2eb5e91733049aeb30a25a080e2366224c9a55c8a55b9cec0",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T19:21:06.881058+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_teases_new_matebook_fold_laptop_with_cover_screen-news-75420",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_teases_new_matebook_fold_laptop_with_cover_screen-news-75420.php"
+  },
+  "75421": {
+    "content_hash": "b26ad511eda28a755bb3c25686fd97e3d8566722665b4db8641393369f35dabd",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T19:20:45.246631+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_air_2_and_iphone_18_dummy_models_leak-news-75421",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421.php"
+  },
+  "75422": {
+    "content_hash": "810b3b496f306418545fa635f9315884efe41da462cbedbf591b02f6b8508ca0",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T19:20:02.923412+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_pro_in_for_review-news-75422",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_in_for_review-news-75422.php"
+  },
+  "75423": {
+    "content_hash": "69079d36ce6bb410b01c2b59771ea6627ddae91f091e3ad411160c0eb4d1c63a",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T19:20:29.378085+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "google_wallet_gains_support_for_overseas_qr_payments-news-75423",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/google_wallet_gains_support_for_overseas_qr_payments-news-75423.php"
+  },
+  "75424": {
+    "content_hash": "536b58dfdaee4dddc7a61c4f5f480b9e795ae733fe82c4d44958a7ca9defe3bd",
+    "date": "10 November 2026",
+    "fetched_at": "2026-11-10T19:19:42.868725+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_officially_details_gallery_sync_with_google_storage-news-75424",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_officially_details_gallery_sync_with_google_storage-news-75424.php"
   }
 }
