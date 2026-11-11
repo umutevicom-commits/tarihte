@@ -1,0 +1,15 @@
+# Honor 700 Pro, Geekbench'te yer alarak yonga setini doğrulamış olabilir
+
+Honor, 700 ailesinin üç üyesinin de tasarımını zaten açıklamıştı ancak bunlar henüz tamamen resmî değil. Tanıtım 13 Kasım'da gerçekleşecek. Bu arada, FAP-AN00 model numaralı bir Honor cihazı Geekbench çevrim içi veri tabanında görüldü ve bugün erken saatlerde karşılaştırma testinin 6.7.1 sürümünü çalıştırdı.
+
+Aşağıdaki ekran görüntüsünde de görebileceğiniz gibi, tek çekirdekli testte 2.862 ve çok çekirdekli testte 9.397 puan aldı. Listede, cihazın Snapdragon 8 Gen 5 yonga setiyle donatıldığı görülüyor. Bu yonga setinin kısa süre önce Honor 700 Pro'nun kalbinde yer alacağı yönünde söylentiler çıkmıştı. Yani büyük olasılıkla bu telefon o telefon.
+
+Test edilen prototip 16 GB RAM'e sahipti ve Android 17 ile çalışıyordu. Honor, 700 Pro'nun üç RAM/depolama yapılandırmasında sunulacağını zaten doğrulamıştı: 12/256 GB, 12/512 GB ve 16/512 GB. Yani Geekbench'te test edilen model en üst düzey özelliklere sahipti.
+
+Geçmişteki sızıntılara göre Honor 700 Pro, 1,5K çözünürlüğe sahip 6,57 inçlik düz bir ekrana, 200 MP'lik bir ana kameraya, 12 MP'lik bir ultra geniş açı kameraya, 50 MP'lik bir telefoto kameraya ve yaklaşık 9.000 mAh kapasiteli bir bataryaya sahip olacak. Ayrıca 80 W kablolu ve 50 W kablosuz şarjı destekleyecek. Ayrıca kalp atış hızı takibini ve kan oksijen seviyesi ölçümlerini bile destekleyebilecek bir arka ekrana da sahip olacak.
+
+---
+
+## Görseller
+
+![Honor 700 Pro may have just run Geekbench confirming its chipset](https://umutevicom-commits.github.io/tarihte/data/images/honor_700_pro_may_have_just_run_geekbench_confirming_its_chipset-news-75440/immaculate_001.jpg)

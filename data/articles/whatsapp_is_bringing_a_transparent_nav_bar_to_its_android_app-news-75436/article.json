@@ -1,0 +1,39 @@
+{
+  "url": "https://www.gsmarena.com/whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436.php",
+  "slug": "whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436",
+  "title": "WhatsApp is bringing a transparent nav bar to its Android app",
+  "news_id": "75436",
+  "date": "11 November 2026",
+  "author": "Michail",
+  "tags": [
+    "Featured",
+    "WhatsApp",
+    "Android",
+    "Online services"
+  ],
+  "body_paragraphs": [
+    "The latest WhatsApp beta (build 2.26.45.5) reveals a new look for the navigation bar. Thanks to the team over at WABetaInfo, we have our first look at the floating nav bar and its transparent design.",
+    "The bar shrinks in width and height to a smaller pill shape when you scroll down through your chats, complete with rounded corners and no text labels. It returns back to its full size when you swipe up.",
+    "The new floating bar is visible across the Chats, Updates, Contacts and Calls sub-menus and replaces the previous static bar. Those who want to try out the new look bar can head to the Google Play Store and sign up for the WhatsApp beta."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436/immaculate_000.jpg",
+      "alt": "WhatsApp floating nav bar (Source: WABetaInfo)"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-11T17:36:32.352551+00:00",
+  "title_tr": "WhatsApp, Android uygulamasına şeffaf bir gezinme çubuğu getiriyor",
+  "body_paragraphs_tr": [
+    "En son WhatsApp beta sürümü (derleme 2.26.45.5), gezinme çubuğunun yeni görünümünü ortaya koyuyor. WABetaInfo ekibi sayesinde kayan gezinme çubuğuna ve şeffaf tasarımına ilk kez göz atma fırsatı bulduk.",
+    "Sohbetlerinizde aşağı kaydırdığınızda çubuğun genişliği ve yüksekliği küçülerek yuvarlatılmış köşeleri olan ve metin etiketi bulunmayan daha küçük bir hap şeklini alır. Yukarı kaydırdığınızda tam boyutuna geri döner.",
+    "Yeni kayan çubuk, Sohbetler, Güncellemeler, Kişiler ve Aramalar alt menülerinde görülebilir ve önceki sabit çubuğun yerini alır. Yeni görünüme sahip çubuğu denemek isteyenler Google Play Store'a giderek WhatsApp beta sürümüne kaydolabilir."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "WhatsApp",
+    "Android",
+    "Online Hizmetler"
+  ]
+}

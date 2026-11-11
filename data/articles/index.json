@@ -1,53 +1,133 @@
 [
   {
-    "slug": "googles_november_pixel_drop_brings_gemini_intelligence_to_the_pixel_10-news-75430",
-    "url": "https://www.gsmarena.com/googles_november_pixel_drop_brings_gemini_intelligence_to_the_pixel_10-news-75430.php",
+    "slug": "ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434",
+    "url": "https://www.gsmarena.com/ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T17:37:26.131853+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "bf914bbbc90755eabf88b42de4f99bb8d93342c6d3ef02d083efe1b41b7abfa6"
+  },
+  {
+    "slug": "harman_unveils_drops__a_music_discovery_app_that_plays_short_clips-news-75435",
+    "url": "https://www.gsmarena.com/harman_unveils_drops__a_music_discovery_app_that_plays_short_clips-news-75435.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T17:36:58.414394+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "56f3f290bb31300cf2ef9f023a1c23df7bc88c658e8c5f0923c4c646333b0fa8"
+  },
+  {
+    "slug": "oppo_a7_ultra_tipped_to_launch_next_month_with_a_12000mah_battery-news-75437",
+    "url": "https://www.gsmarena.com/oppo_a7_ultra_tipped_to_launch_next_month_with_a_12000mah_battery-news-75437.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T17:36:44.621561+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "8224cde6ae5b6917f4e7b5b0a631c5ced00a7b8108b157de4fbdffd73aa9eebd"
+  },
+  {
+    "slug": "whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436",
+    "url": "https://www.gsmarena.com/whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T17:36:32.352551+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "185645d2492cd6393d9f7dc35fd09221c7678a458b5ae4381a57042e326282f5"
+  },
+  {
+    "slug": "honor_700_pro_may_have_just_run_geekbench_confirming_its_chipset-news-75440",
+    "url": "https://www.gsmarena.com/honor_700_pro_may_have_just_run_geekbench_confirming_its_chipset-news-75440.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T17:36:20.316661+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "59dff14fd764a4d37604c825aa7525ea3296e4370b2802f18bb5868448a4d6ae"
+  },
+  {
+    "slug": "honor_magic10_series_variable_aperture_camera-news-75438",
+    "url": "https://www.gsmarena.com/honor_magic10_series_variable_aperture_camera-news-75438.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T17:36:03.868708+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "16a0a323c9af1ac3eb1991cc84a549e2b8f05214aeb3f7499527cbee941e373d"
+  },
+  {
+    "slug": "oppo_a7_pro_is_coming_to_europe_heres_how_much_it_will_cost-news-75441",
+    "url": "https://www.gsmarena.com/oppo_a7_pro_is_coming_to_europe_heres_how_much_it_will_cost-news-75441.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T17:35:46.660092+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d3c5baba4ac1bfc6d0dea11bf6cacc4f354affbc5fe30687d9800eebeebaa04b"
+  },
+  {
+    "slug": "heres_your_first_look_at_nothings_upcoming_screenless_ainative_device-news-75439",
+    "url": "https://www.gsmarena.com/heres_your_first_look_at_nothings_upcoming_screenless_ainative_device-news-75439.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T17:35:26.330219+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "a1750e5f5c16289730b4e71e7ee62f6f128b17a975eafb6aced9fac78a498ee7"
+  },
+  {
+    "content_hash": "029bdd83867be78807e59e4f7a0d7cb8eead6156672b9f6ba6da59bfcaa4e5f0",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T08:41:00.750139+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "029bdd83867be78807e59e4f7a0d7cb8eead6156672b9f6ba6da59bfcaa4e5f0"
+    "retries": 0,
+    "slug": "googles_november_pixel_drop_brings_gemini_intelligence_to_the_pixel_10-news-75430",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/googles_november_pixel_drop_brings_gemini_intelligence_to_the_pixel_10-news-75430.php"
   },
   {
-    "slug": "gta_vi_will_be_available_on_xbox_cloud_gaming_from_day_one-news-75429",
-    "url": "https://www.gsmarena.com/gta_vi_will_be_available_on_xbox_cloud_gaming_from_day_one-news-75429.php",
+    "content_hash": "8ed8b02cf70341e7b9cd4139ccada6d07a8e2f87669c333634fe961ff207e729",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T08:40:50.276027+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8ed8b02cf70341e7b9cd4139ccada6d07a8e2f87669c333634fe961ff207e729"
+    "retries": 0,
+    "slug": "gta_vi_will_be_available_on_xbox_cloud_gaming_from_day_one-news-75429",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/gta_vi_will_be_available_on_xbox_cloud_gaming_from_day_one-news-75429.php"
   },
   {
-    "slug": "samsung_reportedly_working_on_a_phone_with_an_expandable_display-news-75431",
-    "url": "https://www.gsmarena.com/samsung_reportedly_working_on_a_phone_with_an_expandable_display-news-75431.php",
+    "content_hash": "2fcd10365506826f8f42d51f74ba97f13adca7e2d9ffecb00a7f260ec018c42e",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T08:40:36.632464+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2fcd10365506826f8f42d51f74ba97f13adca7e2d9ffecb00a7f260ec018c42e"
+    "retries": 0,
+    "slug": "samsung_reportedly_working_on_a_phone_with_an_expandable_display-news-75431",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_reportedly_working_on_a_phone_with_an_expandable_display-news-75431.php"
   },
   {
-    "slug": "honor_said_to_be_testing_a_widescreen_phone_with_an_8000mah_battery-news-75432",
-    "url": "https://www.gsmarena.com/honor_said_to_be_testing_a_widescreen_phone_with_an_8000mah_battery-news-75432.php",
+    "content_hash": "9942f542b8ccce4cd174d56f17b6ebbf3513c29186584adc361ef6e4db140c40",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T08:40:24.274910+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9942f542b8ccce4cd174d56f17b6ebbf3513c29186584adc361ef6e4db140c40"
+    "retries": 0,
+    "slug": "honor_said_to_be_testing_a_widescreen_phone_with_an_8000mah_battery-news-75432",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_said_to_be_testing_a_widescreen_phone_with_an_8000mah_battery-news-75432.php"
   },
   {
-    "slug": "samsung_one_ui_9_5_voip_voice_call_recording-news-75433",
-    "url": "https://www.gsmarena.com/samsung_one_ui_9_5_voip_voice_call_recording-news-75433.php",
+    "content_hash": "8af51b0db891edf536b6033a49a6b863132633b1d9ac66e549af22b49d6d7d6b",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T08:40:02.726886+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8af51b0db891edf536b6033a49a6b863132633b1d9ac66e549af22b49d6d7d6b"
+    "retries": 0,
+    "slug": "samsung_one_ui_9_5_voip_voice_call_recording-news-75433",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_one_ui_9_5_voip_voice_call_recording-news-75433.php"
   },
   {
     "content_hash": "2c3e87912a0cfddbffac1cb9a8c27366689d58b74cdf572c2ac014d0eb9a96f3",
