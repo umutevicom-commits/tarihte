@@ -1,83 +1,123 @@
 [
   {
-    "slug": "ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434",
-    "url": "https://www.gsmarena.com/ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434.php",
+    "slug": "xiaomi_watch_s5_41mm_xiaomi_smart_band_11_xiaomi_clip_earbuds_will_be_at_next_weeks_event_too-news-75442",
+    "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_smart_band_11_xiaomi_clip_earbuds_will_be_at_next_weeks_event_too-news-75442.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T23:54:11.011901+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "e7cb384093cccbdbffc4e774c3835a1532b8ed5632eb7481307b1bdf701af704"
+  },
+  {
+    "slug": "samsung_takes_a_jab_at_iphone_duos_sidebar-news-75444",
+    "url": "https://www.gsmarena.com/samsung_takes_a_jab_at_iphone_duos_sidebar-news-75444.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T23:53:58.162517+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "642434b8bb0fca6c37403d1c48ef38a0b5f70fabc44882141a2163de58b7ec03"
+  },
+  {
+    "slug": "samsung_and_apple_are_both_working_on_bigger_wide_foldables_new_rumor_claims-news-75446",
+    "url": "https://www.gsmarena.com/samsung_and_apple_are_both_working_on_bigger_wide_foldables_new_rumor_claims-news-75446.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T23:53:39.750075+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "96d57b034e5ef63ce3797161eba840a0ce43b3ec5e6ac40294ccc65724dd1f60"
+  },
+  {
+    "slug": "oneplus_12_is_now_receiving_the_update_to_coloros_17_based_on_android_17-news-75445",
+    "url": "https://www.gsmarena.com/oneplus_12_is_now_receiving_the_update_to_coloros_17_based_on_android_17-news-75445.php",
+    "date": "11 November 2026",
+    "fetched_at": "2026-11-11T23:53:14.228450+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "37ea8b8043cc377d9c82181508c924ea519e681b92be8506768e410836dbbbd6"
+  },
+  {
+    "content_hash": "bf914bbbc90755eabf88b42de4f99bb8d93342c6d3ef02d083efe1b41b7abfa6",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T17:37:26.131853+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "bf914bbbc90755eabf88b42de4f99bb8d93342c6d3ef02d083efe1b41b7abfa6"
+    "retries": 0,
+    "slug": "ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/ifixit_reveals_the_tech_behind_the_macbook_proleds_light_up_apple_logo-news-75434.php"
   },
   {
-    "slug": "harman_unveils_drops__a_music_discovery_app_that_plays_short_clips-news-75435",
-    "url": "https://www.gsmarena.com/harman_unveils_drops__a_music_discovery_app_that_plays_short_clips-news-75435.php",
+    "content_hash": "56f3f290bb31300cf2ef9f023a1c23df7bc88c658e8c5f0923c4c646333b0fa8",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T17:36:58.414394+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "56f3f290bb31300cf2ef9f023a1c23df7bc88c658e8c5f0923c4c646333b0fa8"
+    "retries": 0,
+    "slug": "harman_unveils_drops__a_music_discovery_app_that_plays_short_clips-news-75435",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/harman_unveils_drops__a_music_discovery_app_that_plays_short_clips-news-75435.php"
   },
   {
-    "slug": "oppo_a7_ultra_tipped_to_launch_next_month_with_a_12000mah_battery-news-75437",
-    "url": "https://www.gsmarena.com/oppo_a7_ultra_tipped_to_launch_next_month_with_a_12000mah_battery-news-75437.php",
+    "content_hash": "8224cde6ae5b6917f4e7b5b0a631c5ced00a7b8108b157de4fbdffd73aa9eebd",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T17:36:44.621561+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8224cde6ae5b6917f4e7b5b0a631c5ced00a7b8108b157de4fbdffd73aa9eebd"
+    "retries": 0,
+    "slug": "oppo_a7_ultra_tipped_to_launch_next_month_with_a_12000mah_battery-news-75437",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_a7_ultra_tipped_to_launch_next_month_with_a_12000mah_battery-news-75437.php"
   },
   {
-    "slug": "whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436",
-    "url": "https://www.gsmarena.com/whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436.php",
+    "content_hash": "185645d2492cd6393d9f7dc35fd09221c7678a458b5ae4381a57042e326282f5",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T17:36:32.352551+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "185645d2492cd6393d9f7dc35fd09221c7678a458b5ae4381a57042e326282f5"
+    "retries": 0,
+    "slug": "whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_is_bringing_a_transparent_nav_bar_to_its_android_app-news-75436.php"
   },
   {
-    "slug": "honor_700_pro_may_have_just_run_geekbench_confirming_its_chipset-news-75440",
-    "url": "https://www.gsmarena.com/honor_700_pro_may_have_just_run_geekbench_confirming_its_chipset-news-75440.php",
+    "content_hash": "59dff14fd764a4d37604c825aa7525ea3296e4370b2802f18bb5868448a4d6ae",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T17:36:20.316661+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "59dff14fd764a4d37604c825aa7525ea3296e4370b2802f18bb5868448a4d6ae"
+    "retries": 0,
+    "slug": "honor_700_pro_may_have_just_run_geekbench_confirming_its_chipset-news-75440",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_700_pro_may_have_just_run_geekbench_confirming_its_chipset-news-75440.php"
   },
   {
-    "slug": "honor_magic10_series_variable_aperture_camera-news-75438",
-    "url": "https://www.gsmarena.com/honor_magic10_series_variable_aperture_camera-news-75438.php",
+    "content_hash": "16a0a323c9af1ac3eb1991cc84a549e2b8f05214aeb3f7499527cbee941e373d",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T17:36:03.868708+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "16a0a323c9af1ac3eb1991cc84a549e2b8f05214aeb3f7499527cbee941e373d"
+    "retries": 0,
+    "slug": "honor_magic10_series_variable_aperture_camera-news-75438",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic10_series_variable_aperture_camera-news-75438.php"
   },
   {
-    "slug": "oppo_a7_pro_is_coming_to_europe_heres_how_much_it_will_cost-news-75441",
-    "url": "https://www.gsmarena.com/oppo_a7_pro_is_coming_to_europe_heres_how_much_it_will_cost-news-75441.php",
+    "content_hash": "d3c5baba4ac1bfc6d0dea11bf6cacc4f354affbc5fe30687d9800eebeebaa04b",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T17:35:46.660092+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d3c5baba4ac1bfc6d0dea11bf6cacc4f354affbc5fe30687d9800eebeebaa04b"
+    "retries": 0,
+    "slug": "oppo_a7_pro_is_coming_to_europe_heres_how_much_it_will_cost-news-75441",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_a7_pro_is_coming_to_europe_heres_how_much_it_will_cost-news-75441.php"
   },
   {
-    "slug": "heres_your_first_look_at_nothings_upcoming_screenless_ainative_device-news-75439",
-    "url": "https://www.gsmarena.com/heres_your_first_look_at_nothings_upcoming_screenless_ainative_device-news-75439.php",
+    "content_hash": "a1750e5f5c16289730b4e71e7ee62f6f128b17a975eafb6aced9fac78a498ee7",
     "date": "11 November 2026",
     "fetched_at": "2026-11-11T17:35:26.330219+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a1750e5f5c16289730b4e71e7ee62f6f128b17a975eafb6aced9fac78a498ee7"
+    "retries": 0,
+    "slug": "heres_your_first_look_at_nothings_upcoming_screenless_ainative_device-news-75439",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_your_first_look_at_nothings_upcoming_screenless_ainative_device-news-75439.php"
   },
   {
     "content_hash": "029bdd83867be78807e59e4f7a0d7cb8eead6156672b9f6ba6da59bfcaa4e5f0",
