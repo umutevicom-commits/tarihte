@@ -1,0 +1,19 @@
+# Jensen Huang, iki ilişki haberinin ardından Nvidia CEO'luğundan istifa etti
+
+Nvidia bugün yaptığı açıklamada, Jensen Huang'ın başkan, CEO ve yönetim kurulu üyeliği görevlerinden derhâl geçerli olmak üzere istifa ettiğini duyurdu. Karar, çarşamba gecesi geç saatlerde yapılan yönetim kurulu toplantısının ardından alındı ve şirket, hem şirket içinden hem de dışından adayları değerlendirerek kalıcı bir halef ararken, mevcut CFO Colette Kress'i geçici CEO olarak atadı.
+
+İstifa, iki evlilik dışı ilişkiyle ilgili haberlerin bir hafta boyunca gündemde kalmasının ardından geldi. The New York Times, Huang'ın Nvidia'nın önemli müşterilerinden biri olan Singapur merkezli bulut hizmeti sağlayıcısı Megaspeed'in yöneticisi Alice Huang (akrabalığı yok) ile bir ilişkisi olduğunu ve ABD istihbarat yetkililerinin onun Çin Devlet Güvenlik Bakanlığı tarafından gelişmiş yapay zekâ çipleri hakkında bilgi toplamak üzere görevlendirildiğine inandığını bildirdi. Huang, hafta sonu çalışanlara gönderdiği bir notta karısına "sadakatsiz" davrandığını itiraf etti. Daha sonra çarşamba günü Times, Nvidia'da çalışan kişilere atıfta bulunarak, doğrudan kendisine bağlı çalışan şirketin sağlık hizmetlerinden sorumlu başkan yardımcısı Kimberly Powell ile ikinci bir ilişkisi olduğunu bildirdi.
+
+Bu haftanın başlarında Nvidia'nın yönetim kurulu, istihbarat raporlarıyla ilgili bağımsız bir soruşturma başlattığını belirterek, ulusal güvenliğin veya şirket sırlarının tehlikeye atıldığına inanmak için hiçbir neden olmadığını ve Huang'a hâlâ güvendiğini eklemişti.
+
+Bugünkü açıklamada ilişkilerden bahsedilmiyor. Açıklamada, kurucu ortağı olduğu şirkette 33 yıl geçiren Huang'a "ölçülemez katkıları" için teşekkür ediliyor. Nvidia, eski Synopsys CEO'su ve icra kurulu başkanı Harvey C. Jones'u yönetim kurulunun ilk başkanı olarak atadı. Jones, yönetim kurulunun Kress'e ve liderlik ekibine tam güven duyduğunu ve şirketin faaliyetlerinin, müşteri taahhütlerinin ve ürün yol haritasının kesintisiz bir şekilde devam etmesini beklediğini söyledi.
+
+Nvidia'nın hisseleri Perşembe günü piyasa açılışı öncesi işlemlerde yaklaşık %10 değer kaybetti. Şirketin son üç aylık kazançlarını Salı günü açıklayacağı hâlâ planlanıyor.
+
+---
+
+## Görseller
+
+![New interim Nvidia CEO Colette Kress](https://umutevicom-commits.github.io/tarihte/data/images/jensen_huang_steps_down_as_nvidia_ceo_after_a_week_of_scandal_reports-news-75459/immaculate_002.jpg)
+
+![Jensen Huang](https://umutevicom-commits.github.io/tarihte/data/images/jensen_huang_steps_down_as_nvidia_ceo_after_a_week_of_scandal_reports-news-75459/immaculate_001.jpg)

@@ -8549,6 +8549,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/a_seller_in_china_has_started_taking_blind_preorders_for_the_vanilla_xiaomi_18-news-75452.php"
   },
+  "75453": {
+    "content_hash": "92bb27807e5d6fd4ea652b11d9fb0b02fa7dd0cb5637f5ee05aebb6a303b160e",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T22:00:30.161437+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_magic9_pro_max_malaysia_launch_date-news-75453",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_pro_max_malaysia_launch_date-news-75453.php"
+  },
   "75454": {
     "content_hash": "30383d23b84e6f4619deb1b8d43ce096f1ed68f2a64680b479a8b22cb058e9fe",
     "date": "12 November 2026",
@@ -8558,5 +8568,55 @@
     "slug": "samsungs_intelligent_eyewear_glasses_are_now_up_for_preorder-news-75454",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsungs_intelligent_eyewear_glasses_are_now_up_for_preorder-news-75454.php"
+  },
+  "75455": {
+    "content_hash": "f8a273fd54fd25ec7dfb38eb8b47becb94051e0e979ea4328c7b5ed6b6c974da",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T21:59:05.822048+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "analysts_samsung_held_twothirds_of_the_global_foldable_market_in_q3_thanks_to_the_z_fold8-news-75455",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/analysts_samsung_held_twothirds_of_the_global_foldable_market_in_q3_thanks_to_the_z_fold8-news-75455.php"
+  },
+  "75456": {
+    "content_hash": "428a434fd7c0bebcb01f50b745be0462167c4933da41c737b7012d7bbabfc702",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T21:59:55.562298+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_settles_fouryear_wireless_powershare_patent_lawsuit-news-75456",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_settles_fouryear_wireless_powershare_patent_lawsuit-news-75456.php"
+  },
+  "75457": {
+    "content_hash": "733886edc07b66e483da38b6bba8a031b5aaa7a4ab50ac1530420be13cedacb5",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T22:00:10.537596+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "canceled_find_x10_ultras_screen_and_cameras_may_live_on_in_another_oppo_pro_max-news-75457",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/canceled_find_x10_ultras_screen_and_cameras_may_live_on_in_another_oppo_pro_max-news-75457.php"
+  },
+  "75459": {
+    "content_hash": "aa18f1d3f7d6595c2029552627e2b9605d494259b3e7e89115679121bd271105",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T21:59:32.131543+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "jensen_huang_steps_down_as_nvidia_ceo_after_a_week_of_scandal_reports-news-75459",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/jensen_huang_steps_down_as_nvidia_ceo_after_a_week_of_scandal_reports-news-75459.php"
+  },
+  "75461": {
+    "content_hash": "66db395061d12b5a9c4af680f0f06e6083646585533a501fc6f9fe3263ae9037",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T21:58:44.907945+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "fairphone_6_gets_its_first_us_carrier_partner_in_boost_mobile-news-75461",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/fairphone_6_gets_its_first_us_carrier_partner_in_boost_mobile-news-75461.php"
   }
 }
