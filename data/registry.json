@@ -6929,6 +6929,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_enjoy_100_and_enjoy_100_pro_are_official-news-75243.php"
   },
+  "75244": {
+    "content_hash": "73b942d59814e84e2d2c36809b022779b7ac8ff14a750fc982ce42b555a506a2",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T14:20:26.357740+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244.php"
+  },
   "75245": {
     "content_hash": "6139169b6ea53cf71f5d61398b47646ccf7a58b2248a5ee12d86cd20056823c7",
     "date": "28 October 2026",
@@ -8488,5 +8498,65 @@
     "slug": "oppo_reno17_will_have_four_50mp_cameras-news-75447",
     "status": "ok",
     "url": "https://www.gsmarena.com/oppo_reno17_will_have_four_50mp_cameras-news-75447.php"
+  },
+  "75448": {
+    "content_hash": "a2a60a7705e16765d61848d0ed4889fab04e301d90bc297af26c3388fa306dba",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T14:22:31.905851+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huaweis_osta_subbrand_now_has_an_official_launch_date-news-75448",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huaweis_osta_subbrand_now_has_an_official_launch_date-news-75448.php"
+  },
+  "75449": {
+    "content_hash": "cf0b06cf203ebfd9875fcee4b9a6148b0b557c7253df5dec03b5c04ddca7dce2",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T14:22:07.959212+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_series_watch_gt2_india_launch_date-news-75449",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_series_watch_gt2_india_launch_date-news-75449.php"
+  },
+  "75450": {
+    "content_hash": "09dff079478ec9c24051d661d529dded0d6a3edb9be2eb7dedcf8728d358f969",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T14:21:45.867765+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "whatsapp_view_once_text_message_android_beta_users-news-75450",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_view_once_text_message_android_beta_users-news-75450.php"
+  },
+  "75451": {
+    "content_hash": "400195bc3972b62fe6a248ccd05404081067b5bb46477b386db8c88819c82932",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T14:21:26.466078+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_a7_pro_officially_lands_in_europe-news-75451",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_a7_pro_officially_lands_in_europe-news-75451.php"
+  },
+  "75452": {
+    "content_hash": "df56b1b28a9327da3ec55b46f4ffda47c0d6407dee1f957eefb3d75d228b6345",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T14:19:59.200573+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "a_seller_in_china_has_started_taking_blind_preorders_for_the_vanilla_xiaomi_18-news-75452",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/a_seller_in_china_has_started_taking_blind_preorders_for_the_vanilla_xiaomi_18-news-75452.php"
+  },
+  "75454": {
+    "content_hash": "30383d23b84e6f4619deb1b8d43ce096f1ed68f2a64680b479a8b22cb058e9fe",
+    "date": "12 November 2026",
+    "fetched_at": "2026-11-12T14:19:33.126997+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsungs_intelligent_eyewear_glasses_are_now_up_for_preorder-news-75454",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsungs_intelligent_eyewear_glasses_are_now_up_for_preorder-news-75454.php"
   }
 }

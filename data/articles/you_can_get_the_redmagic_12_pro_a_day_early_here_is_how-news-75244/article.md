@@ -1,0 +1,105 @@
+# REDMAGIC 12 Pro'yu bir gün önceden alabilirsiniz, işte nasıl olacağı
+
+Gelenek gereği REDMAGIC, en büyük hayranlarının en yeni oyun amiral gemisini bir gün önceden edinmelerine olanak tanıyor. İşte REDMAGIC 12 Pro erken erişim programına katılmanın ve bazı avantajlar kazanmanın yolu.
+
+Erken Rezervasyon Kuponları 12 Kasım'da satışa sunulacaktır. Bir kuponun fiyatı 1 $ / 1 € / 1 £ olup 18 Kasım'daki genel satıştan 24 saat önce, 17 Kasım'da telefonu satın almanız için biletinizdir. Tüm zaman çizelgesi için aşağıdaki tabloya bakın.
+
+Redmagic.gg adresinden Erken Rezervasyon Kuponu alabilirsiniz. Kuponun karşılığı fazlasıyla çıkacak. Kupon, 30 $ / 30 € / 30 £ tutarında bir indirime dönüşecek. Ayrıca ücretsiz bir 80 W şarj cihazı ve bazı REDMAGIC ürünleri de alacaksınız.
+
+REDMAGIC 12 Pro, son derece akıcı rekabetçi oyunlar için tasarlanmıştır. En yeni Snapdragon 8 Elite Extreme Gen 6'yı temel alır ve REDMAGIC'in RedCore R5 oyun çipine sahiptir. 2 nm Qualcomm yonga seti 5 GHz'e kadar çıkabilir ve sürekli performans için aktif soğutma gerektirir. RedCore R5 çipi, işleme hızlandırma, süper çözünürlük ve süper kare teknolojileriyle Snapdragon çipine yardımcı olur. Ayrıca dokunmatik girişi optimize eder ve aydınlatmayı kontrol eder.
+
+REDMAGIC 12 Pro, Snapdragon 8 Elite Extreme Gen 6 ve RedCore R5 ile donatılmıştır
+
+Bu sistemler doğal olarak AquaCore Soğutma Sistemi 3.0 ile bağlantılıdır. Soğutma alanı %15 daha geniş ve ısı iletkenliği %50 daha yüksek olan yeniden tasarlanmış bir buhar odasına sahiptir. Buhar haznesi, bakır folyo kompozit yapıya sahip Liquid Metal 4.0 düzeneğine bağlanır ve yonga setinden bir sonraki aşamaya verimli ısı aktarımından sorumludur.
+
+REDMAGIC 12 Pro'nun AquaCore Soğutma Sistemi 3.0
+
+Sürüm 3.0, 130 kPa'ya kadar basınca ulaşabilen (önceki nesle göre %85 daha yüksek) çift kristalli bir mikro pompa ile sıvı soğutmayı iki katına çıkarır. Bu pompalar, yalnızca 20 mW gibi düşük bir güç tüketimiyle çalışır. Pompaların görevi, ısıyı yonga setinden alıp 25.500 dev/dak hızındaki turbo fana iletmektir. Fan toza dayanıklıdır ve REDMAGIC, milinin dayanıklılığını %30 oranında artırmanın bir yolunu bulmuştur. Soğutma sistemi, REDMAGIC'in kendine özgü estetiğini tamamlamak için arkadaki şeffaf panellerden yansıyan RGB aydınlatmaya sahiptir.
+
+Telefon, sektörde bir ilk olan 185 Hz yenileme hızına sahip 6,85" 1,5K OLED panel BOE X11 ile donatılmıştır. X11 panel, 1.900 nit tepe değeri küresel (tam ekran) parlaklık ve 5.000 nit tepe değeri yerel parlaklık sağlayabilir. Ekran, SGS Eye Care Sertifikasına sahiptir. Bir Synaptics dokunmatik çip, 5.000 Hz'e kadar anlık ve 500 Hz'e kadar ortalama dokunmatik örnekleme ile dokunmatik girdileri işler. Islak elle dokunma desteklenmektedir.
+
+REDMAGIC 12 Pro, enerji yoğunluğu artırılmış bir bataryaya sahiptir. Bu, tasarım açısından iki kat avantaj sağlar, çünkü batarya kapasitesi 8.400 mAh'ye yükselmiştir (11 Pro bataryasından %12 daha büyüktür) ve telefon 8,5 mm ile daha incedir (bir önceki nesilde 8,9 mm idi). Pil, hem USB-C üzerinden hem de kablosuz olarak 80 W ile şarj edilebilir. Ayrıca, telefonunuzu ekstra uzun oyun oturumları için haricî güçle çalıştırmanızı sağlayan bir pil baypas özelliği de bulunmaktadır. Bu aynı zamanda ısıyı azaltır ve pilin ömrünü uzatır.
+
+REDMAGIC 12 Pro daha incedir ancak 80 W şarj ve pil baypas özelliğine sahip daha büyük bir 8.400 mAh pile sahiptir.
+
+Dokunmatik ekranın yanı sıra telefonda, uyumlu oyunlarda kullanılabilecek 520 Hz dokunma örnekleme hızına sahip omuz tetikleyicileri de bulunmaktadır. Dolby Atmos sertifikalı iki adet simetrik 1115E hoparlör bölmesi bulunmaktadır. 0815 X eksenli lineer motor dokunsal geri bildirim sağlar. Oyun sırasında sesli sohbet veya sadece sesli aramalar için ses alımı için optimize edilmiş üç mikrofon bulunmaktadır.
+
+REDMAGIC 12 Pro, 520 Hz omuz tetiklerine ve Dolby Atmos özellikli simetrik 1115E hoparlörlere sahiptir
+
+REDMAGIC 12 Pro, kutudan REDMAGIC OS 12 ile çıkar. Android 17'yi temel almaktadır, ancak özel X-Gravity oyun özelliklerine sahiptir. Oyun yapay zekâ asistanı, özelleştirilebilir etkileşimlere sahiptir. Sesli veya yazılı olarak yardım ve taktiksel ipuçları sunabilir. Taktik Koç, desteklenen oyunlar için daha da fazla gerçek zamanlı stratejik ipucu sunar.
+
+Yapay zekâ destekli oyun modu ile karmaşık oyunları daha az stresli hâle getirebilirsiniz. Bu mod, günlük, haftalık ve sınırlı süreli görevleri takip etmenize yardımcı olur. Ayrıca oyundaki ilerlemenizi takip eder ve karakter geliştirme ile yükseltme yolları hakkında tavsiyelerde bulunur. Bu özellik Mobile Legends, Genshin Impact ve Honkai: Star Rail için kullanılabilir (not: Bölgesel kullanılabilirliğe ve uyumluluğa tabidir).
+
+Telefon, mobil oyun oynamanın da ötesine geçiyor: Steam kütüphaneniz için PC oyunu emülasyonuna sahip. Bu özellik, oyunları telefonun kendisine yükler ve oynatır. Alternatif olarak, uyumlu bir PC veya konsoldan bir oyunu yayınlayabilirsiniz. Bulut oyunculuğu da X-Gravity'nin sunduğu özellikler arasında yer alıyor.
+
+İşletim sistemi ayrıca konuşma yardımı, Çevirmek için İşaretle, gerçek zamanlı çeviri, yapay zekâ destekli fotoğraf araması ve görsel düzenleme gibi Google Gemini özellikleriyle günlük yapay zekâ görevlerini de karşılıyor.
+
+REDMAGIC 12 Pro: Gece Donu
+
+REDMAGIC 12 Pro: Subzero
+
+REDMAGIC 12 Pro, 18 Kasım'da bir kez daha genel satışa sunulacak. Ancak 1 $ / 1 € / 1 £ karşılığında bir Erken Rezervasyon Kuponu satın alarak sıraya girmeden 17'sinde satın alabilirsiniz. Bu kuponla 24 saatlik bir avantaj elde edersiniz ve kuponu 30 $ / 30 € / 30 £ indirim, ücretsiz bir 80 W şarj cihazı ve REDMAGIC markalı bir ürün karşılığında kullanabilirsiniz.
+
+Redmagic.gg adresinden bir kupon alabilirsiniz. Ayrıntılı zaman çizelgesini burada tekrar görebilirsiniz:
+
+Bu, sponsorlu bir yayındır. Sponsorluk bir reklam türüdür. Bu makalede ifade edilen görüş ve düşünceler sponsora aittir ve bizim görüşlerimizi yansıtmıyor olabilir.
+
+---
+
+## Görseller
+
+![REDMAGIC 12 Pro](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_001.jpg)
+
+![The REDMAGIC 12 Pro is equipped with the Snapdragon 8 Elite Extreme Gen 6 and the RedCore R5](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_002.jpg)
+
+![The REDMAGIC 12 Pro is equipped with the Snapdragon 8 Elite Extreme Gen 6 and the RedCore R5](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_003.jpg)
+
+![The REDMAGIC 12 Pro is equipped with the Snapdragon 8 Elite Extreme Gen 6 and the RedCore R5](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_004.jpg)
+
+![REDMAGIC 12 Pro’s AquaCore Cooling System 3.0](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_005.jpg)
+
+![REDMAGIC 12 Pro’s AquaCore Cooling System 3.0](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_006.jpg)
+
+![REDMAGIC 12 Pro’s AquaCore Cooling System 3.0](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_007.jpg)
+
+![REDMAGIC 12 Pro’s AquaCore Cooling System 3.0](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_008.jpg)
+
+![REDMAGIC 12 Pro’s AquaCore Cooling System 3.0](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_009.jpg)
+
+![REDMAGIC 12 Pro’s AquaCore Cooling System 3.0](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_010.jpg)
+
+![REDMAGIC 12 Pro’s AquaCore Cooling System 3.0](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_011.jpg)
+
+![The REDMAGIC 12 Pro has the industry’s first 185Hz OLED display, a 6.85” 1.5K BOE X11 panel](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_012.jpg)
+
+![The REDMAGIC 12 Pro is slimmer but has a bigger 8,400mAh battery with 80W charging and battery bypass](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_013.jpg)
+
+![The REDMAGIC 12 Pro is slimmer but has a bigger 8,400mAh battery with 80W charging and battery bypass](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_014.jpg)
+
+![The REDMAGIC 12 Pro has 520Hz shoulder triggers, symmetrical 1115E speakers with Dolby Atmos](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_015.jpg)
+
+![The REDMAGIC 12 Pro has 520Hz shoulder triggers, symmetrical 1115E speakers with Dolby Atmos](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_016.jpg)
+
+![The REDMAGIC 12 Pro has AI coaches to help you play better](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_017.jpg)
+
+![The REDMAGIC 12 Pro with an optional gamepad](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_018.jpg)
+
+![REDMAGIC 12 Pro: Nightfreeze](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_019.jpg)
+
+![REDMAGIC 12 Pro: Nightfreeze](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_020.jpg)
+
+![REDMAGIC 12 Pro: Nightfreeze](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_021.jpg)
+
+![REDMAGIC 12 Pro: Nightfreeze](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_022.jpg)
+
+![REDMAGIC 12 Pro: Nightfreeze](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_023.jpg)
+
+![REDMAGIC 12 Pro: Subzero](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_024.jpg)
+
+![REDMAGIC 12 Pro: Subzero](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_025.jpg)
+
+![REDMAGIC 12 Pro: Subzero](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_026.jpg)
+
+![REDMAGIC 12 Pro: Subzero](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_027.jpg)
+
+![REDMAGIC 12 Pro: Subzero](https://umutevicom-commits.github.io/tarihte/data/images/you_can_get_the_redmagic_12_pro_a_day_early_here_is_how-news-75244/immaculate_028.jpg)

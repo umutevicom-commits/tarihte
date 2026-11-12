@@ -1,0 +1,51 @@
+{
+  "url": "https://www.gsmarena.com/whatsapp_view_once_text_message_android_beta_users-news-75450.php",
+  "slug": "whatsapp_view_once_text_message_android_beta_users-news-75450",
+  "title": "WhatsApp's 'View Once' text messages feature is now available to beta users on Android",
+  "news_id": "75450",
+  "date": "12 November 2026",
+  "author": "Sagar",
+  "tags": [
+    "Featured",
+    "WhatsApp",
+    "Android",
+    "Apps",
+    "Online services",
+    "Social networks"
+  ],
+  "body_paragraphs": [
+    "WhatsApp already lets its users send \"view once\" photos, videos, and voice messages that disappear after the recipient sees or hears them. The company has been testing view-once text messages for the past few months, and the feature is now available to beta users on Android.",
+    "This revelation comes from WABetaInfo, which reports that the view-once text messages feature is now available to some users on beta version 2.26.45.6 of WhatsApp for Android.",
+    "WhatsApp's view-once feature for text messages works the same way as it does for photos, videos, and voice messages. Once a user sends a view-once text message and the recipient reads it, it disappears from the recipient's device.",
+    "To send a view-once text message, type the text in the text box, press and hold the send button, and select \"View Once.\" The first time you do this, WhatsApp shows information about view-once texts. Click \"OK\" to proceed.",
+    "Text sent as View Once doesn't automatically appear in the chat. You have to tap it to read it, and it opens in a separate interface. When the recipient closes it, they can't open it again. WhatsApp also marks the message as opened, so the sender knows the receiver read it, provided they enabled read receipts.",
+    "Once the message is opened, it's no longer available to the sender or receiver. It also cannot be copied, forwarded, or saved by the recipient. WhatsApp also blocks screenshots and screen recordings in the app while the recipient is viewing a view-once message, making it ideal for sharing sensitive information. However, someone can still use a camera to record the message's contents. Neither WhatsApp nor the sender can do anything about it.",
+    "That said, WABetaInfo reports that view-once text messages cannot be scheduled. Whether that changes by the time this feature rolls out publicly to all remains to be seen."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/whatsapp_view_once_text_message_android_beta_users-news-75450/immaculate_001.jpg",
+      "alt": "WhatsApp's ''View Once' text messages feature is now available to beta users on Android"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-12T14:21:45.867765+00:00",
+  "title_tr": "WhatsApp'ın \"Tek Seferlik Görüntüleme\" metin mesajları özelliği artık Android'deki beta kullanıcıları için mevcut",
+  "body_paragraphs_tr": [
+    "WhatsApp, kullanıcılarının \"tek seferlik görüntüleme\" özelliğine sahip fotoğraflar, videolar ve sesli mesajlar göndermesine olanak tanıyor. Bu içerikler, alıcı tarafından görüldükten veya dinlendikten sonra kayboluyor. Şirket son birkaç aydır tek seferlik görülebilen metin mesajlarını test ediyordu ve bu özellik artık Android'deki beta kullanıcıları tarafından kullanılabiliyor.",
+    "Bu açıklama, bir kez görüntülenen metin mesajları özelliğinin artık Android için WhatsApp'ın beta sürümü 2.26.45.6'da bazı kullanıcılar tarafından kullanılabildiğini bildiren WABetaInfo'dan geliyor.",
+    "WhatsApp'ın metin mesajları için sunduğu tek seferlik görüntüleme özelliği, fotoğraflar, videolar ve sesli mesajlar için olduğu gibi çalışır. Bir kullanıcı bir kez görüntülenen metin mesajı gönderdiğinde ve alıcı bu mesajı okuduğunda mesaj, alıcının cihazından kaybolur.",
+    "Bir kez görüntülenecek bir kısa mesaj göndermek için metni metin kutusuna yazın, gönderme düğmesine basılı tutun ve \"Bir Kez Görüntüle\"yi seçin. Bunu ilk kez yaptığınızda WhatsApp, bir kez görüntülenen metinlerle ilgili bilgileri gösterir. Devam etmek için \"Tamam\"a tıklayın.",
+    "Bir Kez Görüntüle olarak gönderilen metin, sohbette otomatik olarak görünmez. Okumak için üzerine dokunmanız gerekir ve mesaj ayrı bir arayüzde açılır. Alıcı mesajı kapattığında bir daha açamaz. WhatsApp ayrıca mesajı açılmış olarak işaretler, böylece gönderen kişi, okundu bilgilerini etkinleştirmiş olması koşuluyla alıcının mesajı okuduğunu bilir.",
+    "Mesaj açıldıktan sonra artık ne gönderen ne de alıcı tarafından görülebilir. Ayrıca alıcı tarafından kopyalanamaz, iletilemez veya kaydedilemez. WhatsApp ayrıca alıcı bir kez görüntülenen mesajı görüntülerken uygulamada ekran görüntülerini ve ekran kayıtlarını da engeller. Bu da uygulamayı hassas bilgileri paylaşmak için ideal hâle getirir. Bununla birlikte, bir kişi mesajın içeriğini kaydetmek için yine de bir kamera kullanabilir. Ne WhatsApp ne de gönderen bu konuda bir şey yapamaz.",
+    "Bununla birlikte WABetaInfo, tek seferlik görülen kısa mesajların zamanlanamadığını bildiriyor. Bu özelliğin herkese açık olarak kullanıma sunulacağı zamana kadar bunun değişip değişmeyeceği henüz belli değil."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "WhatsApp",
+    "Android",
+    "Uygulamalar",
+    "Online Hizmetler",
+    "Sosyal ağlar"
+  ]
+}
