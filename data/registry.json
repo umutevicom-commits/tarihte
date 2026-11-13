@@ -8688,5 +8688,35 @@
     "slug": "motorola_signature_27_battery_capacity_germany-news-75468",
     "status": "ok",
     "url": "https://www.gsmarena.com/motorola_signature_27_battery_capacity_germany-news-75468.php"
+  },
+  "75469": {
+    "content_hash": "875bf9ae9157aac4b16a371db4a8437ee74a9cc90d8d204c5eb60498f2e6f620",
+    "date": "13 November 2026",
+    "fetched_at": "2026-11-13T18:59:44.879988+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469.php"
+  },
+  "75471": {
+    "content_hash": "2de1c174dc67c2637cb31f31a2f8259a6b75e2f9226872983f4bc36ada9154bf",
+    "date": "13 November 2026",
+    "fetched_at": "2026-11-13T18:59:25.264334+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php"
+  },
+  "75472": {
+    "content_hash": "0b12c0e6d6d58645c41422b5f289e84a8a6786e1d936c5805bde8827613a9760",
+    "date": "13 November 2026",
+    "fetched_at": "2026-11-13T18:59:06.276125+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_pro_gets_one_step_closer_to_launching_in_india-news-75472",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_gets_one_step_closer_to_launching_in_india-news-75472.php"
   }
 }

@@ -1,73 +1,103 @@
 [
   {
-    "slug": "oppo_confirms_the_reno17_pros_main_camera_and_the_chipsets_powering_it_and_the_reno17-news-75462",
-    "url": "https://www.gsmarena.com/oppo_confirms_the_reno17_pros_main_camera_and_the_chipsets_powering_it_and_the_reno17-news-75462.php",
+    "slug": "microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469",
+    "url": "https://www.gsmarena.com/microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469.php",
+    "date": "13 November 2026",
+    "fetched_at": "2026-11-13T18:59:44.879988+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "875bf9ae9157aac4b16a371db4a8437ee74a9cc90d8d204c5eb60498f2e6f620"
+  },
+  {
+    "slug": "honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471",
+    "url": "https://www.gsmarena.com/honor_700_series_launch_date_is_official_just_as_a_carrier_listing_reveals_most_specs-news-75471.php",
+    "date": "13 November 2026",
+    "fetched_at": "2026-11-13T18:59:25.264334+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2de1c174dc67c2637cb31f31a2f8259a6b75e2f9226872983f4bc36ada9154bf"
+  },
+  {
+    "slug": "xiaomi_18_pro_gets_one_step_closer_to_launching_in_india-news-75472",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_gets_one_step_closer_to_launching_in_india-news-75472.php",
+    "date": "13 November 2026",
+    "fetched_at": "2026-11-13T18:59:06.276125+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0b12c0e6d6d58645c41422b5f289e84a8a6786e1d936c5805bde8827613a9760"
+  },
+  {
+    "content_hash": "86c5c839db8f1d4e0b3ddb1faaed8bcc43bd079f600a37b1361c87c22084ad9c",
     "date": "13 November 2026",
     "fetched_at": "2026-11-13T11:47:12.799438+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "86c5c839db8f1d4e0b3ddb1faaed8bcc43bd079f600a37b1361c87c22084ad9c"
+    "retries": 0,
+    "slug": "oppo_confirms_the_reno17_pros_main_camera_and_the_chipsets_powering_it_and_the_reno17-news-75462",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_confirms_the_reno17_pros_main_camera_and_the_chipsets_powering_it_and_the_reno17-news-75462.php"
   },
   {
-    "slug": "huawei_mate_x8_now_has_a_rumored_launch_date-news-75463",
-    "url": "https://www.gsmarena.com/huawei_mate_x8_now_has_a_rumored_launch_date-news-75463.php",
+    "content_hash": "c2837923eea2189dbba6bb163f8a60dc1b17f971f5c32c5da3d0379c74f285ca",
     "date": "13 November 2026",
     "fetched_at": "2026-11-13T11:46:57.983795+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "c2837923eea2189dbba6bb163f8a60dc1b17f971f5c32c5da3d0379c74f285ca"
+    "retries": 0,
+    "slug": "huawei_mate_x8_now_has_a_rumored_launch_date-news-75463",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_mate_x8_now_has_a_rumored_launch_date-news-75463.php"
   },
   {
-    "slug": "redmi_note_18_charging_speed_revealed_via_online_listing-news-75464",
-    "url": "https://www.gsmarena.com/redmi_note_18_charging_speed_revealed_via_online_listing-news-75464.php",
+    "content_hash": "9d934b2ecd0798b9c7c54dd7a667f87a9c4ebd76464ef30af3e20fef327d2d51",
     "date": "13 November 2026",
     "fetched_at": "2026-11-13T11:46:40.791434+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "9d934b2ecd0798b9c7c54dd7a667f87a9c4ebd76464ef30af3e20fef327d2d51"
+    "retries": 0,
+    "slug": "redmi_note_18_charging_speed_revealed_via_online_listing-news-75464",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/redmi_note_18_charging_speed_revealed_via_online_listing-news-75464.php"
   },
   {
-    "slug": "samsung_galaxy_a18_5g_bluetooth_certified-news-75465",
-    "url": "https://www.gsmarena.com/samsung_galaxy_a18_5g_bluetooth_certified-news-75465.php",
+    "content_hash": "e18548bdb82c59428cae6881653aea94bd46181e4799163723f2cd54e2681d19",
     "date": "13 November 2026",
     "fetched_at": "2026-11-13T11:46:29.359959+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e18548bdb82c59428cae6881653aea94bd46181e4799163723f2cd54e2681d19"
+    "retries": 0,
+    "slug": "samsung_galaxy_a18_5g_bluetooth_certified-news-75465",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a18_5g_bluetooth_certified-news-75465.php"
   },
   {
-    "slug": "oppos_pocket_gimbal_camera_said_to_debut_this_year_widefoldable_also_coming_soon-news-75466",
-    "url": "https://www.gsmarena.com/oppos_pocket_gimbal_camera_said_to_debut_this_year_widefoldable_also_coming_soon-news-75466.php",
+    "content_hash": "d855b84a550bb0e483b080a976556a63193249ef090a686171baec20b0909dc0",
     "date": "13 November 2026",
     "fetched_at": "2026-11-13T11:46:09.396446+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d855b84a550bb0e483b080a976556a63193249ef090a686171baec20b0909dc0"
+    "retries": 0,
+    "slug": "oppos_pocket_gimbal_camera_said_to_debut_this_year_widefoldable_also_coming_soon-news-75466",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppos_pocket_gimbal_camera_said_to_debut_this_year_widefoldable_also_coming_soon-news-75466.php"
   },
   {
-    "slug": "vivo_x300_ultra_china_originos_7_camera_update-news-75467",
-    "url": "https://www.gsmarena.com/vivo_x300_ultra_china_originos_7_camera_update-news-75467.php",
+    "content_hash": "bd9fbe4b27e2bcc0e1f252454cbaec8b91f8c0387a27e2851476279b380b5eb8",
     "date": "13 November 2026",
     "fetched_at": "2026-11-13T11:45:45.973530+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "bd9fbe4b27e2bcc0e1f252454cbaec8b91f8c0387a27e2851476279b380b5eb8"
+    "retries": 0,
+    "slug": "vivo_x300_ultra_china_originos_7_camera_update-news-75467",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x300_ultra_china_originos_7_camera_update-news-75467.php"
   },
   {
-    "slug": "motorola_signature_27_battery_capacity_germany-news-75468",
-    "url": "https://www.gsmarena.com/motorola_signature_27_battery_capacity_germany-news-75468.php",
+    "content_hash": "e79e7b9a12340621e01527465a0933d908e943349e7e2212e780522bb73120c8",
     "date": "13 November 2026",
     "fetched_at": "2026-11-13T11:45:10.871229+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e79e7b9a12340621e01527465a0933d908e943349e7e2212e780522bb73120c8"
+    "retries": 0,
+    "slug": "motorola_signature_27_battery_capacity_germany-news-75468",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_signature_27_battery_capacity_germany-news-75468.php"
   },
   {
     "content_hash": "92bb27807e5d6fd4ea652b11d9fb0b02fa7dd0cb5637f5ee05aebb6a303b160e",

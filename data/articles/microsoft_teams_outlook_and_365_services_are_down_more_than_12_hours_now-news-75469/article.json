@@ -1,0 +1,37 @@
+{
+  "url": "https://www.gsmarena.com/microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469.php",
+  "slug": "microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469",
+  "title": "Microsoft Teams, Outlook, and 365 services are down, more than 12 hours now",
+  "news_id": "75469",
+  "date": "13 November 2026",
+  "author": "Ivan",
+  "tags": [
+    "Featured",
+    "Microsoft"
+  ],
+  "body_paragraphs": [
+    "Microsoft is experiencing a major server outage affecting all its cloud services, including Outlook, Teams, Microsoft 365 (Business and Enterprise), Azure, OneNote, OneDrive, and Microsoft ToDo.",
+    "Microsoft says a malicious cyberattack didn't cause the issue. A statement from the company basically says that its servers are overloaded and that some machines aren't communicating properly. The company is employing a number of fixes, including trying to increase server capacity and fix the affected machines.",
+    "The server outage initially occurred more than 12 hours ago.",
+    "Users in more than 74 countries are affected, including city governments worldwide and service providers like the UK's National Health Service, which says some patients may be prevented from getting their prescriptions during this period."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469/immaculate_001.jpg",
+      "alt": "Microsoft Teams, Outlook, and 365 services are down, more than 12 hours now"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-13T18:59:44.879988+00:00",
+  "title_tr": "Microsoft Teams, Outlook ve 365 hizmetleri şu anda 12 saatten uzun süredir çalışmıyor",
+  "body_paragraphs_tr": [
+    "Microsoft, Outlook, Teams, Microsoft 365 (Business ve Enterprise), Azure, OneNote, OneDrive ve Microsoft ToDo dâhil olmak üzere tüm bulut hizmetlerini etkileyen büyük bir sunucu kesintisi yaşıyor.",
+    "Microsoft, soruna kötü amaçlı bir siber saldırının neden olmadığını söylüyor. Şirketten yapılan açıklamada temel olarak sunucularının aşırı yüklü olduğu ve bazı makinelerin düzgün iletişim kuramadığı belirtiliyor. Şirket, sunucu kapasitesini artırmaya ve etkilenen makineleri düzeltmeye çalışma da dâhil olmak üzere bir dizi düzeltme uyguluyor.",
+    "Sunucu kesintisi ilk olarak 12 saatten uzun bir süre önce meydana geldi.",
+    "Dünya genelindeki belediyeler ve Birleşik Krallık'ın Ulusal Sağlık Hizmeti gibi hizmet sağlayıcıları da dâhil olmak üzere 74'ten fazla ülkedeki kullanıcılar bu durumdan etkileniyor. Ulusal Sağlık Hizmeti, bu dönemde bazı hastaların reçetelerini alamayabileceğini belirtiyor."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Microsoft"
+  ]
+}
