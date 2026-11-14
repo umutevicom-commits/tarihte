@@ -8699,6 +8699,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/microsoft_teams_outlook_and_365_services_are_down_more_than_12_hours_now-news-75469.php"
   },
+  "75470": {
+    "content_hash": "1be4a3e94496c8522e1cb648f7cc4300f65223b747dfceda69b4216a9c49cc96",
+    "date": "14 November 2026",
+    "fetched_at": "2026-11-14T21:50:28.072099+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deals_samsung_galaxy_s26_ultra_and_z_fold8_on_sale_nothing_phone_3_gets_a_price_cut-news-75470",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deals_samsung_galaxy_s26_ultra_and_z_fold8_on_sale_nothing_phone_3_gets_a_price_cut-news-75470.php"
+  },
   "75471": {
     "content_hash": "2de1c174dc67c2637cb31f31a2f8259a6b75e2f9226872983f4bc36ada9154bf",
     "date": "13 November 2026",
@@ -8758,5 +8768,15 @@
     "slug": "samsung_galaxy_a18_4g_singapore_price_sale_date-news-75483",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_a18_4g_singapore_price_sale_date-news-75483.php"
+  },
+  "75484": {
+    "content_hash": "efc897dbcaf711fc35a3ad23014402c69011d2a5e4f5d55a952c07cec1be7b64",
+    "date": "14 November 2026",
+    "fetched_at": "2026-11-14T21:51:08.374795+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_reno17_reno17_pro_full_specs_tipped-news-75484",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_reno17_reno17_pro_full_specs_tipped-news-75484.php"
   }
 }
