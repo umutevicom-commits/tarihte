@@ -1,13 +1,43 @@
 [
   {
-    "slug": "huaweis_next_nova_flip_could_switch_to_a_wide_form_factor-news-75479",
-    "url": "https://www.gsmarena.com/huaweis_next_nova_flip_could_switch_to_a_wide_form_factor-news-75479.php",
+    "slug": "samsung_galaxy_a18_4g_singapore_price_sale_date-news-75483",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a18_4g_singapore_price_sale_date-news-75483.php",
     "date": "14 November 2026",
-    "fetched_at": "2026-11-14T08:20:55.166598+00:00",
+    "fetched_at": "2026-11-14T16:16:20.499070+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "669b54be7e58ca23f1c6eed882c084ebc79cd36cc24db8b49bfcc57d305ea571"
+    "content_hash": "91add7c86d260868730993b20fd09f50181a63bf290857b049306b5c44a053e8"
+  },
+  {
+    "slug": "deals_the_galaxy_s26_series_is_up_to_570_off_pixel_11_series_also_discounted_oppo_find_x10_price_dro-news-75473",
+    "url": "https://www.gsmarena.com/deals_the_galaxy_s26_series_is_up_to_570_off_pixel_11_series_also_discounted_oppo_find_x10_price_dro-news-75473.php",
+    "date": "14 November 2026",
+    "fetched_at": "2026-11-14T16:15:36.633965+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "784160b37e291dd6cf847a0b2076d22bec1fe0d06db3fa5a614357bf239a926c"
+  },
+  {
+    "slug": "heres_what_the_oneplus_16s_launch_in_india_is_rumored_to_depend_on-news-75475",
+    "url": "https://www.gsmarena.com/heres_what_the_oneplus_16s_launch_in_india_is_rumored_to_depend_on-news-75475.php",
+    "date": "14 November 2026",
+    "fetched_at": "2026-11-14T16:15:09.799591+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "0be00d6f842be1c2144e56ba0b538a2fd7f7d90809db96fbe2e2b0f367890a07"
+  },
+  {
+    "content_hash": "669b54be7e58ca23f1c6eed882c084ebc79cd36cc24db8b49bfcc57d305ea571",
+    "date": "14 November 2026",
+    "fetched_at": "2026-11-14T08:20:55.166598+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huaweis_next_nova_flip_could_switch_to_a_wide_form_factor-news-75479",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huaweis_next_nova_flip_could_switch_to_a_wide_form_factor-news-75479.php"
   },
   {
     "content_hash": "875bf9ae9157aac4b16a371db4a8437ee74a9cc90d8d204c5eb60498f2e6f620",
