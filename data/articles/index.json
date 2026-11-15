@@ -1,23 +1,33 @@
 [
   {
-    "slug": "galaxy_s27_dummies_xiaomi_18s_land_in_the_office_week_46_in_review-news-75478",
-    "url": "https://www.gsmarena.com/galaxy_s27_dummies_xiaomi_18s_land_in_the_office_week_46_in_review-news-75478.php",
+    "slug": "gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486",
+    "url": "https://www.gsmarena.com/gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486.php",
     "date": "15 November 2026",
-    "fetched_at": "2026-11-15T16:43:46.202218+00:00",
+    "fetched_at": "2026-11-15T22:18:29.077546+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "eb4626057b90340dd9f2f5289ca8f215c61ca0b108275033e9f88f9c0980e2b5"
+    "content_hash": "4406e32825774e62f0ecc0721b6e9bcb4f0a7af3eba26691c4f8f302bb228117"
   },
   {
-    "slug": "tilta_khronos_oppo_find_x10_pro_max_creator_kit_handson-news-75476",
-    "url": "https://www.gsmarena.com/tilta_khronos_oppo_find_x10_pro_max_creator_kit_handson-news-75476.php",
+    "content_hash": "eb4626057b90340dd9f2f5289ca8f215c61ca0b108275033e9f88f9c0980e2b5",
+    "date": "15 November 2026",
+    "fetched_at": "2026-11-15T16:43:46.202218+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "galaxy_s27_dummies_xiaomi_18s_land_in_the_office_week_46_in_review-news-75478",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/galaxy_s27_dummies_xiaomi_18s_land_in_the_office_week_46_in_review-news-75478.php"
+  },
+  {
+    "content_hash": "918a514d16b75c677d0e2177b3b9750c2327f203efc9bda2ffb330be7d9e6bea",
     "date": "15 November 2026",
     "fetched_at": "2026-11-15T16:43:20.735160+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "918a514d16b75c677d0e2177b3b9750c2327f203efc9bda2ffb330be7d9e6bea"
+    "retries": 0,
+    "slug": "tilta_khronos_oppo_find_x10_pro_max_creator_kit_handson-news-75476",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tilta_khronos_oppo_find_x10_pro_max_creator_kit_handson-news-75476.php"
   },
   {
     "content_hash": "50aeb709fa0c613b9f2ef745ee858437e02900d26af51ee730acbfd6e18898a4",
