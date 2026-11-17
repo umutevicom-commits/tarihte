@@ -6,7 +6,157 @@
     <atom:link href="https://www.gsmarena.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>GSMArena haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:50:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:17:12 +0000</lastBuildDate>
+    <item>
+      <title>WhatsApp'ın kendi şifreli bulut depolama yedekleme seçeneği artık Android'deki bazı beta kullanıcıları için mevcut</title>
+      <link>https://www.gsmarena.com/whatsapp_encrypted_cloud_storage_backup_android_beta-news-75501.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/whatsapp_encrypted_cloud_storage_backup_android_beta-news-75501.php</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Sagar</author>
+      <category>Öne Çıkanlar</category><category>WhatsApp</category><category>Android</category><category>Uygulamalar</category><category>Online Hizmetler</category><category>Sosyal ağlar</category>
+      <description>WhatsApp, şifreli bulut depolama yedekleme çözümünü Nisan ayında Android'de test etmeye başladı ve Temmuz ayında testleri iOS'a genişletti. WABetaInfo, WhatsApp'ın artık Android'deki bazı beta kullanıcılarının sohbetlerini kendi şifreli bulut depolama alanına yedeklemesine izin verdiğini bildiriyor.</description>
+      <content:encoded><![CDATA[<p>WhatsApp, şifreli bulut depolama yedekleme çözümünü Nisan ayında Android'de test etmeye başladı ve Temmuz ayında testleri iOS'a genişletti. WABetaInfo, WhatsApp'ın artık Android'deki bazı beta kullanıcılarının sohbetlerini kendi şifreli bulut depolama alanına yedeklemesine izin verdiğini bildiriyor.</p>
+<p>WABetaInfo bunu Android için WhatsApp'ın 2.26.46.4 beta sürümünde buldu. Bazı beta kullanıcılarının yedeklemeler için WhatsApp'ın bulut depolama alanını veya Google Drive'ı seçmesine olanak tanıyor.</p>
+<p>WhatsApp 2 GB ücretsiz bulut depolama alanı sunar, ancak kullanıcılar 100 GB depolama alanı sağlayan bir WhatsApp Plus aboneliğiyle daha fazla alan satın alabilirler. Daha da fazla alan isteyenler Meta One üzerinden 4 TB'a kadar depolama alanı satın alabilir. Kullanıcı aboneliğini yenilemezse WhatsApp, dört ay sonra yedeği otomatik olarak kalıcı olarak silecektir.</p>
+<p>WhatsApp'ın bulut depolama alanına yedeklenen sohbetlerin varsayılan olarak uçtan uca şifrelendiğini, Google Drive'a (Android'de) veya iCloud'a (iOS'ta) yedeklenen sohbetlerin ise şifrelemenin isteğe bağlı olması nedeniyle şifrelenmediğini unutmayın. Bazı nedenlerden dolayı sohbetlerinizin şifrelenmesini istemiyorsanız Google Drive/iCloud'a geri dönmeniz gerekecektir çünkü WhatsApp'ın bulut depolama alanında saklanan tüm veriler için şifreleme zorunludur.</p>
+<p>WhatsApp kullanıcıları ayrıca yedeklerini WhatsApp'ın bulut depolama alanında bir geçiş anahtarı, parola veya 64 haneli şifreleme anahtarıyla koruyabilir.</p>
+<p>WhatsApp, Android'deki bazı beta kullanıcılarının sohbetlerini kendi bulut depolama alanına yedeklemesine zaten izin verdiğinden, bu özelliğin yakında iOS'taki beta kullanıcılarına da sunulmasını ve ardından tüm kullanıcılar için genel bir yayılımın gerçekleşmesini bekliyoruz.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/whatsapp_encrypted_cloud_storage_backup_android_beta-news-75501/immaculate_001.jpg" alt="WhatsApp's own encrypted cloud storage backup option is now available to some beta users on Android" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>iPhone Duo, en son iOS 27.3 beta sürümünde yüzle kilit açma özelliğine kavuştu</title>
+      <link>https://www.gsmarena.com/iphone_duo_gets_face_unlock_feature_in_latest_ios_273_beta-news-75502.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/iphone_duo_gets_face_unlock_feature_in_latest_ios_273_beta-news-75502.php</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Siddharth</author>
+      <category>Öne Çıkanlar</category><category>Apple</category><category>iOS</category><category>AYGIT YAZILIMI GÜNCELLEMELERİ</category>
+      <description>İkinci iOS 27.3 beta sürümü şu anda geliştiricilere sunuluyor ve iPhone Duo'da yüzle kilit açma da dâhil olmak üzere çeşitli yeni özellikler getiriyor. Özellikle, ilk iOS 27.3 beta sürümü bu ayın başlarında yayımlanmıştı.</description>
+      <content:encoded><![CDATA[<p>İkinci iOS 27.3 beta sürümü şu anda geliştiricilere sunuluyor ve iPhone Duo'da yüzle kilit açma da dâhil olmak üzere çeşitli yeni özellikler getiriyor. Özellikle, ilk iOS 27.3 beta sürümü bu ayın başlarında yayımlanmıştı.</p>
+<p>Apple, Ayarlar uygulamasında Touch ID ve Şifre altında yeni bir &quot;Ön Kamera ile Kilidi Aç&quot; seçeneği ekledi. Bu özellik, kullanıcıların cihaz katlıyken yüz tanıma özelliğini kullanarak katlanabilir cihazın kilidini açmasına olanak tanır.</p>
+<p>Yüzle kilit açma yalnızca kilit ekranında çalışır ve Apple Pay ile yapılan satın alma işlemlerini doğrulamak veya kaydedilen şifrelere erişmek için kullanılamaz. Ayrıca her 45 dakikalık hareketsizlikten sonra Touch ID kimlik doğrulaması da gerektirir.</p>
+<p>iOS 27.3 beta 2, iPhone Duo'da içeriği kapak ekranına aktarmak yerine cihaz katlanarak kapatıldığında onu kilitleyen yeni bir &quot;Kapatarak Kilitle&quot; seçeneği de sunuyor. Diğer eklemeler arasında Apple Intelligence ve Siri AI için yeni kullanım sınırları, Siri için yeni bir &quot;Sayfa Hakkında Soru Sor&quot; özelliği ve birkaç küçük iyileştirme yer alıyor.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_gets_face_unlock_feature_in_latest_ios_273_beta-news-75502/immaculate_001.jpg" alt="iPhone Duo gets face unlock feature in latest iOS 27.3 beta" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Huawei Watch Air, etkileyici derecede ince tasarımıyla sızdırıldı</title>
+      <link>https://www.gsmarena.com/huawei_watch_air_leaks_with_impressively_thin_design-news-75504.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/huawei_watch_air_leaks_with_impressively_thin_design-news-75504.php</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Michail</author>
+      <category>Öne Çıkanlar</category><category>Huawei</category><category>HarmonyOS</category><category>Akıllı giyilebilir cihazlar</category><category>Söylentiler</category>
+      <description>Huawei'nin yakında portföyüne Watch Air ile yeni bir akıllı saat eklemesi bekleniyor. Adından da anlaşılacağı gibi, cihaz ince ve hafif bir profile sahip olacak. Söylentilere göre titanyum tek parça gövdesi yalnızca 6,9 mm kalınlığında olacak. Bunun ne kadar ince olduğu hakkında bir fikir vermesi için Watch Fit 5 ve Fit 5 Pro'nun 9,4 - 9,5 mm, Huawei Band 11'in ise 8,99 mm olduğunu belirtelim.</description>
+      <content:encoded><![CDATA[<p>Huawei'nin yakında portföyüne Watch Air ile yeni bir akıllı saat eklemesi bekleniyor. Adından da anlaşılacağı gibi, cihaz ince ve hafif bir profile sahip olacak. Söylentilere göre titanyum tek parça gövdesi yalnızca 6,9 mm kalınlığında olacak. Bunun ne kadar ince olduğu hakkında bir fikir vermesi için Watch Fit 5 ve Fit 5 Pro'nun 9,4 - 9,5 mm, Huawei Band 11'in ise 8,99 mm olduğunu belirtelim.</p>
+<p>Fixed Focus Digital'ın Weibo gönderisine göre Huawei, Watch Air'in kasası içinde mevcut alanı en iyi şekilde optimize eden düzensiz şekilli, yüksek silikon içerikli katmanlı bir pil kullanıyor. Kaynak ayrıca, bataryanın silikon içeriğinin %10'u aştığını ve tek bir şarjla 5 güne kadar kullanım sunduğunu iddia ediyor.</p>
+<p>Watch Air'in Watch GT 7 Pro ile aynı aktivite takip özelliklerini sunduğu bildirilirken, sensör diziliminin Huawei Watch 6 ile aynı olduğu, yani kalp atış hızı, SpO2, cilt sıcaklığı ve EKG ölçümlerini takip edebileceği söyleniyor.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_air_leaks_with_impressively_thin_design-news-75504/immaculate_001.jpg" alt="Huawei Watch Air (source: &lt;a href=''https://m.weibo.cn/detail/5366006503708578'' target=''_blank'' rel=''noopener noreferrer''&gt;Weibo&lt;/a&gt;)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Xiaomi 18 Pro ve Xiaomi 18 Pro Max küresel lansman etkinliğini buradan izleyin</title>
+      <link>https://www.gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Vlad</author>
+      <category>Öne Çıkanlar</category><category>Xiaomi</category><category>Android</category><category>Akıllı giyilebilir cihazlar</category>
+      <description>Xiaomi'nin en son amiral gemisi akıllı telefonlarını küresel pazara sunma zamanı geldi. Xiaomi 18 Pro ve Xiaomi 18 Pro Max'i Eylül ayında Çin'de piyasaya süren şirket, şimdi bu telefonları Fransa'nın Paris kentinde yerel saatle 14.00'te (İngiltere ve Portekiz'de 13.00, Doğu Avrupa'da 15.00, Hindistan'da 18.30 ve New York'ta 08.00) gerçekleşecek özel bir tanıtım etkinliğiyle tüm dünyaya sunuyor.</description>
+      <content:encoded><![CDATA[<p>Xiaomi'nin en son amiral gemisi akıllı telefonlarını küresel pazara sunma zamanı geldi. Xiaomi 18 Pro ve Xiaomi 18 Pro Max'i Eylül ayında Çin'de piyasaya süren şirket, şimdi bu telefonları Fransa'nın Paris kentinde yerel saatle 14.00'te (İngiltere ve Portekiz'de 13.00, Doğu Avrupa'da 15.00, Hindistan'da 18.30 ve New York'ta 08.00) gerçekleşecek özel bir tanıtım etkinliğiyle tüm dünyaya sunuyor.</p>
+<p>Etkinliği canlı izlemek istiyorsanız bunu buradan yapabilirsiniz.</p>
+<p>Telefonlara Xiaomi Watch S5 41 mm, Xiaomi Smart Band 11 NFC ve Xiaomi Clip kulaklıklar da eşlik edecek. Xiaomi ayrıca aynı anda Avrupa pazarına yönelik daha fazla Mijia markalı ev aleti çıkarmayı da vaat etti.</p>
+<p>Xiaomi 18 Pro ve Xiaomi 18 Pro Max, geçen yıl Xiaomi 17 Pro ve Xiaomi 17 Pro Max ile tanıtılan Xiaomi'nin arka ekran konseptini ilk kez küresel pazarlara getiriyor (çünkü Xiaomi 17 Pro serisi, en azından resmî olarak yalnızca Çin'de mevcuttu). Şirket, arka ekranın başlıca uygulamaları destekleyeceğini şimdiden doğruladı. Geçmişteki sızıntılara göre telefonlar, batarya kapasitesi dışında Çin'deki muadilleriyle aynı olmalı. Ancak fiyatlandırma çok yüksek olabilir.</p>
+<div style="clear:both;margin:16px 0;position:relative;width:100%;padding-top:56.25%;overflow:hidden;background:#000;"><iframe src="https://www.youtube.com/embed/HXuW4fjw5Rk" title="Video" loading="lazy" allowfullscreen frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;display:block;border:0;float:none;"></iframe></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Yeni sızıntı, iPhone 20 Pro'nun ön camına ilk bakışı sunuyor</title>
+      <link>https://www.gsmarena.com/new_leak_offers_a_first_look_at_the_iphone_20_pros_front_glass-news-75503.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/new_leak_offers_a_first_look_at_the_iphone_20_pros_front_glass-news-75503.php</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Siddharth</author>
+      <category>Öne Çıkanlar</category><category>Apple</category><category>iOS</category><category>Söylentiler</category>
+      <description>İnternette ortaya çıkan yeni bir sızıntı, önümüzdeki yıl piyasaya sürülmesi beklenen Apple'ın 20. yıldönümü iPhone'larının ön camına dair iddia edilen ilk görüntüyü sunuyor. iPhone 20 Pro serisinin, çok ince çerçevelere sahip dört taraftan kavisli ekranlarla donatılacağı söyleniyor.</description>
+      <content:encoded><![CDATA[<p>İnternette ortaya çıkan yeni bir sızıntı, önümüzdeki yıl piyasaya sürülmesi beklenen Apple'ın 20. yıldönümü iPhone'larının ön camına dair iddia edilen ilk görüntüyü sunuyor. iPhone 20 Pro serisinin, çok ince çerçevelere sahip dört taraftan kavisli ekranlarla donatılacağı söyleniyor.</p>
+<p>Tanınmış sızıntı kaynağı Ice Universe, sosyal medyada iPhone 20 Pro'nun sözde ön kapak camını gösteren bir video paylaştı.</p>
+<p>Apple iPhone 20 Pro, dönüm noktası niteliğinde bir tasarıma sahip olacak. Önce buna bir göz atalım https://t.co/n8uNrZgh0S</p>
+<p>Ön cam, önceki söylentilere paralel olarak, son derece ince çerçevelere sahip dört taraflı kavisli bir tasarıma sahip gibi görünüyor. Ancak daha önceki bazı sızıntıların aksine, videoda gösterilen camda Dynamic Island için açıklıklar bulunuyor.</p>
+<p>Daha önce başka bir kaynak, iPhone 20 Pro ve Pro Max'in dört kenarı kavisli camla kaplı düz ekranlara sahip olacağını iddia etmişti. Tasarımın optik kırılma yoluyla çerçevesiz bir ekran yanılsaması yarattığı söyleniyor.</p>
+<p>iPhone 20 Pro'nun 6,4 inçlik bir ekrana sahip olacağı, iPhone 20 Pro Max'in ise 6,96 inçlik bir panel içerebileceği söyleniyor. Eylül 2027'de piyasaya sürülmeleri bekleniyor.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Xiaomi 18 Pro ve 18 Pro Max uluslararası lansmanlarına başlıyor</title>
+      <link>https://www.gsmarena.com/xiaomi_18_pro_18_pro_max_international_launch-news-75505.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/xiaomi_18_pro_18_pro_max_international_launch-news-75505.php</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Sagar</author>
+      <category>Öne Çıkanlar</category><category>Xiaomi</category><category>Android</category>
+      <description>Xiaomi bugün Fransa'nın Paris kentinde, Eylül ayında Çin'de tanıtılan Xiaomi 18 Pro ve Xiaomi 18 Pro Max modellerinin uluslararası lansmanı için bir etkinlik düzenledi.</description>
+      <content:encoded><![CDATA[<p>Xiaomi bugün Fransa'nın Paris kentinde, Eylül ayında Çin'de tanıtılan Xiaomi 18 Pro ve Xiaomi 18 Pro Max modellerinin uluslararası lansmanı için bir etkinlik düzenledi.</p>
+<p>Xiaomi 18 Pro ve 18 Pro Max'in küresel modelleri, daha küçük olan batarya hariç, Çin'deki muadilleriyle aynı donanıma sahiptir.</p>
+<p>Küresel Xiaomi 18 Pro 6.000 mAh'lik bir batarya içerirken Xiaomi 18 Pro Max 7.050 mAh'lik bir batarya ile geliyor. Çin'de Xiaomi 18 Pro 7.000 mAh'lik bir batarya ile gelirken 18 Pro Max 8.500 mAh'lik bir batarya ile çalışıyor.</p>
+<p>Küresel Xiaomi 18 Pro Max, Çin modelinin şarj hızıyla aynı şarj hızına sahiptir: 100 W kablolu ve 50 W kablosuz. Küresel Xiaomi 18 Pro da Çinli muadili gibi 50 W kablosuz şarjı destekliyor, ancak kablolu şarj daha yavaş: 90 W'a karşı 100 W.</p>
+<p>Xiaomi 18 Pro Max, Snapdragon 8 Elite Extreme Gen 6 SoC tarafından desteklenirken Xiaomi 18 Pro'da Snapdragon 8 Elite Gen 6 yongası kullanılıyor. Her iki model de arka tarafta ikincil bir ekrana sahiptir ve kutudan çıktığı hâliyle Android 17 tabanlı HyperOS 4 ile çalışır. Her iki akıllı telefonun da ana ekranlarında, hassas bilgileri kamusal alanlarda daha güvende tutmak için tasarlanmış bir Gizlilik Modu bulunuyor.</p>
+<p>Xiaomi 18 Pro ve Xiaomi 18 Pro Max'in ayrıntılı teknik özellikler karşılaştırmasını burada inceleyerek bu telefonlar hakkında daha fazla bilgi edinebilirsiniz.</p>
+<p>Xiaomi 18 Pro Max; Siyah, Beyaz, Kadife Kırmızısı ve Kozmik Mavi renk seçenekleriyle ve 12 GB/256 GB, 12 GB/512 GB ve 16 GB/1 TB olmak üzere üç bellek seçeneğiyle sunuluyor.</p>
+<p>Xiaomi 18 Pro da aynı renklerde ancak iki bellek seçeneğiyle geliyor: 12 GB/256 GB ve 12 GB/512 GB.</p>
+<p>Xiaomi 18 Pro'nun başlangıç fiyatı dünya genelinde 1.399 EUR, 18 Pro Max'in başlangıç fiyatı ise 1.599 EUR'dur.</p>
+<p>Her iki akıllı telefon da 3 aylık ücretsiz Google AI Pro ve YouTube Premium deneme sürümü, 4 aylık Spotify Premium deneme sürümü ve 7 günlük veya 14 günlük iQIYI Standard VIP deneme sürümü ile birlikte sunulmaktadır.</p>
+<p>Xiaomi 18 Pro ve 18 Pro Max'in satış tarihleri henüz açıklanmadı.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_18_pro_18_pro_max_international_launch-news-75505/immaculate_001.jpg" alt="Xiaomi 18 Pro and 18 Pro Max being their international rollout, but with smaller batteries" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_18_pro_18_pro_max_international_launch-news-75505/immaculate_002.jpg" alt="Xiaomi 18 Pro Max and Xiaomi 18 Pro" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_18_pro_18_pro_max_international_launch-news-75505/immaculate_003.jpg" alt="Xiaomi 18 Pro Max (left) and Xiaomi 18 Pro (right)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Xiaomi Watch S5 41 mm, Xiaomi Clip Buds ve Xiaomi Smart Band 11 NFC dünya çapında satışa sunuluyor</title>
+      <link>https://www.gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491.php</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Peter</author>
+      <category>Öne Çıkanlar</category><category>Xiaomi</category><category>Akıllı giyilebilir cihazlar</category><category>Kulaklık</category><category>İlan</category>
+      <description>Xiaomi söz konusu olduğunda hiçbir zaman tek bir şeyden bahsetmek mümkün değildir. Şirket, Xiaomi 18 Pro amiral gemilerinin küresel çapta piyasaya sürüleceğini duyurdu ve ayrıca küresel pazara çeşitli aksesuarlar da sunuyor.</description>
+      <content:encoded><![CDATA[<p>Xiaomi söz konusu olduğunda hiçbir zaman tek bir şeyden bahsetmek mümkün değildir. Şirket, Xiaomi 18 Pro amiral gemilerinin küresel çapta piyasaya sürüleceğini duyurdu ve ayrıca küresel pazara çeşitli aksesuarlar da sunuyor.</p>
+<p>Xiaomi Watch S5 41 mm daha önce Çin'de piyasaya sürülmüştü. Watch S5 46 mm'nin daha küçük bir versiyonu ve Watch S4 41 mm'nin halefidir.</p>
+<p>Yeni model 9,9 mm ile (önceki 9,5 mm'ye kıyasla) biraz daha kalın ve 36 g ile (önceki 32 g'a kıyasla) biraz daha ağır. Bunun iyi yanı, pil kapasitesinin neredeyse iki katına çıkmasıdır. Güç hücresi, eski modeldeki 320 mAh'den 590 mAh'ye yükselmiştir. Bu da AOD açıkken 5 güne, AOD kapalıyken 8 güne ve güç tasarrufu modunda 14 güne kadar pil ömrü anlamına geliyor.</p>
+<p>Xiaomi Watch S5 41 mm</p>
+<p>Saatin paslanmaz çelik çerçevesi, paslanmaz çelik veya seramik çerçeve ve cam arka kapak bulunur. Dragon Crystal Glass 3.0 ile korunan 1,32&quot; OLED ekran (466 x 466 piksel, 3.000 nit'e kadar parlaklık) mevcuttur.</p>
+<p>Saat, optik bir kalp atış hızı sensörüne ve adet döngüsünü takip etmek için üç sıcaklık sensörüne sahiptir (saat, Clue Plus için 3 aylık ücretsiz deneme sürümü ile birlikte gelir). 5 ATM su geçirmezlik derecesine sahiptir ve 150'den fazla spor modunu destekler. Konumlandırma için çift bantlı GNSS, telefon bağlantısı için Bluetooth 5.4 ve Visa ve Mastercard ile ortaklık kurmuş ve Avrupa genelinde 300'den fazla ortak bankayı destekleyen Xiaomi Pay ile temassız ödemeler için NFC mevcuttur. Ayrıca Google Cüzdan ilk kez bir Watch S modeline entegre edilmiştir.</p>
+<p>Xiaomi Watch S5 41 mm, Siyah ve Açık Mavi renk seçenekleriyle sunulmaktadır. Bu versiyonlar paslanmaz çelik çerçevelere ve florokauçuk kayışlara (130-200 mm) sahiptir. Seramik Beyaz versiyonu seramik bir çerçeveye sahiptir ve gerçek deri kayış (yine 130-200 mm) ile sunulmaktadır. Kayışlar, daha fazla konfor sağlamak için mafsallı bağlantı halkalarına takılır.</p>
+<p>Xiaomi Watch S5 41 mm, 230 €'dan başlayan fiyatlarla piyasaya sürülüyor.</p>
+<p>Klipsli kulaklıklar giderek daha popüler hâle geliyor ve Xiaomi, Redmi alt markası aracılığıyla Redmi Clip Neo adlı bir çift kulaklığı çoktan piyasaya sürdü. Şimdi şirket, Xiaomi Clip ile daha üst düzey bir versiyonu piyasaya sürüyor. Kulaklıkların şekli, kulaklarınız üzerindeki basıncın eşit şekilde dağılmasına yardımcı olur ve kulaklık başına yalnızca 5,5 g ağırlıklarıyla uzun süreli ve konforlu bir kullanım için tasarlanmışlardır.</p>
+<p>Açık kulak tasarımı, ister dışarıda koşarken ister ofiste olun, her zaman çevrenizin farkında olmanızı sağlar. Gürültülü ortamlarda bile sesinizi net bir şekilde algılamak için 3 mikrofonlu bir dizi ve bir VPU kemik iletimli mikrofon bulunur. Yapay zekâ destekli gürültü azaltma, gürültüyü daha da bastırmaya yardımcı olur.</p>
+<p>Her bir kulaklık, bozulmayı azaltmak için mikrokristal metal kaplamalı diyaframa sahip 11 mm'lik bir dinamik sürücüye sahiptir. Kulaklıklar, Yüksek Çözünürlüklü Kablosuz Ses için sertifikalıdır ve 20 Hz ila 48 kHz frekans tepkisi için LHDC 5.0'ı destekler.</p>
+<p>Xiaomi Klipsi</p>
+<p>Kulaklıklar kesintisiz olarak 9 saate kadar dayanabilir ve &quot;RingBox&quot; taşıma kılıfları bu süreyi toplam 38 saate kadar uzatır. Uyumlu Xiaomi cihazları arasında otomatik geçiş yapma ve bir cihaza iki çift kulaklık bağlama özellikleri desteklenmektedir. Kulaklıklar su geçirmezlik açısından IP57 derecesine sahiptir, bu nedenle tere ve yağmura dayanabilirler. Kutuyu kaybederseniz Apple Find My özelliğini kullanarak bulabilirsiniz.</p>
+<p>Xiaomi Clip'in fiyatı 150 €'dur. Redmi Clip Neo henüz Avrupa'da satışa sunulmadı.</p>
+<p>Watch S5 41 mm'den daha küçük ve/veya daha ucuz bir şey istiyorsanız Xiaomi Smart Band 11 NFC, temassız ödemeler için NFC de dâhil olmak üzere aynı işlevlerin çoğunu sunar. Bileklik ayrıca iPhone kameranızın deklanşörünü tetikleyebilir veya bir kitap okuyorsanız bir sonraki sayfaya geçmenizi sağlayabilir.</p>
+<p>Bileklik altı farklı stilde sunulmaktadır. İlk dört stil Gece Yarası Siyahı, Buzul Gümüşü, Gizemli Gül ve Ay Altını'dır ve florokauçuk kayışla birlikte gelir. Bilekliğin görünümünü kişiselleştirmek istiyorsanız Xiaomi'nin geniş bir yedek kayış seçeneği vardır (bunlar arasında Naylon Örgülü Kayış ve Düğümlü Bileklik bulunur).</p>
+<p>Ayrıca inci beyazı seramik versiyon ve tamamen metalden oluşan tek parça gövde versiyonu da mevcuttur. Hangisini seçerseniz seçin, bilekliğin kalınlığı 9,99 mm'dir. Bu, Band 10'dan %9 daha incedir.</p>
+<p>Bileklik, 2.000 nit'e kadar parlaklığa ve kavisli 2,5D cama sahip 1,72&quot; OLED ekrana (212 x 520 piksel, 60 Hz) sahiptir. İçindeki pil 233 mAh kapasiteye sahiptir ve az kullanımda 18 güne kadar dayanabilir.</p>
+<p>Xiaomi Smart Band 11</p>
+<p>Yükseltilmiş kalp atış hızı takip cihazı, çift LED çift PD yapılandırmasına sahiptir (tek PD'den yükseltilmiştir). Gün boyu kalp atış hızı ve SpO2 takibi, stres takibi ve uyku takibi yapar. En son algoritma, uyku evreleri için %11 daha iyi doğruluk ve uyku HRV takibi için %14 daha iyi doğruluk sunar. Bileklik 5 ATM su geçirmezlik derecesine sahiptir ve 150'den fazla spor modu sunar.</p>
+<p>Bunların çoğunun yeni olmadığını unutmayın. Xiaomi Smart Band 11, Ekim ayı sonunda Avrupa'da NFC'siz versiyonu 60 €, NFC'li versiyonu ise 80 € fiyatla piyasaya sürüldü. Bununla birlikte, tamamen metalden oluşan Unibody modeli aileye yeni katılan bir üye. Aslında seramik versiyonu o zaman duyurulmuştu ancak hiçbir zaman piyasaya sürülmedi.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_001.jpg" alt="Xiaomi Watch S5 41mm Ceramic White" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_105.jpg" alt="Xiaomi Watch S5 41mm" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_106.jpg" alt="Xiaomi Watch S5 41mm" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_107.jpg" alt="Xiaomi Watch S5 41mm" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_108.jpg" alt="Xiaomi Watch S5 41mm" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_109.jpg" alt="Xiaomi Watch S5 41mm" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_110.jpg" alt="Xiaomi Watch S5 41mm" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_104.jpg" alt="Xiaomi Watch S5 41mm" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_101.jpg" alt="Xiaomi Watch S5 41mm highlights" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_002.jpg" alt="Xiaomi Clip clip-on buds" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_117.jpg" alt="Xiaomi Clip" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_118.jpg" alt="Xiaomi Clip" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_119.jpg" alt="Xiaomi Clip" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_120.jpg" alt="Xiaomi Clip" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_121.jpg" alt="Xiaomi Clip" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_122.jpg" alt="Xiaomi Clip" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_102.jpg" alt="Xiaomi Clip highlights" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_003.jpg" alt="Xiaomi Smart Band 11 NFC" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_111.jpg" alt="Xiaomi Smart Band 11" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_112.jpg" alt="Xiaomi Smart Band 11" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_113.jpg" alt="Xiaomi Smart Band 11" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_114.jpg" alt="Xiaomi Smart Band 11" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_115.jpg" alt="Xiaomi Smart Band 11" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_116.jpg" alt="Xiaomi Smart Band 11" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491/immaculate_103.jpg" alt="Xiaomi Smart Band 11 highlights" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Oppo'nun bir sonraki Pro Max modeli çerçevelerini dört taraflı kavisli camın altına gizleyebilir</title>
       <link>https://www.gsmarena.com/oppos_next_pro_max_may_hide_its_bezels_under_foursided_curved_glass-news-75495.php</link>
@@ -1031,133 +1181,6 @@
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_one_ui_9_5_voip_voice_call_recording-news-75433/immaculate_001.jpg" alt="Samsung could allow One UI 9.5 users to record WhatsApp and Telegram voice calls" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_one_ui_9_5_voip_voice_call_recording-news-75433/immaculate_002.jpg" alt="Samsung users could record WhatsApp and Telegram voice calls with One UI 9.5" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_one_ui_9_5_voip_voice_call_recording-news-75433/immaculate_003.jpg" alt="Samsung users could record WhatsApp and Telegram voice calls with One UI 9.5" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Daha fazla Oppo Find N7 spesifikasyonu ortaya çıktı</title>
-      <link>https://www.gsmarena.com/more_oppo_find_n7_specs_emerge-news-75418.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/more_oppo_find_n7_specs_emerge-news-75418.php</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <author>Michail</author>
-      <category>Öne Çıkanlar</category><category>OPPO</category><category>Android</category><category>Söylentiler</category>
-      <description>Oppo Find N7 'nin Çin dışında piyasaya sürüleceği doğrulandı, bu da katlanabilir hayranlar için iyi bir haber ve şimdi güvenilir bir kaynaktan gelen bir Weibo gönderisi sayesinde bazı ek özelliklere sahibiz.</description>
-      <content:encoded><![CDATA[<p>Oppo Find N7 'nin Çin dışında piyasaya sürüleceği doğrulandı, bu da katlanabilir hayranlar için iyi bir haber ve şimdi güvenilir bir kaynaktan gelen bir Weibo gönderisi sayesinde bazı ek özelliklere sahibiz.</p>
-<p>Tipster Smart Pikachu, Oppo'nun kıvrımsız bir ekran, 200MP ana kamera ve Qualcomm'un Snapdragon 8 Elite Extreme 6. Nesil çipini içeren yaklaşmakta olan katlanabilir cihazının bazı önemli özelliklerini özetledi. Buna ek olarak, katlanabilir ayrıca daha iyi görüntü işleme, derinlik ve renk koruma için çok spektrumlu bir sensör içerecek şekilde ayarlanmaktadır.</p>
-<p>Önceki söylentilere dayanarak, Find N7 'de 7,6&quot; katlanır bir ekran ve kırışıklığı gizlemenin anahtarı olması gereken&quot;kesintisiz bir menteşe &quot;bulunacak. Oppo'nun Galaxy Z Fold8 ve iPhone Duo'ya benzer geniş bir ekrana sahip olacağı söyleniyor.</p>
-<p>Yeni gönderi, Find N7 'nin hafif ve ince olacağını öne sürüyor, ancak boyutları hakkında herhangi bir ayrıntıya sahip değiliz. Bataryanın Find N6 ' lardan daha büyük olacağını ve 6.500 mAh'de geleceğini biliyoruz.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/more_oppo_find_n7_specs_emerge-news-75418/immaculate_001.jpg" alt="Oppo Find N6" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Huawei, kapak ekranlı yeni MateBook Fold dizüstü bilgisayarını tanıttı</title>
-      <link>https://www.gsmarena.com/huawei_teases_new_matebook_fold_laptop_with_cover_screen-news-75420.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/huawei_teases_new_matebook_fold_laptop_with_cover_screen-news-75420.php</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <author>Michail</author>
-      <category>Öne Çıkanlar</category><category>Huawei</category><category>HarmonyOS</category><category>Dizüstü</category>
-      <description>Geçen yılın Mayıs ayında Huawei, ikiye katlanan 18 inçlik bir HarmonyOS PC dizüstü bilgisayar olan MateBook Fold Ultimate'ı tanıttı. Ve o zamandan beri, yükseltilmiş bir Kirin yonga seti ile 2026 baskısını gördük ve marka şimdi üçüncü girişini yapıyor – MateBook Fold S.</description>
-      <content:encoded><![CDATA[<p>Geçen yılın Mayıs ayında Huawei, ikiye katlanan 18 inçlik bir HarmonyOS PC dizüstü bilgisayar olan MateBook Fold Ultimate'ı tanıttı. Ve o zamandan beri, yükseltilmiş bir Kirin yonga seti ile 2026 baskısını gördük ve marka şimdi üçüncü girişini yapıyor – MateBook Fold S.</p>
-<p>Muhtemelen hala LTPO OLED çeşidinde olan 14,7 inçlik bir ekrana sahiptir. Ancak MateBook Fold serisindeki bu üçüncü baskı, kılıfına başka bir numara getiriyor, daha doğrusu kare bir kapak ekranı. Arkada gömülü ve üç kamera kesikli gibi görünen katlanır bir telefondan alınmış gibi görünüyor.</p>
-<p>Huawei MateBook Fold S</p>
-<p>Huawei bunu &quot;Canlı Mini Ekran&quot; olarak adlandırıyor ve kullanıcıların görünümünü kişiselleştirebileceğini ve büyük ekran katlandığında bile çalışıyor gibi göründüğünü söyledi. Huawei, MateBook Fold S için herhangi bir ek özellik veya özellik paylaşmadı.</p>
-<p>Çin'de 14 Kasım saat 10:08 'den itibaren yerel saatle ön siparişe açılacak ve Cloud Blue, Sky White ve Midnight Black renklerinde satışa sunulacak.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/huawei_teases_new_matebook_fold_laptop_with_cover_screen-news-75420/immaculate_002.jpg" alt="Huawei MateBook Fold S" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/huawei_teases_new_matebook_fold_laptop_with_cover_screen-news-75420/immaculate_003.jpg" alt="Huawei MateBook Fold S" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/huawei_teases_new_matebook_fold_laptop_with_cover_screen-news-75420/immaculate_004.jpg" alt="Huawei MateBook Fold S" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/huawei_teases_new_matebook_fold_laptop_with_cover_screen-news-75420/immaculate_005.jpg" alt="Huawei MateBook Fold S" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/huawei_teases_new_matebook_fold_laptop_with_cover_screen-news-75420/immaculate_006.jpg" alt="Huawei MateBook Fold S" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><video controls preload="metadata" title="Video" style="display:block;width:100%;height:auto;max-width:100%;aspect-ratio:16/9;margin:0;float:none;clear:both;background:#000;"><source src="https://fdn.gsmarena.com/imgroot/news/26/11/huawei-matebook-fold-s-teasers/inline/gsmarena_100.mp4" type="video/mp4" /></video></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>iPhone Air 2 ve iPhone 18 modellerinde sızıntı</title>
-      <link>https://www.gsmarena.com/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421.php</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <author>Siddharth</author>
-      <category>Öne Çıkanlar</category><category>Apple</category><category>iOS</category><category>Söylentiler</category>
-      <description>Apple'ın standart iPhone 18 ve iPhone Air 2 'yi 2027 baharında piyasaya sürmesi bekleniyor. Birkaç sızıntı yaklaşmakta olan her iki modelle ilgili ayrıntıları zaten ortaya çıkarmış olsa da, yeni bir sızıntı şimdi bize iddia edilen kukla birimlerine bir göz attı.</description>
-      <content:encoded><![CDATA[<p>Apple'ın standart iPhone 18 ve iPhone Air 2 'yi 2027 baharında piyasaya sürmesi bekleniyor. Birkaç sızıntı yaklaşmakta olan her iki modelle ilgili ayrıntıları zaten ortaya çıkarmış olsa da, yeni bir sızıntı şimdi bize iddia edilen kukla birimlerine bir göz attı.</p>
-<p>Tipster Smart Pikachu, Weibo'da iPhone Air 2 ve iPhone 18 'in sahte olduğu iddia edilen cihazlarının görüntülerini paylaştı.</p>
-<p>IPhone Air 2 kukla ünitesinin, orijinal iPhone Air'den daha ince bir kasaya ve çift arka kamera kurulumuna sahip olduğu görülüyor. Genel arka tasarım, selefine benzerliğini korurken, ikinci bir kameranın eklenmesi ana görünür değişiklik oldu.</p>
-<p>Ön tarafta, telefonun 120Hz yenileme hızına ve daha küçük bir Dinamik Ada'ya sahip 6,55inçlik bir OLED ekrana sahip olması bekleniyor.</p>
-<p>Önceki sızıntılar, iPhone Air 2 'nin çift 48MP arka kameraya ve titanyum çerçeveye sahip olacağını da öne sürüyordu.</p>
-<p>Bu arada, iPhone 18 kukla ünitesi, aynı görünümlü bir arka kamera modülü de dahil olmak üzere iPhone 17 ile aynı genel tasarımı koruyor gibi görünüyor.</p>
-<p>IPhone 18 'in 6.3 inç OLED ekrana, çift 48MP arka kameraya ve Apple'ın A20 yonga setine sahip olduğu söyleniyor.</p>
-<p>Apple'ın standart iPhone'u da iPhone 18 Pro modellerine benzer şekilde fiyat artışı alacak. İlkbahar 2027 lansman etkinliğinde Apple'ın daha uygun fiyatlı iPhone 18e'yi tanıtması bekleniyor.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421/immaculate_001.jpg" alt="iPhone Air 2 and iPhone 18 dummy models leak" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421/immaculate_002.jpg" alt="iPhone Air 2 and iPhone 18 dummy models leak" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_air_2_and_iphone_18_dummy_models_leak-news-75421/immaculate_003.jpg" alt="iPhone Air 2 and iPhone 18 dummy models leak" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google Wallet, yurtdışı QR ödemeleri için destek aldı</title>
-      <link>https://www.gsmarena.com/google_wallet_gains_support_for_overseas_qr_payments-news-75423.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/google_wallet_gains_support_for_overseas_qr_payments-news-75423.php</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <author>Vlad</author>
-      <category>Öne Çıkanlar</category><category>Google</category><category>Android</category><category>MOBİL YAZILIMLAR</category>
-      <description>Google Play Hizmetlerinin en son sürümünün piyasaya sürülmesiyle Google Cüzdan, &quot;Traveler QR&quot; desteği kazandı. Bu, seyahat ederken QR kodlarıyla ödeme yapmanızı sağlar. Bu, çok fazla temassız ödeme altyapısına sahip olmayan bazı ülkelerde çok büyük bir yardımdır.</description>
-      <content:encoded><![CDATA[<p>Google Play Hizmetlerinin en son sürümünün piyasaya sürülmesiyle Google Cüzdan, &quot;Traveler QR&quot; desteği kazandı. Bu, seyahat ederken QR kodlarıyla ödeme yapmanızı sağlar. Bu, çok fazla temassız ödeme altyapısına sahip olmayan bazı ülkelerde çok büyük bir yardımdır.</p>
-<p>Bu özelliği aldığınızda, Cüzdan uygulamasının ayarlarına giderseniz, aşağıdaki ekran görüntülerinde göründüğü gibi “Yurtdışı QR ödemeleri” seçeneğini görmelisiniz.</p>
-<p>Google Cüzdan ayarlarında yurtdışı QR ödemeleri</p>
-<p>Google Wallet, perakende mağazalar, gümrüksüz satış mağazaları, oteller, restoranlar, turistik yerler ve toplu taşıma gibi &quot;kabulün turizmle ilişkili alanlarda yoğunlaşma eğiliminde olduğu&quot; dünya çapında 210 'dan fazla pazarda çalışmakla övünen Alipay+ ağını kullanıyor.</p>
-<p>Alipay+, Çin anakarasında Alipay, Hong Kong'da AlipayHK, Filipinler'de GCash, Malezya'da Touch'n Go eWallet, Tayland'da TrueMoney, Moğolistan'da Hipay, Güney Kore'de Kakao Pay, Naver Pay ve Toss Pay, Singapur'da OCBC Digital ve daha fazlası dahil olmak üzere 50 mobil ödeme sağlayıcısını birbirine bağlar.</p>
-<p>Temel olarak, bu ödeme sağlayıcılarından herhangi birinin kabul edildiği her yerde bir ödeme QR kodunu tarayabilmeniz ve Google Cüzdan ile ödeme yapabilmeniz gerekir. Google, desteklenen destinasyonlardan herhangi birine seyahat ettiğinizde Traveler QR'nin otomatik olarak etkinleştirildiğini söylüyor.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/google_wallet_gains_support_for_overseas_qr_payments-news-75423/immaculate_001.jpg" alt="Overseas QR payments in the Google Wallet settings" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/google_wallet_gains_support_for_overseas_qr_payments-news-75423/immaculate_002.jpg" alt="Overseas QR payments in the Google Wallet settings" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Xiaomi 18 Pro incelemeye alındı</title>
-      <link>https://www.gsmarena.com/xiaomi_18_pro_in_for_review-news-75422.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/xiaomi_18_pro_in_for_review-news-75422.php</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <author>Ivan</author>
-      <category>Öne Çıkanlar</category><category>Xiaomi</category><category>Android</category><category>Gözden geçirme için</category>
-      <description>Artık Xiaomi 18 Pro Max unboxing'i tamamladığımıza göre, Xiaomi 18 Pro'yu yapma zamanı geldi. TikTok'ta video kutudan çıkarma burada.</description>
-      <content:encoded><![CDATA[<p>Artık Xiaomi 18 Pro Max unboxing'i tamamladığımıza göre, Xiaomi 18 Pro'yu yapma zamanı geldi. TikTok'ta video kutudan çıkarma burada.</p>
-<p>Max gibi, Xiaomi 18 Pro da bir USB - A - USB - C kablosu ve şeffaf bir kılıf ile birlikte geliyor.</p>
-<p>Dava basit ve sağlamdır. Bir güvence hissi katıyor ve aynı zamanda telefonun Kadife Kırmızı boya işini gösterme avantajına da sahip.</p>
-<p>Kutu içi kasa</p>
-<p>Xiaomi ayrıca bize daha sağlam ve daha kaliteli hissettiren Silikon Manyetik kılıfı da gönderdi. Adından da anlaşılacağı gibi, MagSafe'i de telefona getiriyor.</p>
-<p>Bununla birlikte, telefonu çoğunlukla siyaha çevirir. Arkadaki kameraların etrafında ince bir kadife kırmızı vurgu var, bu güzel.</p>
-<p>Silikon Manyetik kasa</p>
-<p>6,4 inçlik bir ekrana dayanan Xiaomi 18 Pro, kompakt bir amiral gemisidir. Aslında, bizim için kategorisinin en iyilerinden biri, bu yüzden onu yıllık ödüllerimiz için aday gösterdik!</p>
-<p>Bununla birlikte, 200 gramın biraz üzerinde veya iPhone 18 Pro ile hemen hemen aynı olan bir tüy sıklet değildir. Ancak iPhone, Xiaomi'nin 6.4 inçlik ekranına 6,3 inçlik bir ekrana sahipken, Cupertino telefonu da yaklaşık 3.000 mAh daha az pil kapasitesine sahip. Xiaomi 18 Pro'nun 7.000mAh güç paketinin iPhone'un iki katı dayanıklılık üretip üretmediği henüz belli değil. İncelemede inceleyeceğiz.</p>
-<p>Son olarak, tıpkı Pro Max gibi, Xiaomi 18 Pro da arka ekran ve gizlilik ekranı özelliğine sahiptir. Arka ekran Pro Max'inkinden biraz daha sıkı, ancak aynı özelliklerle dolu. Ama çoğunlukla bu telefonla ana kamera selfie'leri çekmek için kullanırdık.</p>
-<p>Gizlilik ekranı özelliği Samsung'unkiyle eşleşiyor. Piksel düzeyinde etkinleştirilir ve tamamen özelleştirilebilir - tüm ekranın meraklı gözlerden veya yalnızca belirli uygulamalardan engellenmesini sağlayabilirsiniz.</p>
-<p>İncelememizde bundan daha fazlası var!</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_18_pro_in_for_review-news-75422/immaculate_001.jpg" alt="Xiaomi 18 Pro in for review" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_18_pro_in_for_review-news-75422/immaculate_002.jpg" alt="The in-box case" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_18_pro_in_for_review-news-75422/immaculate_003.jpg" alt="The in-box case" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_18_pro_in_for_review-news-75422/immaculate_004.jpg" alt="The Silicone Magnetic case" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_18_pro_in_for_review-news-75422/immaculate_005.jpg" alt="The Silicone Magnetic case" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_18_pro_in_for_review-news-75422/immaculate_006.jpg" alt="Xiaomi 18 Pro in for review" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/xiaomi_18_pro_in_for_review-news-75422/immaculate_007.jpg" alt="Xiaomi 18 Pro in for review" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Samsung, Google depolama alanıyla galeri senkronizasyonunu resmi olarak detaylandır</title>
-      <link>https://www.gsmarena.com/samsung_officially_details_gallery_sync_with_google_storage-news-75424.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/samsung_officially_details_gallery_sync_with_google_storage-news-75424.php</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <author>Vlad</author>
-      <category>Öne Çıkanlar</category><category>Samsung</category><category>Android</category><category>Online Hizmetler</category><category>Google</category>
-      <description>Samsung, Galeri uygulamasının Google depolama alanına geçişini bugün resmi olarak detaylandırıyor. Eylül ayında, doğrudan OneDrive senkronizasyonu 30 Eylül'de sona erdikten hemen sonra Galeri'nin bulut senkronizasyonunun Google Fotoğraflar'a geçişinden bahsetmiştik.</description>
-      <content:encoded><![CDATA[<p>Samsung, Galeri uygulamasının Google depolama alanına geçişini bugün resmi olarak detaylandırıyor. Eylül ayında, doğrudan OneDrive senkronizasyonu 30 Eylül'de sona erdikten hemen sonra Galeri'nin bulut senkronizasyonunun Google Fotoğraflar'a geçişinden bahsetmiştik.</p>
-<p>Google depolama alanıyla galeri senkronizasyonu, One UI 9 çalıştıran belirli Galaxy telefonlarında ve tabletlerde başladı ve bazı pazarlarda mevcut olmasa da aşamalı olarak genişleyecek. Mevcut Google depolama alanınızı kullanır, böylece Gmail, Google Drive ve Google Fotoğraflar ile paylaşılan aynı 15 GB ücretsiz alana sahip olursunuz ve Google One abonelikleri aracılığıyla daha fazla alan kullanılabilir. Samsung Gallery SYNC, kendi başına herhangi bir ekstra depolama alanı ile birlikte gelmez, bu nedenle ne kadar kullanabileceğiniz, o alanın ne kadarının zaten kullanıldığına bağlıdır.</p>
-<p>Samsung'un Galerisi lansmanda, yalnızca etkinleştirdikten sonra uygulama aracılığıyla senkronize edilen öğeleri gösterir, böylece mevcut Google Fotoğraflar kitaplığınız otomatik olarak görünmez. Samsung'un ifadeleri, bunun çizgiyi değiştirebileceğini gösteriyor. Daha önce OneDrive ile senkronize edilen dosyalara Microsoft uygulamasından veya web sitesinden erişilebilir.</p>
-<p>Ayrıca, Galeri'de küçük resimler bırakırken senkronize orijinalleri cihazınızdan kaldıran yeni bir &quot;Boş alan açma&quot; özelliği de var. Ve yeni bir Galaxy cihazında, bağlı aynı Samsung ve Google hesaplarıyla senkronizasyonu açmak, kitaplığınızın önizlemelerini gösterir ve ihtiyacınız olduğunda orijinal bir dosyayı indirebilirsiniz.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_officially_details_gallery_sync_with_google_storage-news-75424/immaculate_001.jpg" alt="Samsung officially details Gallery sync with Google storage" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_officially_details_gallery_sync_with_google_storage-news-75424/immaculate_002.jpg" alt="Samsung officially details Gallery sync with Google storage" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Samsung Galaxy A34, Android 17 'ye dayalı One UI 9' a güncellendi</title>
-      <link>https://www.gsmarena.com/samsung_galaxy_a34_gets_updated_to_one_ui_9_based_on_android_17-news-75412.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/samsung_galaxy_a34_gets_updated_to_one_ui_9_based_on_android_17-news-75412.php</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <author>Vlad</author>
-      <category>Öne Çıkanlar</category><category>Samsung</category><category>Android</category><category>AYGIT YAZILIMI GÜNCELLEMELERİ</category>
-      <description>Samsung, son zamanlarda Android 17 'ye dayanan One UI 9 güncellemeleriyle gündemde ve şimdi güncellemeyi alan en son akıllı telefon 2023' ten itibaren Galaxy A34. One UI 9 güncellemesi artık Avrupa da dahil olmak üzere dünya çapında kullanıma sunuldu.</description>
-      <content:encoded><![CDATA[<p>Samsung, son zamanlarda Android 17 'ye dayanan One UI 9 güncellemeleriyle gündemde ve şimdi güncellemeyi alan en son akıllı telefon 2023' ten itibaren Galaxy A34. One UI 9 güncellemesi artık Avrupa da dahil olmak üzere dünya çapında kullanıma sunuldu.</p>
-<p>Havadan A346EXXUGGZJ9 veya A346BXXUHGZJ8 (bölgeye bağlı olarak) sürümü olarak gelir ve 2,8 GB'lık bir indirme işlemidir, bu nedenle yeterince hızlı bir ağ üzerinden aldığınızdan emin olun. Bu aynı zamanda 5 Ekim 2026 güvenlik yaması seviyesini de içeriyor, bu da artık mevcut değil, sadece adil.</p>
-<p>Her zamanki gibi, güncelleme muhtemelen dalgalar halinde yayılıyor, bu nedenle A34 'ünüz henüz bildirimi almadıysa endişelenmeyin. Önümüzdeki günlerde veya haftalarda elinize ulaşacaktır.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_a34_gets_updated_to_one_ui_9_based_on_android_17-news-75412/immaculate_001.jpg" alt="Samsung Galaxy A34 gets updated to One UI 9 based on Android 17" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>

@@ -8829,6 +8829,26 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/gaming_performance_evolution_iphone_15_pro_to_iphone_18_pro-news-75486.php"
   },
+  "75491": {
+    "content_hash": "c2a6e72cf73a1321b6bf7c55754bbbe06bfe23feb5ba35f1a16941a3d35719c0",
+    "date": "17 November 2026",
+    "fetched_at": "2026-11-17T15:14:16.252363+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_xiaomi_clip_buds_and_xiaomi_smart_band_11_nfc_go_global-news-75491.php"
+  },
+  "75494": {
+    "content_hash": "5d614fe4ac6f06a25282bfbc0b5fa9fe1c96499b3ebfff71774df80bdf3b0a8a",
+    "date": "17 November 2026",
+    "fetched_at": "2026-11-17T15:16:13.105929+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/watch_xiaomis_global_launch_event_for_the_xiaomi_18_pro_and_xiaomi_18_pro_max_here-news-75494.php"
+  },
   "75495": {
     "content_hash": "d59f2e9e83571da3e0bdeaa41dc93cc4f126a9856589f291a846fbdb7d768088",
     "date": "17 November 2026",
@@ -8838,5 +8858,55 @@
     "slug": "oppos_next_pro_max_may_hide_its_bezels_under_foursided_curved_glass-news-75495",
     "status": "ok",
     "url": "https://www.gsmarena.com/oppos_next_pro_max_may_hide_its_bezels_under_foursided_curved_glass-news-75495.php"
+  },
+  "75501": {
+    "content_hash": "0a96e9c5a2e8c3167d032716c002042de20b0281041f24e3fa9ac3bb9ad89113",
+    "date": "17 November 2026",
+    "fetched_at": "2026-11-17T15:16:52.704948+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "whatsapp_encrypted_cloud_storage_backup_android_beta-news-75501",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_encrypted_cloud_storage_backup_android_beta-news-75501.php"
+  },
+  "75502": {
+    "content_hash": "9712fb59411bd2ca8a098ded3718fdba00dc76fb11fe8ca9498c0d459fb21013",
+    "date": "17 November 2026",
+    "fetched_at": "2026-11-17T15:16:38.913974+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iphone_duo_gets_face_unlock_feature_in_latest_ios_273_beta-news-75502",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iphone_duo_gets_face_unlock_feature_in_latest_ios_273_beta-news-75502.php"
+  },
+  "75503": {
+    "content_hash": "0d0e017ed98cacbe243f34a6e330401ad6a0322514c1bc0579124af92c7b68e5",
+    "date": "17 November 2026",
+    "fetched_at": "2026-11-17T15:15:55.007725+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "new_leak_offers_a_first_look_at_the_iphone_20_pros_front_glass-news-75503",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/new_leak_offers_a_first_look_at_the_iphone_20_pros_front_glass-news-75503.php"
+  },
+  "75504": {
+    "content_hash": "f36cce4b72b15e744cdd2571d93165abfbc45f11698fe3bae2c79ec24a03e038",
+    "date": "17 November 2026",
+    "fetched_at": "2026-11-17T15:16:25.956014+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_watch_air_leaks_with_impressively_thin_design-news-75504",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_watch_air_leaks_with_impressively_thin_design-news-75504.php"
+  },
+  "75505": {
+    "content_hash": "35ce418518ef08feb09a31b6bdb3122f0365367cdf13db221eb244d5dd55b0e4",
+    "date": "17 November 2026",
+    "fetched_at": "2026-11-17T15:15:29.848360+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_18_pro_18_pro_max_international_launch-news-75505",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_18_pro_18_pro_max_international_launch-news-75505.php"
   }
 }
