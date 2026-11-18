@@ -8958,5 +8958,25 @@
     "slug": "samsung_could_beat_apple_to_market_with_a_bezelless_phone_display-news-75510",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_could_beat_apple_to_market_with_a_bezelless_phone_display-news-75510.php"
+  },
+  "75512": {
+    "content_hash": "b8b18a40e5e8c66ed846c2ee1f66558a84c26c6575367072b8783393ceb94a80",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T05:16:34.474663+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_osta_o1_pro_design_and_color_options_officially_revealed-news-75512",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_osta_o1_pro_design_and_color_options_officially_revealed-news-75512.php"
+  },
+  "75514": {
+    "content_hash": "b837d3a47413a9eb71afb1f285dc18f702e856b2ee115e9ed4c261e6e4670790",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T05:16:14.290161+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_z12_lite_shows_up_in_the_google_play_console_has_key_specs_revealed-news-75514",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_z12_lite_shows_up_in_the_google_play_console_has_key_specs_revealed-news-75514.php"
   }
 }

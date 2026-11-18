@@ -1,53 +1,73 @@
 [
   {
-    "slug": "motorola_signature_27_battery_capacity_germany_confirmed-news-75509",
-    "url": "https://www.gsmarena.com/motorola_signature_27_battery_capacity_germany_confirmed-news-75509.php",
+    "slug": "huawei_osta_o1_pro_design_and_color_options_officially_revealed-news-75512",
+    "url": "https://www.gsmarena.com/huawei_osta_o1_pro_design_and_color_options_officially_revealed-news-75512.php",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T05:16:34.474663+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b8b18a40e5e8c66ed846c2ee1f66558a84c26c6575367072b8783393ceb94a80"
+  },
+  {
+    "slug": "iqoo_z12_lite_shows_up_in_the_google_play_console_has_key_specs_revealed-news-75514",
+    "url": "https://www.gsmarena.com/iqoo_z12_lite_shows_up_in_the_google_play_console_has_key_specs_revealed-news-75514.php",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T05:16:14.290161+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b837d3a47413a9eb71afb1f285dc18f702e856b2ee115e9ed4c261e6e4670790"
+  },
+  {
+    "content_hash": "78efb038e5020c22733e525413e7d0d54fafc75598b200797583fce9108fe5e8",
     "date": "17 November 2026",
     "fetched_at": "2026-11-17T23:16:46.427248+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "78efb038e5020c22733e525413e7d0d54fafc75598b200797583fce9108fe5e8"
+    "retries": 0,
+    "slug": "motorola_signature_27_battery_capacity_germany_confirmed-news-75509",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_signature_27_battery_capacity_germany_confirmed-news-75509.php"
   },
   {
-    "slug": "heres_everything_new_in_ios_273_beta_2_and_macos_273_beta_2-news-75508",
-    "url": "https://www.gsmarena.com/heres_everything_new_in_ios_273_beta_2_and_macos_273_beta_2-news-75508.php",
+    "content_hash": "6feae05d23c833128223f982eb2063fef4e3103d28cf4f714390c4530dce519a",
     "date": "17 November 2026",
     "fetched_at": "2026-11-17T23:16:28.070469+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "6feae05d23c833128223f982eb2063fef4e3103d28cf4f714390c4530dce519a"
+    "retries": 0,
+    "slug": "heres_everything_new_in_ios_273_beta_2_and_macos_273_beta_2-news-75508",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_everything_new_in_ios_273_beta_2_and_macos_273_beta_2-news-75508.php"
   },
   {
-    "slug": "sharp_unveils_the_light_and_thin_aquos_sense11_with_a_3000nit_oled_screen-news-75507",
-    "url": "https://www.gsmarena.com/sharp_unveils_the_light_and_thin_aquos_sense11_with_a_3000nit_oled_screen-news-75507.php",
+    "content_hash": "2f77b0344afc64c854bb952099e2dbcb3f45844bac090c55ffad9d76b6ad516c",
     "date": "17 November 2026",
     "fetched_at": "2026-11-17T23:16:01.420459+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2f77b0344afc64c854bb952099e2dbcb3f45844bac090c55ffad9d76b6ad516c"
+    "retries": 0,
+    "slug": "sharp_unveils_the_light_and_thin_aquos_sense11_with_a_3000nit_oled_screen-news-75507",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/sharp_unveils_the_light_and_thin_aquos_sense11_with_a_3000nit_oled_screen-news-75507.php"
   },
   {
-    "slug": "over_200000_apps_are_now_optimized_for_the_iphone_duo-news-75506",
-    "url": "https://www.gsmarena.com/over_200000_apps_are_now_optimized_for_the_iphone_duo-news-75506.php",
+    "content_hash": "0c2b790416a51a92522e516bf3c5cb0436c06a581b1787f4afd96ea5f2ffda14",
     "date": "17 November 2026",
     "fetched_at": "2026-11-17T23:15:42.955256+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "0c2b790416a51a92522e516bf3c5cb0436c06a581b1787f4afd96ea5f2ffda14"
+    "retries": 0,
+    "slug": "over_200000_apps_are_now_optimized_for_the_iphone_duo-news-75506",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/over_200000_apps_are_now_optimized_for_the_iphone_duo-news-75506.php"
   },
   {
-    "slug": "samsung_could_beat_apple_to_market_with_a_bezelless_phone_display-news-75510",
-    "url": "https://www.gsmarena.com/samsung_could_beat_apple_to_market_with_a_bezelless_phone_display-news-75510.php",
+    "content_hash": "8c02769336e100739cb2dc5028e69409746db52cba76fd0801ef8ea242f08efb",
     "date": "17 November 2026",
     "fetched_at": "2026-11-17T23:15:23.714579+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8c02769336e100739cb2dc5028e69409746db52cba76fd0801ef8ea242f08efb"
+    "retries": 0,
+    "slug": "samsung_could_beat_apple_to_market_with_a_bezelless_phone_display-news-75510",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_could_beat_apple_to_market_with_a_bezelless_phone_display-news-75510.php"
   },
   {
     "content_hash": "0a96e9c5a2e8c3167d032716c002042de20b0281041f24e3fa9ac3bb9ad89113",
