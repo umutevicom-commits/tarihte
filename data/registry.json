@@ -9019,6 +9019,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/the_apple_homeview_is_a_repairability_nightmare-news-75519.php"
   },
+  "75520": {
+    "content_hash": "54cb2bf4663fa0faa5e48b3afb1a3f0eeaafd59c1ad95a6343c1dddd32ab75a8",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T22:48:12.753025+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "more_details_about_apples_20thanniversary_iphone_emerge-news-75520",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/more_details_about_apples_20thanniversary_iphone_emerge-news-75520.php"
+  },
   "75522": {
     "content_hash": "33b19e0168e48c124d49c8ade2c8f36b9b78138d7a7d2a925655a779847638ab",
     "date": "18 November 2026",
@@ -9048,5 +9058,45 @@
     "slug": "oneplus_turbo_7_pro_gets_certified_ahead_of_launch_more_specs_leak-news-75524",
     "status": "ok",
     "url": "https://www.gsmarena.com/oneplus_turbo_7_pro_gets_certified_ahead_of_launch_more_specs_leak-news-75524.php"
+  },
+  "75527": {
+    "content_hash": "20617229677dca67e21bd50235848c4af3cf370174d43543cfb6998a2d9cac58",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T22:47:36.284139+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "heres_what_will_decide_which_chipset_powers_the_vivo_x_fold7-news-75527",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_what_will_decide_which_chipset_powers_the_vivo_x_fold7-news-75527.php"
+  },
+  "75528": {
+    "content_hash": "8816a3e1a5b9b20ee72a5acfdb0d05e8fd8cf10c2f393c90e04890833c118628",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T22:46:56.891750+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "nvidia_halts_its_h200_chip_sales_to_china_-news-75528",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nvidia_halts_its_h200_chip_sales_to_china_-news-75528.php"
+  },
+  "75529": {
+    "content_hash": "b4563eb98ee6034d0db055702d4b630c0ba94826c83ecf26dd527167b8c6d43d",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T22:47:12.868335+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_reveals_its_2026_app_store_award_finalists-news-75529",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_reveals_its_2026_app_store_award_finalists-news-75529.php"
+  },
+  "75530": {
+    "content_hash": "f3aaac15bb92f23a0cf7d70bb73e7b2daf852a3b91f69cf3ffcc1da100d22a7b",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T22:47:54.010750+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530.php"
   }
 }

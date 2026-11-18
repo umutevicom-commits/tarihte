@@ -1,73 +1,123 @@
 [
   {
-    "slug": "samsung_galaxy_a24_4g_gets_one_ui_9_based_on_android_17-news-75517",
-    "url": "https://www.gsmarena.com/samsung_galaxy_a24_4g_gets_one_ui_9_based_on_android_17-news-75517.php",
+    "slug": "more_details_about_apples_20thanniversary_iphone_emerge-news-75520",
+    "url": "https://www.gsmarena.com/more_details_about_apples_20thanniversary_iphone_emerge-news-75520.php",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T22:48:12.753025+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "54cb2bf4663fa0faa5e48b3afb1a3f0eeaafd59c1ad95a6343c1dddd32ab75a8"
+  },
+  {
+    "slug": "apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530",
+    "url": "https://www.gsmarena.com/apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530.php",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T22:47:54.010750+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "f3aaac15bb92f23a0cf7d70bb73e7b2daf852a3b91f69cf3ffcc1da100d22a7b"
+  },
+  {
+    "slug": "heres_what_will_decide_which_chipset_powers_the_vivo_x_fold7-news-75527",
+    "url": "https://www.gsmarena.com/heres_what_will_decide_which_chipset_powers_the_vivo_x_fold7-news-75527.php",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T22:47:36.284139+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "20617229677dca67e21bd50235848c4af3cf370174d43543cfb6998a2d9cac58"
+  },
+  {
+    "slug": "apple_reveals_its_2026_app_store_award_finalists-news-75529",
+    "url": "https://www.gsmarena.com/apple_reveals_its_2026_app_store_award_finalists-news-75529.php",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T22:47:12.868335+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "b4563eb98ee6034d0db055702d4b630c0ba94826c83ecf26dd527167b8c6d43d"
+  },
+  {
+    "slug": "nvidia_halts_its_h200_chip_sales_to_china_-news-75528",
+    "url": "https://www.gsmarena.com/nvidia_halts_its_h200_chip_sales_to_china_-news-75528.php",
+    "date": "18 November 2026",
+    "fetched_at": "2026-11-18T22:46:56.891750+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "8816a3e1a5b9b20ee72a5acfdb0d05e8fd8cf10c2f393c90e04890833c118628"
+  },
+  {
+    "content_hash": "d9daf99da5785939fbe23f9cd968a98982d74c8e5a1662b4d50b22a75e562d66",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T14:53:44.626425+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d9daf99da5785939fbe23f9cd968a98982d74c8e5a1662b4d50b22a75e562d66"
+    "retries": 0,
+    "slug": "samsung_galaxy_a24_4g_gets_one_ui_9_based_on_android_17-news-75517",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a24_4g_gets_one_ui_9_based_on_android_17-news-75517.php"
   },
   {
-    "slug": "motorola_starts_teasing_the_edge_70_neo_hints_at_when_it_will_be_announced-news-75516",
-    "url": "https://www.gsmarena.com/motorola_starts_teasing_the_edge_70_neo_hints_at_when_it_will_be_announced-news-75516.php",
+    "content_hash": "e098f043159d80020bb4be5245097a00b0394427e216496b12e82da9462af5d5",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T14:53:25.046688+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e098f043159d80020bb4be5245097a00b0394427e216496b12e82da9462af5d5"
+    "retries": 0,
+    "slug": "motorola_starts_teasing_the_edge_70_neo_hints_at_when_it_will_be_announced-news-75516",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_starts_teasing_the_edge_70_neo_hints_at_when_it_will_be_announced-news-75516.php"
   },
   {
-    "slug": "samsung_galaxy_s26_series_one_ui_9_5_beta_program-news-75518",
-    "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_5_beta_program-news-75518.php",
+    "content_hash": "b39afc312ea70969af43bd04fcec7788b52d3ebceea86366e3c441306b11d461",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T14:53:07.250889+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b39afc312ea70969af43bd04fcec7788b52d3ebceea86366e3c441306b11d461"
+    "retries": 0,
+    "slug": "samsung_galaxy_s26_series_one_ui_9_5_beta_program-news-75518",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_s26_series_one_ui_9_5_beta_program-news-75518.php"
   },
   {
-    "slug": "the_apple_homeview_is_a_repairability_nightmare-news-75519",
-    "url": "https://www.gsmarena.com/the_apple_homeview_is_a_repairability_nightmare-news-75519.php",
+    "content_hash": "665cd9d2e4bb3fcd381f48847fc09466a4ab586424bf25c9cccebd2c007bf9aa",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T14:52:46.720976+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "665cd9d2e4bb3fcd381f48847fc09466a4ab586424bf25c9cccebd2c007bf9aa"
+    "retries": 0,
+    "slug": "the_apple_homeview_is_a_repairability_nightmare-news-75519",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_apple_homeview_is_a_repairability_nightmare-news-75519.php"
   },
   {
-    "slug": "samsung_one_ui_9_5_app_lock_feature-news-75522",
-    "url": "https://www.gsmarena.com/samsung_one_ui_9_5_app_lock_feature-news-75522.php",
+    "content_hash": "33b19e0168e48c124d49c8ade2c8f36b9b78138d7a7d2a925655a779847638ab",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T14:52:26.698499+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "33b19e0168e48c124d49c8ade2c8f36b9b78138d7a7d2a925655a779847638ab"
+    "retries": 0,
+    "slug": "samsung_one_ui_9_5_app_lock_feature-news-75522",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_one_ui_9_5_app_lock_feature-news-75522.php"
   },
   {
-    "slug": "xiaomi_smart_band_11_unibody_edition_in_for_review-news-75523",
-    "url": "https://www.gsmarena.com/xiaomi_smart_band_11_unibody_edition_in_for_review-news-75523.php",
+    "content_hash": "10e517053b244fe9e07318ef13ca6fc59de13670538d0353d3a6205119658e43",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T14:51:39.189620+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "10e517053b244fe9e07318ef13ca6fc59de13670538d0353d3a6205119658e43"
+    "retries": 0,
+    "slug": "xiaomi_smart_band_11_unibody_edition_in_for_review-news-75523",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_smart_band_11_unibody_edition_in_for_review-news-75523.php"
   },
   {
-    "slug": "oneplus_turbo_7_pro_gets_certified_ahead_of_launch_more_specs_leak-news-75524",
-    "url": "https://www.gsmarena.com/oneplus_turbo_7_pro_gets_certified_ahead_of_launch_more_specs_leak-news-75524.php",
+    "content_hash": "3107e1f48b31c593c8d8835a6f14eedf4fea1590ce8647f635a4bd6610062d72",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T14:51:04.379166+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3107e1f48b31c593c8d8835a6f14eedf4fea1590ce8647f635a4bd6610062d72"
+    "retries": 0,
+    "slug": "oneplus_turbo_7_pro_gets_certified_ahead_of_launch_more_specs_leak-news-75524",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_turbo_7_pro_gets_certified_ahead_of_launch_more_specs_leak-news-75524.php"
   },
   {
     "content_hash": "b8b18a40e5e8c66ed846c2ee1f66558a84c26c6575367072b8783393ceb94a80",
