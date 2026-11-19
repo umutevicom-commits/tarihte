@@ -9029,6 +9029,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/more_details_about_apples_20thanniversary_iphone_emerge-news-75520.php"
   },
+  "75521": {
+    "content_hash": "5ae22d31f7ecbbd9934147215c1036c56874b7318910cdee6c4811baf7f6e7f8",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T14:59:20.682145+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_honor_watch_6_pro_launches_in_europe_with_an_early_bird_price_free_strap_and_clipon_buds-news-75521",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_honor_watch_6_pro_launches_in_europe_with_an_early_bird_price_free_strap_and_clipon_buds-news-75521.php"
+  },
   "75522": {
     "content_hash": "33b19e0168e48c124d49c8ade2c8f36b9b78138d7a7d2a925655a779847638ab",
     "date": "18 November 2026",
@@ -9099,6 +9109,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530.php"
   },
+  "75531": {
+    "content_hash": "609c753ecfdd49704772d663352b84940212e6e5137c8ff8423bd3d656d254a8",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T15:00:41.768844+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_confirms_which_magic9_models_will_be_available_in_the_uk-news-75531",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_confirms_which_magic9_models_will_be_available_in_the_uk-news-75531.php"
+  },
   "75532": {
     "content_hash": "ecc188802673ddb15ecee3f4a792462bc2a0a799f92676bcf2cf6ce7a116830d",
     "date": "19 November 2026",
@@ -9109,6 +9129,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_ceramic_edition_-news-75532.php"
   },
+  "75533": {
+    "content_hash": "d55a88a51e6631d7b60296918317133f05c3af05e2b09fbc3be5640341f3f115",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T15:00:28.620792+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorola_edge_70_neo_now_has_an_official_launch_date_and_its_main_specs_confirmed-news-75533",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_edge_70_neo_now_has_an_official_launch_date_and_its_main_specs_confirmed-news-75533.php"
+  },
   "75534": {
     "content_hash": "8964fa776f38e45a825d067c2536bb141abb837ec6d2bbaeb74cc0280be5708e",
     "date": "19 November 2026",
@@ -9118,5 +9148,55 @@
     "slug": "honor_magic_v7_will_reportedly_be_a_wide_foldable-news-75534",
     "status": "ok",
     "url": "https://www.gsmarena.com/honor_magic_v7_will_reportedly_be_a_wide_foldable-news-75534.php"
+  },
+  "75536": {
+    "content_hash": "45faf42b3e6d12f0b4b394c9f336df18f2d165dec31cec9c0924f114eb9199c9",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T14:59:59.035319+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorola_razr_fold_android_17_stable_update-news-75536",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_razr_fold_android_17_stable_update-news-75536.php"
+  },
+  "75537": {
+    "content_hash": "eb2b84568bf5eeedde04014da19b64a34328072e8db07f4aec5c43be98aba298",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T14:59:02.254707+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_mate_90_air_listed_ahead_of_launch-news-75537",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_mate_90_air_listed_ahead_of_launch-news-75537.php"
+  },
+  "75538": {
+    "content_hash": "7df42a9f0a047be50aa2959928496f13903380fdedf1c8f28d91e981dc9f0d60",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T14:57:57.589725+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_one_ui_9_5_open_gate_video_recording_dual_cam_panorama-news-75538",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_one_ui_9_5_open_gate_video_recording_dual_cam_panorama-news-75538.php"
+  },
+  "75539": {
+    "content_hash": "ed6a196aa2c4c12db7e0a777c31f58a427e1bf04d8d5fcfe5425523f060d05b3",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T14:58:33.185754+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazon_us_black_friday_deals_here_are_the_best_smartphone_offers-news-75539",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_us_black_friday_deals_here_are_the_best_smartphone_offers-news-75539.php"
+  },
+  "75542": {
+    "content_hash": "2ed3c9eeefe7dd8c4d468771b0c026210f69850677593aa9918825a8544a539a",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T14:57:17.995281+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "black_friday_deals_from_amazon_germany_deals_ranging_from_flagship_to_midrange-news-75542",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/black_friday_deals_from_amazon_germany_deals_ranging_from_flagship_to_midrange-news-75542.php"
   }
 }

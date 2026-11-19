@@ -1,0 +1,60 @@
+{
+  "url": "https://www.gsmarena.com/samsung_one_ui_9_5_open_gate_video_recording_dual_cam_panorama-news-75538.php",
+  "slug": "samsung_one_ui_9_5_open_gate_video_recording_dual_cam_panorama-news-75538",
+  "title": "Samsung could bring native Open Gate video recording and dual-cam panorama to its smartphones with One UI 9.5",
+  "news_id": "75538",
+  "date": "19 November 2026",
+  "author": "Sagar",
+  "tags": [
+    "Featured",
+    "Samsung",
+    "Android",
+    "Rumors"
+  ],
+  "body_paragraphs": [
+    "Samsung announced the One UI 9.5 beta program for the Galaxy S26 series yesterday. One UI 9.5 brings several new features, including App Lock and Floating shortcuts. With future One UI 9.5 updates, Samsung could bring more features to Galaxy smartphones, including native Open Gate video recording and dual-cam panorama.",
+    "This revelation comes from Android Authority, which found strings related to native Open Gate video recording and dual-cam panorama in One UI 9.5's Camera app code.",
+    "Open Gate uses the entire imaging area of the camera sensor instead of cropping it to a 4:3 or 16:9 aspect ratio, providing users with more flexibility for cropping and stabilization in post-production. The former is more useful because you don't have to record multiple videos in different aspect ratios for different platforms. For example, a video recorded with Open Gate enabled can be cropped in a 4:3 aspect ratio for YouTube and 9:16 for Instagram.",
+    "The strings in the Camera app code suggest Open Gate will be a dedicated option in the Camera app, and users will have to enable it first in the Camera settings, then turn it on from the camera preview. However, it's unclear whether this option appears only in Pro video mode or in both Pro video and Video modes.",
+    "The strings also reveal six frame-rate options for Open Gate video recording: 24 fps, 25 fps, 30 fps, 48 fps, 50 fps, and 60 fps. The Camera app will also display a toast with the full-sensor resolution and offer recommendations to help users record the best video possible, including turning off video stabilization and using a tripod or gimbal to prevent digital cropping.",
+    "Users will also have the option to enable Frame guides to preview how the video will look with different aspect ratios.",
+    "Let's talk about the \"Dual cam panorama\" feature now. As the name suggests, this feature will let users create panoramas by using both the front and rear cameras simultaneously. It will give you a 360° view, unlike panoramas captured using the rear camera.",
+    "The strings reveal that the Camera app will ask users whether they are shooting with the left hand or right hand, then tap the Shutter button to start capturing by rotating the phone. If you are holding the phone in landscape orientation, you'll be asked to switch to portrait orientation, as Dual cam panorama will likely only work in portrait.",
+    "Furthermore, users could also get vibration feedback when they have rotated the phone far enough and the panorama capture is complete. If the phone is rotated the wrong way, the capture will be canceled. And if it's not rotated far enough, only part of the panorama will be saved. Once the capture is complete, the Camera app will process the images to create a dual-cam panorama.",
+    "You can check the animation below to see how Dual cam panorama will work.",
+    "It's unclear whether Samsung will restrict the Dual cam panorama to flagships or bring it to lower-end Galaxy smartphones as well. The native Open Gate video recording may be restricted to flagships."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/samsung_one_ui_9_5_open_gate_video_recording_dual_cam_panorama-news-75538/immaculate_001.jpg",
+      "alt": "Samsung could bring native Open Gate video recording and dual-cam panorama to its smartphones with One UI 9.5"
+    }
+  ],
+  "videos": [
+    {
+      "url": "https://www.youtube.com/embed/fjnwAcFmErY",
+      "title": ""
+    }
+  ],
+  "fetched_at": "2026-11-19T14:57:57.589725+00:00",
+  "title_tr": "Samsung, One UI 9.5 ile akıllı telefonlarına yerel Open Gate video kaydı ve çift kameralı panorama özelliğini getirebilir",
+  "body_paragraphs_tr": [
+    "Samsung dün Galaxy S26 serisi için One UI 9.5 beta programını duyurdu. One UI 9.5, Uygulama Kilidi ve Yüzen Kısayollar gibi birçok yeni özellik sunuyor. Samsung, gelecekteki One UI 9.5 güncellemeleriyle Galaxy akıllı telefonlara yerel Open Gate video kaydı ve çift kameralı panorama gibi daha fazla özellik getirebilir.",
+    "Bu bilgi, One UI 9.5'in Kamera uygulaması kodunda yerel Open Gate video kaydı ve çift kameralı panorama ile ilgili satırlar bulan Android Authority'den geliyor.",
+    "Open Gate, kamera sensörünün görüntüleme alanını 4:3 veya 16:9 en-boy oranına göre kırpmak yerine tamamını kullanır ve böylece kullanıcılara post prodüksiyonda kırpma ve sabitleme konusunda daha fazla esneklik sağlar. İlki daha kullanışlıdır çünkü farklı platformlar için farklı en-boy oranlarında birden fazla video kaydetmeniz gerekmez. Örneğin, Open Gate etkinleştirilmiş olarak kaydedilen bir video, YouTube için 4:3 ve Instagram için 9:16 en-boy oranında kırpılabilir.",
+    "Kamera uygulaması kodundaki dizeler, Open Gate'in Kamera uygulamasında özel bir seçenek olacağını ve kullanıcıların bunu önce Kamera ayarlarından etkinleştirmeleri, ardından kamera ön izlemesinden açmaları gerekeceğini gösteriyor. Ancak bu seçeneğin yalnızca Pro video modunda mı yoksa hem Pro video hem de Video modlarında mı göründüğü belirsizdir.",
+    "Dizeler ayrıca Open Gate video kaydı için altı kare hızı seçeneğini de ortaya koyuyor: 24 fps, 25 fps, 30 fps, 48 fps, 50 fps ve 60 fps. Kamera uygulaması ayrıca tam sensör çözünürlüğünü gösteren bir bildirim gösterecek ve kullanıcılara videoyu olabildiğince iyi kaydetmelerine yardımcı olacak öneriler sunacak. Bu öneriler arasında video sabitlemeyi kapatmak ve dijital kırpmayı önlemek için bir tripod veya gimbal kullanmak da yer alıyor.",
+    "Kullanıcılar ayrıca videonun farklı en boy oranlarıyla nasıl görüneceğini önizlemek için Çerçeve kılavuzlarını etkinleştirme seçeneğine de sahip olacak.",
+    "Şimdi \"Çift kamera ile panorama\" özelliğinden bahsedelim. Adından da anlaşılacağı gibi bu özellik, kullanıcıların hem ön hem de arka kameraları aynı anda kullanarak panoramalar oluşturmasına olanak tanıyacak. Arka kamera kullanılarak çekilen panoramalardan farklı olarak size 360° bir görüntü sunacaktır.",
+    "Dizeler, Kamera uygulamasının kullanıcılara sol elleriyle mi yoksa sağ elleriyle mi fotoğraf çektiklerini soracağını, ardından telefonu döndürerek çekime başlamak için Deklanşör düğmesine dokunmalarını isteyeceğini ortaya koyuyor. Telefonu yatay tutuyorsanız dikey tutmanız istenecektir, çünkü Çift kameralı panorama muhtemelen yalnızca dikeyde çalışacaktır.",
+    "Ayrıca kullanıcılar, telefonu yeterince döndürdüklerinde ve panorama çekimi tamamlandığında titreşimle geri bildirim de alabilirler. Telefon yanlış yönde döndürülürse çekim iptal edilir. Yeterince döndürülmezse de panoramanın yalnızca bir kısmı kaydedilecektir. Çekim tamamlandığında Kamera uygulaması, çift kameralı bir panorama oluşturmak için görüntüleri işleyecektir.",
+    "Çift kameralı panorama modunun nasıl çalıştığını görmek için aşağıdaki animasyona göz atabilirsiniz.",
+    "Samsung'un Çift kameralı panoramayı yalnızca amiral gemisi telefonlarla sınırlayıp sınırlamayacağı veya bu özelliği daha düşük segmentteki Galaxy akıllı telefonlara da getirip getirmeyeceği henüz belli değil. Yerel Open Gate video kaydı yalnızca amiral gemisi telefonlarla sınırlı olabilir."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Samsung",
+    "Android",
+    "Söylentiler"
+  ]
+}
