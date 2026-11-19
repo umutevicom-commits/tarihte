@@ -1,0 +1,15 @@
+# Amazon Efsane Cuma Haftası: En iyi tablet fırsatları
+
+Bu yılki Black Friday fırsatları Amazon Prime aboneleri için şimdiden başladı ve şimdi size özenle seçilmiş bazı tablet fırsatlarını sunuyoruz. Bu tür tekliflerde her zaman olduğu gibi, aktif bir Prime üyeliğinizin olması gerekir ve stoklar sınırlıdır. Fırsatlar 30 Kasım'a, yani Siber Pazartesi'ye kadar geçerli olacak.
+
+İşlere Samsung Galaxy Tab S11 ile başlıyoruz. Bu tabletin 128 GB'lık modeli 700 $, 256 GB'lık modeli ise 800 $ seviyesine indi. Artık bir yaşından büyük olabilir ancak Tab S11, etkileyici 11 inçlik Dynamic AMOLED 2X ekranı, güçlü MediaTek 9400+ yongası ve OneUI 9 Android 17 arayüzüyle birlikte Samsung DeX'i çalıştırma özelliğiyle tam anlamıyla bir amiral gemisi Android tablettir.
+
+Listedeki bir sonraki cihaz, fiyatı 500 $'a düşen iPad mini (2024). Bu, Apple A17 Pro çipiyle çalışan eski nesil bir modeldir ancak yine de 8,3 inçlik IPS LCD ekranı ve Apple Intelligence özellikli en son iPadOS 27.2 sürümüyle güçlü bir kompakt tablettir.
+
+Dizüstü bilgisayarın yerine kullanabileceğiniz bir tablet arıyorsanız Lenovo IdeaPad Tablet Pro'dan başka bir yere bakmanıza gerek yok. Geniş bir 12,7 inç IPS LCD (3K + 144Hz) ekran sunar ve bir stylus kalem ve Folio kılıf ile birlikte gelir. 8 GB RAM'e sahip Dimensity 8300 yonga seti ve JBL tarafından ayarlanmış dörtlü hoparlörlerin yanı sıra oldukça büyük bir 10.200 mAh batarya elde ediyorsunuz.
+
+Amazon'un kendi ürünü olan Alexa Tablet 11 de 64 GB'lık modeli 220 $, 128 GB'lık modeli ise 250 $ karşılığında satışa sunuluyor. Bu, Amazon'un tablet serisindeki en son modeldir ve Fire OS yerine tam teşekküllü Android 16 ile çalışmaktadır. 11 inç IPS LCD (90 Hz), MediaTek Kompanio 540 yonga seti (6 nm) gibi saygın özelliklerin yanı sıra kutudan Google Play Store ile birlikte çıkıyor.
+
+Ayrıca 230 $'a Lenovo Idea Tab Plus da var. Bu tablet de Idea Tab Pro gibi bir kalem ve kılıfla birlikte geliyor. Bu versiyon, Dimensity 6400, 8 GB RAM ve 10.200 mAh'lik bir pilin yanı sıra 12,1 inç IPS LCD (2,5K + 90Hz) ekran sunuyor.
+
+Samsung'un Galaxy Tab A11+'ının 6 GB RAM ve 128 GB depolama alanına sahip modeli 200 $'a kadar düştü. Ayrıca, yine kalem ve kılıfın birlikte verildiği 11 inçlik Lenovo IdeaPad'i 160 $'a satın almayı da düşünebilirsiniz. Ya da 100 $'a Lenovo Tab One'ı tercih edebilirsiniz. Daha kompakt bir 8,7 inç LCD ekran, birlikte verilen bir kılıf ve gücünü Helio G85 yongasından alan bir tablet.

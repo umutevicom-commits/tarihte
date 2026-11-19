@@ -1,0 +1,81 @@
+# GSMArena Ödülleri 2026: Kazananlar
+
+Görüşmeler tamamlandı ve editör panelimiz kararını verdi. İşte GSMArena 2026 Ödülleri'nin kazananları. Bunlar, son on iki ay içinde incelediğimiz 100'den fazla model arasından seçilen en iyi cihazlardır.
+
+Vereceğimiz on iki ödül var, o hâlde başlayalım.
+
+Birkaç inanılmaz cihazın bulunduğu bu kategori, en çekişmeli kategoriydi. Ancak Oppo Find X10 Pro Max, vivo, Xiaomi ve Apple'dan Pro Max rakiplerini geride bırakarak birinciliği kazandı.
+
+Oppo Find X10 Pro Max, kamerası ve pil ömrü sayesinde zafere ulaştı. Hatta pil ömrü kategorisinde adaylardan biriydi. Kazanıp kazanmadığını öğrenmek için okumaya devam edin. Telefonun tüm güçlü yönlerine daha yakından bakmak için incelememizi kaçırmayın.
+
+Poco F9 Ultra tam bir paket ve bu yıl En İyi Fiyat/Performans Ödülü'nün sahibi. Snapdragon 8 Elite Gen 5, geleceğe hazır performans sunuyor. Bazı uygun fiyatlı telefonların Elite olmayan yonga sürümüne veya V serisine sahip olduğunu gördük, ancak bu modelde gerçek amiral gemisi yongası kullanılıyor.
+
+8 Elite Gen 5'e sahip tek model bu değil, ancak Poco F9 Ultra birçok pazarda oldukça rekabetçi fiyatlarla satılıyor ve ekran, kamera ve pil özellikleri açısından güçlü bir denge sunuyor. İncelememizde F9 Ultra'nın mükemmel bir amiral gemisi olduğunu gördük.
+
+Son on yılda, yazılım desteği eksikliği nedeniyle güçlü donanımların kullanımdan kalktığına dair çok fazla örnek gördük. Bu durum, En İyi Bütçe kategorisinin galibi için geçerli olmayacak. Samsung Galaxy A57 uzun süreli yazılım desteğine sahip (6 yıl boyunca işletim sistemi güncellemeleri ve güvenlik yamaları). Ayrıca One UI, sıradan kullanıcılar için harika varsayılan ayarlara sahipken, ileri düzey kullanıcıların da her şeyi özelleştirmesine olanak tanır.
+
+A57 çok yönlü bir cihazdır ve lansmanda oldukça pahalı olmasına rağmen, daha uygun bir fiyata oturmuştur. A57'ye ayrıntılı bir bakış için incelememize göz atın.
+
+Honor Magic V6, daha kaliteli kamerası, daha uzun ömürlü bataryası ve etkileyici hoparlörleriyle pazar lideri Galaxy Z Fold8 Ultra'yı geride bıraktı. Bunlar, incelememizde vurguladığımız özelliklerden yalnızca birkaçı.
+
+Motorola ve vivo katlanabilir telefonlarla karşılaştırıldığında Honor, daha ince ve daha hafif gövdesine rağmen hâlâ büyük bir batarya barındırması sayesinde zirveye çıktı. Bu batarya, dünya genelinde 6.600 mAh ve Çin'de 6.850/7.150 mAh kapasitesine sahip (ikinci kapasite yalnızca 1 TB modeline özeldir). Kapalıyken yalnızca 219 g ağırlığında ve 8,8 mm kalınlığında olan bir katlanabilir telefonda bu gerçekten çok büyük bir değer.
+
+RedMagic 12 Pro, büyük dikdörtgen bir ekranla (kullanıcı arayüzü öğelerinin üzerini kapatmamak için ekran altı kamera ile) oyun oynamak için özel olarak tasarlanmıştır. Ayrıca, desteklenen oyunlarda size avantaj sağlamak için özelleştirilebilir kontroller olarak işlev gören omuz tetikleyicilerine de sahiptir.
+
+Telefon, üstün performans için en yeni Snapdragon 8 Elite Extreme Gen 6'yı ve hızlı şarj ile pil baypas özelliğine sahip 8.400 mAh'lik büyük bir pili bir araya getiriyor. Telefon hakkında daha fazla bilgi için incelememize göz atın.
+
+Here's what happened – we just completed testing the Xiaomi 18 Pro and some of our editors are already squabbling over who gets to use the phone after the review goes live. These editors have previously used the compact vivo and Samsung flagships, but aren't overly enamored with their latest versions. The review is just out so you can see just why we love this one so much.
+
+This award could have gone to any of the four nominees, but we think that the Poco X8 Pro Max deserves it the most. Yes, you can get the same battery life with the Oppo Find X10 Pro Max, but the Poco is less than half the price. And it's still a nicely balanced phone overall.
+
+As for the Realme P4 Pro – which still sits at the top of our battery chart – it is more of an entry-level model that spent its budget on a big battery. The Poco X8 Pro Max strikes a good balance between price and features while still offering outstanding battery life (it’s only 13 minutes behind the Realme in our chart). Read our review for a closer look at battery life, charging and more.
+
+This was a tough one – the vivo X300 Ultra prevailed in the end thanks to its superior video-recording capabilities. You can read more about it in our review. The video stabilization in particular was superb and we loved the Dolby Vision and Log video modes.
+
+The Oppo Find X9 Ultra was the runner-up – if it were just about image processing, the Oppo would have taken the crown. However, we felt that the vivo offers a more complete package.
+
+If running an EV-centric site wasn't enough of a clue, we'll tell you – we're big car buffs. And that means that we are well familiar with Pininfarina's work. The studio did excellent work on the Infinix Note 60 Ultra design.
+
+The rich accessory box made the experience even more special – a MagSafe-enabled case, a glass screen protector (with an install kit), a 100W charger and cable, a 50W magnetic wireless charger, a pair of USB-C earbuds and the cherry on top – a Track Edition SIM ejector. You can see these up close in our review.
+
+The Honor Robot Phone is an engineering marvel – it's not that we haven't seen camera gimbals before (in fact, we own a bunch of those), but the transition from "separate device" to “built into a phone" takes years of work.
+
+And Honor pulled it off not just in a prototype that they show to the press, but as an actual product that you can buy (in limited quantities but still). Phone tech rarely feels like sci-fi these days, but this one hit the mark.
+
+The Samsung Galaxy Tab S12 Ultra has a display that is unmatched in terms of size, quality and capability. Isn't that the main thing about a tablet? Well, not quite – One UI's DeX is a mature interface that offers a desktop level of multitasking.
+
+As you can read in our review, the Tab S12 Ultra also offers leading performance and while it’s not cheap, it’s worth it as it offers a fully-featured premium experience.
+
+Smartwatches have multiple distinct use-cases. We found that the Huawei Watch GT 7 Pro offered the best balance between design and battery life – even better, it sells at a hard-to-refuse price.
+
+The GT 7 Pro can blend in as a dress watch or it can sweat it out with you at the gym – and we only had to charge it once a week. Read more about our experience with the watch in our review.
+
+---
+
+## Görseller
+
+![Announcing the winners of the GSMArena 2026 End-of-Year Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_001.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_013.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_014.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_015.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_016.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_017.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_018.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_019.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_020.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_021.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_022.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_023.jpg)
+
+![Announcing the winners of the GSMArena 2026 Awards](https://umutevicom-commits.github.io/tarihte/data/images/best_phones_2026_gsmarena_awards-news-75526/immaculate_024.jpg)
