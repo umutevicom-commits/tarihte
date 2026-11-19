@@ -1,53 +1,73 @@
 [
   {
-    "slug": "more_details_about_apples_20thanniversary_iphone_emerge-news-75520",
-    "url": "https://www.gsmarena.com/more_details_about_apples_20thanniversary_iphone_emerge-news-75520.php",
+    "slug": "honor_magic_v7_will_reportedly_be_a_wide_foldable-news-75534",
+    "url": "https://www.gsmarena.com/honor_magic_v7_will_reportedly_be_a_wide_foldable-news-75534.php",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T05:12:29.293822+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "8964fa776f38e45a825d067c2536bb141abb837ec6d2bbaeb74cc0280be5708e"
+  },
+  {
+    "slug": "xiaomi_watch_s5_41mm_ceramic_edition_-news-75532",
+    "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_ceramic_edition_-news-75532.php",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T05:11:46.568369+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "ecc188802673ddb15ecee3f4a792462bc2a0a799f92676bcf2cf6ce7a116830d"
+  },
+  {
+    "content_hash": "54cb2bf4663fa0faa5e48b3afb1a3f0eeaafd59c1ad95a6343c1dddd32ab75a8",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T22:48:12.753025+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "54cb2bf4663fa0faa5e48b3afb1a3f0eeaafd59c1ad95a6343c1dddd32ab75a8"
+    "retries": 0,
+    "slug": "more_details_about_apples_20thanniversary_iphone_emerge-news-75520",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/more_details_about_apples_20thanniversary_iphone_emerge-news-75520.php"
   },
   {
-    "slug": "apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530",
-    "url": "https://www.gsmarena.com/apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530.php",
+    "content_hash": "f3aaac15bb92f23a0cf7d70bb73e7b2daf852a3b91f69cf3ffcc1da100d22a7b",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T22:47:54.010750+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "f3aaac15bb92f23a0cf7d70bb73e7b2daf852a3b91f69cf3ffcc1da100d22a7b"
+    "retries": 0,
+    "slug": "apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530.php"
   },
   {
-    "slug": "heres_what_will_decide_which_chipset_powers_the_vivo_x_fold7-news-75527",
-    "url": "https://www.gsmarena.com/heres_what_will_decide_which_chipset_powers_the_vivo_x_fold7-news-75527.php",
+    "content_hash": "20617229677dca67e21bd50235848c4af3cf370174d43543cfb6998a2d9cac58",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T22:47:36.284139+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "20617229677dca67e21bd50235848c4af3cf370174d43543cfb6998a2d9cac58"
+    "retries": 0,
+    "slug": "heres_what_will_decide_which_chipset_powers_the_vivo_x_fold7-news-75527",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_what_will_decide_which_chipset_powers_the_vivo_x_fold7-news-75527.php"
   },
   {
-    "slug": "apple_reveals_its_2026_app_store_award_finalists-news-75529",
-    "url": "https://www.gsmarena.com/apple_reveals_its_2026_app_store_award_finalists-news-75529.php",
+    "content_hash": "b4563eb98ee6034d0db055702d4b630c0ba94826c83ecf26dd527167b8c6d43d",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T22:47:12.868335+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "b4563eb98ee6034d0db055702d4b630c0ba94826c83ecf26dd527167b8c6d43d"
+    "retries": 0,
+    "slug": "apple_reveals_its_2026_app_store_award_finalists-news-75529",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_reveals_its_2026_app_store_award_finalists-news-75529.php"
   },
   {
-    "slug": "nvidia_halts_its_h200_chip_sales_to_china_-news-75528",
-    "url": "https://www.gsmarena.com/nvidia_halts_its_h200_chip_sales_to_china_-news-75528.php",
+    "content_hash": "8816a3e1a5b9b20ee72a5acfdb0d05e8fd8cf10c2f393c90e04890833c118628",
     "date": "18 November 2026",
     "fetched_at": "2026-11-18T22:46:56.891750+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "8816a3e1a5b9b20ee72a5acfdb0d05e8fd8cf10c2f393c90e04890833c118628"
+    "retries": 0,
+    "slug": "nvidia_halts_its_h200_chip_sales_to_china_-news-75528",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nvidia_halts_its_h200_chip_sales_to_china_-news-75528.php"
   },
   {
     "content_hash": "d9daf99da5785939fbe23f9cd968a98982d74c8e5a1662b4d50b22a75e562d66",

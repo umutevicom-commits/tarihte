@@ -9098,5 +9098,25 @@
     "slug": "apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530",
     "status": "ok",
     "url": "https://www.gsmarena.com/apple_maps_gets_major_upgrade_in_india_with_3d_landmarks_and_improved_look_around-news-75530.php"
+  },
+  "75532": {
+    "content_hash": "ecc188802673ddb15ecee3f4a792462bc2a0a799f92676bcf2cf6ce7a116830d",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T05:11:46.568369+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_watch_s5_41mm_ceramic_edition_-news-75532",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_watch_s5_41mm_ceramic_edition_-news-75532.php"
+  },
+  "75534": {
+    "content_hash": "8964fa776f38e45a825d067c2536bb141abb837ec6d2bbaeb74cc0280be5708e",
+    "date": "19 November 2026",
+    "fetched_at": "2026-11-19T05:12:29.293822+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_magic_v7_will_reportedly_be_a_wide_foldable-news-75534",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic_v7_will_reportedly_be_a_wide_foldable-news-75534.php"
   }
 }
