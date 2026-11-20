@@ -1,13 +1,33 @@
 [
   {
-    "slug": "xiaomi_19_series_rumored_to_come_with_both_flat_and_curved_screens-news-75547",
-    "url": "https://www.gsmarena.com/xiaomi_19_series_rumored_to_come_with_both_flat_and_curved_screens-news-75547.php",
+    "slug": "deal_the_xiaomi_18_pro_and_18_pro_max_come_with_a_free_xiaomi_pad_8_on_amazon_germany-news-75564",
+    "url": "https://www.gsmarena.com/deal_the_xiaomi_18_pro_and_18_pro_max_come_with_a_free_xiaomi_pad_8_on_amazon_germany-news-75564.php",
     "date": "20 November 2026",
-    "fetched_at": "2026-11-20T04:58:58.525753+00:00",
+    "fetched_at": "2026-11-20T14:39:34.511375+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "63aaf52bc4a13e6a66e2d2be756b933dd245bdc0eeef3c9746a431077b0d604c"
+    "content_hash": "71fdec3d98d5d9b928a6469210c1af3b08d9523df133d400780b9acb4ed8583f"
+  },
+  {
+    "slug": "huawei_osta_1_pro_debuts_in_china_-news-75562",
+    "url": "https://www.gsmarena.com/huawei_osta_1_pro_debuts_in_china_-news-75562.php",
+    "date": "20 November 2026",
+    "fetched_at": "2026-11-20T14:39:09.016037+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2676d60d29fa737b8e8ee9d2213203e2bb2269468b4f50f5ec5ff70f658bfb2c"
+  },
+  {
+    "content_hash": "63aaf52bc4a13e6a66e2d2be756b933dd245bdc0eeef3c9746a431077b0d604c",
+    "date": "20 November 2026",
+    "fetched_at": "2026-11-20T04:58:58.525753+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomi_19_series_rumored_to_come_with_both_flat_and_curved_screens-news-75547",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomi_19_series_rumored_to_come_with_both_flat_and_curved_screens-news-75547.php"
   },
   {
     "content_hash": "3c3abe95bdc8ce3f3f2d9fc12fb4cab573c5b899866db99f0e518f90fb811ad1",

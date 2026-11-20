@@ -9278,5 +9278,25 @@
     "slug": "amazon_black_friday_week_best_tablet_deals-news-75552",
     "status": "ok",
     "url": "https://www.gsmarena.com/amazon_black_friday_week_best_tablet_deals-news-75552.php"
+  },
+  "75562": {
+    "content_hash": "2676d60d29fa737b8e8ee9d2213203e2bb2269468b4f50f5ec5ff70f658bfb2c",
+    "date": "20 November 2026",
+    "fetched_at": "2026-11-20T14:39:09.016037+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_osta_1_pro_debuts_in_china_-news-75562",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_osta_1_pro_debuts_in_china_-news-75562.php"
+  },
+  "75564": {
+    "content_hash": "71fdec3d98d5d9b928a6469210c1af3b08d9523df133d400780b9acb4ed8583f",
+    "date": "20 November 2026",
+    "fetched_at": "2026-11-20T14:39:34.511375+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deal_the_xiaomi_18_pro_and_18_pro_max_come_with_a_free_xiaomi_pad_8_on_amazon_germany-news-75564",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deal_the_xiaomi_18_pro_and_18_pro_max_come_with_a_free_xiaomi_pad_8_on_amazon_germany-news-75564.php"
   }
 }
