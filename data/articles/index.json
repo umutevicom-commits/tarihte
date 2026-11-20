@@ -1,23 +1,73 @@
 [
   {
-    "slug": "deal_the_xiaomi_18_pro_and_18_pro_max_come_with_a_free_xiaomi_pad_8_on_amazon_germany-news-75564",
-    "url": "https://www.gsmarena.com/deal_the_xiaomi_18_pro_and_18_pro_max_come_with_a_free_xiaomi_pad_8_on_amazon_germany-news-75564.php",
+    "slug": "samsung_appoints_new_leadership_tm_roh_remains_ceo-news-75568",
+    "url": "https://www.gsmarena.com/samsung_appoints_new_leadership_tm_roh_remains_ceo-news-75568.php",
     "date": "20 November 2026",
-    "fetched_at": "2026-11-20T14:39:34.511375+00:00",
+    "fetched_at": "2026-11-20T22:28:21.315552+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "71fdec3d98d5d9b928a6469210c1af3b08d9523df133d400780b9acb4ed8583f"
+    "content_hash": "2c461e7eed0e063409068ca5c480d20ba6ac102dbb583073a10cb8604f07a151"
   },
   {
-    "slug": "huawei_osta_1_pro_debuts_in_china_-news-75562",
-    "url": "https://www.gsmarena.com/huawei_osta_1_pro_debuts_in_china_-news-75562.php",
+    "slug": "apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557",
+    "url": "https://www.gsmarena.com/apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557.php",
     "date": "20 November 2026",
-    "fetched_at": "2026-11-20T14:39:09.016037+00:00",
+    "fetched_at": "2026-11-20T22:28:04.715657+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "2676d60d29fa737b8e8ee9d2213203e2bb2269468b4f50f5ec5ff70f658bfb2c"
+    "content_hash": "ae6302ec9821c2e882cb174128fab1a194383a8fd4725872a4642c8bced0440b"
+  },
+  {
+    "slug": "deal_the_poco_f9_ultra_and_poco_f9_pro_have_220_discounts_on_amazon_uk_for_black_friday-news-75569",
+    "url": "https://www.gsmarena.com/deal_the_poco_f9_ultra_and_poco_f9_pro_have_220_discounts_on_amazon_uk_for_black_friday-news-75569.php",
+    "date": "20 November 2026",
+    "fetched_at": "2026-11-20T22:27:36.673697+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "099bfa88c91cd9e693e155c240f0a53a8145bfdf162463fee31784f150ba991a"
+  },
+  {
+    "slug": "galaxy_s27_pros_exynos_2700_runs_geekbench_heres_how_it_stacks_up_against_snapdragon-news-75565",
+    "url": "https://www.gsmarena.com/galaxy_s27_pros_exynos_2700_runs_geekbench_heres_how_it_stacks_up_against_snapdragon-news-75565.php",
+    "date": "20 November 2026",
+    "fetched_at": "2026-11-20T22:27:17.286926+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "1a55f024494d6480c0833603b35d84d310e77bc3c3e1336aa9e820597902b4d6"
+  },
+  {
+    "slug": "nothings_screenless_ai_device_gets_an_official_launch_date-news-75567",
+    "url": "https://www.gsmarena.com/nothings_screenless_ai_device_gets_an_official_launch_date-news-75567.php",
+    "date": "20 November 2026",
+    "fetched_at": "2026-11-20T22:26:59.725671+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d4a19ab4ae7ff42c96cc205852959f29af45a174282a6a3c5462d91f39a655f7"
+  },
+  {
+    "content_hash": "71fdec3d98d5d9b928a6469210c1af3b08d9523df133d400780b9acb4ed8583f",
+    "date": "20 November 2026",
+    "fetched_at": "2026-11-20T14:39:34.511375+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deal_the_xiaomi_18_pro_and_18_pro_max_come_with_a_free_xiaomi_pad_8_on_amazon_germany-news-75564",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deal_the_xiaomi_18_pro_and_18_pro_max_come_with_a_free_xiaomi_pad_8_on_amazon_germany-news-75564.php"
+  },
+  {
+    "content_hash": "2676d60d29fa737b8e8ee9d2213203e2bb2269468b4f50f5ec5ff70f658bfb2c",
+    "date": "20 November 2026",
+    "fetched_at": "2026-11-20T14:39:09.016037+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "huawei_osta_1_pro_debuts_in_china_-news-75562",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/huawei_osta_1_pro_debuts_in_china_-news-75562.php"
   },
   {
     "content_hash": "63aaf52bc4a13e6a66e2d2be756b933dd245bdc0eeef3c9746a431077b0d604c",

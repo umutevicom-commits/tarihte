@@ -1,0 +1,45 @@
+{
+  "url": "https://www.gsmarena.com/apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557.php",
+  "slug": "apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557",
+  "title": "Apple reportedly developing an AI agent that can code and use apps",
+  "news_id": "75557",
+  "date": "20 November 2026",
+  "author": "Siddharth",
+  "tags": [
+    "Featured",
+    "Apple",
+    "iOS",
+    "AI",
+    "Rumors"
+  ],
+  "body_paragraphs": [
+    "According to a new report by Bloomberg's Mark Gurman, based on an official job listing by Apple, the company is developing an AI agent that can perform various tasks on behalf of users.",
+    "The report claims that a now-removed job listing was seeking a senior engineering manager to lead the development of a “proactive, agentic AI assistant”.",
+    "The listing stated that the AI agent should be able to write code, control apps, and browse the web. It is expected to be similar to Meta's Muse or OpenAI's Dots.",
+    "It also noted that the agent should be capable of planning and executing multistep tasks across apps, code, APIs, browsers, and command lines. Additionally, it should be able to coordinate specialized subagents to complete these tasks.",
+    "The listing also mentioned the development of “general-purpose computer-use agents” and highlighted the need to build safety measures into the system."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557/immaculate_001.jpg",
+      "alt": "Apple reportedly developing an AI agent that can code and use apps"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-20T22:28:04.715657+00:00",
+  "title_tr": "Apple'ın kod yazabilen ve uygulamaları kullanabilen bir yapay zekâ aracı geliştirdiği bildiriliyor",
+  "body_paragraphs_tr": [
+    "Bloomberg'den Mark Gurman'ın Apple'ın resmî bir iş ilanına dayandırdığı yeni bir haberine göre şirket, kullanıcılar adına çeşitli görevleri yerine getirebilecek bir yapay zekâ aracısı geliştiriyor.",
+    "Haberde, artık kaldırılmış olan bir iş ilanında \"proaktif, eyleme geçebilen bir yapay zekâ asistanının\" geliştirilmesine liderlik edecek kıdemli bir mühendislik yöneticisi arandığı iddia ediliyor.",
+    "İlanda, yapay zekâ aracının kod yazabilmesi, uygulamaları kontrol edebilmesi ve internette gezinebilmesi gerektiği belirtiliyordu. Meta'nın Muse veya OpenAI'ın Dots uygulamalarına benzer olması bekleniyor.",
+    "Ayrıca, aracın uygulamalar, kodlar, API'ler, tarayıcılar ve komut satırları arasında çok adımlı görevleri planlayabilmesi ve yürütebilmesi gerektiği de belirtilmiştir. Ayrıca, bu görevleri tamamlamak için uzman alt ajanları koordine edebilmelidir.",
+    "Listede ayrıca \"genel amaçlı bilgisayar kullanımına yönelik yapay zekâ araçlarının\" geliştirilmesinden de bahsediliyor ve sisteme güvenlik önlemlerinin dâhil edilmesi gerektiğinin altı çiziliyordu."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "iOS",
+    "AI",
+    "Söylentiler"
+  ]
+}
