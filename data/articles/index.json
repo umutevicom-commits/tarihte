@@ -1,73 +1,83 @@
 [
   {
-    "slug": "best_phones_2026_gsmarena_awards-news-75526",
-    "url": "https://www.gsmarena.com/best_phones_2026_gsmarena_awards-news-75526.php",
+    "slug": "xiaomi_19_series_rumored_to_come_with_both_flat_and_curved_screens-news-75547",
+    "url": "https://www.gsmarena.com/xiaomi_19_series_rumored_to_come_with_both_flat_and_curved_screens-news-75547.php",
+    "date": "20 November 2026",
+    "fetched_at": "2026-11-20T04:58:58.525753+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "63aaf52bc4a13e6a66e2d2be756b933dd245bdc0eeef3c9746a431077b0d604c"
+  },
+  {
+    "content_hash": "3c3abe95bdc8ce3f3f2d9fc12fb4cab573c5b899866db99f0e518f90fb811ad1",
     "date": "19 November 2026",
     "fetched_at": "2026-11-19T22:52:24.081786+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "3c3abe95bdc8ce3f3f2d9fc12fb4cab573c5b899866db99f0e518f90fb811ad1"
+    "retries": 0,
+    "slug": "best_phones_2026_gsmarena_awards-news-75526",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/best_phones_2026_gsmarena_awards-news-75526.php"
   },
   {
-    "slug": "amazon_uk_drops_the_prices_of_the_new_xiaomi_18_pro_and_xiaomi_18_pro_max_for_prime_subscribers-news-75546",
-    "url": "https://www.gsmarena.com/amazon_uk_drops_the_prices_of_the_new_xiaomi_18_pro_and_xiaomi_18_pro_max_for_prime_subscribers-news-75546.php",
+    "content_hash": "e699ea04e6a4d335d27e3c9cbe22d25c173a4295b18939916ec4320e412ff4b4",
     "date": "19 November 2026",
     "fetched_at": "2026-11-19T22:52:10.170913+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e699ea04e6a4d335d27e3c9cbe22d25c173a4295b18939916ec4320e412ff4b4"
+    "retries": 0,
+    "slug": "amazon_uk_drops_the_prices_of_the_new_xiaomi_18_pro_and_xiaomi_18_pro_max_for_prime_subscribers-news-75546",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_uk_drops_the_prices_of_the_new_xiaomi_18_pro_and_xiaomi_18_pro_max_for_prime_subscribers-news-75546.php"
   },
   {
-    "slug": "nothing_ai_device_gets_teased_in_a_new_image-news-75540",
-    "url": "https://www.gsmarena.com/nothing_ai_device_gets_teased_in_a_new_image-news-75540.php",
+    "content_hash": "636c02bd011fbb775f632c017c13a367e82ef078be191cfe6195eb4828c90551",
     "date": "19 November 2026",
     "fetched_at": "2026-11-19T22:51:46.831459+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "636c02bd011fbb775f632c017c13a367e82ef078be191cfe6195eb4828c90551"
+    "retries": 0,
+    "slug": "nothing_ai_device_gets_teased_in_a_new_image-news-75540",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nothing_ai_device_gets_teased_in_a_new_image-news-75540.php"
   },
   {
-    "slug": "amazon_uks_top_black_friday_deals_camera_flagships_foldables_midrangers_and_more-news-75545",
-    "url": "https://www.gsmarena.com/amazon_uks_top_black_friday_deals_camera_flagships_foldables_midrangers_and_more-news-75545.php",
+    "content_hash": "86f5581c6d43991f756163621cb9f502cb43bcd3f3a30f12ba5b25973d1aac65",
     "date": "19 November 2026",
     "fetched_at": "2026-11-19T22:51:16.042333+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "86f5581c6d43991f756163621cb9f502cb43bcd3f3a30f12ba5b25973d1aac65"
+    "retries": 0,
+    "slug": "amazon_uks_top_black_friday_deals_camera_flagships_foldables_midrangers_and_more-news-75545",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_uks_top_black_friday_deals_camera_flagships_foldables_midrangers_and_more-news-75545.php"
   },
   {
-    "slug": "google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544",
-    "url": "https://www.gsmarena.com/google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544.php",
+    "content_hash": "439c346346c041dc1e5656f53a1e2151bf2dbbfeee74068573e5fe38d2223a52",
     "date": "19 November 2026",
     "fetched_at": "2026-11-19T22:50:56.217373+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "439c346346c041dc1e5656f53a1e2151bf2dbbfeee74068573e5fe38d2223a52"
+    "retries": 0,
+    "slug": "google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/google_launches_gemini_4_neon_its_new_midtier_ai_model-news-75544.php"
   },
   {
-    "slug": "amazon_us_black_friday_deal_the_galaxy_s26_ultra_and_z_fold8_ultra_are_both_350_off-news-75548",
-    "url": "https://www.gsmarena.com/amazon_us_black_friday_deal_the_galaxy_s26_ultra_and_z_fold8_ultra_are_both_350_off-news-75548.php",
+    "content_hash": "2530dc0a7b596595f90d492a978e1b09b24a512b147b78351bcdfe6d8ae2d405",
     "date": "19 November 2026",
     "fetched_at": "2026-11-19T22:50:31.796517+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2530dc0a7b596595f90d492a978e1b09b24a512b147b78351bcdfe6d8ae2d405"
+    "retries": 0,
+    "slug": "amazon_us_black_friday_deal_the_galaxy_s26_ultra_and_z_fold8_ultra_are_both_350_off-news-75548",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_us_black_friday_deal_the_galaxy_s26_ultra_and_z_fold8_ultra_are_both_350_off-news-75548.php"
   },
   {
-    "slug": "amazon_black_friday_week_best_tablet_deals-news-75552",
-    "url": "https://www.gsmarena.com/amazon_black_friday_week_best_tablet_deals-news-75552.php",
+    "content_hash": "41d681d1dd7e939ab478a3550aa9686190252a1d519dfb7c853adef40bee16bf",
     "date": "19 November 2026",
     "fetched_at": "2026-11-19T22:50:10.474699+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "41d681d1dd7e939ab478a3550aa9686190252a1d519dfb7c853adef40bee16bf"
+    "retries": 0,
+    "slug": "amazon_black_friday_week_best_tablet_deals-news-75552",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_black_friday_week_best_tablet_deals-news-75552.php"
   },
   {
     "content_hash": "609c753ecfdd49704772d663352b84940212e6e5137c8ff8423bd3d656d254a8",
