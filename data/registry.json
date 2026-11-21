@@ -9319,6 +9319,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/galaxy_s27_pros_exynos_2700_runs_geekbench_heres_how_it_stacks_up_against_snapdragon-news-75565.php"
   },
+  "75566": {
+    "content_hash": "af443aa166656c5f65b55560c577fd56c2784efcdefb38b5258fea2089f68049",
+    "date": "21 November 2026",
+    "fetched_at": "2026-11-21T13:56:44.388586+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deal_the_oppo_find_x10_and_find_x10_pro_max_now_have_an_even_bigger_discount_for_black_friday-news-75566",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deal_the_oppo_find_x10_and_find_x10_pro_max_now_have_an_even_bigger_discount_for_black_friday-news-75566.php"
+  },
   "75567": {
     "content_hash": "d4a19ab4ae7ff42c96cc205852959f29af45a174282a6a3c5462d91f39a655f7",
     "date": "20 November 2026",
@@ -9358,5 +9368,25 @@
     "slug": "hmd_could_bring_nokias_pureview_branding_back_with_a_new_phone-news-75572",
     "status": "ok",
     "url": "https://www.gsmarena.com/hmd_could_bring_nokias_pureview_branding_back_with_a_new_phone-news-75572.php"
+  },
+  "75575": {
+    "content_hash": "35bc78fbb72c04b2cc0cef87d40bed7b7df2ec7f42f595ba1075c8db35006d08",
+    "date": "21 November 2026",
+    "fetched_at": "2026-11-21T13:56:03.130158+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deal_the_samsung_galaxy_z_fold8_ultra_is_up_to_555_off_for_amazon_uks_black_friday_sale-news-75575",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deal_the_samsung_galaxy_z_fold8_ultra_is_up_to_555_off_for_amazon_uks_black_friday_sale-news-75575.php"
+  },
+  "75577": {
+    "content_hash": "555b20c44c1e1b47a256fa028f05b368663999392fef05a9c08347e0242cf942",
+    "date": "21 November 2026",
+    "fetched_at": "2026-11-21T13:56:29.050878+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_reportedly_has_a_13500_mah_phone_coming_and_the_power3_isnt_far_behind-news-75577",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_reportedly_has_a_13500_mah_phone_coming_and_the_power3_isnt_far_behind-news-75577.php"
   }
 }

@@ -1,13 +1,43 @@
 [
   {
-    "slug": "hmd_could_bring_nokias_pureview_branding_back_with_a_new_phone-news-75572",
-    "url": "https://www.gsmarena.com/hmd_could_bring_nokias_pureview_branding_back_with_a_new_phone-news-75572.php",
+    "slug": "deal_the_oppo_find_x10_and_find_x10_pro_max_now_have_an_even_bigger_discount_for_black_friday-news-75566",
+    "url": "https://www.gsmarena.com/deal_the_oppo_find_x10_and_find_x10_pro_max_now_have_an_even_bigger_discount_for_black_friday-news-75566.php",
     "date": "21 November 2026",
-    "fetched_at": "2026-11-21T04:54:43.259640+00:00",
+    "fetched_at": "2026-11-21T13:56:44.388586+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "374b2337ec7f4f4328331aa62cf2d945ceb04ec46d6594d546b6ac39fe0dd14d"
+    "content_hash": "af443aa166656c5f65b55560c577fd56c2784efcdefb38b5258fea2089f68049"
+  },
+  {
+    "slug": "honor_reportedly_has_a_13500_mah_phone_coming_and_the_power3_isnt_far_behind-news-75577",
+    "url": "https://www.gsmarena.com/honor_reportedly_has_a_13500_mah_phone_coming_and_the_power3_isnt_far_behind-news-75577.php",
+    "date": "21 November 2026",
+    "fetched_at": "2026-11-21T13:56:29.050878+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "555b20c44c1e1b47a256fa028f05b368663999392fef05a9c08347e0242cf942"
+  },
+  {
+    "slug": "deal_the_samsung_galaxy_z_fold8_ultra_is_up_to_555_off_for_amazon_uks_black_friday_sale-news-75575",
+    "url": "https://www.gsmarena.com/deal_the_samsung_galaxy_z_fold8_ultra_is_up_to_555_off_for_amazon_uks_black_friday_sale-news-75575.php",
+    "date": "21 November 2026",
+    "fetched_at": "2026-11-21T13:56:03.130158+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "35bc78fbb72c04b2cc0cef87d40bed7b7df2ec7f42f595ba1075c8db35006d08"
+  },
+  {
+    "content_hash": "374b2337ec7f4f4328331aa62cf2d945ceb04ec46d6594d546b6ac39fe0dd14d",
+    "date": "21 November 2026",
+    "fetched_at": "2026-11-21T04:54:43.259640+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "hmd_could_bring_nokias_pureview_branding_back_with_a_new_phone-news-75572",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/hmd_could_bring_nokias_pureview_branding_back_with_a_new_phone-news-75572.php"
   },
   {
     "content_hash": "2c461e7eed0e063409068ca5c480d20ba6ac102dbb583073a10cb8604f07a151",
