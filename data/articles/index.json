@@ -1,53 +1,63 @@
 [
   {
-    "slug": "samsung_appoints_new_leadership_tm_roh_remains_ceo-news-75568",
-    "url": "https://www.gsmarena.com/samsung_appoints_new_leadership_tm_roh_remains_ceo-news-75568.php",
+    "slug": "hmd_could_bring_nokias_pureview_branding_back_with_a_new_phone-news-75572",
+    "url": "https://www.gsmarena.com/hmd_could_bring_nokias_pureview_branding_back_with_a_new_phone-news-75572.php",
+    "date": "21 November 2026",
+    "fetched_at": "2026-11-21T04:54:43.259640+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "374b2337ec7f4f4328331aa62cf2d945ceb04ec46d6594d546b6ac39fe0dd14d"
+  },
+  {
+    "content_hash": "2c461e7eed0e063409068ca5c480d20ba6ac102dbb583073a10cb8604f07a151",
     "date": "20 November 2026",
     "fetched_at": "2026-11-20T22:28:21.315552+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "2c461e7eed0e063409068ca5c480d20ba6ac102dbb583073a10cb8604f07a151"
+    "retries": 0,
+    "slug": "samsung_appoints_new_leadership_tm_roh_remains_ceo-news-75568",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_appoints_new_leadership_tm_roh_remains_ceo-news-75568.php"
   },
   {
-    "slug": "apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557",
-    "url": "https://www.gsmarena.com/apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557.php",
+    "content_hash": "ae6302ec9821c2e882cb174128fab1a194383a8fd4725872a4642c8bced0440b",
     "date": "20 November 2026",
     "fetched_at": "2026-11-20T22:28:04.715657+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "ae6302ec9821c2e882cb174128fab1a194383a8fd4725872a4642c8bced0440b"
+    "retries": 0,
+    "slug": "apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_reportedly_developing_an_ai_agent_that_can_code_and_use_apps-news-75557.php"
   },
   {
-    "slug": "deal_the_poco_f9_ultra_and_poco_f9_pro_have_220_discounts_on_amazon_uk_for_black_friday-news-75569",
-    "url": "https://www.gsmarena.com/deal_the_poco_f9_ultra_and_poco_f9_pro_have_220_discounts_on_amazon_uk_for_black_friday-news-75569.php",
+    "content_hash": "099bfa88c91cd9e693e155c240f0a53a8145bfdf162463fee31784f150ba991a",
     "date": "20 November 2026",
     "fetched_at": "2026-11-20T22:27:36.673697+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "099bfa88c91cd9e693e155c240f0a53a8145bfdf162463fee31784f150ba991a"
+    "retries": 0,
+    "slug": "deal_the_poco_f9_ultra_and_poco_f9_pro_have_220_discounts_on_amazon_uk_for_black_friday-news-75569",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deal_the_poco_f9_ultra_and_poco_f9_pro_have_220_discounts_on_amazon_uk_for_black_friday-news-75569.php"
   },
   {
-    "slug": "galaxy_s27_pros_exynos_2700_runs_geekbench_heres_how_it_stacks_up_against_snapdragon-news-75565",
-    "url": "https://www.gsmarena.com/galaxy_s27_pros_exynos_2700_runs_geekbench_heres_how_it_stacks_up_against_snapdragon-news-75565.php",
+    "content_hash": "1a55f024494d6480c0833603b35d84d310e77bc3c3e1336aa9e820597902b4d6",
     "date": "20 November 2026",
     "fetched_at": "2026-11-20T22:27:17.286926+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "1a55f024494d6480c0833603b35d84d310e77bc3c3e1336aa9e820597902b4d6"
+    "retries": 0,
+    "slug": "galaxy_s27_pros_exynos_2700_runs_geekbench_heres_how_it_stacks_up_against_snapdragon-news-75565",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/galaxy_s27_pros_exynos_2700_runs_geekbench_heres_how_it_stacks_up_against_snapdragon-news-75565.php"
   },
   {
-    "slug": "nothings_screenless_ai_device_gets_an_official_launch_date-news-75567",
-    "url": "https://www.gsmarena.com/nothings_screenless_ai_device_gets_an_official_launch_date-news-75567.php",
+    "content_hash": "d4a19ab4ae7ff42c96cc205852959f29af45a174282a6a3c5462d91f39a655f7",
     "date": "20 November 2026",
     "fetched_at": "2026-11-20T22:26:59.725671+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "d4a19ab4ae7ff42c96cc205852959f29af45a174282a6a3c5462d91f39a655f7"
+    "retries": 0,
+    "slug": "nothings_screenless_ai_device_gets_an_official_launch_date-news-75567",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nothings_screenless_ai_device_gets_an_official_launch_date-news-75567.php"
   },
   {
     "content_hash": "71fdec3d98d5d9b928a6469210c1af3b08d9523df133d400780b9acb4ed8583f",
