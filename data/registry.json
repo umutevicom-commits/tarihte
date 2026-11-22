@@ -9379,6 +9379,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/deal_the_poco_f9_ultra_and_poco_f9_pro_have_220_discounts_on_amazon_uk_for_black_friday-news-75569.php"
   },
+  "75570": {
+    "content_hash": "5a3f8197c13b92879ed8ce433aa59c1c3abbea84280602ab1ae6fbe7861b4539",
+    "date": "22 November 2026",
+    "fetched_at": "2026-11-22T23:00:08.380046+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deal_amazons_black_friday_deal_discounts_the_pixel_11_pro_and_pixel_11_pro_xl_by_31-news-75570",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deal_amazons_black_friday_deal_discounts_the_pixel_11_pro_and_pixel_11_pro_xl_by_31-news-75570.php"
+  },
   "75571": {
     "content_hash": "9c0db042c64e0ddf8257cbd01ed44e0c355c168af0db0af0821d44ecd93d6954",
     "date": "21 November 2026",
@@ -9458,5 +9468,15 @@
     "slug": "vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582",
     "status": "ok",
     "url": "https://www.gsmarena.com/vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582.php"
+  },
+  "75586": {
+    "content_hash": "9915d94ed93139ce6999d964ca3aa1c970ee527592fb9d52e83247562feaa8d7",
+    "date": "22 November 2026",
+    "fetched_at": "2026-11-22T23:00:31.142865+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_rumored_vivo_i2606_is_powered_by_the_snapdragon_8s_gen_4-news-75586",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_rumored_vivo_i2606_is_powered_by_the_snapdragon_8s_gen_4-news-75586.php"
   }
 }
