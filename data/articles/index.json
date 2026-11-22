@@ -1,23 +1,53 @@
 [
   {
-    "slug": "weekly_poll_results_people_keep_entrylevel_phones_for_3_years_higherend_models_for_longer-news-75563",
-    "url": "https://www.gsmarena.com/weekly_poll_results_people_keep_entrylevel_phones_for_3_years_higherend_models_for_longer-news-75563.php",
+    "slug": "weekly_poll_the_xiaomi_18_pro_and_18_pro_max_are_global_now_have_you_changed_your_mind_about_them-news-75551",
+    "url": "https://www.gsmarena.com/weekly_poll_the_xiaomi_18_pro_and_18_pro_max_are_global_now_have_you_changed_your_mind_about_them-news-75551.php",
     "date": "22 November 2026",
-    "fetched_at": "2026-11-22T09:06:51.169177+00:00",
+    "fetched_at": "2026-11-22T17:31:50.197839+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "74bad865cdaadadfb926b1a26495864b4e3c766a78c5139d6754f0d3dbad81ac"
+    "content_hash": "3a583a8f941ca587cd023f05eb45e52fc32ce584584c4db0e884045d0916ca2a"
   },
   {
-    "slug": "amazon_uk_black_friday_week_best_tablet_deals_uk_edition_-news-75576",
-    "url": "https://www.gsmarena.com/amazon_uk_black_friday_week_best_tablet_deals_uk_edition_-news-75576.php",
+    "slug": "vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582",
+    "url": "https://www.gsmarena.com/vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582.php",
     "date": "22 November 2026",
-    "fetched_at": "2026-11-22T09:06:28.391485+00:00",
+    "fetched_at": "2026-11-22T17:31:34.490999+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "5a16c013f108185144edc4accbe7f8adf14015cf9829b08ede2bfd07d170b1a9"
+    "content_hash": "1b30c29318548cc512f663e0cedcec588340c97e7c844f278ab5c592f5e1facd"
+  },
+  {
+    "slug": "ulefone_armor_35_pro_features_price_sale_date-news-75579",
+    "url": "https://www.gsmarena.com/ulefone_armor_35_pro_features_price_sale_date-news-75579.php",
+    "date": "22 November 2026",
+    "fetched_at": "2026-11-22T17:31:04.561338+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "37bdd2dcac3ecf1dc1e92f2a8806fb4d9735d47d821083d1757a53a6aa2ba293"
+  },
+  {
+    "content_hash": "74bad865cdaadadfb926b1a26495864b4e3c766a78c5139d6754f0d3dbad81ac",
+    "date": "22 November 2026",
+    "fetched_at": "2026-11-22T09:06:51.169177+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_results_people_keep_entrylevel_phones_for_3_years_higherend_models_for_longer-news-75563",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_people_keep_entrylevel_phones_for_3_years_higherend_models_for_longer-news-75563.php"
+  },
+  {
+    "content_hash": "5a16c013f108185144edc4accbe7f8adf14015cf9829b08ede2bfd07d170b1a9",
+    "date": "22 November 2026",
+    "fetched_at": "2026-11-22T09:06:28.391485+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazon_uk_black_friday_week_best_tablet_deals_uk_edition_-news-75576",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_uk_black_friday_week_best_tablet_deals_uk_edition_-news-75576.php"
   },
   {
     "content_hash": "ec531f7f5fade73f296087fb9bd4af008c686e1da06fd642738668f7cc7a8007",

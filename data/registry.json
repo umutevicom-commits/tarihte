@@ -9269,6 +9269,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/amazon_us_black_friday_deal_the_galaxy_s26_ultra_and_z_fold8_ultra_are_both_350_off-news-75548.php"
   },
+  "75551": {
+    "content_hash": "3a583a8f941ca587cd023f05eb45e52fc32ce584584c4db0e884045d0916ca2a",
+    "date": "22 November 2026",
+    "fetched_at": "2026-11-22T17:31:50.197839+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_the_xiaomi_18_pro_and_18_pro_max_are_global_now_have_you_changed_your_mind_about_them-news-75551",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_the_xiaomi_18_pro_and_18_pro_max_are_global_now_have_you_changed_your_mind_about_them-news-75551.php"
+  },
   "75552": {
     "content_hash": "41d681d1dd7e939ab478a3550aa9686190252a1d519dfb7c853adef40bee16bf",
     "date": "19 November 2026",
@@ -9428,5 +9438,25 @@
     "slug": "honor_reportedly_has_a_13500_mah_phone_coming_and_the_power3_isnt_far_behind-news-75577",
     "status": "ok",
     "url": "https://www.gsmarena.com/honor_reportedly_has_a_13500_mah_phone_coming_and_the_power3_isnt_far_behind-news-75577.php"
+  },
+  "75579": {
+    "content_hash": "37bdd2dcac3ecf1dc1e92f2a8806fb4d9735d47d821083d1757a53a6aa2ba293",
+    "date": "22 November 2026",
+    "fetched_at": "2026-11-22T17:31:04.561338+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "ulefone_armor_35_pro_features_price_sale_date-news-75579",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/ulefone_armor_35_pro_features_price_sale_date-news-75579.php"
+  },
+  "75582": {
+    "content_hash": "1b30c29318548cc512f663e0cedcec588340c97e7c844f278ab5c592f5e1facd",
+    "date": "22 November 2026",
+    "fetched_at": "2026-11-22T17:31:34.490999+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_s70_pro_v90_pro_leaks_with_live_photo_and_basic_specs_sheet-news-75582.php"
   }
 }
