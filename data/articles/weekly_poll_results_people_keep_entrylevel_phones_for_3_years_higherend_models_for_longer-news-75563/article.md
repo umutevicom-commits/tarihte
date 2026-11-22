@@ -1,0 +1,31 @@
+# Haftalık anket sonuçları: İnsanlar giriş seviyesi telefonları 3 yıl, üst düzey modelleri ise daha uzun süre kullanıyor
+
+Bu ilginç bir deneydi. Geçen hafta size “Mevcut telefonunuzu ne kadar süre kullanmayı planlıyorsunuz?” diye sorduk ve bazı veriler beklediğimiz sonuçları gösterirken, birkaç sürprizle de karşılaştık.
+
+İşte sonuçlar: Üç kategorinin (amiral gemisi, orta segment ve giriş seviyesi) her biri için ortalama ve medyan değişim süresini (yıl olarak) hesapladık. Tek cümlelik özet şöyle: "Giriş seviyesi telefonlar her üç yılda bir, üst segment telefonlar ise her dört yılda bir değiştiriliyor."
+
+Şimdi amiral gemisi telefonlarla başlayarak daha derine inelim. Ortalama, medyan değerden biraz daha yüksektir. Amiral gemisi telefon sahiplerinin 1.242'si veya %23'ü (bu, anketin tamamındaki en büyük oy bloğu olmuştur) telefonlarını en az 6 yıl boyunca kullanmayı planladıklarını belirtmiştir. Bu da sonuçları daha uzun süreli kullanıma doğru kaydırmaktadır.
+
+Orta segment telefonlara gelince, ortalama medyanın altındadır. Çok az kişi orta segment telefonunu her yıl değiştirirken, epey sayıda kişi 2 veya 3 yıl sonra değiştiriyor. Bu da ortalama bir kişinin orta segment telefonunu, diğerlerinin amiral gemisi telefonlarını kullandığı süre kadar kullandığı anlamına geliyor. Ancak daha erken model yükselten epey sayıda kişi de var.
+
+Beklendiği üzere, giriş seviyesi segmentinde en hızlı değişim görülmektedir - düşük özellikli telefonlar daha hızlı eskir. Bu kategoride, ortalama ile medyan arasında en büyük fark görülmektedir. Bu fark, mevcut telefonlarını en az 6 yıl boyunca kullanmayı planlayan hatırı sayılır sayıda inatçı kullanıcı (507 veya giriş seviyesi telefon sahiplerinin %21'i) nedeniyle dengesizleşmektedir.
+
+Hatırlatmak gerekirse, 2020 yılında benzer bir anket yapmıştık ve sonuçlar çoğu kişinin telefonunu 3 yıl sonra değiştirdiğini, ancak 2 yılın en yaygın ikinci değişim süresi olduğunu göstermişti. O zamandan bu yana telefon yenileme döngüsünün belirgin şekilde uzadığı görülüyor.
+
+Bu iyi bir şeydir. AB gibi bölgeler, üreticileri telefonlarını daha uzun süre desteklemeye teşvik etmektedir. Bu, en az 5 yıl boyunca işletim sistemi güncellemeleri yapılmasını ve satışların sona ermesinden sonra en az 7 yıl boyunca yedek parçaların temin edilebilmesini içerir. Yakında, (2027'nin başlarında yürürlüğe girmesi planlanan) AB Batarya Yönetmeliği de evde kolayca değiştirilebilen bataryaları teşvik edecektir. Bir uyarı var: En az 1.000 şarj döngüsü için derecelendirilmiş bataryalara sahip su geçirmez telefonlar muaf tutuluyor, ancak bunun nasıl sonuçlanacağını göreceğiz.
+
+Merak ediyorsanız, ham oy sayımlarını gösteren bir tabloyu burada bulabilirsiniz (her satırda o kategori için oy sayısı ve oy yüzdesi olarak gösterilmiştir).
+
+Dikkat edilmesi gereken birkaç ilginç nokta daha var. İlk olarak, okuyucularımızın çoğunun bir amiral gemisi modeli var (yaklaşık 12.000 katılımcının %45'i). İkinci en popüler kategori orta segmentti (%34).
+
+Giriş seviyesi telefon sahiplerine gelince (oy verenlerin %21'i), sadece bir yıl sonra başka bir telefona geçme olasılıkları en yüksek olanlar onlar. Bu kategorideki katılımcıların %11'i, diğer iki kategorideki %5 ve %6'lık oranlara kıyasla daha yüksek bir oranda başka bir telefona geçmeyi düşünüyor. Bazı kişilerin amiral gemisi telefonları teknolojinin en son noktasında olmak istedikleri için satın aldıklarını biliyoruz. Bu da onları her yıl telefonlarını yenilemeye yönlendiriyor. Ancak bunu giriş seviyesi kategorisinde görmeyi beklemiyorduk.
+
+Tüm katılımcılara tekrar teşekkür ederiz!
+
+---
+
+## Görseller
+
+![Weekly poll results: people keep entry-level phones for 3 years, higher-end models for longer](https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_people_keep_entrylevel_phones_for_3_years_higherend_models_for_longer-news-75563/immaculate_001.png)
+
+![Results from a similar poll in 2020](https://umutevicom-commits.github.io/tarihte/data/images/weekly_poll_results_people_keep_entrylevel_phones_for_3_years_higherend_models_for_longer-news-75563/immaculate_002.png)

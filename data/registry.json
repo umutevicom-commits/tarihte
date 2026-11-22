@@ -9299,6 +9299,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_osta_1_pro_debuts_in_china_-news-75562.php"
   },
+  "75563": {
+    "content_hash": "74bad865cdaadadfb926b1a26495864b4e3c766a78c5139d6754f0d3dbad81ac",
+    "date": "22 November 2026",
+    "fetched_at": "2026-11-22T09:06:51.169177+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "weekly_poll_results_people_keep_entrylevel_phones_for_3_years_higherend_models_for_longer-news-75563",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/weekly_poll_results_people_keep_entrylevel_phones_for_3_years_higherend_models_for_longer-news-75563.php"
+  },
   "75564": {
     "content_hash": "71fdec3d98d5d9b928a6469210c1af3b08d9523df133d400780b9acb4ed8583f",
     "date": "20 November 2026",
@@ -9398,6 +9408,16 @@
     "slug": "deal_the_samsung_galaxy_z_fold8_ultra_is_up_to_555_off_for_amazon_uks_black_friday_sale-news-75575",
     "status": "ok",
     "url": "https://www.gsmarena.com/deal_the_samsung_galaxy_z_fold8_ultra_is_up_to_555_off_for_amazon_uks_black_friday_sale-news-75575.php"
+  },
+  "75576": {
+    "content_hash": "5a16c013f108185144edc4accbe7f8adf14015cf9829b08ede2bfd07d170b1a9",
+    "date": "22 November 2026",
+    "fetched_at": "2026-11-22T09:06:28.391485+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "amazon_uk_black_friday_week_best_tablet_deals_uk_edition_-news-75576",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/amazon_uk_black_friday_week_best_tablet_deals_uk_edition_-news-75576.php"
   },
   "75577": {
     "content_hash": "555b20c44c1e1b47a256fa028f05b368663999392fef05a9c08347e0242cf942",
