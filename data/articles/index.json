@@ -1,13 +1,93 @@
 [
   {
-    "slug": "samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587",
-    "url": "https://www.gsmarena.com/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587.php",
+    "slug": "google_is_killing_off_the_nest_app_and_google_assistant_on_home_devices-news-75580",
+    "url": "https://www.gsmarena.com/google_is_killing_off_the_nest_app_and_google_assistant_on_home_devices-news-75580.php",
     "date": "23 November 2026",
-    "fetched_at": "2026-11-23T04:53:50.827701+00:00",
+    "fetched_at": "2026-11-23T16:57:54.266994+00:00",
     "status": "ok",
     "retries": 0,
     "last_error": "",
-    "content_hash": "738ae003a43c938385254b0a407dd0c144cf2b580d7916917492db2838926f32"
+    "content_hash": "0df64994793b00248d6f7ffdc50fde7a30451ff95ea84db787f69d77ff74951d"
+  },
+  {
+    "slug": "iphone_duo_may_soon_support_more_widgets_on_its_lock_screen-news-75588",
+    "url": "https://www.gsmarena.com/iphone_duo_may_soon_support_more_widgets_on_its_lock_screen-news-75588.php",
+    "date": "23 November 2026",
+    "fetched_at": "2026-11-23T16:57:34.653783+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "139c99fd6e2c1ded0fbc6a45e3de81ce41db2a6ac0aef65868b9b70374ec7bd1"
+  },
+  {
+    "slug": "honor_700_pro_debuts_with_a_snapdragon_8_gen_5_soc_and_a_9000mah_battery-news-75589",
+    "url": "https://www.gsmarena.com/honor_700_pro_debuts_with_a_snapdragon_8_gen_5_soc_and_a_9000mah_battery-news-75589.php",
+    "date": "23 November 2026",
+    "fetched_at": "2026-11-23T16:57:08.736291+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6894dba06197d45c685b097f1a500eaba7f4522093c2d2f5c0235a189e2fa67b"
+  },
+  {
+    "slug": "honor_700_and_700s_arrive_with_rear_screens_200mp_cameras_and_9000mah_batteries_-news-75590",
+    "url": "https://www.gsmarena.com/honor_700_and_700s_arrive_with_rear_screens_200mp_cameras_and_9000mah_batteries_-news-75590.php",
+    "date": "23 November 2026",
+    "fetched_at": "2026-11-23T16:56:38.106595+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "77e97550ba1b4f5e16071e6c31e9d38b3f09b39c7331b59a7f5dcf37bcccd855"
+  },
+  {
+    "slug": "apple_will_focus_on_affordable_models__iphone_18e_new_ipad_new_macbook_neo__in_early_2027-news-75591",
+    "url": "https://www.gsmarena.com/apple_will_focus_on_affordable_models__iphone_18e_new_ipad_new_macbook_neo__in_early_2027-news-75591.php",
+    "date": "23 November 2026",
+    "fetched_at": "2026-11-23T16:56:07.683415+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "2a39c8be1d664b6918491289c22350004dbc033570befa0c44321c86b3c8db80"
+  },
+  {
+    "slug": "xiaomi_19_series_rumored_to_get_a_much_wider_ultrawide_camera-news-75593",
+    "url": "https://www.gsmarena.com/xiaomi_19_series_rumored_to_get_a_much_wider_ultrawide_camera-news-75593.php",
+    "date": "23 November 2026",
+    "fetched_at": "2026-11-23T16:55:50.189878+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "6634fc84953bb6b75bf42472133f64ba5f834143b3dca133613b4275cdb60f18"
+  },
+  {
+    "slug": "motorola_razr_flex_gets_certified_wireless_charging_speed_revealed-news-75592",
+    "url": "https://www.gsmarena.com/motorola_razr_flex_gets_certified_wireless_charging_speed_revealed-news-75592.php",
+    "date": "23 November 2026",
+    "fetched_at": "2026-11-23T16:55:33.725168+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "cda02e965ec338520f44db4cbaa2a742b28f7704f81b841ce581fceee68319ad"
+  },
+  {
+    "slug": "honor_magic9_lite_tipped_to_pack_a_9530mah_battery_in_europe_more_specs_surface-news-75595",
+    "url": "https://www.gsmarena.com/honor_magic9_lite_tipped_to_pack_a_9530mah_battery_in_europe_more_specs_surface-news-75595.php",
+    "date": "23 November 2026",
+    "fetched_at": "2026-11-23T16:55:07.807152+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "dc3cda47833c0c9a6e43e9acc8318c1ecff389447b4098d4a3ff794b9de10149"
+  },
+  {
+    "content_hash": "738ae003a43c938385254b0a407dd0c144cf2b580d7916917492db2838926f32",
+    "date": "23 November 2026",
+    "fetched_at": "2026-11-23T04:53:50.827701+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587.php"
   },
   {
     "content_hash": "9915d94ed93139ce6999d964ca3aa1c970ee527592fb9d52e83247562feaa8d7",

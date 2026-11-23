@@ -1,0 +1,49 @@
+{
+  "url": "https://www.gsmarena.com/iphone_duo_may_soon_support_more_widgets_on_its_lock_screen-news-75588.php",
+  "slug": "iphone_duo_may_soon_support_more_widgets_on_its_lock_screen-news-75588",
+  "title": "iPhone Duo may soon support more widgets on its Lock Screen",
+  "news_id": "75588",
+  "date": "23 November 2026",
+  "author": "Siddharth",
+  "tags": [
+    "Featured",
+    "Apple",
+    "iOS",
+    "Software updates",
+    "Rumors"
+  ],
+  "body_paragraphs": [
+    "The iPhone Duo currently supports two customizable shortcuts on its lock screen, positioned in the bottom-right corner. However, a tipster claims Apple has been testing new Lock Screen widgets for the foldable, which could arrive in a future software update.",
+    "Leakster pdfu shared the findings on X, along with a video showing the new widgets in action. According to the tipster, Apple tested a new “complication column” that can accommodate two widgets.",
+    "The widget box will appear below the network status indicators on the right side of the cover screen. It was first spotted in iOS 27.1, but remained disabled. The tipster says the widget column is managed by a “Springboard/Ionic” setting.",
+    "Apple has tested a “complication column” for iPhone Duo’s Lock Screen. It fits two circular widgets along the right edge.",
+    "Flag: SpringBoard/Ionic (disabled). First seen in iOS 27.1, with no code changes since. https://t.co/orjOuvM1Xs",
+    "Apple hasn't made any changes to the code since iOS 27.1, so it's unclear whether the company is still developing the feature or plans to enable it in a future iOS update.",
+    "If enabled, the new widgets would let the iPhone Duo's cover screen display more information at a glance."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_may_soon_support_more_widgets_on_its_lock_screen-news-75588/immaculate_001.jpg",
+      "alt": "iPhone Duo may soon support more widgets on its Lock Screen"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-23T16:57:34.653783+00:00",
+  "title_tr": "iPhone Duo yakında Kilit Ekranında daha fazla widget'ı destekleyebilir",
+  "body_paragraphs_tr": [
+    "iPhone Duo şu anda kilit ekranının sağ alt köşesinde konumlandırılmış iki adet özelleştirilebilir kısayolu desteklemektedir. Ancak bir bilgi sızdıran kişi, Apple'ın katlanabilir telefon için yeni Kilit Ekranı widget'larını test ettiğini ve bunların gelecekteki bir yazılım güncellemesiyle kullanıma sunulabileceğini iddia ediyor.",
+    "Sızıntı haberi veren pdfu, bulguları X'te paylaştı ve yeni widget'ları çalışır hâlde gösteren bir video da ekledi. İhbarcıya göre Apple, iki widget'ı barındırabilen yeni bir \"komplikasyon sütununu\" test etti.",
+    "Widget kutusu, kapağın sağ tarafındaki ağ durumu göstergelerinin altında görünecektir. İlk olarak iOS 27.1'de görüldü, ancak devre dışı bırakılmıştı. İhbarcı, widget sütununun bir \"Springboard/Ionic\" ayarı tarafından yönetildiğini söylüyor.",
+    "Apple, iPhone Duo'nun Kilit Ekranı için bir \"komplikasyon sütunu\" test etti. Sağ kenar boyunca iki dairesel widget sığdırıyor.",
+    "Bayrak: SpringBoard/Ionic (devre dışı). İlk olarak iOS 27.1'de görüldü ve o zamandan beri kodda herhangi bir değişiklik yapılmadı. https://t.co/orjOuvM1Xs",
+    "Apple, iOS 27.1'den bu yana kodda herhangi bir değişiklik yapmadı. Bu nedenle şirketin özelliği hâlâ geliştirip geliştirmediği veya gelecekteki bir iOS güncellemesinde etkinleştirmeyi planlayıp planlamadığı belirsiz.",
+    "Etkinleştirilirse yeni widget'lar, iPhone Duo'nun kapak ekranının tek bakışta daha fazla bilgi göstermesini sağlayacaktır."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Apple",
+    "iOS",
+    "Yazılım güncellemeleri",
+    "Söylentiler"
+  ]
+}

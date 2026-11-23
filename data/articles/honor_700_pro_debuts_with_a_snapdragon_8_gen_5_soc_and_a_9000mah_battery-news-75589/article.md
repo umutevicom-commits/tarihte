@@ -1,0 +1,33 @@
+# Honor 700 Pro, Snapdragon 8 Gen 5 SoC ve 9.000 mAh'lik bir batarya ile piyasaya çıkıyor
+
+Honor'un en yeni sayı serisi, Honor 700, 700 Pro ve 700S'ten oluşan modellerle Çin'de resmî olarak tanıtıldı. Üç telefonun da arka ekranı ve 6,57 inçlik ana ekranı bulunurken Pro modelinde birkaç ek iyileştirme yapılmıştır.
+
+Honor 700 Pro, Adreno 829 GPU, 16 GB'a kadar RAM ve 512 GB'a kadar depolama alanı ile birlikte Snapdragon 8 Gen 5 yonga seti tarafından desteklenmektedir.
+
+Telefonun ön tarafında 1,5K çözünürlüğe, 120 Hz yenileme hızına ve 8.000 nit'e varan tepe parlaklığına sahip 6,57 inçlik bir AMOLED ekran bulunuyor. Ayrıca arka tarafta 1,59 inçlik bir AMOLED ekran da bulunuyor.
+
+Fotoğraf çekimi için Honor 700 Pro, OIS özellikli 200 MP ana kamera, OIS özellikli 50 MP periskop telefoto kamera ve 112 derecelik görüş alanına sahip 12 MP ultra geniş açılı kamera içeriyor. Ayrıca selfie çekmek için 50 MP'lik bir ön kamera da bulunuyor.
+
+Cihaz, 80 W kablolu ve 50 W kablosuz şarj desteğine sahip 9.000 mAh'lik bir batarya içeriyor. Diğer özellikler arasında ekrana entegre parmak izi tarayıcısı, PPG sensörü, kızılötesi sensör ve IP69K derecesi yer alıyor. Yaklaşık 213 g ağırlığındadır.
+
+Yazılım tarafında Honor 700 Pro, Android 17 tabanlı MagicOS 11 ile çalışıyor. Arka ekranı, yapay zekâ tarafından özelleştirilmiş animasyonlu çıkartmaları, emojileri ve bağlamsal uyarıları destekliyor. Ayrıca bir vizör görevi de görebilir ve kullanıcıların 200 MP'lik ana kamera ile selfie çekmelerine olanak tanır.
+
+Telefonda ayrıca kalp atış hızı, SpO2 ve HRV takibi için arkaya yerleştirilmiş bir PPG sensörü de bulunmaktadır. Bağlantı seçenekleri arasında 5G özellikli çift SIM, Bluetooth 6.0, Wi-Fi 6, NFC ve GPS yer alıyor. Ayrıca 200 mm'lik bir telekonvertörü de destekliyor.
+
+Honor 700 Pro; Mavi Ton, Soğuk Beyaz, Pembe Sis ve Gökyüzü renk seçenekleriyle sunulmaktadır.
+
+Fiyatlar, 12 GB/256 GB model için 4.599 CNY'den (690 $) başlıyor. 12 GB/512 GB ve 16 GB/512 GB modellerinin fiyatları sırasıyla 4.999 CNY (745 $) ve 5.099 CNY (765 $) olarak belirlenmiştir.
+
+Honor 700 Pro, Çin'de sipariş verilebilir ve açık satışlar 27 Kasım'da başlayacak.
+
+---
+
+## Görseller
+
+![Honor 700 Pro debuts with a Snapdragon 8 Gen 5 SoC and a 9,000mAh battery](https://umutevicom-commits.github.io/tarihte/data/images/honor_700_pro_debuts_with_a_snapdragon_8_gen_5_soc_and_a_9000mah_battery-news-75589/immaculate_001.jpg)
+
+![Honor 700 Pro debuts with a Snapdragon 8 Gen 5 SoC and a 9,000mAh battery](https://umutevicom-commits.github.io/tarihte/data/images/honor_700_pro_debuts_with_a_snapdragon_8_gen_5_soc_and_a_9000mah_battery-news-75589/immaculate_02.jpg)
+
+![Honor 700 Pro debuts with a Snapdragon 8 Gen 5 SoC and a 9,000mAh battery](https://umutevicom-commits.github.io/tarihte/data/images/honor_700_pro_debuts_with_a_snapdragon_8_gen_5_soc_and_a_9000mah_battery-news-75589/immaculate_003.jpg)
+
+![Honor 700 Pro debuts with a Snapdragon 8 Gen 5 SoC and a 9,000mAh battery](https://umutevicom-commits.github.io/tarihte/data/images/honor_700_pro_debuts_with_a_snapdragon_8_gen_5_soc_and_a_9000mah_battery-news-75589/immaculate_004.jpg)
