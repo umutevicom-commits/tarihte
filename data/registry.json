@@ -9478,5 +9478,15 @@
     "slug": "the_rumored_vivo_i2606_is_powered_by_the_snapdragon_8s_gen_4-news-75586",
     "status": "ok",
     "url": "https://www.gsmarena.com/the_rumored_vivo_i2606_is_powered_by_the_snapdragon_8s_gen_4-news-75586.php"
+  },
+  "75587": {
+    "content_hash": "738ae003a43c938385254b0a407dd0c144cf2b580d7916917492db2838926f32",
+    "date": "23 November 2026",
+    "fetched_at": "2026-11-23T04:53:50.827701+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587.php"
   }
 }

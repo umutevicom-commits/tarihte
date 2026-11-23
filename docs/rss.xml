@@ -6,7 +6,22 @@
     <atom:link href="https://www.gsmarena.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>GSMArena haberlerinin eksiksiz Türkçe çevirisi</description>
     <language>tr</language>
-    <lastBuildDate>Sun, 22 Nov 2026 23:00:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 04:54:13 +0000</lastBuildDate>
+    <item>
+      <title>Samsung, Galaxy Watch'u iki yıllık lansman döngüsüne geçirebilir</title>
+      <link>https://www.gsmarena.com/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587.php</link>
+      <guid isPermaLink="true">https://www.gsmarena.com/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587.php</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <author>Siddharth</author>
+      <category>Öne Çıkanlar</category><category>Samsung</category><category>Akıllı giyilebilir cihazlar</category><category>Söylentiler</category>
+      <description>Güney Kore'den gelen yeni bir habere göre Samsung, önümüzdeki yıl yeni bir Galaxy Watch serisi çıkarmayı atlayabilir ve iki yıllık bir lansman döngüsüne geçebilir. Şirket, 2018 yılında ilk Galaxy Watch'u piyasaya sürdüğünden beri yıllık bir lansman takvimi izliyor.</description>
+      <content:encoded><![CDATA[<p>Güney Kore'den gelen yeni bir habere göre Samsung, önümüzdeki yıl yeni bir Galaxy Watch serisi çıkarmayı atlayabilir ve iki yıllık bir lansman döngüsüne geçebilir. Şirket, 2018 yılında ilk Galaxy Watch'u piyasaya sürdüğünden beri yıllık bir lansman takvimi izliyor.</p>
+<p>Sektör kaynaklarına dayandırılan raporda, Samsung Electronics'in Mobil Deneyim (MX) biriminin son iki çeyrekte zarar ettiği ve bu durumun şirketi kârlılığı artırmak için yapısal değişiklikler yapmayı düşünmeye sevk ettiği iddia ediliyor.</p>
+<p>Raporda, Samsung'un orta segment telefon üretimini azaltırken premium akıllı telefon serisini genişletmesinin de beklendiği belirtiliyor.</p>
+<p>Habere göre, sektördeki çeşitli kaynaklar da Galaxy Watch 9 serisinin Samsung'un satış beklentilerini karşılayamadığını iddia etti. Özellikle, akıllı saatlerin fiyatında da bu yıl bir artış oldu.</p>
+<p>Raporda ayrıca Samsung'un önümüzdeki yıl mevcut Galaxy Watch modelleri için yazılım güncellemelerine odaklanacağı ve aynı zamanda boşluğu doldurmak için yeni bir Galaxy Fit modeli çıkaracağı belirtiliyor.</p>
+<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/samsung_may_shift_galaxy_watch_to_a_twoyear_launch_cycle-news-75587/immaculate_001.jpg" alt="Samsung Galaxy Watch9" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
+    </item>
     <item>
       <title>Söylentilere göre vivo I2606, Snapdragon 8s Gen 4 tarafından destekleniyor</title>
       <link>https://www.gsmarena.com/the_rumored_vivo_i2606_is_powered_by_the_snapdragon_8s_gen_4-news-75586.php</link>
@@ -1103,19 +1118,6 @@
 <p>Yüzle kilit açma yalnızca kilit ekranında çalışır ve Apple Pay ile yapılan satın alma işlemlerini doğrulamak veya kaydedilen şifrelere erişmek için kullanılamaz. Ayrıca her 45 dakikalık hareketsizlikten sonra Touch ID kimlik doğrulaması da gerektirir.</p>
 <p>iOS 27.3 beta 2, iPhone Duo'da içeriği kapak ekranına aktarmak yerine cihaz katlanarak kapatıldığında onu kilitleyen yeni bir &quot;Kapatarak Kilitle&quot; seçeneği de sunuyor. Diğer eklemeler arasında Apple Intelligence ve Siri AI için yeni kullanım sınırları, Siri için yeni bir &quot;Sayfa Hakkında Soru Sor&quot; özelliği ve birkaç küçük iyileştirme yer alıyor.</p>
 <p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/iphone_duo_gets_face_unlock_feature_in_latest_ios_273_beta-news-75502/immaculate_001.jpg" alt="iPhone Duo gets face unlock feature in latest iOS 27.3 beta" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Huawei Watch Air, etkileyici derecede ince tasarımıyla sızdırıldı</title>
-      <link>https://www.gsmarena.com/huawei_watch_air_leaks_with_impressively_thin_design-news-75504.php</link>
-      <guid isPermaLink="true">https://www.gsmarena.com/huawei_watch_air_leaks_with_impressively_thin_design-news-75504.php</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <author>Michail</author>
-      <category>Öne Çıkanlar</category><category>Huawei</category><category>HarmonyOS</category><category>Akıllı giyilebilir cihazlar</category><category>Söylentiler</category>
-      <description>Huawei'nin yakında portföyüne Watch Air ile yeni bir akıllı saat eklemesi bekleniyor. Adından da anlaşılacağı gibi, cihaz ince ve hafif bir profile sahip olacak. Söylentilere göre titanyum tek parça gövdesi yalnızca 6,9 mm kalınlığında olacak. Bunun ne kadar ince olduğu hakkında bir fikir vermesi için Watch Fit 5 ve Fit 5 Pro'nun 9,4 - 9,5 mm, Huawei Band 11'in ise 8,99 mm olduğunu belirtelim.</description>
-      <content:encoded><![CDATA[<p>Huawei'nin yakında portföyüne Watch Air ile yeni bir akıllı saat eklemesi bekleniyor. Adından da anlaşılacağı gibi, cihaz ince ve hafif bir profile sahip olacak. Söylentilere göre titanyum tek parça gövdesi yalnızca 6,9 mm kalınlığında olacak. Bunun ne kadar ince olduğu hakkında bir fikir vermesi için Watch Fit 5 ve Fit 5 Pro'nun 9,4 - 9,5 mm, Huawei Band 11'in ise 8,99 mm olduğunu belirtelim.</p>
-<p>Fixed Focus Digital'ın Weibo gönderisine göre Huawei, Watch Air'in kasası içinde mevcut alanı en iyi şekilde optimize eden düzensiz şekilli, yüksek silikon içerikli katmanlı bir pil kullanıyor. Kaynak ayrıca, bataryanın silikon içeriğinin %10'u aştığını ve tek bir şarjla 5 güne kadar kullanım sunduğunu iddia ediyor.</p>
-<p>Watch Air'in Watch GT 7 Pro ile aynı aktivite takip özelliklerini sunduğu bildirilirken, sensör diziliminin Huawei Watch 6 ile aynı olduğu, yani kalp atış hızı, SpO2, cilt sıcaklığı ve EKG ölçümlerini takip edebileceği söyleniyor.</p>
-<p style="clear:both;margin:16px 0;"><img src="https://umutevicom-commits.github.io/tarihte/data/images/huawei_watch_air_leaks_with_impressively_thin_design-news-75504/immaculate_001.jpg" alt="Huawei Watch Air (source: &lt;a href=''https://m.weibo.cn/detail/5366006503708578'' target=''_blank'' rel=''noopener noreferrer''&gt;Weibo&lt;/a&gt;)" loading="lazy" style="display:block;width:100%;height:auto;max-width:100%;margin:0;float:none;clear:both;" /></p>]]></content:encoded>
     </item>
   </channel>
 </rss>
