@@ -9629,6 +9629,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/xiaomis_q3_revenue_stays_above_cny_100_billion_as_phone_prices_climb-news-75622.php"
   },
+  "75623": {
+    "content_hash": "15b7d5a7945dc1335a8fb25be5a3d18ba71343f93bfb9d6553758e37fe34cc23",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T20:55:31.618158+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "tidal_is_banning_fully_aigenerated_music-news-75623",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/tidal_is_banning_fully_aigenerated_music-news-75623.php"
+  },
   "75626": {
     "content_hash": "0c0cfdb0cb68776a9787302697ab0a0475bc65ebcf8507dcd1587d497d27022f",
     "date": "25 November 2026",
@@ -9638,5 +9648,95 @@
     "slug": "iqoo_16s_design_colors-news-75626",
     "status": "ok",
     "url": "https://www.gsmarena.com/iqoo_16s_design_colors-news-75626.php"
+  },
+  "75627": {
+    "content_hash": "22fc61bdd2e9ea9d869d746057b6820633443f7122c800c2ba0adfce33a73858",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T20:54:17.280873+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "apple_could_launch_product_red_versions_of_homepod_mini_2_airpods_max_2_soon-news-75627",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/apple_could_launch_product_red_versions_of_homepod_mini_2_airpods_max_2_soon-news-75627.php"
+  },
+  "75628": {
+    "content_hash": "80a6e95119779418999c4c1ba70e00b6bdafeba83db2829d4598801164cc949a",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T20:55:04.193199+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_magic9_lite_breaks_cover_with_9530mah_battery_new_chipset-news-75628",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic9_lite_breaks_cover_with_9530mah_battery_new_chipset-news-75628.php"
+  },
+  "75629": {
+    "content_hash": "63450d7059280503ea0f6cd0770743f8c9f3fdc530ecfea22d8ebeed63a6a3f4",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T20:54:48.311994+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "motorola_signature_27_up_for_preorder_across_eu_markets-news-75629",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/motorola_signature_27_up_for_preorder_across_eu_markets-news-75629.php"
+  },
+  "75630": {
+    "content_hash": "97fe6c3aaaa62b49fcc429fd7d6053ce22eae4dbf332ca2316d32597f04943f8",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T20:54:36.725879+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_z_trifold2_codename_and_availability_details_leak-news-75630",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_z_trifold2_codename_and_availability_details_leak-news-75630.php"
+  },
+  "75631": {
+    "content_hash": "59aa4147d2c3f167556e2871366593ec0232c9738ee353297ba503da8cbea27b",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T20:54:02.154967+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_samsung_galaxy_s27_ultra_gets_certified_with_60w_charging-news-75631",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_samsung_galaxy_s27_ultra_gets_certified_with_60w_charging-news-75631.php"
+  },
+  "75632": {
+    "content_hash": "ebd26e18678d0021ccbab5812ca19bd10c687ef230aaa33ee0acd9d59efd0d87",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T20:53:46.649313+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "more_details_about_vivos_first_wide_candybar_smartphone_appear-news-75632",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/more_details_about_vivos_first_wide_candybar_smartphone_appear-news-75632.php"
+  },
+  "75633": {
+    "content_hash": "181d0f0bc7fbd96cd27012347dd1856cf57fa95525f5eac46cdbbd207cb29060",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T20:53:19.918724+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_choice_t20_launches_with_bigger_7000mah_battery_still_runs_android_go_edition-news-75633",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_choice_t20_launches_with_bigger_7000mah_battery_still_runs_android_go_edition-news-75633.php"
+  },
+  "75636": {
+    "content_hash": "b72cbf1f55b7d4346b73078ed2f4f6ea919cb9f1646d0b191a4cc529ee04bda9",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T20:53:02.171854+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "realme_17_pro_design_fully_revealed_in_leaked_images-news-75636",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/realme_17_pro_design_fully_revealed_in_leaked_images-news-75636.php"
+  },
+  "75637": {
+    "content_hash": "938755025f64475db0bc4044dfbf7660c4cb4f580a6fc38c64032f1903e79a9b",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T20:52:45.317561+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "us_court_finds_huawei_gealty_of_stealing_trade_secrets-news-75637",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/us_court_finds_huawei_gealty_of_stealing_trade_secrets-news-75637.php"
   }
 }
