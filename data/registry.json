@@ -9618,5 +9618,25 @@
     "slug": "huawei_watch_air_arrives_as_the_thinnest_entry_in_the_series_-news-75610",
     "status": "ok",
     "url": "https://www.gsmarena.com/huawei_watch_air_arrives_as_the_thinnest_entry_in_the_series_-news-75610.php"
+  },
+  "75622": {
+    "content_hash": "8fca66ce1fea8bd9a96f1df5b06253b34bd70acc61728454196d1afd92b3b2a7",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T10:43:55.748525+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "xiaomis_q3_revenue_stays_above_cny_100_billion_as_phone_prices_climb-news-75622",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/xiaomis_q3_revenue_stays_above_cny_100_billion_as_phone_prices_climb-news-75622.php"
+  },
+  "75626": {
+    "content_hash": "0c0cfdb0cb68776a9787302697ab0a0475bc65ebcf8507dcd1587d497d27022f",
+    "date": "25 November 2026",
+    "fetched_at": "2026-11-25T10:43:07.167998+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "iqoo_16s_design_colors-news-75626",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/iqoo_16s_design_colors-news-75626.php"
   }
 }
