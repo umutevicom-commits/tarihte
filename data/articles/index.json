@@ -1,63 +1,143 @@
 [
   {
-    "slug": "nothing_releases_new_images_of_the_ear_note_ai_notetaker_earbuds-news-75643",
-    "url": "https://www.gsmarena.com/nothing_releases_new_images_of_the_ear_note_ai_notetaker_earbuds-news-75643.php",
+    "slug": "deals_the_best_android_tablet_and_ipad_offers_plus_windows_laptops_and_macs_too-news-75649",
+    "url": "https://www.gsmarena.com/deals_the_best_android_tablet_and_ipad_offers_plus_windows_laptops_and_macs_too-news-75649.php",
+    "date": "26 November 2026",
+    "fetched_at": "2026-11-26T23:01:00.860387+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "4265c0d94f71baddbe263353b775c85fc7dcf6762ce570225ef2ed9b715eafc5"
+  },
+  {
+    "slug": "apple_reportedly_revamping_notifications_once_again_with_ios_28-news-75646",
+    "url": "https://www.gsmarena.com/apple_reportedly_revamping_notifications_once_again_with_ios_28-news-75646.php",
+    "date": "26 November 2026",
+    "fetched_at": "2026-11-26T22:59:19.471089+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7eca8b56492370da75ea55b05f268c91853be257ed548e33c2bd02f9f1dd39f1"
+  },
+  {
+    "slug": "hmd_rise_goes_official_with_a_651inch_display_and_a_5000mah_battery-news-75657",
+    "url": "https://www.gsmarena.com/hmd_rise_goes_official_with_a_651inch_display_and_a_5000mah_battery-news-75657.php",
+    "date": "26 November 2026",
+    "fetched_at": "2026-11-26T22:57:09.471793+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "bc50a526984d36997340f89e6bd26b3316ad4f9009411f6c45abfc6eeb8afe40"
+  },
+  {
+    "slug": "last_call_for_amazon_uks_top_black_friday_deals_flagships_foldables_midrangers_and_more-news-75652",
+    "url": "https://www.gsmarena.com/last_call_for_amazon_uks_top_black_friday_deals_flagships_foldables_midrangers_and_more-news-75652.php",
+    "date": "26 November 2026",
+    "fetched_at": "2026-11-26T22:53:34.829675+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "3e93c4c8221282332dcf6d33154e47cd8335bebc74c1ea268eec3c34a9de51cc"
+  },
+  {
+    "slug": "vivo_x500s_rumored_to_launch_with_dimensity_9600_pro-news-75654",
+    "url": "https://www.gsmarena.com/vivo_x500s_rumored_to_launch_with_dimensity_9600_pro-news-75654.php",
+    "date": "26 November 2026",
+    "fetched_at": "2026-11-26T22:52:21.665343+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "7507b3b59687a6076d6d022190f711a0ce2b50be2aeb8aee2d685f539f912e2c"
+  },
+  {
+    "slug": "global_xiaomi_17_ultra_starts_receiving_hyperos_4-news-75656",
+    "url": "https://www.gsmarena.com/global_xiaomi_17_ultra_starts_receiving_hyperos_4-news-75656.php",
+    "date": "26 November 2026",
+    "fetched_at": "2026-11-26T22:49:12.437611+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "c2e0c340abed9af1a433a57acf0637235ef9b68994f24c6bd75aec01644f01ef"
+  },
+  {
+    "slug": "amazon_us_black_friday_deals_last_call_for_the_best_smartphone_offers-news-75650",
+    "url": "https://www.gsmarena.com/amazon_us_black_friday_deals_last_call_for_the_best_smartphone_offers-news-75650.php",
+    "date": "26 November 2026",
+    "fetched_at": "2026-11-26T22:44:55.116461+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "01f4177e37eb7e97c6c003f8de17b4945b4c7d1675e2973524e49fad22a3523d"
+  },
+  {
+    "slug": "whatsapp_could_soon_introduce_a_travel_esim_feature-news-75661",
+    "url": "https://www.gsmarena.com/whatsapp_could_soon_introduce_a_travel_esim_feature-news-75661.php",
+    "date": "26 November 2026",
+    "fetched_at": "2026-11-26T22:42:02.561155+00:00",
+    "status": "ok",
+    "retries": 0,
+    "last_error": "",
+    "content_hash": "d596d3024acc7e69ab58de2b3c89635a04d1ab3c73dbbede5b6d0c172d46e276"
+  },
+  {
+    "content_hash": "fc47aeff55ac078dac63988bb1db72e425caaf931fcfe88571a8877129228e07",
     "date": "26 November 2026",
     "fetched_at": "2026-11-26T13:26:06.995432+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "fc47aeff55ac078dac63988bb1db72e425caaf931fcfe88571a8877129228e07"
+    "retries": 0,
+    "slug": "nothing_releases_new_images_of_the_ear_note_ai_notetaker_earbuds-news-75643",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/nothing_releases_new_images_of_the_ear_note_ai_notetaker_earbuds-news-75643.php"
   },
   {
-    "slug": "whatsapp_scheduled_messages_are_now_rolling_out_globally-news-75645",
-    "url": "https://www.gsmarena.com/whatsapp_scheduled_messages_are_now_rolling_out_globally-news-75645.php",
+    "content_hash": "13855be5085df43ec542f09a8475d1ef55399fbccf7783af7fa0eef2d2c532fa",
     "date": "26 November 2026",
     "fetched_at": "2026-11-26T13:25:47.862884+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "13855be5085df43ec542f09a8475d1ef55399fbccf7783af7fa0eef2d2c532fa"
+    "retries": 0,
+    "slug": "whatsapp_scheduled_messages_are_now_rolling_out_globally-news-75645",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_scheduled_messages_are_now_rolling_out_globally-news-75645.php"
   },
   {
-    "slug": "heres_what_the_vanilla_huawei_osta_o1_is_rumored_to_bring-news-75642",
-    "url": "https://www.gsmarena.com/heres_what_the_vanilla_huawei_osta_o1_is_rumored_to_bring-news-75642.php",
+    "content_hash": "a92691282736b3c62d93c82707cb2202db4d548263ab634520f804eefe4f14a6",
     "date": "26 November 2026",
     "fetched_at": "2026-11-26T13:25:30.622658+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "a92691282736b3c62d93c82707cb2202db4d548263ab634520f804eefe4f14a6"
+    "retries": 0,
+    "slug": "heres_what_the_vanilla_huawei_osta_o1_is_rumored_to_bring-news-75642",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/heres_what_the_vanilla_huawei_osta_o1_is_rumored_to_bring-news-75642.php"
   },
   {
-    "slug": "vivo_x500_series_makes_its_india_debut_heres_the_pricing-news-75648",
-    "url": "https://www.gsmarena.com/vivo_x500_series_makes_its_india_debut_heres_the_pricing-news-75648.php",
+    "content_hash": "e3b292285bd48d454717748ef47759d644c7bf11f479981095e5e9232837f955",
     "date": "26 November 2026",
     "fetched_at": "2026-11-26T13:25:05.172440+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e3b292285bd48d454717748ef47759d644c7bf11f479981095e5e9232837f955"
+    "retries": 0,
+    "slug": "vivo_x500_series_makes_its_india_debut_heres_the_pricing-news-75648",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_series_makes_its_india_debut_heres_the_pricing-news-75648.php"
   },
   {
-    "slug": "the_best_time_of_the_year_to_get_your_pitaka_case_30_off_for_black_friday-news-75511",
-    "url": "https://www.gsmarena.com/the_best_time_of_the_year_to_get_your_pitaka_case_30_off_for_black_friday-news-75511.php",
+    "content_hash": "e4822c54e4e20a4102aeab915542c818b51de850b708eee42a6597a570137ad2",
     "date": "26 November 2026",
     "fetched_at": "2026-11-26T13:23:40.808159+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "e4822c54e4e20a4102aeab915542c818b51de850b708eee42a6597a570137ad2"
+    "retries": 0,
+    "slug": "the_best_time_of_the_year_to_get_your_pitaka_case_30_off_for_black_friday-news-75511",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_best_time_of_the_year_to_get_your_pitaka_case_30_off_for_black_friday-news-75511.php"
   },
   {
-    "slug": "smartphone_shipments_on_track_for_record_drop_in_2026-news-75647",
-    "url": "https://www.gsmarena.com/smartphone_shipments_on_track_for_record_drop_in_2026-news-75647.php",
+    "content_hash": "7a11e82ba228b435dcd6a666d701c1309317acaa41e4fb2049ee071b3fd55964",
     "date": "26 November 2026",
     "fetched_at": "2026-11-26T13:23:09.764296+00:00",
-    "status": "ok",
-    "retries": 0,
     "last_error": "",
-    "content_hash": "7a11e82ba228b435dcd6a666d701c1309317acaa41e4fb2049ee071b3fd55964"
+    "retries": 0,
+    "slug": "smartphone_shipments_on_track_for_record_drop_in_2026-news-75647",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/smartphone_shipments_on_track_for_record_drop_in_2026-news-75647.php"
   },
   {
     "content_hash": "8acafcd931c62e1c33e3c84c25cfea9a0ef5382021cf8f410d4d5cfe26497153",

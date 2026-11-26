@@ -1,0 +1,15 @@
+# vivo X500s rumored to launch with Dimensity 9600 Pro
+
+The vivo X500 series currently consists of three models – the X500, X500 Pro and X500 Pro Max but the last few weeks saw some leaks about a fourth X500 series member – the X500s. Reliable tipster Digital Chat Station has now shared some additional details regarding the chipset at the helm of the upcoming device.
+
+Based on DCS’s latest Weibo post https://m.weibo.cn/detail/5369428921552490, vivo X500s will be equipped with the Dimensity 9600 Pro chip. That’s the same chip found inside the X500 Pro and X500 Pro Max models, but according to the tipster, the X500s is getting “exclusive custom enhancements”. Unfortunately, we don’t get any additional details as to what these enhancements entail.
+
+Based on previous X500s reports, the device is expected to feature a 6.85-inch LTPO OLED with a 1,260 x 2,800px resolution and 144Hz refresh rate. Rumors also point to a larger battery than the X300s which featured a 7,100mAh cell. The X500s is expected to launch in China soon.
+
+---
+
+## Görseller
+
+![vivo X500s rumored to launch with Dimensity 9600 Pro](https://umutevicom-commits.github.io/tarihte/data/images/vivo_x500s_rumored_to_launch_with_dimensity_9600_pro-news-75654/immaculate_001.jpg)
+
+![vivo X500 Pro Max • X500 Pro • X500](https://umutevicom-commits.github.io/tarihte/data/images/vivo_x500s_rumored_to_launch_with_dimensity_9600_pro-news-75654/immaculate_005.jpg)
