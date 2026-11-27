@@ -9889,6 +9889,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/hmd_rise_goes_official_with_a_651inch_display_and_a_5000mah_battery-news-75657.php"
   },
+  "75660": {
+    "content_hash": "793ea301eb4e711d08cad5368c713d5ae49a15cde7f7ebadd35a3629541a1423",
+    "date": "27 November 2026",
+    "fetched_at": "2026-11-27T16:07:40.905300+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oneplus_nord_n7_pro_leaks_and_its_a_confusing_one-news-75660",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oneplus_nord_n7_pro_leaks_and_its_a_confusing_one-news-75660.php"
+  },
   "75661": {
     "content_hash": "d596d3024acc7e69ab58de2b3c89635a04d1ab3c73dbbede5b6d0c172d46e276",
     "date": "26 November 2026",
@@ -9908,5 +9918,75 @@
     "slug": "samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662",
     "status": "ok",
     "url": "https://www.gsmarena.com/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662.php"
+  },
+  "75663": {
+    "content_hash": "13d025cacba56e01cb5f2019222c2af3697d418f7cdb350c806e17ec7724dc3a",
+    "date": "27 November 2026",
+    "fetched_at": "2026-11-27T16:06:51.396790+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "honor_magic10_pro_max_could_have_three_200mp_cameras-news-75663",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/honor_magic10_pro_max_could_have_three_200mp_cameras-news-75663.php"
+  },
+  "75664": {
+    "content_hash": "893e9daa5006422c811d2702c9069604d6fa967afd6bfe8643e7b05f33042215",
+    "date": "27 November 2026",
+    "fetched_at": "2026-11-27T16:07:04.390661+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "oppo_is_planning_three_wide_candybar_phones_for_2027-news-75664",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/oppo_is_planning_three_wide_candybar_phones_for_2027-news-75664.php"
+  },
+  "75665": {
+    "content_hash": "8a11a2afce43bb6c5061974d57d25f87b353f59a15b237cd1e821fdbd1faafc1",
+    "date": "27 November 2026",
+    "fetched_at": "2026-11-27T16:07:19.563067+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "whatsapp_travel_esim_feature-news-75665",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/whatsapp_travel_esim_feature-news-75665.php"
+  },
+  "75666": {
+    "content_hash": "7acd80bf6dbd38b245186909b35fc79a635ba531dda383b115cdef46660f624b",
+    "date": "27 November 2026",
+    "fetched_at": "2026-11-27T16:06:35.046225+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deal_amazon_germany_drops_the_galaxy_s26_ultra_price_even_further-news-75666",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deal_amazon_germany_drops_the_galaxy_s26_ultra_price_even_further-news-75666.php"
+  },
+  "75669": {
+    "content_hash": "1bfd919b4188e1043a7c2b48b4d76ad9d6fa0b1c38e199f83207d713e6888ca5",
+    "date": "27 November 2026",
+    "fetched_at": "2026-11-27T16:06:23.161311+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "realme_17_ultra_ram_storage_colors_tipped-news-75669",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/realme_17_ultra_ram_storage_colors_tipped-news-75669.php"
+  },
+  "75670": {
+    "content_hash": "d3a386b88facc9399634572e2eedcad722affb2d4457f50ede6c8456c1de1c83",
+    "date": "27 November 2026",
+    "fetched_at": "2026-11-27T16:05:48.247762+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deal_the_poco_f9_ultra_is_on_sale_for_black_friday_with_discounts_up_to_25-news-75670",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deal_the_poco_f9_ultra_is_on_sale_for_black_friday_with_discounts_up_to_25-news-75670.php"
+  },
+  "75677": {
+    "content_hash": "cc6c1a8aceafb00111690e2cec36e732ef577fb71c4e10b94f9c12f849c8d5f9",
+    "date": "27 November 2026",
+    "fetched_at": "2026-11-27T16:05:23.622995+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "chatgpt_for_android_could_soon_make_calls_and_send_texts-news-75677",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/chatgpt_for_android_could_soon_make_calls_and_send_texts-news-75677.php"
   }
 }
