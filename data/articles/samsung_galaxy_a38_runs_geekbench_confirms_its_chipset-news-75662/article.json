@@ -1,0 +1,39 @@
+{
+  "url": "https://www.gsmarena.com/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662.php",
+  "slug": "samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662",
+  "title": "Samsung Galaxy A38 runs Geekbench, confirms its chipset",
+  "news_id": "75662",
+  "date": "27 November 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "Samsung",
+    "Android"
+  ],
+  "body_paragraphs": [
+    "Samsung launched the Galaxy A37 in March and released it in April, so the company is now almost wrapping up the development of its successor, the A38, for a plausible early 2027 launch. The device has now been spotted in the Geekbench online database with the model number SM-A386B.",
+    "This is the global model, and it's powered by the MediaTek Dimensity 7500 SoC, which in the specific prototype which ran the benchmark was paired with 6GB of RAM. The phone will unsurprisingly run Android 17 when it launches, with One UI 9 on top of course.",
+    "As you can see in the screenshot above, the Galaxy A38 managed a single-core score of 928 and a multi-core score of 2,687 in Geekbench 7.1.0 for Android. Interestingly, Samsung used the Exynos 1480 in the A37, so the A38 will mark a switch to MediaTek. Note that the A38 may be offered with multiple RAM amounts, as its predecessor was (it started at 6GB and went all the way up to 12GB).",
+    "According to a recent rumor, the Galaxy A38 will have a smaller sensor for its 50MP main camera - the 1/1.95\" type Sony IMX882, versus the A37's 1/1.56\" type Sony IMX906. We assume the company hopes you won't notice given that the resolution will stay the same, and this is obviously a way to cut some costs in the context of the RAM crisis. The A38 will however have a 20% larger battery than its predecessor at 6,000 mAh, so there's that."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662/immaculate_001.jpg",
+      "alt": "Samsung Galaxy A38 runs Geekbench, confirms its chipset"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-27T05:57:57.533648+00:00",
+  "title_tr": "Samsung Galaxy A38 Geekbench'te çalışıyor, yonga seti onaylandı",
+  "body_paragraphs_tr": [
+    "Samsung, Galaxy A37'yi mart ayında tanıttı ve nisan ayında piyasaya sürdü. Bu nedenle şirket, halefi olan A38'in geliştirilmesini neredeyse tamamlamak üzere ve bu modelin 2027'nin başlarında piyasaya sürülmesi muhtemel görünüyor. Cihaz şimdi Geekbench çevrim içi veri tabanında SM-A386B model numarasıyla görüldü.",
+    "Bu, küresel modeldir ve MediaTek Dimensity 7500 SoC tarafından desteklenmektedir. Performans testinin yapıldığı prototipte bu işlemci, 6 GB RAM ile eşleştirilmiştir. Beklendiği üzere telefon piyasaya sürüldüğünde Android 17'yi çalıştıracak ve tabii ki üstünde One UI 9 olacak.",
+    "Yukarıdaki ekran görüntüsünde de görebileceğiniz gibi Galaxy A38, Android için Geekbench 7.1.0'da tek çekirdekte 928 ve çok çekirdekte 2.687 puan aldı. İlginç bir şekilde Samsung, A37'de Exynos 1480 kullanmıştı, bu nedenle A38 MediaTek'e geçişi temsil edecek. A38'in, selefi gibi (6 GB'tan başlayıp 12 GB'a kadar çıkmıştı) farklı RAM miktarlarıyla sunulabileceğini unutmayın.",
+    "Yakın tarihli bir söylentiye göre Galaxy A38, 50 MP'lik ana kamerası için daha küçük bir sensöre sahip olacak: A37'deki 1/1,56\" tip Sony IMX906'ya karşılık 1/1,95\" tip Sony IMX882. Çözünürlüğün aynı kalacağı göz önüne alındığında şirketin bunu fark etmeyeceğinizi umduğunu tahmin ediyoruz ve bu, RAM krizi bağlamında bazı maliyetleri düşürmenin bariz bir yolu. Bununla birlikte A38, selefine göre %20 daha büyük, 6.000 mAh'lik bir bataryaya sahip olacak, yani bu da bir artı."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Samsung",
+    "Android"
+  ]
+}

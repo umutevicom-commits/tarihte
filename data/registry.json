@@ -9839,6 +9839,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/amazon_us_black_friday_deals_last_call_for_the_best_smartphone_offers-news-75650.php"
   },
+  "75651": {
+    "content_hash": "12351dd70a832cf3c7fdd13f4d314d26daf6d01dd1ed1f470128806e51df208c",
+    "date": "27 November 2026",
+    "fetched_at": "2026-11-27T05:57:16.117758+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "vivo_x500_pro_max_apex_orange_hands_on-news-75651",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/vivo_x500_pro_max_apex_orange_hands_on-news-75651.php"
+  },
   "75652": {
     "content_hash": "3e93c4c8221282332dcf6d33154e47cd8335bebc74c1ea268eec3c34a9de51cc",
     "date": "26 November 2026",
@@ -9888,5 +9898,15 @@
     "slug": "whatsapp_could_soon_introduce_a_travel_esim_feature-news-75661",
     "status": "ok",
     "url": "https://www.gsmarena.com/whatsapp_could_soon_introduce_a_travel_esim_feature-news-75661.php"
+  },
+  "75662": {
+    "content_hash": "a00d5b220339c25b2e84cde9e5b17f609b2b421b7c811656d5c049d087104567",
+    "date": "27 November 2026",
+    "fetched_at": "2026-11-27T05:57:57.533648+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_galaxy_a38_runs_geekbench_confirms_its_chipset-news-75662.php"
   }
 }
