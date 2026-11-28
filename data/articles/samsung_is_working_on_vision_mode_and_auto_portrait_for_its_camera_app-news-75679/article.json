@@ -1,0 +1,49 @@
+{
+  "url": "https://www.gsmarena.com/samsung_is_working_on_vision_mode_and_auto_portrait_for_its_camera_app-news-75679.php",
+  "slug": "samsung_is_working_on_vision_mode_and_auto_portrait_for_its_camera_app-news-75679",
+  "title": "Samsung is working on Vision mode and Auto portrait for its Camera app",
+  "news_id": "75679",
+  "date": "28 November 2026",
+  "author": "Vlad",
+  "tags": [
+    "Featured",
+    "Samsung",
+    "Android",
+    "Rumors"
+  ],
+  "body_paragraphs": [
+    "Samsung recently launched the One UI 9.5 beta for the Galaxy S26 series. Today some strings in that software point to two new Camera app features in the works, called Vision mode and Auto portrait.",
+    "Vision would be a new mode sitting alongside Photo, Video, and the rest. It appears to show an AI-written summary of what's in front of you, along with tappable keywords and two buttons next to the shutter, Ask and Translate. If that sounds familiar, it's because Apple did something very similar with iOS 27, which moved Visual Intelligence into the Camera app as a new Siri mode next to Photo and Video, also with a description card at the top of the viewfinder and two buttons on either side of the shutter.",
+    "In Samsung's case, tapping Ask, or one of the keywords, would send the camera frame to Gemini, while Translate would hand it off to Samsung's AI Vision app, which is basically what's left of Bixby Vision. Pressing the shutter reportedly won't save a photo. It will only freeze the preview so you can keep asking questions about it. Below the summary card, Vision mode will also offer suggested actions, a text extraction button, and a flashlight toggle.",
+    "The live preview is apparently streamed to a new Samsung app called Visual Agent Service, which isn't available on the S26 family yet, so it's unclear whether the scene summary is generated on the phone or in the cloud. You can already do much of what Vision mode offers by sharing your camera with Gemini Live, but Samsung's version would be built right into the Camera app, with its own scene summary before you reach Gemini.",
+    "The other feature, called Auto portrait, appears to apply background blur automatically in Photo mode when it detects a face or a pet. You could also turn it on manually from the viewfinder and adjust the blur with a slider.",
+    "Neither feature currently works on the S26 devices, and the discovered code suggests both need hardware these phones don’t have, so they will likely have to wait for the upcoming Galaxy S27 handsets, which are rumored to launch early next year."
+  ],
+  "images": [
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/samsung_is_working_on_vision_mode_and_auto_portrait_for_its_camera_app-news-75679/immaculate_001.jpg",
+      "alt": "Samsung is working on Vision mode and Auto portrait for its Camera app"
+    },
+    {
+      "url": "https://umutevicom-commits.github.io/tarihte/data/images/samsung_is_working_on_vision_mode_and_auto_portrait_for_its_camera_app-news-75679/immaculate_002.jpg",
+      "alt": "Samsung is working on Vision mode and Auto portrait for its Camera app"
+    }
+  ],
+  "videos": [],
+  "fetched_at": "2026-11-28T09:38:40.676935+00:00",
+  "title_tr": "Samsung, Kamera uygulaması için Vision modu ve Otomatik portre üzerinde çalışıyor",
+  "body_paragraphs_tr": [
+    "Samsung kısa süre önce Galaxy S26 serisi için One UI 9.5 beta sürümünü piyasaya sürdü. Bugün bu yazılımdaki bazı satırlar, Vision modu ve Otomatik portre adlı iki yeni Kamera uygulaması özelliğinin geliştirilmekte olduğuna işaret ediyor.",
+    "Vision, Fotoğraf, Video ve diğer modların yanında yer alacak yeni bir mod olacak. Önünüzde ne olduğunu gösteren yapay zekâ tarafından yazılmış bir özetin yanı sıra dokunulabilir anahtar kelimeler ve deklanşörün yanında \"Sor\" ve \"Çevir\" olmak üzere iki düğme gösteriyor gibi görünüyor. Bu size tanıdık geliyorsa bunun nedeni Apple'ın iOS 27 ile çok benzer bir şey yapmış olmasıdır. Apple, Görsel Zekâ'yı Kamera uygulamasına Fotoğraf ve Video'nun yanına yeni bir Siri modu olarak eklemiş, ayrıca vizörün üst kısmına bir açıklama kartı ve deklanşörün her iki yanına iki düğme yerleştirmiştir.",
+    "Samsung'un durumunda, \"Sor\"a veya anahtar kelimelerden birine dokunulduğunda kamera çerçevesi Gemini'ye gönderilirken, \"Çevir\" seçeneği çerçeveyi Samsung'un AI Vision uygulamasına aktaracaktır. Bu uygulama, temelde Bixby Vision'dan geriye kalan şeydir. Deklanşöre basmakla fotoğrafın kaydedilmeyeceği söyleniyor. Sadece ön izlemeyi donduracak, böylece o konuyla ilgili sorular sormaya devam edebileceksiniz. Özet kartının altında, Vision modu ayrıca önerilen eylemleri, bir metin çıkarma düğmesini ve bir el feneri açma/kapama düğmesini de sunacaktır.",
+    "Canlı ön izleme görünüşe göre henüz S26 ailesinde bulunmayan Visual Agent Service adlı yeni bir Samsung uygulamasına aktarılıyor, bu nedenle sahne özetinin telefonda mı yoksa bulutta mı oluşturulduğu belirsiz. Kameranızı Gemini Live ile paylaşarak Vision modunun sunduğu özelliklerin çoğunu zaten kullanabilirsiniz. Ancak Samsung'un sürümü, Gemini'ye ulaşmadan önce kendi sahne özetini sunarak doğrudan Kamera uygulamasına entegre edilecektir.",
+    "Otomatik portre adı verilen diğer özellik, Fotoğraf modunda bir yüz veya evcil hayvan algıladığında arka plan bulanıklığını otomatik olarak uyguluyor gibi görünüyor. Ayrıca vizörden manuel olarak açabilir ve bir kaydırıcı ile bulanıklığı ayarlayabilirsiniz.",
+    "Şu anda S26 cihazlarında bu özelliklerin hiçbiri çalışmıyor ve keşfedilen kod, her ikisinin de bu telefonlarda bulunmayan donanıma ihtiyaç duyduğunu gösteriyor. Bu nedenle muhtemelen önümüzdeki yılın başlarında piyasaya sürülmesi beklenen Galaxy S27 telefonlarını beklemek gerekecek."
+  ],
+  "tags_tr": [
+    "Öne Çıkanlar",
+    "Samsung",
+    "Android",
+    "Söylentiler"
+  ]
+}

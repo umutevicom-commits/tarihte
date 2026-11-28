@@ -9959,6 +9959,16 @@
     "status": "ok",
     "url": "https://www.gsmarena.com/deal_amazon_germany_drops_the_galaxy_s26_ultra_price_even_further-news-75666.php"
   },
+  "75668": {
+    "content_hash": "807b1b13b247d94ba5337d19cd84f45ca3440a47fd5adcb5c8f122d0b0cd193d",
+    "date": "28 November 2026",
+    "fetched_at": "2026-11-28T09:38:15.070326+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "deal_the_apple_airpods_pro_3_are_32_off_for_amazon_germanys_black_friday_week-news-75668",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/deal_the_apple_airpods_pro_3_are_32_off_for_amazon_germanys_black_friday_week-news-75668.php"
+  },
   "75669": {
     "content_hash": "1bfd919b4188e1043a7c2b48b4d76ad9d6fa0b1c38e199f83207d713e6888ca5",
     "date": "27 November 2026",
@@ -9988,5 +9998,25 @@
     "slug": "chatgpt_for_android_could_soon_make_calls_and_send_texts-news-75677",
     "status": "ok",
     "url": "https://www.gsmarena.com/chatgpt_for_android_could_soon_make_calls_and_send_texts-news-75677.php"
+  },
+  "75679": {
+    "content_hash": "41a7e743f5ed547ad1f06e95a2d9b87e189f843435285dd4db938ac8e4712cd4",
+    "date": "28 November 2026",
+    "fetched_at": "2026-11-28T09:38:40.676935+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "samsung_is_working_on_vision_mode_and_auto_portrait_for_its_camera_app-news-75679",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/samsung_is_working_on_vision_mode_and_auto_portrait_for_its_camera_app-news-75679.php"
+  },
+  "75681": {
+    "content_hash": "410f1649f42baf8f59e778bc607fada34fd3212c2000ffd255e170ff34560f94",
+    "date": "28 November 2026",
+    "fetched_at": "2026-11-28T09:39:07.373375+00:00",
+    "last_error": "",
+    "retries": 0,
+    "slug": "the_name_of_oneplus_next_tablet_leaks_along_with_its_launch_date-news-75681",
+    "status": "ok",
+    "url": "https://www.gsmarena.com/the_name_of_oneplus_next_tablet_leaks_along_with_its_launch_date-news-75681.php"
   }
 }
